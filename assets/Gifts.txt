@@ -1,0 +1,755 @@
+Abwehrnetze durchqueren
+Voraussetzungen:
+	Kulturen: Prag, China
+	Elemente: Schild, Denker, Silber, Luft, Heilung
+Die Fähigkeit Schilde zu durchqueren wurde vor allem von Großstadt-Dschinn und Kurieren entwickelt. Jedoch auch manche Denker und Heiler haben diese Fähigkeit erlangt um möglichst jedes Ziel erreichen zu können. Um dort jemandem zu helfen oder Wissen zu erlangen.
+Vor allem die Prager Dschinn haben diese Gabe häufig entwickelt, da sie ihnen half sich durch die vor Schilden teilweise berstenden Gassen der Prager Altstadt zu kommen. Daher sind alle Prager Dschinn in der Lage zumindest schwache Schilde auf der 2. und 3. Ebene zu durchqueren.
+Durchquert ein begabtes Wesen vom Anderen Ort ein Abwehrnetz, so hat dies keinerlei Auswirkungen auf das Netz. Das Netz wird weder lokal geschwächt noch werden Alarmnetzte ausgelöst. Es können folgende Arten von Netzten durch die Gabe durchquert werden: Abwehrkuppel, Abwehrnetz, Alarmkuppel, Alarmnetz.
+Das Durchqueren von Abwehrnetzen zu durchqueren zu erlangen beginnt immer mit den schwächsten Netzen auf der 2. Ebene und kann dann Ebene für Ebene erweitert werden. Dabei kostet jede Ebene inklusive der 5. jeweils 5 GP bei der Erschaffung und 7 im Spielverlauf. Das durchqueren von Schilden auf der 6. Und 7. Ebene zu erlernen kostet jeweils 7 GP bei der Erschaffung und 9 GP im Spielverlauf. Das Erlernen von Schilde durchqueren im Spielverlauf ist nur möglich, wenn bei der Erschaffung die Gabe, mindestens auf Ebene 2 angelegt wurde. Komplettes neuerlangen von Schilde durchqueren ist nach der Charaktererschaffung nicht möglich.
+	Kosten: 5/7 7/9
+
+ 
+Ach, mein Arm -dein Arm 
+Voraussetzungen: 
+	Element: Schild
+	MG: 44
+Durch die Gabe kann der Begabte auch auf andere Ziele als sich selbst den Zauber Komprimiertes Schild wirken. Außerdem kann er komprimierte Schilde die er erstellt hat auch bei anderen verstärken und reparieren, wenn er diese berührt.
+	Kosten: 4 
+
+
+Achte Ebene
+Voraussetzungen:
+	Sieben Ebenen
+	MG: 36
+	IN: 32
+Die Achte Ebene erweitert nicht nur das Sichtfeld des Begabten, sie erlaubt es ihm zusätzlich sich extrem schnell zu bewegen. Wer Zugang zur Achten Ebene hat muss sich nicht mit so frivolen Kleinigkeiten wie Luftwiederstand aufhalten. Bremsen ist was für loser! Yea baby! Immer mehr Gas geben das ist das wahre Leben! Und immer weiter beschleunigen kann man mit, genau der achten Ebene.
+Als ganz beliebig schnell wird man auch nicht mit der achten Ebene. Man kann den Schall zwar jagen, fangen wird man ihn aber nicht denn Berichts bei lächerlichen 1200km/h ist bereits Schluss mit schneller werden.
+Und so nebenbei, die achte Ebene erlaubt keine instantane Beschleunigung zum Maximum, sie räumt nur die meisten bremsenden Faktoren aus dem weg. Es kann also ziemlich lange dauern bis man seine Maximalgeschwindigkeit erreicht hat.
+Zugang zur achten Ebene verschleiert zwar die wahre Gestalt, ändert aber nicht den Umstand, dass ein Wesen vom Anderen Ort mit sieben Ebene erkennen kann das es sich um ein Wesen vom Anderen Ort handelt..
+	Kosten: 20
+
+
+Aura der Immunität
+Voraussetzungen:
+	Element: Heilung
+Die Aura der Immunität schützt den begabten indem sie die friedlichen und helfenden Absichten dessen der die Gabe besitzt in ein Energiefeld umwandelt. Durch dieses werden sie im Kampfgeschehen quasi unsichtbar und sind solange sie sich passiv Verhalten kein Ziel von Schadenszaubern. Dem entsprechend kommt die Gabe nur zur Wirkung, wenn der Begabte keine Aggressive Absicht besitzt, sondern wirklich nur seinen in dieser Welt Mitgefangenen helfen will. 
+Jemand der die Aura der Immunität besitzt kann nur durch bewusste Entscheidung angegriffen werden, infolge derer der Angreifer die Wirkung der Aura der Immunität durchbricht. Dazu muss vor jedem Angriff auf den die Gabe besitzenden eine Willenskraft-Probe (WK) gemacht werden. Die Aura wirkt bei Zufallstreffern und flächigen Angriffen, die den Begabten nur zufällig mittreffen nicht.
+	Kosten: 9
+
+ 
+Bodenkunde
+Voraussetzungen:
+	Natur-Pflanze
+	WK: 44
+	IN; 34
+	ERF; 36
+Der Begabte kann das Wachstum von gepflanzten Samen ohne Aufwand unterdrücken-
+	Kosten: 9 
+
+Begabter Lerner
+Voraussetzungen:
+	KL: 40
+Begabte Lerner erhalten bei Stufenaufstiegen 7 statt 5 GP.
+	Kosten: 18
+
+ 
+Besonders Widerstandsfähig
+Voraussetzungen:
+	MR: 40
+	KO: 25
+Der Begabte kann eine Resistenz 10% weiter steigern als es sie üblichen Begrenzungen sonst zulassen würden. Die Gabe kann für unterschiedliche Resistenzen mehrfach erworben werden.
+	Kosten: 3
+
+ 
+Botschafter der Tieferen
+
+Wesen die diese Gabe besitzen sind mit einem der älteren Wesen verbunden. Es handelt sich dabei meist um einen der großen Alten die sich in den oberen Regionen des Abgrundes befinden und Interesse an den Belangen unserer Welt oder des Anderen Ortes haben.
+Durch die Verbindung zu dem älteren besitzt der Begabt meist eine besondere Fähigkeit und Kontakte am anderen Ort, aber auch Verpflichtungen. Die spezifischen Eigenschaften der Verbindung variieren sehr stark mit den Eigenschaften und Absichten des Wesens mit dem die Verbindung besteht. Da die Absichten von kaum zwei der aktiven Tieferen überlappen kann immer nur die Verbindung zu einem der Tieferen hergestellt werden.
+
+Aquvisels Auswuchs
+Voraussetzungen:
+	KO: 38
+Wer sich mit Aquvisel verbindet tut das nicht nur in der Sache, sondern auch in der Substanz. Obwohl sie ‘nur‘ ein Marid ist, hat sie eine Sache für die sie kämpft; Sie will den Zusammenhalt unter Wesen vom Anderen Ort stärken. In einem Maße, dass viele andere als überzogen ansehen. Nämlich so weit, dass jedes Wesen vom Anderen Ort für jedes andere mit seiner Substanz einsteht. Und sie geht voran indem sie ihre Verbündeten mit einem Teil ihrer Substanz versieht. Dieser gibt demjenigen der ihn erhält zwei zusätzliche Lebenspunkte. Vor allem aber einen Teil ihrer unglaublichen Regenerationsfähigkeit. 
+Wer in Aquvisels diensten steht kann 10% jedes erlittenen Schadens in der darauffolgenden Kampfrunde regenerieren. Zudem werden mit einer Geschwindigkeit von 5% pro Stunde langfristig Lebenspunkte wiederhergestellt. Im Gegenzug verpflichtet sich der Empfänger ihrer Substanz allen Schaden mit allen ihm zur Verfügung stehenden Mitteln von seinen Mittstreitern fern zu halten und auch gegnerische Wesen vom Anderen Ort möglichst nicht zu verletzen.
+	Kosten: 31
+
+Botschafter des Feuers der Erkenntnis
+Voraussetzungen:
+	Kultur: Aborigines, Perser
+	Element: Feuer, Denker, Heilung
+	KL: 42
+Prometheus, Bringer des Feuers und der Erkenntnis, versucht Verständnis zwischen Menschen und Wesen vom Anderen Ort herzustellen. Wer sich seiner Sache anschließt schützt Menschen und wesen vom Anderen Ort so gut er kann. Er tötet und verletzt niemals sinnlos. Prometheus und seine Verbündeten versuchen über Kommunikation Verständnis zu erzeugen. Da ihre Erfolge bisher sehr, sehr gering sind suchen sie nach ‘Salomons Vermächtnis‘ um die Auswirkungen ihrer Bemühungen zu erhöhen. Salomon ist für sie interessant, da er bisher als einziger Mensch den Anderen Ort besucht hat du als einer der letzten einen kooperativen Umgang mit Wesen vom Anderen Ort gepflegt hat. Um diese Aufgabe zu erfüllen erhalten seine Verbündeten von Prometheus den Blick der wahren Einsicht. Dieser ermöglicht es ihnen die wahre Gestalt eines Wesens von Anderen Ort schon eine Ebene unter ihrer maximalen zu erkennen.
+	Kosten: 13
+
+
+Frostfürst
+Voraussetzungen: 
+	Kultur: Wikinger
+	Element: Frost
+	WK: 39
+Skali die Frostige wünscht die Erde mit Eis zu überziehen und dem Wirken der Menschlichen Zauberer so ein Ende zu bereiten. Sie wurde mehrfach von Wikingern beschworen und hegt keinen allzu großen groll gegen diese, wünscht aber dem Beschwörungstreiben ein Ende zu setzen.
+Wer sich ihrer Sache anschließt ist mehr noch als andere Wesen vom Anderen Ort darauf bedacht Zauberern das Handwerk zu legen und hat auch an kleinen Erfolgen dabei Freude. Das muss aber nicht mit blindwütigem zerstören einhergehen, sondern findet meist gezielt statt nachdem die Pläne des Zieles ausgekundschaftet wurden.
+Verbündete der Skali erhalten einen +3 Bonus auf MAT wenn sie Frostmagie wirken. Außerdem steigt der Wirkungsradius von Abkühlen und Aura der klirrenden Kälte um 1 Meter.
+	Kosten: 6
+
+Gesandter der alten Jagd
+Voraussetzungen:
+	Kultur: Atlantis
+Noch immer zürnt Imenthop den atlantischen Meistern, für ihre unzähligen Vergehen gegen wesen vom Anderen Ort. Auch wenn schon viele versichert haben, dass alle atlantischen Zauberer beim Untergang von Atlantis untergegangen sind glauben sie und ihre Verbündeten an die Theorie des ewigen Schlafs, laut der viele der Zauberer irgendwo in einem künstlichen Schlaf überdauern. Imenthop und ihre Verbündeten suchen nach diesen Stellen um ihren alten Meistern endgültig den gar auszumachen.
+Die Gesandten der alten Jagd sind mit einer besonders guten Wahrnehmung ausgestattet um die Verstecke der Zauberer zu finden, was ihnen einen +5 Bonus auf Wahrnehmung gibt, und mit besonders aggressiver Magie um den Zauberern auch wirklich zu Leibe rücken zu können, was ihnen einen +5 Bonus auf WK gibt.
+Dafür sind die Gesandten leider mit einem unstillbaren Rachedurst versehen der sie zwingt auch auf die banalsten Arten und auch nach großen Zeiten jede Schmach und jeden Schmerz zu vergelten, egal durch wen er zugeführt wurde.
+	Kosten: 11
+
+Gesandter der sengen Flamme
+Voraussetzungen:
+	Kultur: Inka
+	Element: Vulkan, Feuer 
+	WK: 45
+Xiuhcoatl schätzt die zerstörende Kraft des Feuers und verbreitet sie gerne. Selbst ihre Anhänger wissen selten was in ihr vorgeht, doch ihre Aktivität macht deutlich, dass sie etwas plant. Kleinere Zerstörungen, vor allem der Lebensmittelversorgung, sind ein Geschenk, dass in ihre Gust findet.
+Sie stattet ihre Bediensteten mit dem Geschenk der sengenden Flamme aus. Diese erhöht den Schaden von Feuer und Vulkanzaubern um eins. Sie kann außerdem angewandt werden um für 1 MP den Schaden eines waffenlosen Nahkampfangriffs um 2 zu erhöhen. Dadurch erhöht sich die Dauer des Angriffs jedoch um 2 AU.
+	Kosten: 11
+
+Herold der Totennacht
+Voraussetzungen:
+	Kultur: GB
+	Element: Tot, Schatten
+	WK: 35
+Cenn Crúach, der blutige Kopf, wurde von den Iren und Kelten versehentlich erschaffen. Seine Verehrung und das darbringen von Opfern haben in seinem Fall genügt ihn als höheres Wesen am Anderen Ort zu manifestieren. Einen großen Teil dazu hat sicher der Umstand beigetragen, dass sich an Samhain wirklich die Pforten zwischen den Dimensionen einen Spalt weit öffnen. Dies erleichtert es sowohl Wesen vom Anderen Ort als auch den Verstorbenen in unsere Welt zu kommen. Ein so erlangter Aufenthalt ist jedoch wirklich auf genau diese eine Nacht beschränkt. Vom letzten bis zum ersten Sonnenstrahl wandern die Toten zwischen uns. Und auch einige Wesen vom Anderen Ort.
+Die meisten Wesen vom Anderen Ort haben keinerlei Interesse daran sich in unsere Welt zu begeben. Fast nur die Herolde von Samhain nutzen die Gelegenheit sich in unsere Welt zu begeben. Bei den Toten sieht das etwas anders aus.
+Cenn Crúach ist wirklich kein angenehmer Zeitgenosse. Und das gleiche gilt auch für viele seiner Anhänger. Sie sind in der Lage sich in der Nacht der Toten in unserer Welt zu manifestieren. Das allein gibt ihnen schon einige Möglichkeiten einigen Einfluss auf unsere Welt zu nehmen. Was sie aber selten tun. Viel mehr nutzen sie die Gelegenheit die Samhain ihnen bietet um alte Rechnungen zu begleichen.
+Zu jedem beliebigen Zeitpunkt kann ein Herold der Totennacht ein Lebewesen, auch vom Anderen Ort, verfluchen. Dazu müssen sie das Ziel ihres Fluches lediglich aus relativ geringer Nähe sehen und den Fluch laut aussprechen. „Fleisch und Blut. Knochen gebrochen, tote wandeln trotzdem. Wenn die Toten wandeln werden sie dich zu sich rufen. Verdammt seist du. Deine Seele ewig möge sie im finsteren Abgrund schmoren“ Jemand der auf diese Weise verflucht wurde trägt nun bis zum nächsten Samhainfest den Fluch in sich. Dieser, der Fluch, dient dem fluchenden als Ziel, sodass er sich alle Sicherheitsvorkehrungen ignorierend, direkt neben den Verfluchten teleportieren kann. Wesen vom Anderen Ort die so verflucht werden, werden zwangsbeschworen und tauchen in der Nähe des letzten Ortes auf an dem sie sich in dieser Welt aufgehalten haben. Der verfluchende Herold der Totennacht kann sich auch neben solcherart beschworene Wesen teleportieren.
+Allerdings hat der Fluch auch einen Preis für den verfluchenden. Jeder Fluch zehrt an seiner Kraft, bis der Fluch, am nächsten Samhainfest, wieder freigesetzt wird. Jeder ausgesprochene Fluch kostet den Verfluchenden 10 WK, 5MG, 10 KO, 10 MAT, 2MTP, 5AU, 10LP und 10 MP. Man sollte sich also gut überlegen, wenn man verflucht.
+Dafür gibt es auch einen hübschen Nebeneffekt. Solange der Herold an Samhain seiner Rache frönt verdoppeln sich alle seine Attribute. Die Talente müssen daraus neu berechnet werden.
+	Kosten: 11
+
+Ikarus Fall
+Voraussetzungen:
+	Kultur: Perser, Hunnen
+	Element: Luft
+	GE: 38
+	MUT: 36
+Ikarus Fall ist eine Gruppe von Wesen vom Anderen Ort die, nach eigener Aussage nach der Sonne streben. Es handelt sich dabei tatsächlich vor allem um Luftdschinn die die Freude des Fliegens lieben und sie selbst im großen Strudel des Anderen Ortes missen. Was ihre genauen Ziele sind ist nur manchen eingeweihten bekannt. 
+Dschinn die zu Ikarus Fall gehören sind besonders gute Flieger und bekommen einen +5 Bonus auf Ausweichen, wenn sie sich in der Luft befinden.
+	Kosten: 8
+
+Phexenskind
+Phex Gott der Gauner und Diebe, der Schelme, Glücksspieler und Glücksritter. Er nimmt jeden unter seinen Flügel der sich phexgefällig benimmt. Wer sich ihm anschließt ist verpflichtet sich an jeder Art von Glücksspiel du Gaunerei zu beteiligen, dies äußert sich in dem automatischen erlangen des Nachteils Spielsucht. Dafür belohnt seine Anhänger mit Glück und Erfolg bei riskanten Aktionen. Wer eine echte 001 Würfelt erhält von Phex einen GP.
+	Kosten: 17
+
+Telperions Hand
+Voraussetzungen:
+	Kultur: Sioux, Pygmäen
+	Element: Natur-Pflanze
+	MG: 30
+	IN: 35
+Telperion liebt die Bäume unserer Welt und Trauert um ihren Verlust. Wer mit Telperion geht wünscht den Erhalt des Lebens und des Schönen, speziell der Bäume.
+Telperion segnet ihre Kinder mit besonderer Empathie und der Fähigkeit das Leben zu schützen. Dadurch erhalten alle ihre Kinder einen Bonus von +5 auf Intuition (IN) und dem Zauber Baumgeistbewahrung. Zusätzlich erhält der nächste Zauber des Zaubernden einen Bonus von 10% auf den nächsten Zauber den der Baumbeleber wirkt. Der 10% Bonus ist kumulativ bis zu einem Bonus von 50%. Der Bonus verfällt nach IN/10 Stunden. Der Zauber betrifft je nach Art des Zaubers entweder die Wirkung oder die Dauer des Zaubers.
+	Kosten: 15
+
+ 
+Der tiefe Strom
+Voraussetzungen:
+	Element: Tod
+Man merkt dem Begabtenseine Nähe zur anderen Seite an. Dies ist für alle ein wenig beunruhigend. Unter dem aufmerksamen Blick des Begabten erweitert sich der Patzerbereich des Beobachteten um 2 Punkte.
+Im Kampf gelten einzelne Gegner als durchdringend beobachtet. Bei mehreren Gegnern kommt der Effekt nur zum Tragen wenn sich die Aufmerksamkeit des Begabten auf einen Einzelnen Gegner konzentriert. Defensive Aktionen gegen andere als den Beobachteten sind dann um 20 erschwert.
+	Kosten: 12
+ 
+Dichthalten 
+Voraussetzungen:
+	Element: Schild
+	WK: 37
+	MUT: Max: 30
+Alle Schilde die der Begabte erschafft sind dichte Schilde, also eng magisch gesponnen. Als dichte Schilde sind sie in der Lage auch Schaden von Luft-/, Sand-/ und Wassermagie abzuwehren.
+Dafür erhöhen sich Dauer und Kosten bei allen erschaffenen Schilden um 20%.
+Der Zauber dichter Schild erfüllt bei dem Begabten keine besondere Rolle mehr und kann daher vernachlässigt werden.
+	Kosten: 8
+
+ 
+Die Körner rauspicken
+Voraussetzungen:
+	Element: Geomant
+	MG: 55
+	KL: 45
+	WK: 40
+Durch die Gabe kann der Begabte beim Kopieren von Verstärkungen einzeln aussuchen welche Verstärkungen und Schwächungen er kopieren möchte - und welche nicht.
+	Kosten: 6
+
+ 
+Energiequellenbändiger
+Voraussetzungen:
+	Element: Geomant
+	MG: 52
+	WK: 34
+	IN: 52
+Der Begabte hat eine überdurchschnittlich starke Bindung zu den Kräften unserer Erde und kann sie noch besser erfühlen und abgreifen. Durch die Gabe verbessern sich die Quellfaktoren (Q) um 10% sodass alle Zauber die davon abhängige Wirkungen haben stärker werden. Der Effekt erhöht bei manchen Zaubern den Quellfaktor (Q) und senkt ihn bei anderen. Die Richtung in der der Quellfaktor (Q) korrigiert wird ist immer so, dass sich die Wirkung des Zaubers erhöht.
+	Kosten: 15
+ 
+Energiequellenbändiger II
+Voraussetzungen:
+	Element: Geomant
+	Energiequellenbändiger
+	MG: 62
+	WK: 44
+	IN: 62
+Der Begabte hat eine überdurchschnittlich starke Bindung zu den Kräften unserer Erde und kann sie noch besser erfühlen und abgreifen. Durch die Gabe verbessern sich die Quellfaktoren (Q) um weitere 10% sodass sich der Quellfaktor bei allen davon abhängigen Zaubern um 20% verbessert. Der Effekt erhöht bei manchen Zaubern den Quellfaktor (Q) und senkt ihn bei anderen. Die Richtung in der der Quellfaktor (Q) korrigiert wird ist immer so, dass sich die Wirkung des Zaubers erhöht.
+Die Gabe kann auch später im bereits laufenden Spiel erworben werden wenn Energiequellenbändiger bereits beherrscht wird.
+	Kosten: 15/18
+ 
+Facettensicht
+Voraussetzungen: 
+		5 Ebenen oder mehr
+Wesen die die Facettensicht besitzen beobachtet alle Ebenen die sie beherrschen gleichzeitig und müssen daher nicht wie andere Dschinn die Ebenen nacheinander betrachten. 
+Die Gabe kann nur zur Anwendung kommen, wenn die äußere Gestalt mit der Gabe in Einklang steht.
+	Kosten: 14
+
+ 
+Fachmann
+Voraussetzungen:
+	MG: 35
+	KL: 40
+	ERF: 30
+Der Begabte erhält einen Bonus von +5 auf alle MAT-Proben wenn er einen Zauber verwendet den er vertieft hat. Der Bonus wird unabhängig davon welche Version des Zaubers ausgeführt wird angewendet.
+	Kosten: 5 
+
+Feldarzt
+Voraussetzungen:
+	Element: Heilung
+	MG: 36
+	WK: 44
+	ERF: 40
+Die Zauber Heilung und Heilung II haben 50% mehr Wirkung auf Ziele mit weniger als 10% ihrer Basislebenspunkte.
+Zusätzlich kann der Begabte den Zauber Feldlazarett und Feldlazarett II aufrechterhalten ohne dafür ZWZ zu investieren. Außerdem reduzieren sich die Kosten des Zaubers Feldlazarett auf 1 MP pro Kampfrunde und die des Zaubers Feldlazarett II auf 2 MP. Zusätzlich kann sich das Lazarett für drei Runden in Abwesenheit des Heildschinn selbst erhalten und die Levelbeschränkung (LV) für den Zauber fällt weg.
+	Kosten: 9
+
+ 
+Flexibler Geist
+Voraussetzungen:
+	Element: Mental
+	MG: 40
+	KL: 45
+	IN: 40
+	ERF: 30
+Der Begabte ist in der Lage zwei Gedankenfelder gleichzeitig aufrecht zu erhalten. Wird ein Drittes Gedankenfeld erstellt bricht das ältere Gedankenfeld automatisch zusammen. Es ist nicht möglich das gleiche Gedankenfeld zwei Mal gleichzeitig zu verwenden.
+	Kosten: 14
+
+Flexibles Selbst
+Voraussetzungen:
+	MG: 40
+	WK: 40
+	IN: 35
+	CH: 30
+Der Begabte ist in seinem Selbstverständnis aufgeschlossen. Er kann sich selbst gut verstehen und entdeckt leicht und gerne neue Seiten seiner Persönlichkeit. Zudem hat er einen ausgeprägten Sinn für Magie.
+Dies außergewöhnliche Sammlung von Eigenschaften ermöglicht es dem Begabten leichter als andere seine Magie in unterschiedlichen Formen zu manifestieren. Somit kann der Begabte recht leicht Hybridisierungen erreichen um seinen Schatz an Zaubern zu erweitern.
+Durch die Gabe können alle zwei statt drei Level neue Hybridisierungen erlangt werden. Es gibt keine Mindestlevel. Zudem sind die Kosten für alle Hybridisierungen um drei geringer.
+	Kosten: 11
+ 
+Flow
+Voraussetzungen:
+	MNK
+	MG: 40
+	GE: 40
+	IN: 30
+	ERF: 30
+Die Begabung reduziert die Dauer aller MNK Angriffe um eins.
+	Kosten: 8
+ 
+Frostfäuste
+Voraussetzungen:
+	Kultur: Wikinger
+	Element: Frost
+Die Fäuste Sind von Einer Frostschicht Umhüllt die Härtet und Schützt. Normale Faustangriffe fügen 1 Punkt mehr Schaden zu, gegen Feuerwesen und Vulkanwesen wird ein zusätzlicher Schaden von 1W4 zugefügt. 
+Frostfäuste verringern die Wirkungszeit von Frostmagie abhängig vom Zauber wie in der Liste dargestellt. Bei dem Zauber Froststrahl erhöht sich stattdessen die Wirkung.
+Zauber	Dauer Reduktion
+Abkühlen
+1/6°C
+Eisschild
+6/1
+Frostsaat
+2
+Froststrahl
+ZWZ*1,1
+Festfrieren
+0
+Glatteis
+3
+Kältesauger
+0
+Pulverschnee
+1
+Schneesturm
+9
+Schockgefrieren
+2
+Stachelfeld
+4
+Zapfenkanone
+1
+Bei Dschinn ohne Magie findet keine Reduktion der Zauberdauern statt. Dafür sind ihre Frostfäuste beständiger und dicker, sodass diese 2 Punkte zusätzlichen Nahkampfschaden anrichten und der Bonus gegen Feuer-/ und Vulkandschinn auf 1W6 ansteigt.	
+	Kosten: 24
+	
+		
+	
+ 
+Funkenfinger
+Voraussetzungen:
+	Kultur: Inka
+	Element: Feuer, Vulkan
+Dschinn die die Gabe Funkenfinger beherrschen können Funken und kleine Flammen (bis etwa 2cm Höhe) ohne Magieaufwand erschaffen. Normale Angriffe gegen Frostdschinn fügen 2 TP mehr Schaden zu. Funkenfinger reduziert die Zauberzeit von Feuermagie und Vulkanmagie. Bei den Zaubern Feuerstrahl und Lavastrahl wird stattdessen die Wirkung gesteigert.	
+Zauber	Dauer Reduktion
+Feuer	
+Explosionsfeuerball
+2
+Explosionsfeuerball II
+2
+Fackel
+1
+Feuerball
+0
+Feuerball II
+0
+Feuerstoß
+2
+Feuerstoß II
+2
+Feuerstrahl
+Wahl*1,1
+Fieberkur
+4
+Glühender Zorn
+3
+Glühender Zorn II
+2
+Glut
+2
+Höllenfeuer
+12
+Inferno
+10
+Inferno II
+9
+Qualm
+2/0
+Überhitzen
+1
+Verzundern
+2
+Vulkan	
+Aura der sengenden Hitze
+1/0
+Einbrennen
+3/0/1
+Eruption
+5
+Eruptionscluster
+14
+Eruptionscluster II
+14
+Gesteuertes Eruptionscluster
+15
+Glühendes Blut
+3/1
+Lavablasen
+3
+Lavablasen II
+3
+Lavabomben
+5
+Lavastrahl
+ZWZ*1,1
+Magmataucher
+3/1
+Phönix
+8
+Phönix II
+7
+Platzen
+5
+Schlingen und Brennen
+7/3
+Sengende Spritzer
+2
+Sengende Spritzer II
+2
+Sphäre aus Schmerz
+1/20MP
+Sphäre aus Schmerz II
+1/25MP
+Verdampfen / Schmelzen
+14
+	Kosten: 19
+ 
+Glutstromsniper
+Voraussetzungen:
+	Element: Vulkan
+	MG: 46
+	WK: 41
+	ERF: 28
+Durch die Gabe wird der Nenner bei der Wahrscheinlichkeit, dass ein Verbündeter getroffen wird bei den Zaubern, Eruptionscluster, Eruptionscluster II und Gesteuertes Eruptionscluster eins größer.
+Bsp.: Beim Eruptionscluster ist die ursprüngliche Wahrscheinlichkeit das ein verbündeter getroffen wird halb so groß wie die, dass ein Gegner getroffen wird, 1/2. Durch die Gabe reduziert sich die Wahrscheinlichkeit auf ein Drittel, 1/3.
+	Kosten: 11
+
+ 
+Großer Kerl
+Voraussetzungen:
+	LP: 100
+	MP: 70
+Der Begabte hat bei der Charaktererschaffung 10% mehr Lebenspunkte (LP). Werden andere Boni auf Lebenspunkte vergeben so beeinflussen sich die Effekte nicht gegenseitig sondern nur die nach Vergabe der Talentpunkte (TaP) gegebenen Lebenspunkte.
+	Kosten: 5 
+Hände des Schutzes
+	Element: Tod
+	ERF: 34
+	WAH: 39
+	REA: 44
+	GE: 46
+Der Begabte ist in der Lage mit einer defensiven Aktion bis zu drei Nahkampfangriffe eines Gegners zu parieren.
+	Kosten: 17
+
+
+ 
+Hohe Silbermagie
+Voraussetzungen:
+	Element: Silber
+	MG: 30
+		MK:30
+		KL: 30
+Ermöglicht dem begabten den Zauber Silberfeuer zu wirken und alle damit verbundenen Zauber. Der begabte gilt als hoher Silbermagier und genießt unter atlantischen Dschinn großen Respekt.
+Durch die Gabe ist der Dschinn in der Lage ein größeres Spektrum von Silberzaubern zu nutzen.
+Der begabte kann einen Silberchip mehr besitzen als er es auf seinem Level sonst könnte.
+	Kosten: 14
+		
+ 
+Ich <3 Schmerz
+Voraussetzungen:
+	Element: Vulkan
+	WAH: 36
+Durch die Begabung erhöht sich die Schmerzwahrnehmung. Und die Wirkung der Zauber Der Schmerz, Geteiltes Leid und Geteiltes Leid II auch. Genaugenommen verdoppelt sie sich. 
+Die von Der Schmerz erschaffene Sphäre richtet zwei Punkte Schaden an pro Punkt Schaden den der Zaubernde erleidet. Wird sie automatisch abgeschossen erhöht sich zudem der verwendete Zielen-Wert auf 80.
+Geteiltes Leid und Geteiltes Leid II fügen dem Ziel des Zaubers genau den gleichen Schaden zu wie dem Zaubernden selbst. Der Anteil des abgegebenen Schadens verändert sich jedoch nicht.
+	Kosten: 14 
+
+Katzenaugen
+Voraussetzungen: 
+	WAH: 30
+Der Begabte kann in Dunkelheit so gut wie bei voller Beleuchtung sehen. Bei völliger Dunkelheit ist jedoch auch jemand mit Katzenaugen begabtes blind.
+	Kosten: 11
+ 
+Klinge/Stachel/Schwert
+Voraussetzungen:
+	KK: 32
+	KO: 38
+Ein Teil der Substanz des Begabten ist sehr hart. Dieser hat eine Festgelegte Form und muss in jeder Gestalt in voller Größe vorhanden sein. 
+Wenn der verhärtete Bereich im Nahkampf eingesetzt wird richtet er einen um 1 bzw. 2 erhöhten Schaden an. Auch die Paradewirkung erhöht sich beim Einsatz des verhärteten Bereichs um 2 bzw. um 3.
+Der Effekt von Klinge/Stachel/Schwert steigert sich nicht, wenn er mit anderen die Festigkeit erhöhenden Effekten kombiniert wird.
+	Kosten: 6/13
+
+ 
+Lagerwart
+Voraussetzungen: 
+	Kultur: Atlantis
+	MG: 45
+	KL: 45
+	IN: 35
+Der Begabte hat den genauen Inhalt aller von ihm kontrollierten Kristallspeicher im Kopf. Dies erlaubt ihm schnell mit diesen umzugehen. Er kann Kristallspeicher in 2 ZWZ mit einer Übergangszeit zwischen dem Aktivieren von Kristallspeichern von nur 3 ZWZ aktivieren. 
+	Kosten: 9 
+
+Lederhaut
+Voraussetzung: 
+	KO: 42
+	Kultur: Ägypten, Atlantis, China, Hunnen, Prag, Pygmäen, Wikinger
+	Element: Erde, Frost, Kristall, Sand, Schild, Tod
+Schaden den ein lederhäutiger Dschinn erfährt wird um 1 reduziert. Scharfe oder silberne Dinge können die Lederhaut lokal beschädigen. Lederhaut ist mit allen weiteren Schutzzaubern und sogar Steinhaut kompatibel.
+	Kosten: 15
+
+ 
+Manaregeneration
+Voraussetzung: 
+	MG: 50
+		KL: 45
+		MP:130
+Manaregeneration gibt den Begabten jede Stunde 10% seines Ausgangsmanas zurück. Es ist nicht möglich durch Manaregeneration das Ausgangsmana zu überbieten.
+	Kosten: 40
+
+ 
+Meucheln
+Voraussetzungen:
+	Entweder:
+	Grundlegender Nahkampf 
+	Mindestens 30 GP für Kampffähigkeiten.	
+	GE: 45
+	Oder:
+	Wissensgebiet Wesen vom Anderen Ort
+	Wissensgebiet Heilkunde Menschen/Tiere
+	Wissensgebiet Kampftechniken
+	GE: 30
+Durch ausgiebige Kenntnisse der Physis von Wesen vom Anderen Ort und dieser Welt, haben die Begabten gelernt Stellen anzugreifen an denen die Treffer besonders effektiv sind.
+Nahkampfangriffe die im Rücken des Ziels ausgeführt werden richten TP/3 mehr schaden an. Kann die wahre Gestalt des Ziels gesehen werden, richten solche Angriffe sogar TP Punkte mehr Schaden an.
+Magische Angriffe in den Rücken des Ziels erhalten MTP/3 mehr Schaden bei unbekannter und MTP Punkte mehr Schaden bei bekannter wahrer Gestalt an, wenn die Zielen-Probe (ZI) die mit dem Angriff verbunden ist den eigentlichen Zielen Wert um mindestens 10 unterbietet.
+Magische Angriffe die nicht gezielt werden müssen erhalten den Schadensbonus automatisch.
+	Kosten: 14
+ 
+Natürliche Resistenz
+Voraussetzungen:
+	MR: 40
+	KO: 40
+Der begabte erhält bei der Charaktererschaffung mehr Resistenzpunkte. Diese belaufen sich auf (MR*3+KO-50)/20.
+	Kosten: 5
+
+ 
+Natürliche Resistenz II
+Voraussetzungen:
+	Natürliche Resistenz
+	MR: 50
+	KO: 45
+Die Gabe kann auch im Spielverlauf erworben werden wenn die Gabe Natürliche Resistenz bereits vorhanden ist.  Dann belaufen sich dafür notwendigen Kosten jedoch auf den zweiten, höheren Wert. Durch die Gabe kann der Begabte Resistenzen immer für die bei der Charaktererschaffung verwendeten Kosten erwerben. Nur wenn die Gabe bei der Charaktererschaffung erworben wird erhöhen sich die Anzahl der erhaltenen Resistenzpunkte noch weiter auf (MR*3+KO-40)/18.
+	Kosten: 8/9
+
+
+ 
+Natürlicher Schutz
+Voraussetzungen:
+	Element: Sand
+	MG: 30
+	KO: 44
+Der Begabte hat automatisch immer den Zauber Schuppenpanzer aktiv. Dem Begabten entstehen daraus keine MP oder ZWZ Aufwendungen, der Schuppenpanzer muss jedoch bei angenommenen Gestallten berücksichtigt werden. Der Zauber kann bewusst aufgelöst werden, muss dann aber neu gezaubert werden um die Gabe wieder zu aktivieren.
+	Kosten: 11
+
+
+ 
+Naturtalent
+Voraussetzungen:
+	KL: 35
+	IN: 30
+Naturtalente können Zauber früher als andere einsetzen da sie einen Zugang haben, der anderen verborgen bleibt.
+Durch die Begabung senken sich die Level (LV) Anforderungen bei allen Zaubern um eins.
+	Kosten: 8
+ 
+Pfad des Widerstandes 
+Voraussetzungen:
+	MR: 40
+	KO: 40
+Der Begabte erhält jeden zweiten Level, begonnen mit dem zweiten, eine Widerstandspunkt.
+	Kosten: 8
+
+ 
+Quell der Freude
+Voraussetzungen:
+	CH: 40
+Der Begabte ist ein angenehmer und humorvoller Zeitgenosse der noch jeden aufmuntern konnte. Die Gabe gibt einen +10 Bonus auf freundliche Überzeugen-Proben (ÜB).
+	Kosten: 7 
+
+Saatgut
+Voraussetzungen:
+	Element: Natur-Pflanze
+	Zauber: Magische Schoten
+	IN: 40
+	WK: 40
+Der Begabte führt bei jeder Beschwörung Guulu-Samen bei sich. Die Anzahl der mitgeführten Samen entspricht der Hälfte des Levels des Begabten. Es wird dabei aufgerundet.
+	Kosten: 9
+  
+Seelenbund
+Voraussetzung: 
+	MR: 30
+		KO:30
+Ein Wesen mit einem Seelenbund ist an ein Ding in unserer Welt gebunden. Dadurch ist es dem Anderen Ort etwas entrückt und kann sich dort weniger gut regenerieren. Wird ein Wesen mit Seelenbund vernichtet (LP<=0) so bildet es sich aus dem Teil seiner Selbst, der Gebunden ist, wieder aus. Diese Wiederherstellung kann fast beliebig oft erfolgen. Leider ist die Wiederherstellung nicht vollständig, sodass LP und MP dauerhaft um 10%, jedoch mindestens um 5 reduziert werden und KO und MR dauerhaft um 3 Reduziert werden.
+	Kosten: 25
+
+ 
+Seelenraub
+Voraussetzungen:
+	Kultur: Ägypten, Inka, Pygmäen
+	Element: Tod, Schatten, Natur-Pflanze
+	MG: 34
+	WK: 44
+	IN: 44
+	ERF: 38
+Der Begabte kann die Seele eines außergewöhnlichen Wesens das er getötet hat, oder an dessen Tod er mitgewirkt hat verspeisen.
+Um dies zu tun muss er sich beim versterben des Körpers des Zieles ganz in dessen Nähe befinden. Es dürfen maximal zwei Kampfrunden verstreichen bis sich derjenige der die Seele des Versterbenden fressen möchte direkt, berührbar, am Leblosen Körper befindet.
+Nun kann durch eine Probe auf (2*IN+WK)/3 versucht werden die Seele zu fressen. Gelingt dies erhält der Verschlinger der Seele einen Teil der Kraft des Verstorbenen. Die können je nach der Macht des verstorbenen bis zu 3 GP sein. Bei besonders herausragenden Wesen sogar die Veranlagung für eine Gabe, die dann, vielleicht sogar günstiger, erworben werden darf.
+Es ist nur möglich die Seelen wirklich herausragender Wesen, Bossmonster, zu fressen.
+Versuchen mehrere gleichzeitig eine Selle zu fressen wird durch eine vergleichende Willenskraftprobe (WK) ermittelt wer die Seele erhält. Scheitern alle an der Willenskraftprobe gilt die alte Regel: Wenn Zwei sich streiten freut sich der Dritte.
+	Kosten: 26
+ 
+Selektiver Heiler
+Voraussetzungen:
+	Heilung
+	MG: 46
+	IN: 44
+Bei den Zaubern Gruppenheilung, Starke Gruppenheilung und Starke Gruppenheilung II wird Heilwirkung die bei einem Ziel verloren gehen würde stattdessen auf die restlichen Ziele aufgeteilt. Ist eine gleichmäßige Aufteilung nicht möglich werden Ziele in der Nähe des Ziels mit Überschuss bevorzugt.
+	Kosten: 6 
+
+Silbersegen
+Voraussetzungen:
+	Element: Silber
+Durch die Gabe(l) erhöht sich die Anzahl der Silberchips eines Silberdschinn um eins. Die maximale Anzahl an Silberchips die ein Silberdschinn besitzen kann wird durch die Gabe nicht beeinflusst.
+Die Gabe kann mehrfach erworben werden.
+	Kosten: 7/9
+
+ 
+ 
+Steinhaut
+Voraussetzung: 
+	Kulturen: Ägypten, Atlantis, China, Prag
+	Elemente: Erde, Kristall, Sand, Vulkan
+	KO: 45
+Der Begabte bildet eine harte obere Substanzschicht aus. Diese reduziert erhaltenen Schaden um 3. 
+Durch großen wird die Steinhaut allerdings lokal beschädigt. Für je 8 Punkte Schaden verliert die Steinhaut lokal einen Punkt Wirksamkeit. Bei 24 Punkten Schaden wird die Steinhaut also lokal völlig zerstört. Die Steinhaut benötigt 2 Kampfrunden um wieder einen Punkt Festigkeit mehr zu erhalten. 
+Um eine bestimmte Stelle zu treffen wird die Zielen-Probe um 10 erschwert.
+Die Steinhaut behindert leider Verwandlungen etwas, da die verhärtete Randschicht erst aufgeweicht werden muss. Dadurch erhöht sich der Aufwand für eine Verwandlung auf 45 ZWZ und 4 Kosten. Nach einer Verwandlung und nach der Beschwörung ist keine Steinhaut vorhanden. Diese muss sich erst wieder ausbilden.
+	Kosten: 34
+ 
+Steinhaut II
+Voraussetzungen:
+	Steinhaut
+	KO: 55
+Steinhaut II kann auch im Spielverlauf erlangt werden.
+Durch Steinhaut II erhöht sich der Schaden zu beschädigen der Steinhaut auf 12 pro verlorenem Punkt Schutzwirkung.
+Durch das weitere Verfestigen der obersten Substanzschichten erhöht sich jedoch auch der Verwandlungsaufwand weiter auf 54 ZWZ und 5 MP.
+	Kosten: 9/12
+
+ 
+Substanzraub
+Voraussetzung: 
+MG: 38
+KK: 32
+	GE: 38
+Substanz raubende Dschinn sind Parasiten, die sich von der Stärke anderer ernähren und kampffähig halten. 
+Sie haben wenig Leben und einen kleinen Manavorrat, da sie keinen LP und MP Bonus durch ihre Kulturen bekommen. Sie sind dafür aber in der Lage diesen immer wieder aufzufüllen indem sie anderen Wesen vom Anderen Ort Substanz klauen.
+Das können sie indem sie ihr Opfer Benebeln und dann beginnen es zu fressen oder es einfach direkt von vorn verschlingen. Verwenden sie den Benebeln Zauber kann ihr Ziel sie und die durch sie zugefügten Wunden nicht wahrnehmen. Allerdings ist die Rate mit der sie ihr Opfer verschlingen auf TP oder MTP je nachdem was kleiner ist, pro Kampfrunde beschränkt. Alternativ können sie jedoch auch normale Nahkampfangriffe, mit einem Maul, verwenden um ihren Gegner zu fressen. Das wird dann aber sicher bemerkt.
+Substanzdiebe können die Hälfte des verschlungenen an Mana und Substanz absorbieren und selbst verwenden. Bei der heimlichen Variante können sie die Gleiche Menge an MP wie an LP verschlingen. Beim Nahkampf gelingt es ihnen jedoch nur 1/3 des zugefügten Schadens an MP zu fressen.
+Verstirbt ein Ziel da es keine LP mehr hat, sind alle verblebenden MP verloren.
+Durch das Fressen fremder Substanz können die Ausgangswerte an MP und LP nicht überschritten werden.
+	Kosten: 12
+
+ 
+Symbiose
+Voraussetzungen:
+	Kultur: Pygmäen 
+	Element: Natur-Pflanze, Geomant
+	IN: 45
+Die Gabe erlaubt es dem Begabten eine symbiontische Beziehung mit einer Fotosynthese betreibenden Pflanze einzugehen.
+Der in Beziehung gehende profitiert indem er von der Pflanze Energie beziehen kann, die er als Manapunkte verwendet. Die auf diese Weise bezogenen Manapunkte hängen vor allem von der Größe der Pflanze ab. Kleine Pflanzen wie Gräser und Blumen geben ein maximal zwei Manapunkte (MP) pro Stunde ab. Mittelgroße Pflanzen wie Büsche und junge Bäume können je nach Sonneneinstrahlung und Größe zwischen 2 und 4 MP pro Stunde abgeben. Große Pflanzen wie ausgewachsene Bäume können sogar bis zu sieben MP pro Stunde. Besonders große oder Sonnenbeschiedene Pflanzen können sogar noch mehr Energie abgeben. Dazu sind aber nur wirklich herausragende Pflanzen in der Lage.
+Da es für die Verbindung notwendig ist, dass der Begabte an einer festen Stellen physischen Kontakt mit der Pflanze eingeht ist er für die Dauer der Verbindung kaum mobil. 
+Die Pflanze profitiert von der eingegangenen Verbindung insofern als das die Verbindung immer Spuren hinterlässt. Manche Pflanzen werden dadurch langfristig etwas magisch, andere haben nur im nächsten Sommer sehr seltsame Früchte oder einen besonders hohen Ertrag. Manchmal passiert auch Garnichts. Ob und wenn was passiert hängt von der Dauer der Verbindung und der Präsenz des Begabten ab. Dabei sind hohe Willenskraft-/ (WK) und Mut-/ (MUT) Werte ein Indiz für eine starke Präsenz.
+	Kosten: 27
+
+ 
+Tarnung
+Voraussetzung: 
+	MG:44
+		IN: 36
+		ERF: 34
+Der mit Tarnung Begabte ist auch auf seiner höchsten Ebene nur in der von ihm angenommenen Gestalt sichtbar.
+	Kosten: 18
+
+ 
+Telepathie
+Voraussetzungen:
+	Kultur: GB, Prag
+Telepathie ermöglicht es dem Begabten sich mit max. 5 Personen die bis zu 10 km. von ihm entfernt sind telepathisch zu unterhalten. Dabei können sich alle fünf nur mit dem die Telepathie beherrschenden unterhalten, nicht aber untereinander.
+	Kosten: 25
+
+ 
+Tiersprachen
+Voraussetzung: 
+	Kultur: Aborigines, Hunnen, Sioux, Pygmäen, Wikinger
+	Element: Erde, Denker, Natur-Pflanze, Mental, Waser
+	IN:44
+Der Begabte ist in der Lage mit Tieren zu sprechen und diese zu verstehen. Diese Gabe ist meist auf die Tiere der Umgebung in der der Begabte die meiste Zeit verbracht hat und ihre nahen Verwandten beschränkt. 
+	Kosten: 14
+
+ 
+Twotimer
+Voraussetzungen:
+		MG: 45
+	IN: 40
+	ERF: 40
+	CH: 30
+Der Begabte bereits bei der Charaktererschaffung Hybridisiert und in der Lage auf die Zauber eines weiteren Elementes zuzugreifen. Es gibt trotzdem ein primäres Element mit dem die Charaktererschaffung durchgeführt wird. Direkt anschließend daran wird die Hybridisierung durchgeführt. Die Gabe ändert nichts an der Möglichkeit weiter Hybridisierungen zu erlangen.
+	Kosten: 4 + Hybridisierungskosten
+ 
+Übung macht den Meister
+Voraussetzungen:
+	keine
+Durch die Gabe erhält der Spielcharakter in einer der drei Kategorien 10 TaP mehr. Die Gabe kann für unterschiedliche Kategorien mehrfach erworben werden.
+	Kosten: 8
+
+ 
+Unfairer Vorteil
+Voraussetzungen:
+	ERF: 30
+	CH: 30
+Durch unfairer Vorteil erhöht sich die Anzahl maximal erwerbbarer Gaben um eins.
+Diese Gabe zählt nicht in die Summe der maximal erwerbbaren Gaben.
+	Kosten: 4 
+
+Verdammt Flink
+Voraussetzungen: 
+	REA: 45
+	KK: 25
+	KO: 25
+Der Begabte erhält einen +2 Bonus auf seine Bewegungsreichweite (BR).
+	Kosten: 5 
+
+Vergraben
+Voraussetzungen:
+	Kultur: China
+	Element: Sand, Erde
+	KO: 42
+	KK: 39
+	GE: 24
+Der begabte ist in der Lage sich in Sandigem Untergrund binnen einer halben Kampfrunde komplett zu vergraben.
+	Kosten: 8
+ 
+Welche Resistenz?
+Voraussetzungen:
+	Element: Feuer
+	MG: 41
+	KL: 46
+	IN: 37
+Die Zauber Aura der Schlacke, Aura der Schlacke II und Verzundern reduzieren die Resistenz des Ziels um 50% mehr als der ursprüngliche Effekt, wenn sie von dem Begabten gewirkt werden.
+	Kosten: 13 
+
+Wie ein Schwamm
+Voraussetzungen:
+	MP: 100
+	LP: 70
+nimmt die Substanz der begabten Mana auf. Dadurch erhöhen sich bei der Charaktererschaffung die nach vergabe der Talentpunkte (TaP) vorhandenen Manapunkte (MP) um 10%. Dieser Bonus beeinflusst sich nicht gegenseitig mit anderen Boni, keine Zinseszinz.
+	Kosten: 5
+
+ 
+Wieselflink
+Voraussetzungen:
+	INI: 40
+Die Gabe erhöht die INI des Begabten um 10%. Die Gabe wird gleichzeitig mit anderen Boni auf Initiative angewandt, sodass sich die Boni nicht gegenseitig beeinflussen.
+	Kosten: 5 
+Zahn der Zeit
+Voraussetzungen:
+	Element: Sand, Tod
+	WK: 40
+	MR: 28
+	MUT: 30
+Durch die Begabung habe alle Dinge in der Nähe des Begabten eine erhöhte Tendenz kaputt zu gehen oder zumindest leichte alterungstypische Verschleißmerkmale auszubilden.
+Was erstmal nach einer furchtbaren Bürde klingt ist oft im Sinne von Sanddschinn. Denn gerade wenn sie kein entsprechendes Sandvorkommen in ihrer Nähe haben ist es äußerst praktisch wenn die Dinge schon von selbst anfangen zu zerfallen. 
+Erstaunlicherweise scheinen die Dinge selbst ein Bewusstsein für ihr Alter zu haben, so können faktisch gleich alte Gegenstände schon in leicht unterschiedlichen Situationen ganz unterschiedlich reagieren. Auch unterschiedliche Materialien haben ein sehr unterschiedliches Verständnis von Alter. 
+Die Gabe wirkt in einem Radius von ca. MTP/3 Metern um den begabten herum. Besonders Dinge die eh schon alt sind, sind vom Zahn der Zeit betroffen. Neue Dinge leiden also kaum, während alte Dinge schon ohne Nachhilfe zu bröckeln beginnen. Dabei ist bei zusammengesetzten Dingen nicht das Alter der Komponenten entscheidend, sondern das Alter der Zusammengesetzten Werkes.
+Durch die Gabe erleiden die wenigsten Dinge von selbst Schaden, erst, wenn sie verwendet oder ungewöhnlichen Lasten ausgesetzt werden macht sich das beschleunigte Zerstörungswerk bemerkbar.
+Sanddschinn können durch die Gabe Zahn der Zeit, die zusätzlichen Kosten die ihnen durch den Mangel von vorhandenem Sand entstehen um ein Drittel reduzieren.
+	Kosten: 14
+ 
+Zauberfänger
+Voraussetzungen:
+	Element: Kristall-Wissenschaft, Vulkan
+	WAH: 30
+	REA: 30
+	MG: 30
+Der Begabte erhält einen +6 Bonus auf Magieparaden (MPA) wenn er versucht einen Zauber einzufangen. Dies ist bei Vulkandschinn der Fall wenn sie einen Zauber verspeisen wollen. Kristall-Wissenschafts-Dschinn können Zauber fangen um sie in ihre Kristallspeicher zu sperren.
+	Kosten: 4
+
+ 
+Zauberprofi
+	MG: 35
+	KL: 35
+	ERF: 30
+Die Gabe erhöht die Anzahl Maximal erwerbbarer Vertiefungen um 1.
+Die Gabe kann mehrfach erworben werden. Die Gabe zählt nicht zur Summe der maximal erwerbbaren Gaben.
+	Kosten: 1

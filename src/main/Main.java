@@ -23,6 +23,8 @@ public class Main extends Application{
 	private static final String ELEMENTS_PATH = "Elements.txt";
 	private static final String CULTURES_PATH = "Cultures.txt";
 	private static final String HERO_BASE_VALUES_PATH = "HeroBaseValues.txt";
+	private static final String GIFTS_PATH = "Gifts.txt";
+	
 	public static Stage primStage=null;
 	public static Hero hero;
 	public static Scene mainScene;
@@ -58,6 +60,7 @@ public class Main extends Application{
 		Reader.readElements(ELEMENTS_PATH);
 		Reader.readCultures(CULTURES_PATH);
 		Reader.readHeroBaseValues(HERO_BASE_VALUES_PATH);
+		Reader.readGifts(GIFTS_PATH);
 	}
 
 	@Override

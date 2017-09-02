@@ -13,6 +13,7 @@ import model.calculator.Term;
 import model.world.Culture;
 import model.world.CultureWithElement;
 import model.world.Element;
+import model.world.Gift;
 import model.world.Spell;
 
 public class Reader {
@@ -45,19 +46,19 @@ public class Reader {
 	}
 
 	public static ArrayList<Spell> readSpells(String path) {
-		ArrayList<String> strings = readFile(path);
+		ArrayList<String> strings = readFile("spells\\"+path);
 		ArrayList<Spell> SpellList = new ArrayList<Spell>();
 		int i = 0;
 		if (strings != null) {
 
 			while (i < strings.size()) {
 				ArrayList<String> spells = new ArrayList<String>();
-				while (i < strings.size() && !strings.get(i).equals(" ")) {
+				while (i < strings.size() && !(strings.get(i).equals(" ") || strings.get(i).equals(""))) {
 					spells.add(strings.get(i));
 					i++;
 				}
 				i++;
-				if (!spells.isEmpty()) {
+				if (!spells.isEmpty()&&spells.size()>2) {
 					Spell s = convertLinesToSpell(spells);
 					SpellList.add(s);
 				}
@@ -161,5 +162,27 @@ public class Reader {
 				cWE.getBonusValues().add(new Value(Hero.baseValueList.get(i-29).getName(),Integer.parseInt(strings.get(i))));
 			}	
 		}
+	}
+	
+	public static void readGifts(String path) {
+		ArrayList<String> strings = readFile(path);
+		int i=0;
+		while (i<strings.size()) {
+			ArrayList<String> gift = new ArrayList<String>();
+			while (i < strings.size() && !(strings.get(i).equals(" ") || strings.get(i).equals(""))) {
+				gift.add(strings.get(i));
+				i++;
+			}
+			i++;
+			if (!gift.isEmpty()) {
+				String text="";
+				for(int j=1;j<gift.size()-1;j++) {
+					text+=gift.get(j)+"\n";
+				}
+				Gift g = new Gift(gift.get(0),text,gift.get(gift.size()-1));
+				Gift.allGifts.add(g);
+			}
+		}
+		
 	}
 }

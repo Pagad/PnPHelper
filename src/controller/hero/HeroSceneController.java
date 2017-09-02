@@ -93,25 +93,25 @@ public class HeroSceneController {
 	private TextArea testOutput;
 
 	@FXML
-	private ListView<String> selectedGifts;
+	private ListView<Gift> selectedGifts;
 
 	@FXML
-	private ListView<String> selectedHandicap;
+	private ListView<Handicap> selectedHandicap;
 
 	@FXML
-	private ListView<String> selectedDomain;
+	private ListView<Domain> selectedDomain;
 
 	@FXML
 	private TextArea infoArea;
 
 	@FXML
-	private ListView<String> allGifts;
+	private ListView<Gift> allGifts;
 
 	@FXML
-	private ListView<String> allHandicaps;
+	private ListView<Handicap> allHandicaps;
 
 	@FXML
-	private ListView<String> allDomains;
+	private ListView<Domain> allDomains;
 
 	private Hero h;
 	private int gp = 500;
@@ -207,21 +207,32 @@ public class HeroSceneController {
 				chooseElement();
 			}
 		});
+		
+		allGifts.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Gift>() {
+
+			@Override
+			public void changed(ObservableValue<? extends Gift> arg0, Gift arg1, Gift arg2) {
+				infoArea.setText(arg2.getText());
+				System.out.println(arg2.getText());
+			}
+			
+		});
+		
 		updateGPCount();
 	}
 
 	private void loadStuff() {
 
 		for (Gift g  : Gift.allGifts) {
-			allGifts.getItems().add(g.getName()+" ("+g.getCost()+")");
+			allGifts.getItems().add(g);
 		}
 		
 		for (Handicap h  : Handicap.allHandicaps) {
-			allGifts.getItems().add(h.getName()+" ("+h.getCost()+")");
+			allHandicaps.getItems().add(h);
 		}
 		
 		for (Domain d : Domain.allDomains) {
-			allGifts.getItems().add(d.getName()+" ("+d.getCost()+")");
+			allDomains.getItems().add(d);
 		}
 		
 	}
