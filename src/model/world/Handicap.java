@@ -12,9 +12,9 @@ public class Handicap {
 	private String text;
 	
 
-	public Handicap(int cost, String name, String text) {
+	public Handicap(String name, String text, String cost) {
 		super();
-		this.cost = cost;
+		this.cost = 0;
 		this.name = name;
 		this.text = text;
 	}

@@ -24,6 +24,9 @@ public class Main extends Application{
 	private static final String CULTURES_PATH = "Cultures.txt";
 	private static final String HERO_BASE_VALUES_PATH = "HeroBaseValues.txt";
 	private static final String GIFTS_PATH = "Gifts.txt";
+	private static final String HANDICAP_PATH = "Handicaps.txt";
+	private static final String DOMAINS_PATH ="Domains.txt";
+	
 	
 	public static Stage primStage=null;
 	public static Hero hero;
@@ -61,6 +64,8 @@ public class Main extends Application{
 		Reader.readCultures(CULTURES_PATH);
 		Reader.readHeroBaseValues(HERO_BASE_VALUES_PATH);
 		Reader.readGifts(GIFTS_PATH);
+		Reader.readHandicap(HANDICAP_PATH);
+		Reader.readDomains(DOMAINS_PATH);
 	}
 
 	@Override

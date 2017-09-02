@@ -12,9 +12,9 @@ public class Domain {
 	private String text;
 	
 	
-	public Domain(int cost, String name, String text) {
+	public Domain(String name, String text, String cost) {
 		super();
-		this.cost = cost;
+		this.cost = 0;
 		this.name = name;
 		this.text = text;
 	}

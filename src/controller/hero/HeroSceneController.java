@@ -22,6 +22,7 @@ import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
 import javafx.scene.control.ToggleGroup;
 import javafx.scene.input.InputMethodEvent;
+import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.VBox;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
@@ -118,10 +119,9 @@ public class HeroSceneController {
 
 	@FXML
 	void initialize() {
-		
+
 		loadStuff();
-		
-		
+
 		h = new Hero();
 		gPCount.setText("" + gp);
 
@@ -207,34 +207,73 @@ public class HeroSceneController {
 				chooseElement();
 			}
 		});
-		
-		allGifts.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Gift>() {
 
+		allGifts.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Gift>() {
 			@Override
 			public void changed(ObservableValue<? extends Gift> arg0, Gift arg1, Gift arg2) {
-				infoArea.setText(arg2.getText());
-				System.out.println(arg2.getText());
+				if(arg2!=null) infoArea.setText(arg2.getText());
 			}
-			
+
+		});
+
+		selectedGifts.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Gift>() {
+			@Override
+			public void changed(ObservableValue<? extends Gift> arg0, Gift arg1, Gift arg2) {
+				if(arg2!=null) infoArea.setText(arg2.getText());
+			}
+
 		});
 		
+		allHandicaps.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Handicap>() {
+			@Override
+			public void changed(ObservableValue<? extends Handicap> arg0, Handicap arg1, Handicap arg2) {
+				if(arg2!=null) infoArea.setText(arg2.getText());
+			}
+
+		});
+		
+		selectedHandicap.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Handicap>() {
+			@Override
+			public void changed(ObservableValue<? extends Handicap> arg0, Handicap arg1, Handicap arg2) {
+				if(arg2!=null) infoArea.setText(arg2.getText());
+			}
+
+		});
+
+		allDomains.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Domain>() {
+			@Override
+			public void changed(ObservableValue<? extends Domain> arg0, Domain arg1, Domain arg2) {
+				if(arg2!=null) infoArea.setText(arg2.getText());
+			}
+
+		});
+		
+		selectedDomain.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Domain>() {
+			@Override
+			public void changed(ObservableValue<? extends Domain> arg0, Domain arg1, Domain arg2) {
+				if(arg2!=null) infoArea.setText(arg2.getText());
+				
+			}
+
+		});
+
 		updateGPCount();
 	}
 
 	private void loadStuff() {
 
-		for (Gift g  : Gift.allGifts) {
+		for (Gift g : Gift.allGifts) {
 			allGifts.getItems().add(g);
 		}
-		
-		for (Handicap h  : Handicap.allHandicaps) {
+
+		for (Handicap h : Handicap.allHandicaps) {
 			allHandicaps.getItems().add(h);
 		}
-		
+
 		for (Domain d : Domain.allDomains) {
 			allDomains.getItems().add(d);
 		}
-		
+
 	}
 
 	protected void valueChange() {
@@ -350,7 +389,9 @@ public class HeroSceneController {
 				BonusColumn.getChildren().remove(2);
 			}
 
-			for (int i = 2; i < NameColumn.getChildren().size(); i++) { // setValues from cWe
+			for (int i = 2; i < NameColumn.getChildren().size(); i++) { // setValues
+																		// from
+																		// cWe
 
 				int value = Integer.parseInt(((TextField) (ValueColumn.getChildren().get(i))).getText());
 
@@ -385,6 +426,60 @@ public class HeroSceneController {
 			}
 		}
 
+	}
+
+	@FXML
+	void selectDomain(MouseEvent event) {
+		if(event.getClickCount()==2) {
+			Domain d = allDomains.getSelectionModel().getSelectedItem();
+			selectedDomain.getItems().add(d);
+			allDomains.getItems().remove(d);
+		}
+	}
+
+	@FXML
+	void selectGift(MouseEvent event) {
+		if(event.getClickCount()==2) {
+			Gift g = allGifts.getSelectionModel().getSelectedItem();
+			selectedGifts.getItems().add(g);
+			allGifts.getItems().remove(g);
+		}
+	}
+
+	@FXML
+	void selectHandicap(MouseEvent event) {
+		if(event.getClickCount()==2) {
+			Handicap h =allHandicaps.getSelectionModel().getSelectedItem();
+			selectedHandicap.getItems().add(h);
+			allHandicaps.getItems().remove(h);
+		}
+	}
+	
+	@FXML
+	void deselectDomain(MouseEvent event) {
+		if(event.getClickCount()==2) {
+			Domain d = selectedDomain.getSelectionModel().getSelectedItem();
+			allDomains.getItems().add(d);
+			selectedDomain.getItems().remove(d);
+		}
+	}
+
+	@FXML
+	void deselectGift(MouseEvent event) {
+		if(event.getClickCount()==2) {
+			Gift g = selectedGifts.getSelectionModel().getSelectedItem();
+			allGifts.getItems().add(g);
+			selectedGifts.getItems().remove(g);
+		}
+	}
+
+	@FXML
+	void deselectHandicap(MouseEvent event) {
+		if(event.getClickCount()==2) {
+			Handicap h =selectedHandicap.getSelectionModel().getSelectedItem();
+			allHandicaps.getItems().add(h);
+			selectedHandicap.getItems().remove(h);
+		}
 	}
 
 	@FXML

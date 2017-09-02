@@ -12,8 +12,10 @@ import model.Value;
 import model.calculator.Term;
 import model.world.Culture;
 import model.world.CultureWithElement;
+import model.world.Domain;
 import model.world.Element;
 import model.world.Gift;
+import model.world.Handicap;
 import model.world.Spell;
 
 public class Reader {
@@ -38,7 +40,7 @@ public class Reader {
 			return allLines;
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
-			//e.printStackTrace();
+			// e.printStackTrace();
 		}
 
 		return null;
@@ -46,7 +48,7 @@ public class Reader {
 	}
 
 	public static ArrayList<Spell> readSpells(String path) {
-		ArrayList<String> strings = readFile("spells\\"+path);
+		ArrayList<String> strings = readFile("spells\\" + path);
 		ArrayList<Spell> SpellList = new ArrayList<Spell>();
 		int i = 0;
 		if (strings != null) {
@@ -58,7 +60,7 @@ public class Reader {
 					i++;
 				}
 				i++;
-				if (!spells.isEmpty()&&spells.size()>2) {
+				if (!spells.isEmpty() && spells.size() > 2) {
 					Spell s = convertLinesToSpell(spells);
 					SpellList.add(s);
 				}
@@ -108,10 +110,10 @@ public class Reader {
 		ArrayList<String> strings = readFile(path);
 		ArrayList<Culture> cultures = new ArrayList<Culture>();
 		int i = 0;
-		while (i < strings.size()-1) {
+		while (i < strings.size() - 1) {
 			Culture c = new Culture(strings.get(i), "");
 			i++;
-			while (i<strings.size() && !strings.get(i).equals("")) {
+			while (i < strings.size() && !strings.get(i).equals("")) {
 				Boolean elementFound = false;
 				for (Element e : Element.allElements) {
 					if (e.getName().equals(strings.get(i))) {
@@ -135,39 +137,42 @@ public class Reader {
 
 	public static void readHeroBaseValues(String path) {
 		ArrayList<String> strings = readFile(path);
-		for(String s: strings) {
-			if(s.contains("=")) { //create notBaseValue
+		for (String s : strings) {
+			if (s.contains("=")) { // create notBaseValue
 				String[] split = s.split("=");
-				Value v = new Value(split[0],split[1]);
+				Value v = new Value(split[0], split[1]);
 				Hero.fightValueList.add(v);
 			} else {
-				Value v= new Value(s,s);
+				Value v = new Value(s, s);
 				Hero.baseValueList.add(v);
 			}
 		}
 	}
 
 	public static void readMaxMinBoni(String path, CultureWithElement cWE) {
-		ArrayList<String> strings = readFile("CWE\\" +path);
-		if(strings!=null) {
-			for(int i=1;i<13;i++) {
-				cWE.getMinValues().add(new Value(Hero.baseValueList.get(i-1).getName(),Integer.parseInt(strings.get(i))));
+		ArrayList<String> strings = readFile("CWE\\" + path);
+		if (strings != null) {
+			for (int i = 1; i < 13; i++) {
+				cWE.getMinValues()
+						.add(new Value(Hero.baseValueList.get(i - 1).getName(), Integer.parseInt(strings.get(i))));
 			}
-			
-			for(int i=14;i<26;i++) {
-				cWE.getMaxValues().add(new Value(Hero.baseValueList.get(i-14).getName(),Integer.parseInt(strings.get(i))));
+
+			for (int i = 14; i < 26; i++) {
+				cWE.getMaxValues()
+						.add(new Value(Hero.baseValueList.get(i - 14).getName(), Integer.parseInt(strings.get(i))));
 			}
-			
-			for(int i=29;i<41;i++) {
-				cWE.getBonusValues().add(new Value(Hero.baseValueList.get(i-29).getName(),Integer.parseInt(strings.get(i))));
-			}	
+
+			for (int i = 29; i < 41; i++) {
+				cWE.getBonusValues()
+						.add(new Value(Hero.baseValueList.get(i - 29).getName(), Integer.parseInt(strings.get(i))));
+			}
 		}
 	}
-	
+
 	public static void readGifts(String path) {
 		ArrayList<String> strings = readFile(path);
-		int i=0;
-		while (i<strings.size()) {
+		int i = 0;
+		while (i < strings.size()) {
 			ArrayList<String> gift = new ArrayList<String>();
 			while (i < strings.size() && !(strings.get(i).equals(" ") || strings.get(i).equals(""))) {
 				gift.add(strings.get(i));
@@ -175,14 +180,58 @@ public class Reader {
 			}
 			i++;
 			if (!gift.isEmpty()) {
-				String text="";
-				for(int j=1;j<gift.size()-1;j++) {
-					text+=gift.get(j)+"\n";
+				String text = "";
+				for (int j = 1; j < gift.size() - 1; j++) {
+					text += gift.get(j) + "\n";
 				}
-				Gift g = new Gift(gift.get(0),text,gift.get(gift.size()-1));
+				Gift g = new Gift(gift.get(0), text, gift.get(gift.size() - 1));
 				Gift.allGifts.add(g);
 			}
 		}
-		
+
+	}
+
+	public static void readHandicap(String path) {
+		ArrayList<String> strings = readFile(path);
+		int i = 0;
+		while (i < strings.size()) {
+			ArrayList<String> handicap = new ArrayList<String>();
+			while (i < strings.size() && !(strings.get(i).equals(" ") || strings.get(i).equals(""))) {
+				handicap.add(strings.get(i));
+				i++;
+			}
+			i++;
+			if (!handicap.isEmpty()) {
+				String text = "";
+				for (int j = 1; j < handicap.size() - 1; j++) {
+					text += handicap.get(j) + "\n";
+				}
+				Handicap h = new Handicap(handicap.get(0), text, handicap.get(handicap.size() - 1));
+				Handicap.allHandicaps.add(h);
+			}
+		}
+
+	}
+
+	public static void readDomains(String path) {
+		ArrayList<String> strings = readFile(path);
+		int i = 0;
+		while (i < strings.size()) {
+			ArrayList<String> domain = new ArrayList<String>();
+			while (i < strings.size() && !(strings.get(i).equals(" ") || strings.get(i).equals(""))) {
+				domain.add(strings.get(i));
+				i++;
+			}
+			i++;
+			if (!domain.isEmpty()) {
+				String text = "";
+				for (int j = 2; j < domain.size(); j++) {
+					text += domain.get(j) + "\n";
+				}
+				Domain d = new Domain(domain.get(0), text, domain.get(2));
+				Domain.allDomains.add(d);
+			}
+		}
+
 	}
 }

@@ -1,0 +1,206 @@
+Agoraphobie / Angst vor offenen Räumen
+	Kulturen: Ägypten, China, GB, Prag
+	Elemente: Erde, Geomant, Natur-Pflanze, Schild, Schatten, Tod
+	Max:	REA:40
+Der Betroffene hat Angst vor offenen Räumen, wie zum Bespiel: breiten Straßen, Plätzen, Steppen und Gewässern. Aber selbst große, offene Flächen in Geschlossenen Strukturen wie Häusern oder Höhlen können Panik bei einem von Agoraphobie betroffenen Dschinn auslösen. Diese Furcht konnte bisher nur bei Dschinn beobachtet werden, die den größten Teil ihrer Existenz in engen, weitgehend geschlossenen Strukturen wie Städten, Wäldern oder Höhlen verbracht haben. Auch der Einfluss von sehr langen Zeiträumen innerhalb beengter Strukturen, wie Zauberspiegel, etc. können eine solche Furcht auslösen.
+	Erhalt: 8
+
+Analphabetismus
+	Max:	 KL:35
+Ein Analphabet kann weder lesen noch schreiben. Die meisten Dschinn haben diese Fähigkeit im Laufe ihrer recht langen Kariere irgendwann erworben, manche sind sogar damit das erste Mal in diese Welt gekommen und wieder andere haben es schlicht nie gelernt.
+	Erhalt: 4
+
+Ängstlichkeit
+	Max:	WK: 45
+			MUT: 30
+     			KK: 45
+Ein ängstlicher Dschinn fürchtet alles was ihm stärker als er selbst erscheint und versucht jedwede Konfrontation zu vermeiden. Kommt es zum Gespräch wird er Schüchtern und druckst rum. In Gruppen die Ihm groß und stark genug scheinen wagt er sich vorsichtig auch an stärkere Gegner, fürchtet aber auch dann immer, dass sich dieser doch als überlegen entpuppt oder als Überlebender später Rache verübt und geht vorsichtig und zurückhalten vor.
+	Erhalt: 9
+
+Angst vor dem Meer
+	Max:	 MUT: 45
+Der Betroffene hat panische Angst vor dem Meer. Er vermeidet es ihm nahe zu kommen es zu sehen, ja sogar es auf Darstellungen zu betrachten. Und er Fürchtet es, sich auf dem Meer, über dem Meer oder gar unter dem Meer zu bewegen.
+	Erhalt:1
+
+Angst vor Toten
+	Max:	 MUT: 45
+Ein von Nekrophobie betroffener Dschinn, fürchtet sich vor Leichen, Gräber und direkt damit verbundenen Dingen wie Särgen und Knochen.
+	Erhalt:3
+
+Angst vor Wasser
+	Element: Feuer, Vulkan
+Ein von Aquaphobie Betroffener geht nicht gerne schwimmen. Er trinkt auch nicht gerne, noch kann er einen erfrischenden Regenschauer schätzen. Nein er führt sich auf wie ein Vollidiot und macht ein großes Trara um all diesen schönen Dingen unbedingt zu entgehen.
+	Erhalt: 3
+
+Blindheit
+	Max: 	WAH:40
+Der Blinde kann die erste Ebene nicht sehen und ist daher nicht in der Lage auralose Dinge zu erkennen. Eine magische Aura wird nur von Lebewesen und magisch modifizierten Gegenständen, Artefakten, abgestrahlt, daher kann der Blinde Mauern, Bordsteinkanten, Bäume, etc… nicht sehen. Ein unerfahrener Blinder wird dazu nicht in der Lage sein zu erkennen ob ein Lebewesen durch ein Hindernis verdeckt ist oder ob es sich um ein schwächeres Lebewesen handelt, da die Aura durch Hindernisse gedämpft wird. Wobei durchgehende Hindernisse wie Mauern mehr dämpfen als kleine, bzw. leicht umrundbare Hindernisse wie Bäume. 
+	Erhalt: 11
+
+Choleriker
+	Max: 
+Choleriker reagieren leicht etwas gereizt. Sehr gereizt; zumindest nach den Standards der angeschrienen Personen. Aber wirklich, warum muss er auch auf meinem lieblingsast sitzen! Da steht praktisch mein Name drauf. 
+	Erhalt: 3
+Depressiv
+	Max:	WK: 40 
+			REA: 30
+Depressive Dschinn sehen immer schwarz, sie können sich zu nichts wirklich motivieren und haben auch gar keine Lust dazu, bringt doch eh nichts. Wenn sich durch die Berechnungen eine INI größer als 30 ergibt wird diese einfach auf 30 reduziert.
+	Erhalt: 6
+
+Dissoziation
+	Min:	KL: 35
+Der Dissoziierte ist in zwei Persönlichkeiten gespalten die nichts voneinander wissen. Zumeist ist eine Gewaltvoll und Grausam, die andere eher friedlich und freundlich. Es gibt aber auch andere Möglichkeiten des Bruchs wobei eine hälfte etwas verkörpert das der anderen zutiefst wiederstrebt. Die, nach Ansicht der primären Seite, verkommene Seite ist meistens verborgen und offenbart sich nur selten und dann möglichst im Verborgenen, sodass die primäre Seite nichts von ihrer Existenz erfährt. Sie versucht mit allen Mitteln sich vor der primären Seite zu verbergen von der sie weiß. Da das Entdecken der zweiten Seite die heftigen, psychischen Störungen die zum Bruch geführt haben wieder aufdecken würden, versucht die verkommene Seite sich vollkommen vor der primären Seite zu verbergen und würde morden damit die primäre Seite nicht erfährt das es sie gibt.
+	Erhalt: 6
+
+Ehre
+	Max:	 KL: 40
+Ein ehrenhafter Dschinn ist aufrecht und kämpft fair und ohne Listen, niemals greift er seinen Gegner hinterrücks an noch Schadet er einem Wehrlosen. Stets achtet er auf die Moral und den Einhalt dieser bei sich und seiner Umgebung.
+Die Vorstellungen von Ehre die der Betroffene zu Themen außerhalb des Kampfs hat sind meist sehr Wertekonservativ, man erlebt aber von Zeit zu Zeit auch herbe Überraschungen.
+	Erhalt: 7
+
+Erstbeschworen
+		Min:
+Ein erstbeschworener Dschinn wird wie ein normaler Dschinn erschaffen mit beliebiger ERF innerhalb der normalen Grenzen. anschließend wird die ERF als 5 betrachtet bei allen dafür relevanten Würfen, Ereignissen und Zaubern. Mit dem Spielfortschritt wird die ERF dann langsam freigegeben. Die ERF sollte um etwa 5 pro 50EP erhöht werden. Bsp.: Ein Dschinn wird mit 37 ERF erschaffen und alle Werte werden normal berechnet. Im Spiel wird er das erste Mal beschworen und daher in seinem ersten Abenteuer als absoluter Frischling behandelt; und verhält sich auch so. Da er ja all das was für die meisten Dschinn Alltag ist noch nichts kennt, verhält er sich in vielen Situationen tollpatschig oder unbeholfen. Gerade im Kontakt mit Menschen, tut sich ein Frischling oft schwer die richtigen Worte zu finden. Durch die ersten zwei Abenteuer erhält er 40 EP. Im nächsten Abenteuer gilt er also als Dschinn mit 10 ERF der schon ein klein bisschen bewanderter ist. Wenn er 260 EP zusammen hat, gilt nun also seine vollständige 37er ERF im Spiel und der Nachteil hat seine Wirkung verloren. 
+	Erhalt: 3 + 1 pro 10 'unterdrückter' ERF
+
+Erzfeind
+	Max:
+Der Charakter hat einen Erzfeind der ab und zu auftaucht und dem Character gerne Schaden möchte. Es sollte auf jeden Fall eine Geschichte geben warum die Person/ das Wesen der Erzfeind des Charakters geworden ist, um die Begegnungen gut ausspielen zu können. Die nachfolgende Tabelle ist eine Richtlinie wie viele Punkte ein Erzfeind wert ist, letztendlich ist dies aber natürlich die Entscheidung des Spielleiters. Orrientieren sollte sich die Anzahl der vergebenen Punkte nicht nur an der Stärke des Feindes sondern auch daran wie oft er auftaucht und wie stark sein Motiv ist dem Charakter zu schaden.
+Normaler Mensch/ Reporter			1Punkt
+Besonderer Mensch/ Foliot				2Punkte
+Schwacher Zauberer					2-4 Punkte
+Dschinn						3-5 Punkte
+Starker Zauberer					4-6 Punkte
+Afrit								5-6 Punkte
+Marid und mehr					6-7 Punkte
+	Erhalt: 1-7
+
+Flugangst/ Höhenangst
+Max:
+Der von Flugangst Befallene hat panische Angst vor dem Fliegen und wird sich wann immer möglich auf dem Boden fortbewegen. Auch große Höhen sind dem von Höhenangst Überkommenen unangenehm sind aber nicht derart mit Panik besetzt wie das Fliegen selbst, das den Flugangstbefallenen auch in absoluten Notlagen zu einer schlichten Weigerung sich in der Luft fortzubewegen veranlassen kann. Nur eine erschwerte Mutprobe (MUT) kann dem Angsthasen jetzt noch sein Leben retten. 
+Erhalt: 5
+
+Geschwätzigkeit
+Max:	 KL:40
+Ein geschwätziger Dschinn redet viel und zumeist sinnloses Zeug, halt alles das ihm durch den Kopf geht. Sollte sich bei diesen vorbeiziehenden Gedanken und Nichtgedanken auch um ein Geheimnis oder eine Tatsache handeln die das Gegenüber nicht erfahren sollte so wird auch diese ohne Rückhalt ausgeplaudert. Geschwätzige Dschinn nerven, wenn gut gespielt. Alle! 
+	Erhalt: 5
+
+Hyperaktivität
+	Max: 	KO: 30
+Ein hyperaktiver Dschinn ist nicht in der Lage ruhig zu stehen. Er hat permanent das Bedürfnis sich zu bewegen. Daher sind sie überhaupt nicht geeignet als stille Beobachter oder Bodyguards eingesetzt zu werden und werden im Allgemeinen von Zauberern selten beschworen. Da ihre Nervosität den Zauberern und auch fast allen andere Wesen vom Anderen Ort regelmäßig auf die Nerven geht und sie ebenfalls unruhig macht. Aufgrund ihrer geringen Konzentrationsspanne sind hyperaktive Dschinn unfähig Zauber zu wirken die eine Dauer von über (KL+KO)/2 besitzen. 
+	Erhalt: 10
+
+Klaustrophobie
+	Max:	 MUT: 45
+Ein Klaustrophobiker hat Angst vor engen und beengenden räumlichen Verhältnissen. Panische.
+	Erhalt: 5
+
+Koboldfresssucht
+	Max:   KK: 30
+			LP: 120
+Die im Volksmund als Koboldfresssucht bekannte Krankheit weckt im Erkrankten wann immer er einen Kobold entdeckt den unbändigen Trieb diesen zu verschlingen. Selbst wenn damit offensichtliche Nachteile oder Gefahren entstehen kann sich ein Kobefresser kaum beherrschen. Medizinisch korrekt heißt die Krankheit Tuburcinabundus Koboldis. Allgemein wird sie vor allem bei physisch schwachen Dschinn diagnostiziert und man geht davon aus, dass es ein Kompensationsreflex ist, der durch Fehler bei der Erstbeschwörung ausgelöst wird. Man vermutet, dass ein leichter Versprecher in der aramäischen Formungslehre als devorare (lat. konsumieren) fehlverstanden werden kann, daraus wird als dem Satz der übersetzt „Herr über alle Koboldscharen“ bedeutet, „Verschlinger aller Koboldscharen“. Diese Theorie deckt sich mit der Beobachtung, dass die Krankheit erst seit etwa dem 6. Jahrhundert vor Chr. vermehrt Aufgetreten ist. Ein anderer Erklärungsansatz vermutet, dass die betroffenen Dschinn bei ihrem Entstehen am Anderen Ort nicht genug Ursubstanz in ihrer Nähe hatten und daher so schmächtig sind. Diesen Mangel wollen sie nun unbewusst kompensieren indem sie alles Fressen was sie können, vor allem wenn es vom Anderen Ort kommt. Vereinzelt tritt Tuburcinabundus Koboldis auch durch traumatische Erfahrungen mit Kobolden auf. Vor allem, wenn ein ausgleichen dieser Ungerechtigkeit nicht möglich ist z.B. weil der gegebene Befehl es verbietet oder der Kobold entlassen wird. Solche Fälle sind jedoch sehr selten und nicht gerade ein Zeichen für Charakterstärke. 
+	Erhalt: 6
+
+Manaschwund
+	Max:	 MG:40
+Der Betroffene verliert mit der Zeit Mana und wenn dieses aufgebraucht ist sogar Leben. Dieser Defekt ist schon eingehend untersucht worden in Verbindung mit der Frage wohin die entweichende Energie verschwindet. Ein zufriedenstellendes Ergebnis konnte jedoch bisher nicht gefunden werden. Die derzeit populärste Theorie ist ein Beschwörungsfehler bei der Erstbeschwörung. Da jedoch Wesen betroffen sind die mit unterschiedlichen Vorgehensweisen erstbeschworen wurden, konnte diese These bisher nicht verifiziert werden. Eine andere Hypothese besagt, dass bei der Erstbeschwörung Materie von einem anderen Wesen mitverwendet wurde. Diese mit einem anderen Zusammenhang beanspruchte Materie konnte sich nicht vollständig an den Rest angliedern, dadurch verbleibt ein kleiner spalt an der Verbindungsstelle durch den Mana entweichen kann. Beobachtungen haben ergeben, dass der Betroffene etwa 2 MP pro Stunde verliert, bis das Mana einen Mindeststand von etwa 5% erreicht, dann spaltet sich sogar die Materie mit 1 LP pro Stunde auf um den Verluststrom aufrecht erhalten zu können. Das geht so bis die Leben einen Stand um die 10% erreicht haben, dann löst sich das Wesen schneller mit 1MP und 1 LP pro Stunde auf bis es ganz verschwunden ist.
+	Erhalt: 12
+
+Mitleid
+	Min:	 IN: 40
+Ein mitleidender Dschinn hat große Schwierigkeiten andere lebende Wesen anzugreifen oder ihnen anderweitig Schaden zuzufügen, da er im wahrsten Sinne des Wortes mitleidet. Er empfindet Schmerz anderer um ihn herum in einem geringen Maße mit. Daher wird er versuchen vorhandene physische oder psychische Leiden nach seinen besten Fähigkeiten zu lindern. Sollte ein Auftrag ihn zwingen gegen seine Überzeugungen und seinen Willen zu handeln wird er dies nur unter Schuldgefühlen und Widerwillig tun.
+	Erhalt: 5
+
+Monostarris
+	Max: 	MG: 50/40/35
+Monoistarris ist eine seltene nur unter Wesen vom andern Ort verbreitete Krankheit. Der erkrankte wird von einer Steifheit seiner Substanz befallen und verliert die Fähigkeit sich zu verwandeln, dieser Zustand ist auch am Anderen Ort andauernd wodurch dich Monostarris befallene Wesen oft weniger gut erholen als andere. 
+Es sind verschiedene Formen der Monostarris bekannt, die sanfteste, Monostarris-eins, tritt nur gelegentlich auf und kann durch verschiedene Kräuter, Sude und Techniken wieder beruhigt werden, sie ist im Allgemeinen gut zu behandeln und vor allem unter alten Dschinn von über 5000 Jahren verbreitet. Ein Dschinn der sich mit Heilkunde auskennt wird diese Form mit recht geringem Aufwand behandeln können. 
+Die zweite Form ist seit der Erschaffung des Dschinn vorhanden und entsteht selten bei der Verwendung gewisser Runen die schon seit ca. 1500 v.Chr. überliefert sind und häufig als Unterstützung verwendet werden. Monostarris-zwei befallene Dschinn sind prinzipiell in der Lage sich zu verwandeln jedoch nur mit großem Zeit und Energieaufwand so dass sich die Verwandlungsdauer verzehnfacht und die Kosten für eine Verwandlung auf 10 steigen. Diese Form von Monostarris lässt sich schlecht behandeln und es gibt nur wenige Gerüchte über Effektive temporäre oder sogar permanente Heilmetoden. 
+Monostarris-drei ist die ausgeprägteste Form der Krankheit und macht eine Verwandlung gänzlich unmöglich. Mit Hilfe eines Sachkundigen und unter mittlerem Aufwand kann eine Verwandlung mit erhöhtem Aufwand wie Monostarris-zwei herbeigeführt werden. 
+	Erhalt: 3/7/10
+
+Multiple Persönlichkeit
+	Min:	 KL:40+3*n
+Der Betroffene besteht aus zwei oder mehr Charakterteilen, wobei jeder weitere Charakterteil den Erhalt um 2 steigert, Max. 5 Charakterteile. Diese wissen nicht voneinander und treten getrennt voneinander auf. Dabei wechseln sie sich ab. Wann der Wechsel geschieht hängt von verschiedenen Faktoren ab und ist meist durch ein Schlüsselwort oder ein anderes Zeichen eingeleitet. Es gibt aber auch Fälle bei denen der Wechsel in regelmäßigen Zeitabständen stattfindet. Die Charakterteile haben alle eigene Merkmale die als solche auch gut ausgespielt werden sollen und müssen. 
+	Erhalt: 5+n*2  ; n=0..3
+
+Orientierungsschwierigkeiten
+	Max:	 WAH: 40
+Der Betroffene hat einen ausgeprägt schlechten Orientierungssinn. Er verliert schnell die Richtung und verläuft sich. Eine erfolgreiche Weg Suche kann bei nicht schon sehr oft gegangenen Wegen nur anhand markanter Wegpunkte erfolgen.
+	Erhalt: 4
+
+Pyromanie
+Element: Feuer, Vulkan
+Min:	 IN: 30
+		WK: 40
+Pyromanie tritt vor allem unter Feuerdschinn vereinzelt auch unter Vulkandschinn auf. Pyromanen haben das Verlangen Dinge in Brand zu stecken wann immer es geht. Dieses Verlangen spiegelt sich zumeist auch in ihrer Art zu Kämpfen wieder, sodass Pyromanen fast nur mit Feuermagie Kämpfen selbst wenn andere Methoden effizienter wären. 
+	Erhalt: 5
+
+Rechts-Links-Schwäche
+	Max:
+Der Betroffene kann Rechts und Links nicht auseinanderhalten, es erfolgt jedes Mal, wenn dies eine Rolle spielt eine 50-50 Wurf in welcher Richtung der Rechts-Links-Schwache Agiert.
+	Erhalt:1
+
+Spielsucht
+	Max:	
+Ein spielsüchtiger Dschinn wird ständig versuchen mit allen seinen Umgebenden Menschen und Wesen die Dinge auszuknobeln. Wird ihm angeboten sich einem Glücksspiel anzuschießen kann er nicht ablehnen, entgegen aller Vernunft.
+"Ey, den Kobold darfst du nicht Fressen! Ich hab doch neulich vom Poker noch einen gut. ... Nuun gut. Schere-Stein-Paper Kobold. Wenn du gewinnst lass ich dich laufen! Aber andernfalls leistest du keine Gegenwehr"
+Glücksspielsüchtige Dschinn werden nur in Ausnahmesituationen Schummeln und sind auch bei anderen nicht geschickter Schummeleien zu erkennen. 
+Die meisten ihnen haben ein sehr gutes Gedächtnis für Spielschulden und werden sich immer an Wettschulden erinnern, auch über 1000 Jahre und mehr hinweg. 
+	Erhalt: 5
+
+Stinkend
+	Max:	WAH: 35
+Ein stinkender Dschinn kann auf 4 Meilen gegen den Wind von einem verschnupften Zauberer in einem Raum voller Räucherkerzen gerochen werden und das ist immer noch keine Freude! Bildlich gesprochen. 
+Aber mal ehrlich stell dir vor du badest für ein halbes Jahr täglich in einem Plumpsklo ohne dich zu waschen, dann riechst du vermutlich schon fast so schlimm wie ein stinkender Dschinn.
+	Erhalt: 7
+
+Stummheit
+	Max: 	WK: 45
+Ein stummer Dschinn ist nicht fähig zu sprechen und kann sich seiner Umwelt nur durch Gesten verständlich machen. Mentale Kommunikation ist möglich jedoch stockend, da der Stumme es nicht gewohnt ist seine Gedanken klar zu formulieren und mitzuteilen. 
+	Erhalt: 8
+
+Taubheit
+	Max: 	WAH:35
+Jemand Taubes ist nicht in der Lage gesprochene Worte oder andere auf Schallwellen basierende Kommunikation zu verstehen. Die einzige Ausnahme bilden Befehle des Zauberers, die dem Dschinn in einem wirkenden Pentagramm gegeben werden. Warum es klappt weiß keiner, aber es klappt.
+	Erhalt:8
+
+Tinnitus
+	Max:	 WAH: 40
+Ein andauerndes lautes pfeifen in Ohr. Vermutlich zu viel Stress. Naja kein Wunder. Erst der Hinterhalt, dann den Mistkerl schnell Heimfliegen, und schließlich noch bevor auch nur Zeit ist einen Kobold aufzuschrecken weiter zu einem furchtbar dringenden Geschäftstermin. Hoffentlich stirbt der Typ bald! Herzversagen oder so. Und dann auch noch dieses Pfeifen im Ohr! Dadurch hat der ganze Schlamassel ja überhaupt erst angefangen. Wenn ich gehört hätte wie der Typ sich anpirscht, hätte ich ihn sauber erledigen können. Aber nein, dieses Pfeifen und dann gleich wieder noch mehr Stress. Es hört einfach nie auf!
+Wahrnehmungsproben die auf dem Hören basieren sind für Wesen vom Anderen Ort mit Tinnitus um 20 erschwert. Außerdem neigen Tinnitus Patienten sehr stark dazu Choleriker zu werden. Sie erhalten für diesen Nachteil nur 2 statt der üblichen 3 Punkte.
+	Erhalt: 5
+
+Tollpatschig
+Max:   MG:40
+		GE: 40
+Ein Tollpatsch lässt ständig Dinge fallen, stolpert und verpatzt Zauber oder schickt sie aus Versehen in die falsche Richtung. Bei jeder Aktion die einen Würfelwurf erfordert wird zusätzlich ein W10 geworfen, bei einer 10 kommt es zum Unfall. Sind mehrere Würfe für eine Aktion notwendig, wie etwa bei einem Angriff mit dem Zauber Schlag, Zauber wirken und Zauber abschießen, entscheidet die SL anhand der Komplexität der Handlungen und der Gesamtsituation, ob bei beiden Würfe getrennt auf Tollpatschigkeit geworfen werden muss oder ob ein Wurf auf die Gesamtaktion ausreicht.
+	Erhalt:8
+
+Unmensch
+	Max:
+Der Nachteil Unmensch führt dazu, dass der benachteiligte Charakter keine menschliche Gestalt annehmen kann. Es sind humanoide Formen wie Affen oder stark verzerrte Sinnbilder eines Menschen möglich, diese müssen aber immer klar als nicht menschlicher erkennbar sein.
+	Erhalt: 4
+
+Unterentwickelt
+	Max:
+Durch den Nachteil sinkt das Minimum eines der Attribute auf nur 5 Punkte. Auf diese Weise kann die sonst gültige Unterschranke von 10 Punkten auf jedem Attribut unterboten werden.
+Der Nachteil darf nur einmal, für ein Attribut gewählt werden.
+	Erhalt: -
+
+Verfolgungswahn
+	Max: MUT: 35
+Jemand der unter Verfolgungswahn leidet fürchtet immer, dass ihn jemand verfolgt. Du kennst dieses Gefühl im Rücken sicher, dass man nachts hat, wenn man nach dem schauen eines Horrorfilmes allein auf Klo geht, so fühlen sich Dschinn die unter Verfolgungswahn leiden immer. 
+Daher tun sie auch die verrücktesten Dinge um einen Verfolger abzuschütteln oder um ihm zu entkommen. Norknix XIV der von Ursallam Ban Hickx im Jahre 214 Beschworen wurde wechselte z.B. jedes Mal die Farbe, wenn er um eine Ecke ging. Das half ihm jedoch wenig, da er sowieso der einzige 4 Meter große Troll in ganz Bagdad war. Judithy der britische Mentaldschinn entwarf eine ganz andere Vorgehensweise. Das erste was sie Tat, wenn sie beschworen wurde bestand darin sich ein Stück Glas zu suchen um sich einen Rückspiegel zu bauen. Sie wurde bei Streitigkeiten mit Rebellen in Nordamerika von einem Silbergeschoss von vorne ausgelöscht.
+	Erhalt: 8
+
+Vergesslich
+	Min: KL:45
+Ein vergesslicher Dschinn hat sehr großes Glück, denn andernfalls wäre sein Kopf nicht festgewaschen. Die einzige bekannte Ausnahme stellt der Kopflose Hugo dar, dem es gelang einen Teil seiner Substanz von sich zu lösen und in einem Radius von einigen Kilometern unabhängig zu erhalten. Nach einigen Experimenten trennte er sich von dem Teil seiner Substanz der den Hauptteil seiner Denkkapazitäten enthielt, man Sagt das es 5 Jahre dauerte bis er sich erinnerte, dass er einen Kopf besaß und weitere 20 bis er ihn auch tatsächlich gefunden hatte. Die Suche wurde dadurch deutlich erschwert, dass er nicht nur Aufbewahrungsort seines Kopfes sondern auch die Existenz seines Kopfes regelmäßig vergaß. 
+Glücklichere Dschinn dagegen vergessen nur Wege, Orten, Zeiten, Namen, Teile des Befehls und alles andere was man so vergessen oder verschlampen kann mit unverlässlicher Verlässlichkeit.
+	Erhalt: 5
+
+Wahnsinn
+	Max:
+Es werden 3 Stufen des Wahnsinns unterschieden: leicht wahnsinnig, verrückt und völlig durchgedreht. Die Auswirkungen sind unterschiedlich stark und die Symptome Variieren bei jedem Patienten, doch die Ursache (Wahnsinn) ist immer eindeutig.  
+	Erhalt:3/6/9
