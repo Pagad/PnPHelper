@@ -12,7 +12,6 @@ import javafx.stage.Stage;
 public class HeroScene{
 
 	public static Scene heroScene;
-	private static HeroSceneController controller;
 
 
 	public HeroScene(){	
@@ -25,7 +24,6 @@ public class HeroScene{
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} 
-		controller = fXMLLoader.getController();
 	}
 
 }

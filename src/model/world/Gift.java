@@ -2,7 +2,7 @@ package model.world;
 
 import java.util.ArrayList;
 
-public class Gift implements HeroProperty{
+public class Gift{
 
 	public static ArrayList<Gift> allGifts= new ArrayList<Gift>();
 

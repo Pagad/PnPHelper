@@ -13,6 +13,7 @@ import model.Value;
 import model.IO.Reader;
 import model.calculator.Calculator;
 import model.world.CultureWithElement;
+import view.editor.EditorScene;
 import view.hero.*;
 import view.spells.SpellBookScene;
 import controller.hero.HeroSceneController;
@@ -24,6 +25,7 @@ public class Main extends Application{
 	private static final String HERO_BASE_VALUES_PATH = "HeroBaseValues.txt";
 	public static Stage primStage=null;
 	public static Hero hero;
+	public static Scene mainScene;
 	
 	
 	public static void main(String[] args) {
@@ -45,7 +47,7 @@ public class Main extends Application{
 		new HeroScene();
 		new TermScene();
 		new SpellBookScene();
-			
+		new EditorScene();	
 		
 		// launch MainScene
 		Main.launch(args);
@@ -71,7 +73,7 @@ public class Main extends Application{
 		FXMLLoader fXMLLoader = new FXMLLoader((scene.getClass().getResource("mainScene.fxml")));
 		try {
 			Parent mainPane = fXMLLoader.load();
-			Scene mainScene = new Scene(mainPane);
+			mainScene = new Scene(mainPane);
 			primStage.setScene(mainScene);
 	
 		} catch (IOException e) {

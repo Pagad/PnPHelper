@@ -2,15 +2,72 @@
 
 <?import javafx.scene.control.Button?>
 <?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="190.0" prefWidth="339.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.MainSceneController">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="249.0" prefWidth="433.0" xmlns="http://javafx.com/javafx/8.0.102" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.MainSceneController">
    <children>
-      <Button fx:id="startButton" layoutX="116.0" layoutY="61.0" mnemonicParsing="false" onAction="#doStart" text="Start">
-         <font>
-            <Font size="31.0" />
-         </font>
-      </Button>
+      <HBox prefHeight="249.0" prefWidth="433.0">
+         <children>
+            <VBox prefHeight="249.0" prefWidth="128.0" />
+            <VBox prefHeight="249.0" prefWidth="292.0">
+               <children>
+                  <HBox prefHeight="100.0" prefWidth="200.0" />
+                  <HBox prefHeight="249.0" prefWidth="433.0">
+                     <children>
+                        <VBox prefHeight="249.0" prefWidth="236.0">
+                           <children>
+                              <HBox alignment="CENTER" prefHeight="97.0" prefWidth="135.0">
+                                 <children>
+                                    <Button mnemonicParsing="false" onAction="#doStart" text="Held erstellen">
+                                       <font>
+                                          <Font size="17.0" />
+                                       </font>
+                                    </Button>
+                                 </children>
+                              </HBox>
+                              <HBox alignment="CENTER" prefHeight="87.0" prefWidth="135.0">
+                                 <children>
+                                    <Button mnemonicParsing="false" onAction="#doCalculator" text="Rechner">
+                                       <font>
+                                          <Font size="17.0" />
+                                       </font>
+                                    </Button>
+                                 </children>
+                              </HBox>
+                           </children>
+                        </VBox>
+                        <VBox prefHeight="249.0" prefWidth="212.0">
+                           <children>
+                              <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+                                 <children>
+                                    <Button mnemonicParsing="false" onAction="#doSpell" text="Zauber">
+                                       <font>
+                                          <Font size="17.0" />
+                                       </font>
+                                    </Button>
+                                 </children>
+                              </HBox>
+                              <HBox alignment="CENTER" prefHeight="88.0" prefWidth="111.0">
+                                 <children>
+                                    <Button mnemonicParsing="false" onAction="#doEditor" text="Editor">
+                                       <font>
+                                          <Font size="17.0" />
+                                       </font>
+                                    </Button>
+                                 </children>
+                              </HBox>
+                           </children>
+                        </VBox>
+                     </children>
+                  </HBox>
+                  <HBox prefHeight="100.0" prefWidth="200.0" />
+               </children>
+            </VBox>
+            <VBox prefHeight="200.0" prefWidth="100.0" />
+            <VBox prefHeight="200.0" prefWidth="100.0" />
+         </children>
+      </HBox>
    </children>
 </AnchorPane>
