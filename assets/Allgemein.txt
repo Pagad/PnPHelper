@@ -1,0 +1,725 @@
+Allgemein
+Allgemeindschinn sind das Salz in der Suppe der Zauberer Gesellschaft. Sie sind überall und 
+können quasi alles. Ausgestattet mit einem praktischen Spektrum von Zaubern und stabilen 
+Attributen sind sie die idealen Ziele einer Beschwörung wenn man nur mal schnell den 
+Almanach aufschlagen will und keinen halben Tag in der Bibliothek zur Verfügung ha um 
+einen Spezialisten zu suchen.
+Allgemeindschinn werden von allen Kulturen beschworen.
+Die Allgemein Zauber stehen auch allen elementaren Dschinn zur Verfügung.
+
+Bonus: 	---
+
+Malus:	 	---
+
+Zauber: 
+Seit
+e
+Name
+Dauer
+Koste
+n
+Effekt
+2
+Beschwörung
+
+
+
+3
+Beschwörung II
+
+
+
+4
+Betäuben
+
+
+
+5
+Blutreich
+
+
+
+6
+Büßerglocke
+
+
+
+7
+Detonation
+
+
+
+8
+Detonation II
+
+
+
+9
+Druckwelle
+
+
+
+10
+Ebenentarnung
+
+
+
+11
+Ebenentarnung II
+
+
+
+12
+Feuerball
+
+
+
+13
+Illumination
+
+
+
+14
+Knechten
+
+
+
+15
+Rauch
+
+
+
+16
+Rüttler
+
+
+
+17
+Schlag
+5
+5
+
+18
+Schlag II
+5
+5
+
+19
+Schlag III
+5
+5
+
+20
+Schlagfolge
+Abh.
+Abh.
+
+21
+Schock
+
+
+
+22
+Sprung
+
+
+
+23
+Verdunkeln
+
+
+
+24
+Verwandlung
+
+
+
+25
+Verwandlung II
+
+
+
+26
+Wall
+
+
+
+27
+Zerspalten
+
+
+
+ 
+Beschwörung
+Voraussetzungen:
+	Allgemein
+	MG: 54
+      WK: 39
+      KL: 46
+	ERF: 46
+Beschwörung erschafft einen Kobold, der für die Dauer eines Befehles unter deiner Kontrolle 
+steht. Da er deinen Befehl nicht unbedingt gerne erfüllt wird er nach Möglichkeiten suchen 
+sich aus der Sache irgendwie rauszulavieren. 
+Durch die Gabe ‚Kleine Freunde' kannst du sicherstellen immer einen hilfsbereiten Kobold 
+vorzufinden, der vielleicht sogar ein bisschen mehr als unbedingt notwendig macht.
+Der beschworene Kobold hat folgende Werte:
+	LP: 25
+	MP: 15
+	AT: 30
+	PA: 25
+	TP: 5
+	MAT: 25
+	MPA: 25
+	MTP: 5
+	ZI: 25
+	AW: 45
+Zauber: Schlag
+
+	Dauer: 72
+	Kosten: 18
+ 
+Beschwörung II
+Voraussetzungen:
+	Allgemein
+	MG: 62
+      WK: 56
+      KL: 56
+	ERF: 52
+Beschwörung erschafft einen Kobold, der für die Dauer eines Befehles unter deiner Kontrolle 
+steht. Da er deinen Befehl nicht unbedingt gerne erfüllt wird er nach Möglichkeiten suchen 
+sich aus der Sache irgendwie rauszulavieren. 
+Durch die Gabe ‚Kleine Freunde' kannst du sicherstellen immer einen hilfsbereiten Kobold 
+vorzufinden, der vielleicht sogar ein bisschen mehr als unbedingt notwendig macht.
+Der beschworene Kobold hat folgende Werte:
+	LP: 25
+	MP: 15
+	AT: 30
+	PA: 25
+	TP: 5
+	MAT: 25
+	MPA: 25
+	MTP: 5
+	ZI: 25
+	AW: 45
+Zauber: Schlag
+
+	Dauer: 32
+	Kosten: 8
+
+ 
+Betäuben
+Voraussetzungen:
+	Alle/ Inka
+	MG: 20
+	ERF: 35
+Der Zauber betäubt das Ziel, sodass dieses das Bewusstsein verliert.
+Der Zauber ist nur dann, wenn das Opfer bereits sehr stark geschwächt ist oder in einer 
+ausweglosen Lage die auch dem Ziel des Zaubers klar ist und dessen Kampfgeist schwächt, 
+wirksam.
+Der Zauber kann an einem Ziel mit starkem Kampfgeist erst dann erfolgreich zur Anwendung 
+kommen, wenn dessen Leben unter 20% ihres Startwertes liegen.
+Der Zauber wirkt in der Nahkampfdistanz, es ist aber kein direkter Körperkontakt 
+notwendig.
+Das Bewusstsein des Zieles des Zaubers kehrt frühestens nach MTP Minuten zurück.
+Nur überlegene Wesen wie Afriten dürfen versuchen dem Zauber durch eine Magieparade 
+Stand zu halten wenn die Bedingungen für den Zauber erfüllt sind.
+	Dauer: 12
+	Kosten: 3
+ 
+Blüte der Magie
+Voraussetzungen:
+	Gabe: Zaubersaat
+	MG: 40
+	KL: 40
+	KO: 20
+Pflanzt einen Teil der eigenen Magie als Saatkorn in sich selbst ein.
+Das Saatkorn reagiert, wenn die eigenen Lebenspunkte (LP) unter 10% ihres ausgangswertes 
+fallen. Es erblüht dann und sendet an den Zaubernden eine Notfallration von 10 
+Manapunkten (MP).
+Das erblühen kann nicht unterbunden werden.
+Es kann immer nur ein Saatkorn auf einmal verwendet werden.
+Das Saatkorn überdauert mit 90%iger Wahrscheinlichkeit auch die Rückkehr an den Anderen 
+Ort, da es sich ja um die eigene Magie handelt, die als Teil des eigenen Körpers eingebettet 
+wird.
+	Dauer: 40
+	Kosten: 15 
+	
+Blutreich
+Voraussetzungen:
+	MG: 30
+	IN: 30
+	KO: 35
+	MUT: 35
+Der Zauber ist nur möglich, wenn mindestens 80% der Lebenspunkte des Zaubernden 
+innerhalb einer Kugel mit einem Durchmesser von MTP/2 Metern verloren wurden.
+Der Zauber nutzt die verlorene Substanz des Zaubernden um kurzzeitig die Herrschaft über 
+ein Stück Raum zu erlangen. Dieser Raum erstreckt sich Kugelförmig mit einem Radius von 
+MTP/2 Metern um den Zaubernden herum.
+Der Zaubernde erhält in seinem Reich einen Bonus von MTP auf alle Würfe und von MTP/3 
+auf TP und MTP.
+Alle die in diesem Raum unerwünscht sind werden mit einem Abzug von MTP auf alle Würfe 
+und MTP/3 auf TP und MTP belegt.
+Der Zaubernde beherrscht den Raum für 2 Kampfrunden.
+	Dauer: 44
+	Kosten: 0
+
+	Vertiefungskosten: 5/7 
+Büßerglocke
+Voraussetzungen:
+	Alle / Sioux
+	MG: 66
+	ERF:58
+      KL: 64
+	WK: 74
+	LV: 7
+Die Büßerglocke ist ein sehr komplexes magisches Geflecht, das jede Substanz sofort 
+verbrennt. Selbst Silber wird innerhalb weniger Sekunden vernichtet. 
+Die Büßerglocke wird nur von einigen wenigen Zauberern beherrscht. Mit der Zeit lernten 
+dann einige wenige Wesen vom  Anderen  Ort, dieses Geflecht  nachzustellen, die meisten 
+davon sind Schilddschinn die sich eh auf solche magischen Konstrukte verstehen.  
+Der Schöpfer  der Büßerglocke ist in der Lage, die Größe der Glocke auf ein Minimum zu 
+reduzieren und so den Eingesperrten zu vernichten. Die Größe der Büßerglocke beträgt 
+maximal MTP/2 Meter im Durchmesser.
+Die Büßerglocke hat für MTP/2 Stunden bestand. Sie kann innerhalb dieses Zeitraumes für 22 
+MP in 64 ZWZ die Haltbarkeit der Büßerglocke um den gleichen Zeitraum verlängert werden.
+	Dauer: 128
+	Kosten: 66
+ 
+Detonation
+Voraussetzungen:
+	Alle
+	MG: 30
+	ERF: 20
+      WAH: 24
+	WK:20
+Der Zauber erschafft eine Plasmakugel die bei Kontakt mit einem Hindernis explodiert. 
+Die Kugel richtet am Getroffenen einen Schaden von 1,5 MTP an. 
+Alle im Umkreis von MTP/4 Metern um das Ziel herum erhalten ebenfalls 1 MTP Schaden. 
+Es ist eine Zielen-Probe notwendig um festzustellen ob der Zauber trifft.
+Der Zauber kann maximal 25 Meter zurücklegen, danach verliert es seine Wirkung.
+	Dauer: 26
+	Kosten: 15
+
+
+Detonation II
+Voraussetzungen:
+	Alle
+	MG: 38
+	ERF: 27
+      WAH: 31
+	WK:36
+Der Zauber erschafft eine Plasmakugel die bei Kontakt mit einem Hindernis explodiert. 
+Die Kugel richtet am Getroffenen einen Schaden von 2 MTP an. 
+Alle im Umkreis von MTP/3 Metern um das Ziel herum erhalten ebenfalls 1 MTP Schaden. 
+Es ist eine Zielen-Probe notwendig um festzustellen ob der Zauber trifft.
+Der Zauber kann maximal 25 Meter zurücklegen, danach verliert es seine Wirkung.
+	Dauer: 23
+	Kosten: 14
+	Vertiefungskosten: 3/4
+
+ 
+Druckwelle
+Voraussetzungen:
+	Alle
+	MG:28
+	MUT: 38
+	WK: 46
+Der Zauber erschafft eine Druckwelle die sich explosionsartig rings um den Zaubernden 
+ausbreitet. 
+Die Druckwelle hat einen Radius von MTP/4 Metern. Leichte Gegenstände oder Personen und 
+Kreaturen die nicht groß sind werden aus dem direkten Wirkungsbereich geschleudert. 
+Aufgrund der Wucht und Geschwindigkeit des Zaubers werden weggeschleuderte bis zu 
+MTP/3 Meter weit weggeschleudert. Je näher man sich bei der Entladung des Zaubers am 
+Zaubernden aufhält desto weiterweg wird man geschleudert.
+Die Druckwelle richtet 2 MTP Schaden an. Wer durch die Druckwelle weit weg geschleudert 
+wird erleidet zusätzlich bis zu MTP/2 Schaden.
+	Dauer: 54
+	Kosten: 27
+ 
+Ebenentarnung
+Voraussetzungen:
+	Alle
+	MG:46
+	ERF:37
+	MR: 24
+Der Zauber verbirgt deine wahre Gestalt auf allen Ebenen die du beherrscht und einer 
+weiteren. Sodass es auch für Wesen mit Zugang zu mehr Ebenen als dir scher fällt deine 
+wahre Gestalt zu entdecken.
+Der Zauber ist enorm wichtig und praktisch um sich zu verbergen.
+Der Zauber erfordert einen konstanten Einsatz von 18 ZWZ, ohne Übergangszeit, und 4MP 
+pro kampfrunde. Außerhalb des Kampfes sind 4 MP pro Minute notwendig um den Zauber 
+aufrecht zu erhalten.
+	Dauer: 38/ 18
+	Kosten: 8/ 4
+ 
+Ebenentarnung II
+Voraussetzungen:
+	Alle
+	MG:46
+	ERF:37
+	MR: 24
+Der Zauber verbirgt deine wahre Gestalt auf allen Ebenen. Sodass es selbst für Wesen mit 
+Zugang zu mehr Ebenen als dir unmöglich ist deine wahre Gestalt zu entdecken.
+Der Zauber erfordert einen konstanten Einsatz von 14 ZWZ, ohne Übergangszeit, und 3MP 
+pro kampfrunde. Außerhalb des Kampfes sind 2 MP pro Minute notwendig um den Zauber 
+aufrecht zu erhalten.
+	Dauer: 42/ 14
+	Kosten: 9/3/2
+	Vertiefungskosten: 5/7
+
+ 
+Feuerball
+Voraussetzungen:
+      Alle / Frost
+	MG:10+5/Wirken
+	ERF:15
+	WK: 28 + 3/Wirken
+Der Zauber erschafft ein magisches Geschoss, das beim Aufprall dem getroffenen Wesen 
+Schaden zufügt.
+Der Feuerball richtet 1 MTP Schaden an seinem Ziel an. Der Feuerball ist ein magisches 
+Geschoss, das in seiner Größe nicht beschränkt ist. Das heißt, dass der Feuerball durch jedes 
+Wirken nach dem ersten Mal, größer wird. Dadurch bekommt er einen Bonus von +1 MTP und 
+die Trefferwahrscheinlichkeit steigt. Dies äußert sich indem ein Bonus von 5 auf Zielen 
+vergeben wird. Zudem wird es immer schwieriger dem größer werdenden Geschoss 
+auszuweichen. Daher wird für jedes zweite Wirken das Ausweichen um 5 erschwert. 
+Um fest zu stellen ob der Feuerball trifft fällt eine Zielen Probe an.
+Der Feuerball kann maximal eine Strecke von 50 Metern überqueren ohne drastische 
+Einbußen an Zielsicherheit und Durchschlagskraft zu erleiden.
+	Dauer: 7
+	Kosten: 6
+ 
+Illumination
+Voraussetzungen:
+	Alle
+	WK:20
+	ERF:15
+Der Zauber erschafft ein grelles Licht, das Alle um dich herum für einige Augenblicke blendet. 
+Jedes andere Wesen das dem Lichtblitz ausgesetzt ist kann sich in dieser Runde nicht 
+zielgerichtet bewegen oder Angreifen.
+Dem Zauber kann durch eine Magieparade widerstanden werden.
+Durch eine erfolgreiche WAH-Probe kann die Auswirkung des Zaubers abgemildert werden 
+sodass, 1/4 der Zeit für diese Runde normal zur Verfügung steht.
+Aufrecht gehaltene Zauber und Zauber die über mehrere Runden vorbereitet werden, werden 
+von der Illumination nicht beeinträchtigt, sie können jedoch erst in der nächsten Runde aktiv 
+eingesetzt werden wenn keine erfolgreiche WAH-Probe erfolgt ist.
+	Dauer: 16
+	Kosten: 12
+ 
+Knechten
+Voraussetzungen:
+	Art: Alle
+	MG: 32
+	ERF: 37
+	WK>MR und WK des Opfers
+Knechten  unterwirft  ein  schwächeres  Wesen  vom Anderen Ort deinem Willen. 
+Knechten kann nur außerhalb eines Kampfes angewandt werden. Um den Zauber wirken zu 
+können musst du deinem Opfer während der Initiierung des Zaubers in die Augen sehen. 
+Außerdem muss deine Willenskraft (WK) größer sein als die Willenskraft (WK) des Zieles und 
+als seine Magieresistenz (MR)
+Unter dem Einfluss des Knechten Zaubers ist das Opfer bereit alles zu tun was du von ihm 
+verlangst und jeden und alles anzugreifen, außer den Zauberer, unter dessen Kontrolle es 
+steht. 
+Um den Zauber aufrecht zu halten bedarf es eines konstanten Einsatzes von 12 ZWZ, ohne  
+Übergangszeit, und 5 MP pro kampfrunde. Bei besonders schwachen Wesen wie Kobolden 
+beträgt der Aufwand zum erhalten des Zaubers nur 8 ZWZ und 3 MP. 
+Außerhalb des Kampfes fallen die Kosten ein Mal pro Minute an.
+Der Zauber bleibt bestehen solange wie du ihn aufrecht halst. Der Zauber löst sich ebenfalls 
+auf wenn das Ziel des Zaubers ein Viertel oder mehr der Lebenspunkte verloren hat die es 
+hatte als du den Zauber gewirkt hast. Zudem wird es nie mehr als die Hälfte der Manapunkte 
+ausgeben die es hatte als du den Zauber angewendet hast.
+Wenn das Opfer von deinem Zauber frei kommt, weiß es, was du und es getan habt. Auch 
+wenn der Zauber misslingt, erkennt das Opfer, was du versucht hast. 
+	Dauer: 1-3 sec./12/8
+	Kosten: 10/ 5/3
+ 
+Rauch
+Voraussetzungen:
+	Alle
+	MG: 13
+	WK: 14
+Rauch erschafft einen dichten Rauch, der ein Gebiet mit einem Durchmesser von MTP Metern 
+ausfüllt. Der Rand des Gebietes darf maximal MTP Meter weit von dir entfernt sein.
+Jeder, der sich in diesem Gebiet befindet, in oder durch dieses Gebiet angreift, erleidet einen 
+Abzug auf Zielen und AT von 10.
+	Dauer: 13
+	Kosten: 4
+ 
+Rüttler
+Voraussetzungen:
+	Alle
+	MG: 34
+	WK: 26
+	ERF: 17
+Der Zauber erschafft eine gestauchte Energiespirale die das Getroffene gründlich 
+durchgeschüttelt. 
+Besonders geeignet ist der Zauber um Starre, z.B. gemauerte, Dinge zu zerstören oder zu 
+beschädigen. 
+Jedoch ist der Zauber auch gegen Lebende Ziele sehr effektiv. Dort richtet er MTP Schaden an 
+und reduziert die Aktionsfähigkeit des Getroffenen für diese Runde, indem AU, ZWZ und 
+MNAU um MTP gesenkt wird. Die Schwächende Wirkung wird auch durch mehrmaliges 
+Einsetzen des Zaubers nicht stärker.
+Es ist eine Zielen-Probe notwendig um fest zu stellen ob der Zauber sein Ziel getroffen hat.
+	Dauer: 14  
+	Kosten: 9
+ 
+Schlag
+Voraussetzungen:
+	Alle
+	MG: 10
+	WK: 18
+Der Zauber erschafft eine kleine Energiekugel, die anschließend vom Schöpfer der Kugel 
+abgefeuert wird. 
+Schlag richtet am Ziel einen Schaden von MTP Punkten an. 
+Der Zauber muss erst erschaffen und dann geworfen werden.
+Die Kosten für den Zauber belaufen sich auf 5 scheitert die MAT Probe kostet der gescheiterte 
+Zauber den Zaubernden nur 2 MP. 
+Der Zauber kann eine Distanz von bis zu 50 Metern zurücklegen. Danach zerfällt er.
+	Dauer: 5
+	Kosten: 5
+ 
+Schlag II
+Voraussetzungen:
+	Alle
+	MG: 24
+	WK: 24
+Der Zauber erschafft eine kleine Energiekugel, die anschließend vom Schöpfer der Kugel 
+abgefeuert wird. 
+Schlag richtet am Ziel einen Schaden von MTP Punkten an. 
+Der Zauber muss erst erschaffen und dann geworfen werden.
+Die Kosten für den Zauber belaufen sich auf 5 scheitert die MAT Probe kostet der gescheiterte 
+Zauber den Zaubernden nur 2 MP. 
+Der Zauber kann eine Distanz von bis zu 50 Metern zurücklegen. Danach zerfällt er.
+Die Vertiefung reduziert die ZÜZ zwischen zwei Schlägen auf 3 statt 4.
+	Dauer: 5
+	Kosten: 5
+	
+	Vertiefungskosten: 2/3
+ 
+Schlag III
+Voraussetzungen:
+	Alle
+	Schlag II
+	MG: 24
+	WK: 24
+Der Zauber erschafft eine kleine Energiekugel, die anschließend vom Schöpfer der Kugel 
+abgefeuert wird. 
+Schlag richtet am Ziel einen Schaden von MTP Punkten an. 
+Der Zauber muss erst erschaffen und dann geworfen werden.
+Die Kosten für den Zauber belaufen sich auf 5 scheitert die MAT Probe kostet der gescheiterte 
+Zauber den Zaubernden nur 2 MP. 
+Der Zauber kann eine Distanz von bis zu 50 Metern zurücklegen. Danach zerfällt er.
+Die Vertiefung reduziert die ZÜZ zwischen zwei Schlägen auf 2 statt 3.
+	Dauer: 5
+	Kosten: 5
+	
+	Vertiefungskosten: 3/4
+ 
+Schlagfolge	
+Voraussetzungen:
+	Alle
+	Schlag III
+	MG: 57
+	ERF: 38
+	WK:62
+	LV: 5
+Der Zauber schickt eine Reihe Schläge auf ein oder mehrere Ziele. 
+Bei der Schlagfolge fällt die ZÜZ zwischen den Schlägen weg, da sie als ein Zauber gilt. Auf 
+diese Weise kann eine hohe Anzahl von Zaubern erstellt werden und viel Schaden zugefügt 
+werden.
+Bevor der Zauber durchgeführt wird müssen die einzelnen Schläge auf alle Ziele verteilt 
+werden. Alle Ziele müssen sich beim Zaubern im Sichtfeld des Zaubernden befinden. Seinen 
+Körper während des Zaubers zu drehen ist nicht möglich. 
+Die Anzahl der beschworenen Schläge kann vom Zaubernden frei bestimmt werden, es darf 
+jedoch nicht die Dauer von einer Runde überschritten werden. 
+Jeder einzelne Schlag richtet einen Schaden von MTP an und muss einzeln erschaffen (MAT) 
+und geworfen (ZI) werden. 
+Die Kosten für den Zauber werden ebenfalls schlagweise abgerechnet. Sie belaufen sich auf 5 
+pro Schlag. Scheitert die MAT Probe kostet der gescheiterte Zauber den Zaubernden nur 2 MP. 
+Jeder Schlag dauert unabhängig vom Erfolg der MAT Probe 5 ZWZ.
+Jeder Schlag kann eine Distanz von bis zu 50 Metern zurücklegen. Danach zerfällt er.
+	Dauer: 5*n
+	Kosten: 5*n
+
+	Vertiefungskosten: 2/3 
+Schock
+Voraussetzungen:
+	MG: 35
+	WK:34
+	IN: 26
+Der Zauber sendet einen starken elektronischen Impuls durch den Körper des Ziels.
+Der Zauber wirkt in der Nahkampf Distanz, es ist jedoch für den Zauber jedoch nicht 
+notwendig direkten Kontakt herzustellen.
+Schock richtet an seinem Ziel Schaden in Höhe von 1,5 MTP an und lähmt den Getroffenen 
+für eine Kampfrunde. 
+Eine erfolgreiche Magieparade verhindert, dass das Ziel für eine Kampfrunde ausgeschaltet 
+wird. Der Schaden wird jedoch nur um MPAW/2 reduziert.
+	Dauer: 26
+	Kosten: 18
+ 
+Sprung
+Voraussetzungen:
+	Alle
+	MG: 16
+	ERF: 19
+	KK: 16
+Sprung schleudert den Zaubernden bis zu MTP/2 Meter weit.
+Die Richtung kann in der der Zaubernde weggeschleudert wird ist frei wählbar. Lässt man 
+sich nach vorne Schleudern wird üblicherweise ein MTP/4 Meter hohen Bogen beschrieben. 
+Die Flugbahn kann von Zaubernden modifiziert werden. Höhere oder flachere Bögen gehen 
+mit einem Distanzverlust einher.
+	Dauer: 5
+	Kosten: 3
+ 
+Verdunkeln
+Voraussetzungen:
+	Alle
+	MG: 14
+	WK: 21
+Der Zauber verdunkelt einen Kugelförmigen Raum um den Zaubernden herum. Die 
+verdunkelte Kugel hat einen Radius von MTP/2 Metern. 
+Die Lichtstärke innerhalb des verdunkelten Gebietes sinkt deutlich ab, aber nicht so stark, 
+dass die Sicht schwerwiegenden Einschränkungen unterworfen wäre.
+Der Zauber kann beliebig lange aufrecht gehalten werden.
+	Dauer: 5
+	Kosten: 1 pro 5 min.
+ 
+Verwandlung
+Voraussetzungen:
+	Alle
+	MG:5
+	ERF:5
+Der Zauber ändert die äußere Gestalt des Zaubernden.
+Menschen und Wesen vom Anderen Ort sehen die Gestalt die du angenommen hast auf allen, 
+bis auf der letzten, dir zugänglichen, Ebene. Auf der höchsten dir zugänglichen und allen 
+höheren Ebenen ist deine wahre Gestalt weiterhin erkennbar.
+Bei einer normalen Verwandlung ändern sich deine Attribute und Fähigkeiten nicht. Die 
+Gestalt die du wählst bestimmt aber die Möglichkeiten mit deiner Umwelt zu interagieren. 
+Wenn du z.B. die Gestalt eines Vogels annimmst, ist es dir möglich zu fliegen, als Fisch kannst 
+du schwimmen aber keine Gabel benutzen usw. .
+Verwandelst du dich in eine deiner Kerngestalten dauert der Zauber 14 ZWZ und kostet dich 3 
+MP. Zusätzlich erhälst du einem Bonus von +5 auf die MAT Probe. Bei anderen gestalten 
+kostet der Zauber 4 MP und Dauert 21 ZWZ. Kennst du die Gestalt in die du dich verwandeln 
+möchtest nicht gut oder sogar nur von einem Bild ist die Verwandlung um bis zu 20 erschwert.
+Fehlschläge innerhalb deiner normalen MAT führen zu einer leicht abweichenden Gestalt, wie 
+beispielsweise einem blauen statt einem orangenen Schnabel. Normalerweise fällt dieser 
+Fehler dem Zaubernden nur auf wenn er ihn sehen kann oder beim Verwenden einer 
+Extremität etwas anderes spürt als er erwartet.
+	Dauer: 14/21
+	Kosten: 3/4
+
+Verwandlung II
+Voraussetzungen:
+	Alle
+	MG:15
+	ERF:15
+Der Zauber ändert die äußere Gestalt des Zaubernden.
+Menschen und Wesen vom Anderen Ort sehen die Gestalt die du angenommen hast auf allen, 
+bis auf der letzten, dir zugänglichen, Ebene. Auf der höchsten dir zugänglichen und allen 
+höheren Ebenen ist deine wahre Gestalt weiterhin erkennbar.
+Bei einer normalen Verwandlung ändern sich deine Attribute und Fähigkeiten nicht. Die 
+Gestalt die du wählst bestimmt aber die Möglichkeiten mit deiner Umwelt zu interagieren. 
+Wenn du z.B. die Gestalt eines Vogels annimmst, ist es dir möglich zu fliegen, als Fisch kannst 
+du schwimmen aber keine Gabel benutzen usw. .
+Verwandelst du dich in eine deiner Kerngestalten dauert der Zauber 10 ZWZ und kostet dich 2 
+MP. Zusätzlich erhältst du einem Bonus von +10 auf die MAT Probe. Bei anderen gestalten 
+kostet der Zauber 3 MP und Dauert 18 ZWZ. Kennst du die Gestalt in die du dich verwandeln 
+möchtest nicht gut oder sogar nur von einem Bild ist die Verwandlung um bis zu 20 erschwert.
+Fehlschläge innerhalb deiner normalen MAT führen zu einer leicht abweichenden Gestalt, wie 
+beispielsweise einem blauen statt einem orangenen Schnabel. Normalerweise fällt dieser 
+Fehler dem Zaubernden nur auf wenn er ihn sehen kann oder beim Verwenden einer 
+Extremität etwas anderes spürt als er erwartet.
+	Dauer: 10/18
+	Kosten: 2/3
+      Vertiefungskosten: 2/3
+ 
+Wall
+Voraussetzungen:
+	Alle/ Wikinger
+	MG: 31
+	ERF:20
+      MR: 36
+Der Zauber erschafft einen magischen Wall, der auf der 3. und 4. Ebene sichtbar ist. 
+Der Schild kann denjenigen, der sich darunter verbirgt, vor Angriffen schützen, bis er seine 
+Energie aufgebraucht hat. Angriffe die mehr Schaden zufügen als der Schild Stabilität hat 
+fügen den überschüssigen Schaden ganz normal zu. 
+Der Schild hat eine Stabilität von 1,5 MTP.
+Der Schild löst sich nach 3* MTP Minuten auf wenn nicht vorher seine gesamte Stabilität 
+verbraucht wurde.
+Wall kann nicht mehrfach gleichzeitig verwendet werden.
+	Dauer: 33
+	Anhaltend: 3h oder bis zum Zerfall
+	Kosten: 9
+ 
+Zaubersaat
+Voraussetzungen:
+	Gabe: Zaubersaat
+	MG: 53
+	IN: 46
+	ERF: 31
+	WK: 32 +6 pro Wirken
+	LV: 3
+Der Zauber überträgt eigenes Mana in das Ziel, sodass dieses dadurch geschädigt wird.
+Der Zauber muss vor dem ersten Durchführen mit einer Dauer von 30 vorbereitet werden, 
+eine MAT-Probe ist erst beim eigentlichen Manatransfer notwendig, es müssen jetzt jedoch 
+bereits die kompletten drei Manapunkte (MP) aufgebracht werden. Nun kann bei Kontakt, 
+z.B. durch einen erfolgreichen Nahkampfangriff, mit dem Übertragen der Magie begonnen 
+werden. Nach dem ersten erfolgreichen übertragen von Magie kann in einem Abstand von bis 
+zu MTP/2 Metern um das Ziel herum weiter Magie übertragen werden. Dazu ist kein 
+Sichtkontakt notwendig. Die Übertragung kann, sofern mindestens 1 MP im Ziel vorhanden 
+ist unterbrochen und später fortgesetzt werden.
+Wird der Zauber mit einem Nahkampfangriff initiiert ist dieser um 5 erschwert, da ein Teil 
+der Konzentration des Angreifers für den Zauber notwendig ist. Sand-/ und Totdschinn 
+unterliegen dieser Einschränkung nicht da sie an das Verbinden von Magie und Nahkampf 
+gewohnt sind.
+Der vorbereitete Zauber kann beliebig lange ungenutzt parat gehalten werden, solange kann 
+jedoch kein anderer Zauber gewirkt werden und es entfallen jede Kampfrunde in der der 
+Zauber nicht eingesetzt wird 5 ZWZ und 1 MP auf das erhalten des Zaubers.
+ Jeder erfolgreiche Einsatz des Zaubers verschiebt MTP/2 Manapunkte, in das Ziel des 
+Zaubers. Dieses erleidet dadurch MTP Punkte Schaden. Übersteigt das übertragene Mana 1/5 
+der Basis LP des Ziels können langfristige Schäden an Ziel der Übertragung auftreten. Um zu 
+ermitteln ob dies der Fall ist wirft das Ziel des Zaubers bei jeder Übertragung, die die 
+Bedingung für das Auftreten von Langzeitschäden erfüllt auf MR. Die Probe hat einen Bonus 
+von 20, wird jedoch auch um 1 pro MP über der Langzeitschadensgrenze erschwert. Scheitert 
+die Probe werden die Attribute des Ziels nach erachten des Spielleiters gesenkt. Dies kann 
+mehrfach geschehen.
+Der Zaubernde kann das übertragene Mana in einem Radius von 5 MTP Metern erfühlen und 
+so den Verzauberten wiederfinden.
+Das übertragen des Manas wird mit der Menge des bereits übertragenen Manas zunehmend 
+Schwieriger, da sich die Substanz des Ziels gegen das eindringend es Fremden Manas wehrt. 
+Daher steigt die Anforderung an WK um weiteres Mana in das Ziel zu übertragen um 6 pro 
+bereits durchgeführter Übertragung.
+Wird der Zauber von Afriten oder Mariden durchgeführt ist es möglich, das Element des Ziels 
+Langfristig zu verändern. Je nach Absicht und Geschick des Zaubernden kann sich der 
+auftretenden Langzeitschaden dann geringhalten.
+Das übertragene Fremdmana kann vom Ziel des Zaubers nur am Anderen Ort mit 
+(MR+WK)/30 Mana/Tag abgebaut werden.
+Dauer: 22
+Kosten: 3+übertragenes Mana 
+Zerspalten
+Voraussetzungen:
+	Alle/ Atlantis, Hunnen
+	MG: 58
+	ERF: 46
+	WK: 56
+	IN: 43
+	LV: 3
+Zerspalten lässt den Zaubernden in zwei Teile zerspringen. Beide Teile sehen so aus wie der 
+Charakter vor dem Zauber aussah und haben genau so viele LP und MP. 
+Während der Zauber aktiv ist erhalten beide Teile dreifachen Schaden und haben dreifache 
+Kosten für Zauber. 
+Der Zauber ist beendet wenn eine Hälfte besiegt wurde oder wenn der Zaubernde den Zauber 
+auflöst. Es ist für das aufheben des Zaubers nicht notwendig das sich die Hälften beieinander 
+befinden. Eine Hälfte wird zu Original bestimmt, die andere wird als Materie-Strahl zum 
+Original hingezogen. 
+Beim Auflösen wird jeweils der Mittelwert von LP und MP der beiden Hälften genommen (sie 
+werden erst addiert und schließlich wieder durch Zwei geteilt, wobei normal gerundet wird). 
+Die Kosten für den Zauber und das aufrecht erhalten des Zaubers werden beiden Hälften 
+abgezogen, diese werden nicht erhöht.
+Um den Zauber aufrecht zu halten müssen beide Hälften jede Runde 11 MP aufbringen.
+	Dauer: 85 
+	Kosten: 18 / 11
+
+
+AA
+
+

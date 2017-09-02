@@ -1,0 +1,165 @@
+package model.IO;
+
+import java.io.BufferedReader;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+
+import model.Hero;
+import model.Value;
+import model.calculator.Term;
+import model.world.Culture;
+import model.world.CultureWithElement;
+import model.world.Element;
+import model.world.Spell;
+
+public class Reader {
+
+	public static ArrayList<String> readFile(String path) {
+		// Open the file
+		FileInputStream fstream;
+		try {
+			fstream = new FileInputStream(path);
+			BufferedReader br = new BufferedReader(new InputStreamReader(fstream));
+			String strLine;
+
+			ArrayList<String> allLines = new ArrayList<String>();
+			// Read File Line By Line
+			while ((strLine = br.readLine()) != null) {
+				allLines.add(strLine);
+			}
+
+			// Close the input stream
+			br.close();
+
+			return allLines;
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			//e.printStackTrace();
+		}
+
+		return null;
+
+	}
+
+	public static ArrayList<Spell> readSpells(String path) {
+		ArrayList<String> strings = readFile(path);
+		ArrayList<Spell> SpellList = new ArrayList<Spell>();
+		int i = 0;
+		if (strings != null) {
+
+			while (i < strings.size()) {
+				ArrayList<String> spells = new ArrayList<String>();
+				while (i < strings.size() && !strings.get(i).equals(" ")) {
+					spells.add(strings.get(i));
+					i++;
+				}
+				i++;
+				if (!spells.isEmpty()) {
+					Spell s = convertLinesToSpell(spells);
+					SpellList.add(s);
+				}
+
+			}
+		}
+		return SpellList;
+
+	}
+
+	private static Spell convertLinesToSpell(ArrayList<String> spell) {
+		String titel = spell.get(0);
+		String precondition = "\n" + spell.get(2) + "\n";
+		int i = 3;
+		while (spell.get(i).contains(":")) {
+			precondition += spell.get(i) + "\n";
+			i++;
+		}
+		precondition = precondition.replace("\t", "");
+		String text = "";
+		for (i = i; i < spell.size() - 3; i++) {
+			text += spell.get(i) + "\n";
+		}
+
+		String power = null;
+		String duration = spell.get(spell.size() - 2);
+		String cost = spell.get(spell.size() - 1);
+
+		Spell s = new Spell(titel, precondition, text, cost, duration, power);
+
+		return s;
+	}
+
+	public static ArrayList<Element> readElements(String path) {
+		ArrayList<String> strings = readFile(path);
+		ArrayList<Element> elements = new ArrayList<Element>();
+
+		for (String s : strings) {
+			Element e = new Element(s, "");
+			elements.add(e);
+		}
+		Element.allElements.addAll(elements);
+		return elements;
+	}
+
+	public static ArrayList<Culture> readCultures(String path) {
+		ArrayList<String> strings = readFile(path);
+		ArrayList<Culture> cultures = new ArrayList<Culture>();
+		int i = 0;
+		while (i < strings.size()-1) {
+			Culture c = new Culture(strings.get(i), "");
+			i++;
+			while (i<strings.size() && !strings.get(i).equals("")) {
+				Boolean elementFound = false;
+				for (Element e : Element.allElements) {
+					if (e.getName().equals(strings.get(i))) {
+						elementFound = true;
+						c.addElement(e);
+					}
+				}
+				if (!elementFound) {
+					Element e = new Element(strings.get(i), "");
+					Element.allElements.add(e);
+					c.addElement(e);
+				}
+				i++;
+			}
+			cultures.add(c);
+			i++;
+		}
+		Culture.allCultures.addAll(cultures);
+		return cultures;
+	}
+
+	public static void readHeroBaseValues(String path) {
+		ArrayList<String> strings = readFile(path);
+		for(String s: strings) {
+			if(s.contains("=")) { //create notBaseValue
+				String[] split = s.split("=");
+				Value v = new Value(split[0],split[1]);
+				Hero.fightValueList.add(v);
+			} else {
+				Value v= new Value(s,s);
+				Hero.baseValueList.add(v);
+			}
+		}
+	}
+
+	public static void readMaxMinBoni(String path, CultureWithElement cWE) {
+		ArrayList<String> strings = readFile("CWE\\" +path);
+		if(strings!=null) {
+			for(int i=1;i<13;i++) {
+				cWE.getMinValues().add(new Value(Hero.baseValueList.get(i-1).getName(),Integer.parseInt(strings.get(i))));
+			}
+			
+			for(int i=14;i<26;i++) {
+				cWE.getMaxValues().add(new Value(Hero.baseValueList.get(i-14).getName(),Integer.parseInt(strings.get(i))));
+			}
+			
+			for(int i=29;i<41;i++) {
+				cWE.getBonusValues().add(new Value(Hero.baseValueList.get(i-29).getName(),Integer.parseInt(strings.get(i))));
+			}	
+		}
+	}
+}
