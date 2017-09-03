@@ -83,6 +83,11 @@ public class Main extends Application{
 			Parent mainPane = fXMLLoader.load();
 			mainScene = new Scene(mainPane);
 			primStage.setScene(mainScene);
+			primStage.setMinHeight(250);
+			primStage.setMinWidth(200);
+			//primStage.setMaxHeight(500);
+			//primStage.setMaxWidth(350);
+			primStage.setTitle("PnPHelper alpha");
 	
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
