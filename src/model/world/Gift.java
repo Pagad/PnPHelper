@@ -39,4 +39,8 @@ public class Gift implements Conditional{
 	public String toString() {
 		return name+" ("+cost+")";
 	}
+	
+	public Condition getPrecondition() {
+		return precondition;
+	}
 }

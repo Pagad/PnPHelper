@@ -56,7 +56,7 @@ public class spellbookController {
 
 		Spell selected = SpellList.get(spellList.getSelectionModel().getSelectedIndex());
 		spellNameField.setText(selected.getTitel());
-		spellPreconditionField.setText(selected.getPrecondition());
+		spellPreconditionField.setText(selected.getPrecondition().toString());
 		spellTextField.setText(selected.getText());
 		spellDurationField.setText(selected.getDuration());
 		spellCostField.setText(selected.getCost());

@@ -291,6 +291,7 @@ public class HeroSceneController {
 
 		for (Gift g : Gift.allGifts) {
 			allGifts.getItems().add(g);
+
 		}
 
 		for (Handicap h : Handicap.allHandicaps) {

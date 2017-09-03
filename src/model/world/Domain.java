@@ -37,4 +37,8 @@ public class Domain implements Conditional{
 	public String toString() {
 		return name+" ("+cost+")";
 	}
+
+	public Condition getPrecondition() {
+		return precondition;
+	}
 }

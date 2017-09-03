@@ -39,4 +39,7 @@ public class Handicap implements Conditional{
 		return name+" ("+cost+")";
 	}
 	
+	public Condition getPrecondition() {
+		return precondition;
+	}
 }

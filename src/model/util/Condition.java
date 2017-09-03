@@ -2,6 +2,7 @@ package model.util;
 
 import java.util.ArrayList;
 
+import model.Hero;
 import model.Value;
 import model.world.Culture;
 import model.world.Element;
@@ -29,5 +30,10 @@ public class Condition {
 		return forbiddenConditions.remove(c);
 	}
 	
+	
+	public boolean proofCondition(Hero h) {
+		return true;
+		
+	}
 	
 }

@@ -35,9 +35,7 @@ public class Spell implements Conditional{
 	public void setTitel(String titel) {
 		this.titel = titel;
 	}
-	public String getPrecondition() {
-		return precondition;
-	}
+
 	public void setPrecondition(String precondition) {
 		this.precondition = precondition;
 	}
@@ -66,5 +64,8 @@ public class Spell implements Conditional{
 		this.power = power;
 	}
 	
+	public Condition getPrecondition() {
+		return precondition2;
+	}
 	
 }
