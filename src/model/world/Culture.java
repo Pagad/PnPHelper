@@ -2,7 +2,9 @@ package model.world;
 
 import java.util.ArrayList;
 
-public class Culture {
+import model.util.Conditional;
+
+public class Culture implements Conditional{
 
 	public static ArrayList<Culture> allCultures = new ArrayList<Culture>();
 
@@ -50,4 +52,8 @@ public class Culture {
 		return null;
 	}
 
+	@Override
+	public String toString() {
+		return this.getName();
+	}
 }

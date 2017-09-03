@@ -2,11 +2,14 @@ package model.world;
 
 import java.util.ArrayList;
 
-public class Gift{
+import model.util.Condition;
+import model.util.Conditional;
+
+public class Gift implements Conditional{
 
 	public static ArrayList<Gift> allGifts= new ArrayList<Gift>();
 	
-	
+	private Condition precondition = new Condition();
 	private int cost;
 	private String name;
 	private String text;

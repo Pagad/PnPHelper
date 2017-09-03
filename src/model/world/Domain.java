@@ -2,11 +2,14 @@ package model.world;
 
 import java.util.ArrayList;
 
-public class Domain {
+import model.util.Condition;
+import model.util.Conditional;
+
+public class Domain implements Conditional{
 
 	public static ArrayList<Domain> allDomains = new ArrayList<Domain>();
 
-	
+	private Condition precondition = new Condition();
 	private int cost;
 	private String name;
 	private String text;

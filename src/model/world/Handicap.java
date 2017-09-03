@@ -2,11 +2,14 @@ package model.world;
 
 import java.util.ArrayList;
 
-public class Handicap {
+import model.util.Condition;
+import model.util.Conditional;
+
+public class Handicap implements Conditional{
 
 	public static ArrayList<Handicap> allHandicaps = new ArrayList<Handicap>();
 
-	
+	private Condition precondition = new Condition();
 	private int cost;
 	private String name;
 	private String text;

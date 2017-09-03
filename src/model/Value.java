@@ -1,8 +1,9 @@
 package model;
 
 import model.calculator.Term;
+import model.util.Conditional;
 
-public class Value {
+public class Value implements Conditional{
 
 	String name;
 	Integer number;

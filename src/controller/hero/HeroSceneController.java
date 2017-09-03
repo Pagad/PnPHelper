@@ -46,13 +46,13 @@ import view.spells.SpellBookScene;
 public class HeroSceneController {
 
 	@FXML
-	private ChoiceBox<String> CultureList;
+	private ChoiceBox<Culture> CultureList;
 
 	@FXML
 	private RadioButton cultureRadio;
 
 	@FXML
-	private ChoiceBox<String> ElementList;
+	private ChoiceBox<Element> ElementList;
 
 	@FXML
 	private RadioButton elementRadio;
@@ -130,7 +130,6 @@ public class HeroSceneController {
 			culturelist.add(c.getName());
 
 		}
-		CultureList.setItems(culturelist);
 
 		ObservableList<Integer> layerlist = FXCollections.observableArrayList();
 		for (int i = 1; i < 8; i++) {
@@ -194,24 +193,43 @@ public class HeroSceneController {
 		cultureRadio.setSelected(true);
 		elementRadio.setToggleGroup(tg);
 
-		CultureList.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<String>() {
+		CultureList.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Culture>() {
 			@Override
-			public void changed(ObservableValue<? extends String> observable, String oldValue, String newValue) {
-				chooseCulture();
+			public void changed(ObservableValue<? extends Culture> observable, Culture oldValue, Culture newValue) {
+				if (cultureRadio.isSelected()) {
+					ElementList.getItems().clear();
+					Culture c = CultureList.getSelectionModel().getSelectedItem();
+					ElementList.getItems().addAll(c.getElements());
+				}
+				updateMinMaxBonusValues();
+				updateGPCount();
+				updateSumValue();
 			}
 		});
 
-		ElementList.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<String>() {
+		ElementList.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Element>() {
 			@Override
-			public void changed(ObservableValue<? extends String> observable, String oldValue, String newValue) {
-				chooseElement();
+			public void changed(ObservableValue<? extends Element> observable, Element oldValue, Element newValue) {
+				if (elementRadio.isSelected()) {
+					Element e = ElementList.getSelectionModel().getSelectedItem();
+					CultureList.getItems().clear();
+						for (Culture c : Culture.allCultures) {
+							if (c.getElements().contains(e)) {
+								CultureList.getItems().add(c);
+							}
+						}
+					}
+				updateMinMaxBonusValues();
+				updateGPCount();
+				updateSumValue();
 			}
 		});
 
 		allGifts.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Gift>() {
 			@Override
 			public void changed(ObservableValue<? extends Gift> arg0, Gift arg1, Gift arg2) {
-				if(arg2!=null) infoArea.setText(arg2.getText());
+				if (arg2 != null)
+					infoArea.setText(arg2.getText());
 			}
 
 		});
@@ -219,23 +237,26 @@ public class HeroSceneController {
 		selectedGifts.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Gift>() {
 			@Override
 			public void changed(ObservableValue<? extends Gift> arg0, Gift arg1, Gift arg2) {
-				if(arg2!=null) infoArea.setText(arg2.getText());
+				if (arg2 != null)
+					infoArea.setText(arg2.getText());
 			}
 
 		});
-		
+
 		allHandicaps.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Handicap>() {
 			@Override
 			public void changed(ObservableValue<? extends Handicap> arg0, Handicap arg1, Handicap arg2) {
-				if(arg2!=null) infoArea.setText(arg2.getText());
+				if (arg2 != null)
+					infoArea.setText(arg2.getText());
 			}
 
 		});
-		
+
 		selectedHandicap.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Handicap>() {
 			@Override
 			public void changed(ObservableValue<? extends Handicap> arg0, Handicap arg1, Handicap arg2) {
-				if(arg2!=null) infoArea.setText(arg2.getText());
+				if (arg2 != null)
+					infoArea.setText(arg2.getText());
 			}
 
 		});
@@ -243,16 +264,18 @@ public class HeroSceneController {
 		allDomains.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Domain>() {
 			@Override
 			public void changed(ObservableValue<? extends Domain> arg0, Domain arg1, Domain arg2) {
-				if(arg2!=null) infoArea.setText(arg2.getText());
+				if (arg2 != null)
+					infoArea.setText(arg2.getText());
 			}
 
 		});
-		
+
 		selectedDomain.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Domain>() {
 			@Override
 			public void changed(ObservableValue<? extends Domain> arg0, Domain arg1, Domain arg2) {
-				if(arg2!=null) infoArea.setText(arg2.getText());
-				
+				if (arg2 != null)
+					infoArea.setText(arg2.getText());
+
 			}
 
 		});
@@ -261,6 +284,10 @@ public class HeroSceneController {
 	}
 
 	private void loadStuff() {
+
+		CultureList.getItems().addAll(Culture.allCultures);
+
+		ElementList.getItems().addAll(Element.allElements);
 
 		for (Gift g : Gift.allGifts) {
 			allGifts.getItems().add(g);
@@ -320,66 +347,32 @@ public class HeroSceneController {
 
 	@FXML
 	void cultureRadioChoose(ActionEvent event) {
-		ObservableList<String> list = FXCollections.observableArrayList();
-		for (Culture c : Culture.allCultures) {
-			list.add(c.getName());
-
-		}
-		CultureList.setItems(list);
+		CultureList.getItems().addAll(Culture.allCultures);
+		Element e = ElementList.getSelectionModel().getSelectedItem();
+		ElementList.getItems().clear();
+		ElementList.getItems().addAll(CultureList.getSelectionModel().getSelectedItem().getElements());
+		ElementList.getSelectionModel().select(e);
 	}
 
 	@FXML
 	void elementRadioChoose(ActionEvent event) {
-		ObservableList<String> list = FXCollections.observableArrayList();
-		for (Element e : Element.allElements) {
-			list.add(e.getName());
-
-		}
-		ElementList.setItems(list);
-	}
-
-	void chooseCulture() {
-		if (cultureRadio.isSelected()) {
-			String s = CultureList.getSelectionModel().getSelectedItem();
-			if (s != null) {
-				Culture c = Culture.getCultureFromName(s);
-				ObservableList<String> list = FXCollections.observableArrayList();
-				for (Element e : c.getElements()) {
-					list.add(e.getName());
-				}
-				ElementList.setItems(list);
+		ElementList.getItems().addAll(Element.allElements);
+		Culture cs =CultureList.getSelectionModel().getSelectedItem();
+		CultureList.getItems().clear();
+		for (Culture c : Culture.allCultures) {
+			if (c.getElements().contains(ElementList.getSelectionModel().getSelectedItem())) {
+				CultureList.getItems().add(c);
 			}
 		}
-		updateMinMaxBonusValues();
-		updateGPCount();
-		updateSumValue();
-	}
-
-	void chooseElement() {
-		if (elementRadio.isSelected()) {
-			String s = ElementList.getSelectionModel().getSelectedItem();
-			if (s != null) {
-				Element e = Element.getElementFromName(s);
-				ObservableList<String> list = FXCollections.observableArrayList();
-				for (Culture c : Culture.allCultures) {
-					if (c.getElements().contains(e)) {
-						list.add(c.getName());
-					}
-				}
-				CultureList.setItems(list);
-			}
-		}
-		updateMinMaxBonusValues();
-		updateGPCount();
-		updateSumValue();
+		CultureList.getSelectionModel().select(cs);
 	}
 
 	private void updateMinMaxBonusValues() {
 		if (CultureList.getSelectionModel().getSelectedItem() != null
 				&& ElementList.getSelectionModel().getSelectedItem() != null) {
 
-			Culture c = Culture.getCultureFromName(CultureList.getSelectionModel().getSelectedItem());
-			Element e = Element.getElementFromName(ElementList.getSelectionModel().getSelectedItem());
+			Culture c = CultureList.getSelectionModel().getSelectedItem();
+			Element e = ElementList.getSelectionModel().getSelectedItem();
 
 			CultureWithElement cWe = CultureWithElement.getCultureWithElement(c, e);
 
@@ -430,7 +423,7 @@ public class HeroSceneController {
 
 	@FXML
 	void selectDomain(MouseEvent event) {
-		if(event.getClickCount()==2) {
+		if (event.getClickCount() == 2) {
 			Domain d = allDomains.getSelectionModel().getSelectedItem();
 			selectedDomain.getItems().add(d);
 			allDomains.getItems().remove(d);
@@ -439,7 +432,7 @@ public class HeroSceneController {
 
 	@FXML
 	void selectGift(MouseEvent event) {
-		if(event.getClickCount()==2) {
+		if (event.getClickCount() == 2) {
 			Gift g = allGifts.getSelectionModel().getSelectedItem();
 			selectedGifts.getItems().add(g);
 			allGifts.getItems().remove(g);
@@ -448,16 +441,16 @@ public class HeroSceneController {
 
 	@FXML
 	void selectHandicap(MouseEvent event) {
-		if(event.getClickCount()==2) {
-			Handicap h =allHandicaps.getSelectionModel().getSelectedItem();
+		if (event.getClickCount() == 2) {
+			Handicap h = allHandicaps.getSelectionModel().getSelectedItem();
 			selectedHandicap.getItems().add(h);
 			allHandicaps.getItems().remove(h);
 		}
 	}
-	
+
 	@FXML
 	void deselectDomain(MouseEvent event) {
-		if(event.getClickCount()==2) {
+		if (event.getClickCount() == 2) {
 			Domain d = selectedDomain.getSelectionModel().getSelectedItem();
 			allDomains.getItems().add(d);
 			selectedDomain.getItems().remove(d);
@@ -466,7 +459,7 @@ public class HeroSceneController {
 
 	@FXML
 	void deselectGift(MouseEvent event) {
-		if(event.getClickCount()==2) {
+		if (event.getClickCount() == 2) {
 			Gift g = selectedGifts.getSelectionModel().getSelectedItem();
 			allGifts.getItems().add(g);
 			selectedGifts.getItems().remove(g);
@@ -475,8 +468,8 @@ public class HeroSceneController {
 
 	@FXML
 	void deselectHandicap(MouseEvent event) {
-		if(event.getClickCount()==2) {
-			Handicap h =selectedHandicap.getSelectionModel().getSelectedItem();
+		if (event.getClickCount() == 2) {
+			Handicap h = selectedHandicap.getSelectionModel().getSelectedItem();
 			allHandicaps.getItems().add(h);
 			selectedHandicap.getItems().remove(h);
 		}

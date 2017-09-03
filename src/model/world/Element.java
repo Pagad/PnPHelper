@@ -2,7 +2,9 @@ package model.world;
 
 import java.util.ArrayList;
 
-public class Element {
+import model.util.Conditional;
+
+public class Element implements Conditional{
 
 	public static ArrayList<Element> allElements = new ArrayList<Element>();
 
@@ -39,6 +41,11 @@ public class Element {
 			}
 		}
 		return null;
+	}
+	
+	@Override
+	public String toString() {
+		return this.getName();
 	}
 
 }

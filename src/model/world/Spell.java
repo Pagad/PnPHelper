@@ -1,9 +1,13 @@
 package model.world;
 
-public class Spell {
+import model.util.Condition;
+import model.util.Conditional;
+
+public class Spell implements Conditional{
 	
 	private String titel;
 	private String precondition;
+	private Condition precondition2 = new Condition();
 	private String text;
 	private String cost;
 	private String duration;
