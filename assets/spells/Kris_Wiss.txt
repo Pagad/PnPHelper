@@ -1,0 +1,352 @@
+Discus
+Voraussetzungen:
+	Kristall
+	MG: 19
+	WK: 36
+	GE: 28
+	WAH: 24
+Der Zauber erschafft eine flache Kristallscheibe mit Scharfem Rand.
+Die Kristallscheibe hat einen Durchmesser von MTP/4 Metern. Sie fügt jedem den sie trifft MTP Punkte Schaden zu.
+Da die Kristallscheibe jedes Mal wenn sie einen Gegner trifft etwas Energie verliert, kann sie maximal WK/ 10 Gegner, abgerundet, verletzen, bevor sie stehen bleibt.
+Nachdem die Scheibe erschaffen wurde wird sie magisch beschleunigt und mit einer Zielen-Probe losgeschickt. Für jeden Punkt den der Geworfene Wert den Zielen-Wert übertrifft verfehlt sie auf 10 Meter um 20 cm. Würde also der Zielen Wert um 5 überboten verfehlt die Scheibe ein 10 Meter entferntes Ziel um einen Meter. Gezielt wird die Mitte der Kristallscheibe.
+Die Kristallscheibe kann aufgehoben und erneut von einem Kristalldschinn verwendet werden. In diesem Fall kostet das ausführen des Zaubers nur 14 ZWZ und 4 MP.
+Hebt jemand anderes die Scheibe auf so kann er sie nur durch Körperkraft antreiben. Es bedarf einer Probe auf (FF+GE)/2 +10 um festzustellen ob die Scheibe erfolgreich losgeschickt wurde. Scheitert die Probe, fällt die Scheibe KK/10 Meter entfernt zu Boden, jemand getroffenes erlitte dabei nur TP/2 Punkte Schaden. Gelingt die Probe jedoch so fliegt die Scheibe los und kann bis zu KK/20 Ziele mit jeweils TP Punkten Schaden verletzen.
+Es ist auch möglich die Kristallscheibe nur zu erschaffen und nicht magisch zu beschleunigen, dies erfordert 40 ZWZ und 16 MP:
+Die Kristallscheibe besitzt MTP Stabilitätspunkte. Jedes Mal wenn die Scheibe ein Ziel trifft verliert sie einen Stabilitätspunkt. Wird der Kristalldiscus ungeschickt abgeworfen verliert er drei Stabilitätspunkte.
+Wird der Kristalldiscus gezielt angegriffen verliert er einen Stabilitätspunkt für je 2 Punkte Schaden die er erleidet.
+	Dauer: 51/14/40
+	Kosten: 18/4/16
+ 
+Discus II
+Voraussetzungen:
+	Kristall
+	MG: 27
+	WK: 46
+	GE: 40
+	WAH: 36
+Der Zauber erschafft eine flache Kristallscheibe mit Scharfem Rand.
+Die Kristallscheibe hat einen Durchmesser von MTP/3 Metern. Sie fügt jedem den sie trifft MTP Punkte Schaden zu.
+Da die Kristallscheibe jedes Mal wenn sie einen Gegner trifft etwas Energie verliert, kann sie maximal WK/ 7 Gegner, abgerundet, verletzen, bevor sie stehen bleibt.
+Nachdem die Scheibe erschaffen wurde wird sie magisch beschleunigt und mit einer Zielenprobe losgeschickt. Für jeden Punkt den der Geworfene Wert den Zielen-Wert übertrifft verfehlt sie auf 10 Meter um 20 cm. Würde also der Zielen Wert um 5 überboten verfehlt die Scheibe ein 10 Meter entferntes Ziel um einen Meter. Gezielt wird die Mitte der Kristallscheibe.
+Die Kristallscheibe kann aufgehoben und erneut von einem Kristalldschinn verwendet werden. In diesem Fall kostet das ausführen des Zaubers nur 14 ZWZ und 4 MP.
+Hebt jemand anderes die scheibe auf so kann er sie nur durch Körperkraft antreiben. Es bedarf einer Probe auf (FF+GE)/2 +10 um festzustellen ob die Scheibe erfolgreich losgeschickt wurde. Scheitert die Probe, fällt die Scheibe KK/9 Meter entfernt zu Boden, jemand getroffenes erlitte dabei nur TP/2 Punkte Schaden. Gelingt die Probe jedoch so fliegt die Scheibe los und kann bis zu KK/15 Ziele mit jeweils TP Punkten Schaden verletzen.
+Es ist auch möglich die Kristallscheibe nur zu erschaffen und nicht magisch zu beschleunigen, dies erfordert 34 ZWZ und 14 MP:
+Die Kristallscheibe besitzt 1,5*MTP Stabilitätspunkte. Jedes mal wenn die Scheibe ein Ziel trifft verliert sie einen Stabilitätspunkt. Wird der Kristalldiscus ungeschickt abgeworfen verliert er drei Stabilitätspunkte.
+Wird der Kristalldiscus gezielt angegriffen verliert er einen Stabilitätspunkt für je 2 Punkte Schaden die er erleidet.
+Ein Wesen das Discus II beherrscht kann einen gefunden Kristalldiscus mit 10 ZWZ und 3 MP beschleunigen. Wurde das gefundene Exemplar jedoch mit Discus erschaffen können damit maximal WK/9 Gegner verletzt werden.
+	Dauer: 41/10/34
+	Kosten: 15/3/14
+ 
+Kristallisieren
+Voraussetzungen:
+	Kristall
+	MG: 23
+WK: 37
+	ERF: 25
+der Zauber verändert die Struktur des Ziels des Zaubers in eine kristallische. Das verzauberte Objekt wird dadurch härter und haltbarer.
+Um den Zauber einzusetzen ist es notwendig das Ziel des Zaubers zu berühren. 
+Der Zauber kann nicht offensiv gegen andere verwandt werden. Wehrt sich jemand gegen die Kristallisierung schlägt sie automatisch fehl. 
+Gegenstände die kristallisiert wurden haben einen Waffenbonus von 1 Punkt Schaden.		Dauer: 16/ 50cm³
+	Kosten: 3 / 50 cm³
+ 
+Schutzwall
+Voraussetzungen:
+	Kristall
+	MG:24
+	WK: 28
+ERF:22
+Der Zauber erschafft eine Kristallwand nahe des Zaubernden. Die Kristallwand ist 3 Meter vom Zaubernden entfernt und deckt einen Teilkreis von etwa 90° ab. Die Wand ist MTP/4 Meter hoch. Sie kann auch außerhalb des Sichtbereichs erschaffen werden. 
+Die Kristallwand besitzt 3 MTP Stabilitätspunkte. 
+Sie kann mit einer Dauer von ‘Verlorene Stabilitätspunkte‘ ZWZ und einem Drittel davon an Manakosten wieder hergestellt werden. Um die Mauer auszubessern ist weder sicht- noch physischer Kontakt notwendig.
+Der Schutzwall kann mehrfach erschaffen werden, es kann jedoch immer nur der neuste Schutzwall wieder repariert werden.
+	Dauer: 22
+	Kosten: 8
+ 
+Stachelfeld
+Voraussetzungen:
+	MG: 28
+	ERF: 24
+	WK: 44
+Der Zauber erschafft in einem runden Gebiet mit einem Durchmesser von MTP/4, dass sich maximal MTP Meter vom Zaubernden entfernt befindet eine Reihe von ca. MTP/15 Meter hohen Kristallstacheln. 
+Die Stacheln spießen jeden der sich in dem Gebiet befindet auf und richten damit einen Schaden von 1W6*0,5MTP an. 
+Um das Gebiet zu verlassen oder einem wachsenden Stachel zu entkommen ist eine Ausweichenprobe notwendig. Die Ausweichenprobe ist für alle die das Gebiet durch ausweichen nicht verlassen können um 20 erschwert. 
+Wird der für die erschwerte Ausweichenprobe notwendige Wert übertroffen eine normale Ausweichenprobe würde aber gelingen, so kann einem Teil des Schadens entronnen werden. Der angerichtete Schaden reduziert sich in diesem Fall auf 1W4*0,5MTP. 
+Da die Stacheln bestehen bleiben, sind Durchbohrte festgesetzt bis sie sich mit einer aktiven Aktion, 18 AU, befreien. Jede Runde die jemand Aufgespießtes aufgespießt beginnt erleidet er 1W6 Schaden.
+	Dauer: 34
+	Kosten: 22
+ 
+Amulett des Wissens
+	Kristall-Wissenschaft
+MG:	46	52	58	58
+KL:	34	42	48	48
+IN:	36	44	52	52
+ERF:	34	42	56	56
+LV:	0	3	5	7
+Der Zauber erschafft eine Kristallkette mit einem Amulett daran. 
+Dieses Amulett verleiht seinem Träger einen von mehreren möglichen Boni. Jeder kann nur einen Anhänger nutzen, selbst wenn er mehrere trägt.
+Die Amulette sind aus Kristall gefertigt und erhalten durch ein mikroskopisches in die Kristallstruktur eingearbeitetes Muster seine magische Kraft. Die Amulette können durch Gewalt sehr einfach zerstört werden. Sie bleiben ansonsten so lange bestehen wie der Erschaffer des Amulettes in unserer Welt verweilt.
+Geringere und kleine Amulette können sehr fein gearbeitet werden und haben eine minimale Kantenlänge oder einen minimalen Durchmesser von 1000/MG Millimetern, je nach Form des Amulettes. Amulette haben eine minimale Länge von 1500/MG Millimetern.
+Für diese Effekte muss die erste Gruppe an Voraussetzungen erfüllt werden.
+	- Geringeres Amulett des Wissens: KL+2, MG+1, MAT+1
+	- Geringeres Amulett der Zauberkunst: WK+1, MG+1, KL+1, MAT+1
+	- Geringeres Amulett des Zauberschutzes: KL+1, MR+2, MPA+1
+Für diese Effekte muss die zweite Gruppe von Voraussetzungen erfüllt werden.
+	-Kleines Amulett der Zauberkunst: KL+2, MG+2, MAT+3
+	-Kleines Amulett der magischen Durchsetzungsfähigkeit: KL+1, WK+2, MTP+1
+	-Kleines Amulett des Zauberschutzes: KL+2, MR+2, MPA+2, MPAW+1
+-Kleines Amulett der hohen Magie: KL+2, ERF+2, IN+2, maxMP+MTP/2, aktuelleMP+MTP/4
+-Kleines Amulett der Weisheit: KL+2, MG+1, MR+1, IN+1, MAT+2, MPA+2
+Für diese Effekte muss die dritte Gruppe Voraussetzungen erfüllt werden.
+Mit einer Hybridisierung des entsprechenden Elements oder 10 MP die durch einen Kristallspeicher oder von einem hilfreichen anderen Wesen beigetragen werden kann ein Amulett erstellt werden das 10% Resistenz gegen das Element verleiht.
+	-Feuer/Vulkan – Hitzeresistenz
+	- ... siehe Ressitabelle
+Für diese Effekte muss die vierte Gruppe von Anforderungen erfüllt werden.
+	-Amulett der Zauberkunst: KL+3, MG+3, MAT+5
+	-Amulett der magischen Durchsetzungsfähigkeit: KL+2, WK+3, MAT+2, MTP+1
+	-Amulett des Zauberschutzes: KL+3, MR+3, MPA+4, MPAW+2
+	-Amulett der hohen Magie: KL+3, ERF+3, IN+3, maxMP+MTP, aktuelleMP+MTP/2
+-Amulett der hohen Lebenskraft: KL+2, KO+2, KK+2, maxLP+MTP/2, aktuelleLP+MTP/4
+	-Amulett der Weisheit: KL+2, MG+2, WK+2, MR+2, IN+2, MAT+3, MPA+3, MPAW+1	
+Dauer:  56/ 74/ 96/ 130 
+	Kosten:  6/  10/ 12/ 14
+	Vertiefungskosten: 5/7
+
+ 
+Amulett des Wissens II
+	 Kristall-Wissenschaft
+MG:	46	52	58	58	65
+KL:	34	42	48	48	60
+IN:	36	44	52	52	60
+ERF:	34	42	56	56	61
+LV:	0	3	5	7	9
+Der Zauber erschafft eine Kristallkette mit einem Amulett daran. 
+Dieses Amulett verleiht seinem Träger einen von mehreren möglichen Boni. Jeder kann nur einen Anhänger nutzen, selbst wenn er mehrere trägt.
+Die Amulette sind aus Kristall gefertigt und erhalten durch ein mikroskopisches in die Kristallstruktur eingearbeitetes Muster seine magische Kraft. Die Amulette können durch Gewalt sehr einfach zerstört werden. Sie bleiben ansonsten so lange bestehen wie der Erschaffer des Amulettes in unserer Welt verweilt.
+Wird für die Erschaffung die doppelte Menge an Manapunkten (MP) aufgewendet kann sogar ein permanentes Amulett erstellt werden, dass auch wenn der Erschaffer des Amulettes unsere Welt verlässt bestehen bleibt.
+Geringere und kleine Amulette können sehr fein gearbeitet werden und haben eine minimale Kantenlänge oder einen minimalen Durchmesser von 750/MG Millimetern, je nach Form des Amulettes. Amulette und große Amulette haben eine minimale Länge von 1000/MG Millimetern.
+Für diese Effekte muss die erste Gruppe an Voraussetzungen erfüllt werden.
+	- Geringeres Amulett des Wissens: KL+3, MAT+1
+	- Geringeres Amulett der Zauberkunst: MG+2, KL+1, MAT+1
+- Geringeres Amulett der magischen Durchsetzungsfähigkeit: WK+2, KL+1, MAT+1
+	- Geringeres Amulett des Zauberschutzes: KL+1, MR+2, MPA+1
+Für diese Effekte muss die zweite Gruppe von Voraussetzungen erfüllt werden.
+-Kleines Amulett des Wissens: MG+1, KL+3, MAT+3
+-Kleines Amulett der Zauberkunst: MG+2, KL+2, MAT+3
+	-Kleines Amulett der magischen Durchsetzungsfähigkeit: WK+2, KL+1, MTP+1
+	-Kleines Amulett des Zauberschutzes: KL+2, MR+2, MPA+2, MPAW+1
+-Kleines Amulett der hohen Magie: KL+2, ERF+2, IN+2, maxMP+MTP/2, aktuelleMP+MTP/4
+-Kleines Amulett der Weisheit: KL+2, MG+1, MR+1, IN+1, MAT+2, MPA+2
+Für diese Effekte muss die dritte Gruppe Voraussetzungen erfüllt werden.
+Mit einer Hybridisierung des entsprechenden Elements oder 10 MP die durch einen Kristallspeicher oder von einem hilfreichen anderen Wesen beigetragen werden kann ein Amulett erstellt werden das 10% Resistenz gegen das Element verleiht.
+	-Feuer/Vulkan – Hitzeresistenz
+	- ... siehe Ressitabelle
+Für diese Effekte muss die vierte Gruppe von Anforderungen erfüllt werden.
+-Amulett des Wissens: MG+1, KL+5, MAT+5
+	-Amulett der Zauberkunst: KL+3, MG+3, MAT+5
+	-Amulett der magischen Durchsetzungsfähigkeit: KL+2, WK+3, MAT+2, MTP+1
+	-Amulett des Zauberschutzes: KL+3, MR+3, MPA+4, MPAW+2
+	-Amulett der hohen Magie: KL+3, ERF+3, IN+3, maxMP+MTP, aktuelleMP+MTP/2
+-Amulett der hohen Lebenskraft: KL+2, KO+2, KK+2, maxLP+MTP/2, aktuelleLP+MTP/4
+	-Amulett der Weisheit: KL+2, MG+2, WK+2, MR+2, IN+2, MAT+3, MPA+3, MPAW+1
+Für diese Effekte muss die fünfte Gruppe von Anforderungen erfüllt werden: 
+-Großes Amulett des Wissens: MG+2, KL+6, MAT+7
+-Großes Amulett der Zauberkunst: KL+4, MG+4, MAT+7
+	-Großes Amulett der magischen Durchsetzungsfähigkeit: KL+3, WK+4, MAT+4, MTP+1
+	-Großes Amulett des Zauberschutzes: KL+4, MR+4, MPA+5, MPAW+3
+-Großes Amulett der hohen Magie: KL+4, ERF+3, IN+4, maxMP+2MTP, aktuelleMP+MTP
+-Großes Amulett der hohen Lebenskraft: KL+3, KO+2, KK+2, ERF+1, maxLP+MTP, aktuelleLP+MTP/2
+-Großes Amulett der Weisheit: KL+3, MG+3, WK+2, MR+3, IN+3, MAT+4, MPA+4, MPAW+1
+Dauer:  56/ 74/ 98/ 130/ 173 
+	Kosten:  6/  10/ 12/ 14/ 16
+Vertiefungskosten: 6	Die Vertiefung kann nur im Spielverlauf erworben werden. Sie erfordert die spezielle Zustimmung des Spielleiters.
+
+
+Kristallbombe
+Voraussetzungen:
+	Kristall
+	MG: 26
+	WK: 34
+	WAH: 22
+Der Zauber erschafft einen kruden Speicherkristall, der mit roher magischer Energie gefüllt ist und kurz nach dem erschaffen Detoniert.
+Ab einem Magiegeschick (MG) von 36 kann der Zaubernde festlegen ob die Bombe in der Runde in der sie erschaffen wurde detonieren soll oder erst in der Folgerunde.
+In einem Radius von MTP/3 Metern um den Detonationsort der Bombe werden 2 MTP Schaden zugefügt. Wer sich weiter weg befindet, aber noch innerhalb von MTP/2 Metern erleidet noch MTP Punkte Schaden.
+	Dauer: 36
+	Kosten: 23
+ 
+Kristallgeschoss
+Voraussetzungen:
+	Element: Kristall-Tugend, Kristall-Wissenschaft
+	MG: 46
+	ERF:34
+	GE: 36
+	WAH: 48
+Der Zauber erschafft eine Art Blasrohr mit den Kristallkugeln mit sehr hoher Geschwindigkeit abgefeuert werden können.
+Der Zauber erschafft beim ersten wirken eine kleine Röhre mit einem Außendurchmesser von etwa 3 cm und einer Länge von ca. 80 cm, mit einem magischen Behälter daran. Diese Röhre zu erschaffen nimmt 90 ZWZ und 26 MP in Anspruch.
+Bei jedem weiteren Wirken wird eine kleine Kristallkugel erschaffen, die in die Röhre eingelegt wird und enorm beschleunigt auf das Ziel abgefeuert wird. Eine solche Kristallkugel zu erschaffen und abzufeuern erfordert lediglich 5 ZWZ und 3 MP.
+Trifft eine Kugel richtet sie einen Schaden von MTP an. 
+Den Kristallgeschossen auszuweichen ist um 5 erschwert. 
+Um festzustellen ob das Geschoss trifft fällt eine um 5 erleichterte Zielen-Probe an.
+Die Kristallkugeln bleiben auch nach dem Aufprall bestehen und können folglich wieder eingesammelt werden falls sie aufgefunden werden können. Eine erhaltene Kristallkugel abzufeuern erfordert nur 5 ZWZ und 1 MP. Die ZWZ fällt dabei größtenteils für das Einlegen der Geschosse an und kann alternativ durch 5AU beglichen werden.
+Die Kristallgeschosse können auf maximal 40 Meter ihr Wirkung voll entfalten.
+	Dauer: 90/5/5
+	Kosten: 25/3/1
+ 
+Kristallkeime
+Voraussetzungen:
+	Kristall
+	MG: 42
+	WK: 36
+	IN: 54
+	WAH: 28
+	LV: 3
+Der Zauber entsendet viele sehr kleine Kristalle die durch die Luft im Umfeld des Zaubernden schweben Die Kristalle verharren dort bis sie weggeweht werden oder sich an etwas festem in der Umgebung festsetzen. Es dauert mindestens eine Kampfrunde, eher länger bis sich die Keime überallhin verteilt haben. Abhängig von den Windverhältnissen variiert die dazu notwendige Zeit.
+In einem zweiten Schritt wird das Wachstum der Kristallkeime angeregt. Diese wachsen nun sehr schnell. Aus allen Kristallsporen innerhalb von 2 MTP Metern um den Zaubernden herum größere Kristalle. Die gewachsenen Kristalle sind sehr spitz oder sogar stachelig und haben ein Volumen von etwa 4 Kubikzentimetern. Die Kristalle bohren sich beim Wachsen in die Substanz oder das Fleisch dessen sich anhaften und Schädigen alle die Kristallkeime in oder an sich tragen.
+Der dadurch verursachte Schaden hängt von der Menge und dem Ort der Kristallkeime ab. Es wird unterschieden ob viele oder wenige Keime anhaften und ob die Keime innen und/oder außen anhaften. Bei Wesen vom Anderen Ort wird davon ausgegangen, dass die Keime nur außen anhaften. Bei atmenden Wesen muss davon ausgegangen werden, dass sich die Keime auch im inneren befinden.
+Sind nur außen wenige Keime vorhanden verursacht das Wachstum 3W6 Schaden.
+Sind nur außen viele Keime vorhanden verursacht das Wachstum 5W10 Schaden.
+Sind nur innen wenige Keime vorhanden, zum Beispiel weil sich die Person seiner Kleidung entledigt hat, verursacht das Wachstum 3W10 Schaden.
+Sind nur innen viele Keime vorhanden verursacht das Wachstum 5W20 Schaden.
+Sind innen und außen Keime vorhanden wird der Schaden addiert.
+Um zu erkennen, dass die Keime in der Luft sind ist eine um 10 erleichterte WAH-Probe notwendig. Diese fällt jedoch nur an wenn ein Spieler aktiv Fragt. Auch Fragen nach der Aktivität des Zaubernden sind natürlich Zielführend.
+Erkennt jemand, dass sich die Kristallkeime in der Luft befinden kann er sich den Keimen am besten durch schnelles Abstand gewinnen entziehen. Natürlich hilft es auch sich günstig zum Wind zu positionieren. Luftdschinn können zudem für 10 ZWZ und 3 MTP einen Windzug erzeugen der die Keime in eine gewünschte Richtung fortträgt.
+Am Zaubernden bleiben nur dann Kristallkeime haften, wenn er dies wünscht. Ansonsten werden sie durch einen subtilen magischen Strom von ihm weggehalten.
+Das entsenden der Keime erfordert 34 ZWZ und 8 MP. Das Wachstum zu aktivieren erfordert 29 ZWZ und 18 MP.
+	Dauer: 34/29
+	Kosten: 8/18 
+	
+Kristallklinge
+Voraussetzungen:
+	Element: Kristall-Tugend, Kristall-Wissenschaft
+	MG: 38
+	ERF: 22
+	GE: 28 
+Der Zauber erschafft eine kleine Klingenwaffe aus Kristall wie einen Dolch oder ein Messer.
+Die Klinge kann ohne die Waffenkampffähigkeit mit einem AT Abzug von 10 verwendet werden. Die Klinge richtet MG/12 Punkte zusätzlichen Schaden im Nahkampf an.
+Wird gezielt die Klinge angegriffen nimmt sie Schaden. Sie besitzt 2,5*MTP Stabilitätspunkte.
+	Dauer: 44
+	Kosten: 11
+
+ 
+Kristallspeicher
+Voraussetzungen:
+	Kristall-Wissenschaft
+MG	38	44	49	54	59	65	73
+WK	22	27	35	43	52	60	71
+KL	29	38	47	53	58	62	68
+ERF	26	31	36	42	49	56	64
+IN	26	36	44	50	55	60	67
+LV	0	0	0	3	5	7	9
+Der Zauber erschafft eine meist kugelförmige Struktur die in der Lage ist Magie zu speichern.
+Der in der Struktur gespeicherte Zauber kann mit einem Einsatz von nur 3 ZWZ befreit und zur Wirkung gebracht werden. Zauber die ursprünglich gezielt werden müssen, müssen auch jetzt gezielt werden. Das Freisetzen des Zaubers zerstört den Kristallspeicher.
+Es gibt mehrere Stufen des Zaubers, die durch die unterschiedlichen Anforderungen festgelegt werden. Jede weitere freigeschaltete Stufe erweitert das Spektrum der Möglichkeiten die der Zauber bietet.
+Unbenutzte Speicherkristalle können für MTP Tage aufbewahrt werden. Danach ist die Speicherstruktur zu weit zerfallen um noch funktionieren zu können.
+Benutzte Speicherkristalle sind quasi ewig haltbar, da die im inneren gespeicherte Magie die Struktur des Kristals stabilisiert. Da allerdings sehr langsam Mana austritt sind die meisten Speicherkristalle nach ein paar Jahren leer und gehen dann recht schnell kaputt.
+Wird beim verwenden des Speichers ein Patzer geworfen wird der Speicher, neben allen anderen Auswirkungen, zerstört.
+Stufe I: In die Struktur kann ein eigener Zauber mit Kosten unter 10 MP eingespeichert werden. Dazu wird der Kristallspeicher einfach in die Hand genommen und der Zauber gewirkt. 
+Stufe II: In die Struktur kann ein eigener Zauber mit Kosten bis 20 MP eingespeichert werden. Dazu wird der Kristallspeicher einfach in die Hand genommen und der Zauber gewirkt. 
+In den Kristallspeicher kann ein fremder Zauber mit Kosten unter 10 MP eingespeichert werden, der direkt auf der Stelle erschaffen wird an der der Kristallspeicher sich befindet. Außerdem wird der Zauber erschaffen um ihn in den Speicher einzufüllen. Zum einspeichern ist eine um 10 erleichterte MAT Probe des Erschaffers des Speichers notwendig.
+Stufe III: In die Struktur kann ein eigener Zauber mit Kosten bis 40 MP eingespeichert werden. Dies ist bis in eine Distanz von MTP Metern möglich.
+In den Kristallspeicher kann ein fremder Zauber eingespeichert werden, der gewirkt wurde um eingespeichert zu werden. Der Zauber darf als Geschoss auf den Speicher, den der Erschaffer des Speichers hält, abgefeuert werden. Die Kosten des Zaubers dürfen nicht mehr als 20 MP betragen. Um den Zauber einzufangen ist eine um 10 erleichterte MAT probe notwendig.
+Stationäre Zauber verbündeter Wesen vom Anderen Ort können mit einer um 20 erleichterten MAT Probe eingespeichert werden.
+Stufe IV: In die Struktur kann ein eigener Zauber mit Kosten bis 80 MP eingespeichert werden. Dies ist bis in eine Distanz von 2 MTP Metern möglich.
+In den Kristallspeicher kann ein fremder Zauber eingespeichert werden, der gewirkt wurde um eingespeichert zu werden. Der Zauber darf als Geschoss auf den Speicher, den der Erschaffer des Speichers hält, abgefeuert werden. Die Kosten des Zaubers dürfen nicht mehr als 40 MP betragen. Um den Zauber einzufangen ist eine um 20 erleichterte MAT probe notwendig.
+Stationäre Zauber verbündeter Wesen vom Anderen Ort können ohne MAT Probe eingespeichert werden.
+In den Kristallspeicher können feindliche Zauber mit Kosten unter 10 MP eingespeichert werden. Dazu ist eine erfolgreiche Magieparade gegen den Zauber und eine um 10 erschwerte MAT-Probe notwendig. Die Magieparade ändert die Kraft des Zaubers nicht, erhöht aber die Kontrolle des Fangenden über den gegnerischen Zauber. Es können nur solche Zauber eingefangen werden, die entweder als Geschoss unterwegs sind, oder bei denen der Kristallspeicher an den Ort gehalten wird an dem die magische Kraft in Bewegung gesetzt wird.
+Stufe V: In die Struktur kann ein eigener Zauber mit Kosten bis 200 MP eingespeichert werden. Dies ist bis in eine Distanz von 3 MTP Metern möglich.
+In den Kristallspeicher kann ein fremder Zauber eingespeichert werden, der gewirkt wurde um eingespeichert zu werden. Der Zauber darf als Geschoss auf den Speicher, den der Erschaffer des Speichers hält, abgefeuert werden. Die Kosten des Zaubers dürfen nicht mehr als 100 MP betragen. Um den Zauber einzufangen ist keine MAT-Probe notwendig.
+In den Kristallspeicher können feindliche Zauber mit Kosten bis 25 MP eingespeichert werden. Dazu ist eine Magieparade (MPA) und eine um 5 erschwerte MAT-Probe notwendig. Die Magieparade ändert die Kraft des Zaubers nicht, erhöht aber die Kontrolle des Fangenden über den gegnerischen Zauber. Es können nur solche Zauber eingefangen werden, die entweder als Geschoss unterwegs sind, oder bei denen der Kristallspeicher an den Ort gehalten wird an dem die magische Kraft in Bewegung gesetzt wird.
+Stufe VI: In die Struktur kann ein eigener Zauber mit Kosten bis 500 MP eingespeichert werden. Dies ist bis in eine Distanz von 5 MTP Metern möglich.
+In den Kristallspeicher kann ein fremder Zauber eingespeichert werden, der gewirkt wurde um eingespeichert zu werden. Der Zauber darf als Geschoss auf den Speicher, den der Erschaffer des Speichers hält, abgefeuert werden. Die Kosten des Zaubers dürfen nicht mehr als 200 MP betragen. 
+In den Kristallspeicher können feindliche Zauber mit Kosten bis 50 MP eingespeichert werden. Dazu ist eine um 5 erleichterte Magieparade und eine MAT-Probe notwendig. Es können nur solche Zauber eingefangen werden, die entweder als Geschoss unterwegs sind, oder bei denen der Kristallspeicher an den Ort gehalten wird an dem die magische Kraft in Bewegung gesetzt wird.
+Stufe VII: In die Struktur kann ein eigener Zauber mit Kosten bis 1000 MP eingespeichert werden. 
+In den Kristallspeicher kann ein verbündeter, fremder Zauber eingespeichert werden die Kosten des Zaubers dürfen nicht mehr als 500 MP betragen. 
+In den Kristallspeicher können feindliche Zauber mit Kosten bis 100 MP eingespeichert werden. Dazu ist eine um 10 erleichterte Magieparade und eine um 10 erleichterte MAT-Probe notwendig. Es können nur solche Zauber eingefangen werden, die entweder als Geschoss unterwegs sind, oder bei denen der Kristallspeicher an den Ort gehalten wird an dem die magische Kraft in Bewegung gesetzt wird.
+Dauer:18/28/38/48/58/68/78
+	Kosten:3/5/7/9/11/13/15
+ 
+Kristallspeicherfusion
+Voraussetzungen:
+MG: 	54	59	64	70	72	74
+WK:	46	50	54	58	59	60
+KL:	46	50	54	58	59	60
+ERF:	38	42	48	54	56	58
+IN:	40	44	48	54	56	58
+LV:	3	3	5	5	7	7
+Der Zauber erlaubt es die in zwei unterschiedlichen Kristallspeichern gesammelten Zauber in einen einzigen Speicher zu übertragen. 
+Die Voraussetzung dafür ist, dass entweder einer der Speicher genug Kapazitäten besitzt um den Zauber des anderen Speichers mit aufzunehmen oder dass ein dritter Speicher mit der notwendigen Kapazität vorliegt.
+Werden aus einem Kristallspeicher mehrere Geschosse gleichzeitig freigesetzt und müssen gleichzeitig geworfen werden ist die Zielen-Probe für jedes Geschoss um 8 pro zusätzlichem Geschoss erschwert. Zielen (ZI) fällt so nicht unter ein Drittel seines Ausgangswertes.
+Der Zauber liegt in mehreren Stufen vor, je nachdem welche der Anforderungen erfüllt werden können unterschiedliche Stufen des Zaubers genutzt werden.
+Stufe I: Erlaubt es zwei gleiche Zauber, die von der gleichen Person gewirkt wurden in einem Speicher zu vereinen. Die Gesamtkosten der Zauber dürfen 30 MP nicht überschreiten. Die beiden Zauber verbinden sich zu einem einzigen.
+Stufe II: Erlaubt es zwei gleiche Zauber, die von unterschiedlichen Personen gewirkt wurden in einem Speicher zu vereinen. Die Zauber können sich nach Wahl des zaubernden entweder verbinden oder einzeln bestehen bleiben. 
+Alternativ können zwei unterschiedliche Zauber der gleichen Person und des Gleichen Elements in einem Speicher vereint werden. Die Zauber werden gleichzeitig freigesetzt, wirken jedoch jeder für sich und müssen eventuell einzeln gezielt werden.
+Die Gesamtkosten der Zauber dürfen 80 MP nicht überschreiten.
+Stufe III: Erlaubt es zwei gleiche Zauber, die von unterschiedlichen Personen gewirkt wurden in einem Speicher zu vereinen. Die Zauber können sich nach Wahl des zaubernden entweder verbinden oder einzeln bestehen bleiben. 
+Alternativ können zwei unterschiedliche Zauber unterschiedlicher Person und des Gleichen Elements in einem Speicher vereint werden. 
+Oder es können zwei Zauber der gleichen Person aber unterschiedlichen Elements in einem Speicher vereint werden.
+Unterschiedliche Zauber werden gleichzeitig freigesetzt, wirken jedoch jeder für sich und müssen eventuell einzeln gezielt werden.
+Die Gesamtkosten der Zauber dürfen 150 MP nicht überschreiten.
+Stufe IV: Erlaubt es zwei unterschiedliche Zauber unterschiedlicher Person und unterschiedlicher Elemente in einem Speicher vereint werden. 
+Oder es können zwei Zauber der gleichen Person aber unterschiedlichen Elements in einem Speicher vereint werden. Die Zauber können sich nach Wahl des Zaubernden entweder verbinden oder einzeln bestehen bleiben. Werden Zauber unterschiedlicher Elemente zu einem Zauber vereint ist es möglich, dass sich die magischen Energien gegenseitig aufheben. Die genaue Wirkung die ein fusionierter Zauber aufweist wird vom Spielleiter festgelegt.
+Unterschiedliche Zauber werden gleichzeitig freigesetzt, wirken jedoch jeder für sich und müssen eventuell einzeln gezielt werden.
+Die Gesamtkosten der Zauber dürfen 250 MP nicht überschreiten.
+Unterschiedliche vereinte Zauber dürfen nicht mehr als 50 MP aufweisen.
+Stufe V: Die Gesamtkosten der Zauber dürfen 500 MP nicht überschreiten.
+Unterschiedliche vereinte Zauber dürfen nicht mehr als 100 MP aufweisen.
+Stufe VI: Die Gesamtkosten der Zauber dürfen 1000 MP nicht überschreiten.
+Unterschiedliche vereinte Zauber dürfen nicht mehr als 250 MP aufweisen.
+Dauer: 24/48/96/192/384/764
+	Kosten: 2/  4/  7/  10/  14/  18
+	 
+Linse
+Voraussetzungen:
+	Element: Kristall-Tugend, Kristall-Wissenschaft
+	MG: 44
+	ERF: 30
+	WAH: 36
+Der Zauber erschafft eine Linse aus Kristall mit einem Durchmesser von etwa 20cm. Die Linse kann auch kleiner ausgeführt werden.
+Die Linse kann entweder benutzt werden um die Fernsicht zu verbessern und so einen +10 Bonus auf eine WAH-Probe auf große Distanz zu erhalten.
+Alternativ kann sie verwendet werden um das Licht der Sonne auf einen Punkt zu konzentrieren der dadurch enorm Heiß wird.
+Dazu kann die Linse entweder in den Händen gehalten werden, was die entsprechenden Hände natürlich belegt, oder sie kann für 8 ZWZ und 3 MP schweben gelassen werden.
+Um den Brennpunkt neu auszurichten sind 3 AU notwendig wenn die Linse in den Händen gehalten wird. Schwebt die Linse sind 5 ZWZ und 1MP notwendig um sie neu Auszurichten. Das Ausrichten zählt als eigenständiger Zauber und ist daher auch mit einer Übergangszeit behaftet. Das Ausrichten kann in jeder Runde erst stattfinden nachdem geprüft wurde ob sich jemand im Brennpunkt befindet.
+Am Anfang jeder Runde in der die Linse bereits besteht und auf einen Punkt ausgerichtet ist wird geprüft ob sich jemand im Brennpunkt der Linse befindet. Ist dies der Fall, erhält derjenige den entsprechend der Wetterbedingungen vom Spielleiter festgelegten Schaden.
+Die durch die Linse verursachte Schadenswirkung ist von der Sonneneinstrahlung abhängig. Je nach Wetterverhältnissen liegt der verursachte Schaden zwischen 1MTP und 2MTP +3W10. Aufgrund der Natur des Zaubers zählt der durch ihn verursachte Schaden als Feuerschaden.
+	Dauer: 35 /8 /5 
+	Kosten: 12 / 3/ 1
+ 
+Schwebender Speicher
+Voraussetzungen:
+	Kristall-Wissenschaft
+	MG: 28
+	KL: 20
+Der Zauber lässt eine Anzahl von Kristallspeichern vor dem zaubernden in der Luft schweben, sodass diese zur Verfügung stehen.
+Durch den Zauber werden MTP/2 Kristallspeicher vor dem Zaubernden schweben gelassen. Auf alle diese Speicher kann der Zaubernde zugreifen als ob er sie in der Hand hielte.
+Um den Zauber aufrecht zu erhalten muss konstant 1 ZWZ, ohne Übergangszeit, investiert werden. Der Zauber kostet zu Beginn aller 5 Minuten einen MP.
+ 	Dauer: 7/ 1
+	Kosten: 1/ 5 Min.
+ 
+Schwebender Speicher II
+Voraussetzungen:
+	Kristall-Wissenschaft
+	MG: 48
+	KL: 45
+Der Zauber lässt eine Anzahl von Kristallspeichern vor dem Zaubernden in der Luft schweben, sodass diese zur Verfügung stehen.
+Durch den Zauber werden MTP Kristallspeicher vor dem Zaubernden schweben gelassen. Auf alle diese Speicher kann der Zaubernde zugreifen als ob er sie in der Hand hielte.
+Um den Zauber aufrecht zu erhalten muss konstant ein ZWZ, ohne Übergangszeit investiert werden. Der Zauber kostet zu Beginn aller 5 Minuten einen MP.
+ 	Dauer: 6/ 1
+	Kosten: 1/ 5 Min.
+	Vertiefungskosten: 2/3 
+	
+Wilde Kraft
+Voraussetzungen:
+	Kristall-Wissenschaft
+	MG: 36
+	WK: Betroffene MP/3
+	KL: 36
+Der Zauber ermöglicht es rohe Magie aufzunehmen und in einem Kristallspeicher abzulegen.
+Die Quelle des Manas kann entweder der Zaubernde selbst sein, ein Kristallpfeiler, oder eine Andere Quelle aus der das Mana leicht abgeschöpft werden kann, sein.
+Das Mana abzuschöpfen und in einen vor dem Zauber vorhandenen Kristallspeicher abzulegen kostet den Zaubernden 2 MP pro 10 bewegte Magiepunkte und Dauert 30.
+Das im Kristallspeicher gesammelte Mana kann dann vom Nutzer des Speichers für einen Zauber genutzt werden, dabei erhöht sich jedoch die Dauer des Zaubers um 1 pro 5 MP die aus dem Speicher bezogen werden und es ist ein Magiegeschick (MG) von 45 erforderlich um den Speicher anzuzapfen.
+Alternativ kann die Magie mit Speicherfusion einem anderen Zauber hinzugefügt werden.
+Die dritte Möglichkeit die besteht ist es die Magie als Wilde Kraft aus dem Speicher zu entlassen. Diese wilde Kraft fügt in einem Radius von entlassene MP/10 Metern allen außer dem Zaubernden entlassene MP/ 2 Punkte Schaden zu. Die wilde Kraft zu entlassen Kostet 3 MP und dauert entlassene MP/3 ZWZ.
+	Dauer: 30 / MP/3
+	Kosten: 2/1/3

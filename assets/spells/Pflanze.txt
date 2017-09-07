@@ -1,0 +1,749 @@
+Natur
+Naturdschinn haben in dieser Welt das Wachstum und das Gedeihen des Lebens als schön entdeckt und fühlen sich diesem zugehörig. Dies mag zu starken Anteilen daran liegen, dass gerade in alten Bäumen tatsächlich Geister leben. Die bekanntesten und mächtigsten unter ihnen heißen Dryaden.
+Naturdschinn wurden teilweise verwendet um Besonders anspruchsvolle Gärten zu Pflegen; gerade solche in denen auch teilmagische Pflanzen wachsen, wurden in der Vergangenheit der Pflege von Naturdschinn überlassen. Die Blüte dieser Kunst wurde derzeit in Theben zelebriert. Von den Hängenden Gärten schwärmen die Pflanzendschinn, die dort gedient haben noch heute und bezeichnen diese ‘als einziges rechtmäßiges Weltwunder‘. Die Pygmäen haben den Pflanzendschinn auch die Wacht über Totenbäume überlassen, wenn keiner der Angehörigen des Verstorbenen diese Pflicht mehr übernehmen konnte. Ansonsten wurden Pflanzendschinn natürlich vor allem für kämpferische Einsätze beschworen. Mit ihren Fallen, Hinterhalten und Guerillataktiken konnten mit ihnen verborgene Siedlungen extrem gut geschützt werden.
+Die Naturdschinn sind von ihren Strategien perfekt an das dichte Unterholz der Urwälder angepasst. Sie können sich auch im Kampf wie kein anderer verborgen halten und aus dem Hinterhalt unentdeckte Angriffe starten, die noch nicht einmal in ihre Richtung zurück verfolgt werden können. Indem sie ihren Gegnern so langsam die Kräfte rauben und sie geduldig verletzen sind sie selbst größeren Gruppen überlegen.
+Naturdschinn nehmen selbst gerne Pflanzen oder Tiergestalten an, die ihre Tarnung noch weiter vervollkommnet.
+ 
+Aura der Klarheit
+Voraussetzungen:
+	Natur-Pflanze
+	MG: 26
+	IN: 32
+	ERF: 24
+	WAH: 28
+Der Zauber erschafft um den Zaubernden herum einen Bereich friedlicher Ruhe. Die Luft scheint besser zu werden und Vogelgezwitscher, sowie angenehme Walddüfte manifestieren sich. 
+Diese erholsame und entspannende Atmosphäre gibt ALLEN innerhalb von MTP/2 Metern um den Zaubernden herum einen +3 Bonus auf alle MAT-/ und MPA-Proben. 
+Den Zauber zu initiieren kostet 20 ZWZ und 8 MP, danach kann der Zauber für 6 ZWZ, ohne Übergangszeit. und 3 MP pro Kampfrunde beliebig lange aufrecht gehalten werden.
+Innerhalb von Waldgebieten ist die Wirkung des Zaubers sogar noch stärker, sodass sich der erzielte Bonus auf +5 steigert und die Kosten des Zaubers sinken. Das Initiieren kostet hier nur noch 16 ZWZ und 6MP und das aufrechthalten des Zaubers beansprucht nur noch 5 ZWZ, ohne Übergangszeit, und 2 MP pro Kampfrunde.	
+Dauer: 20/6 / 16/5
+	Kosten: 8/3 / 6/2
+
+
+Aura der Klarheit II
+Voraussetzungen:
+	Natur-Pflanze
+	MG: 36
+	IN: 44
+	ERF: 29
+	WAH: 35
+Die vertiefte Beschäftigung mit dem Zauber ermöglicht es dem Zaubernden eine stärkere Aura zu erschaffen. Diese zu erschaffen bedarf jedoch auch eines geringfügig erhöhten Aufwands.
+Die Aura hat nun einen auf MTP/2 Metern erhöhten Wirkungsradius. In diesem wird ein +5 Bonus auf alle MAT-/ und MPA-Proben erzielt. Zusätzlich verringert sich der Patzer-Bereich um 1. 
+Den Zauber zu initiieren erfordert nun 28 ZWZ und 8 MP, danach kann der Zauber mit 5 ZWZ, ohne Übergangszeit, und 3 MP pro Kampfrunde beliebig lange aufrecht gehalten werden.
+Innerhalb von Waldgebieten ist die Wirkung des Zaubers noch stärker, sodass sich der erzielte Bonus auf +8 steigert und die Kosten des Zaubers sinken. Das Initiieren kostet nun noch 21 ZWZ und 6 MP. Das aufrechthalten des Zaubers beansprucht nur noch 4 ZWZ, ohne Übergangszeit, und 2 MP pro Kampfrunde.	
+Dauer: 28/5 / 21/4
+	Kosten: 8/3 / 6/2
+Vertiefungskosten: 4/5
+
+ 
+Bärenklauen
+Voraussetzungen:
+Natur-Pflanze
+MG: 23
+WK: 23
+KK: 34
+Der Zauber lässt dem Zaubernden an seinen Armen/ vordersten Gliedmaßen Bärenklauen wachsen.
+Dadurch steigt der Köperkraft-Basiswert des Zaubernden um 5 an. Zusätzlich steigt der AT Wert um 3 und TP erhöht sich ebenfalls um 3.
+Um den Zauber aufrecht zu halten müssen konstant 2 ZWZ, ohne Übergangszeit, aufgebracht werden. Dazu kommen Kosten von 1 MP, die jede Kampfrunde oder außerhalb des Kampfes, alle MTP/3 Minuten anfallen.
+	Dauer: 16/2
+	Kosten: 4 /1
+
+ 
+Baumgeistbewahrung 
+Voraussetzungen:
+	Botschafter der Tieferen – Telperions Hand
+Der Zauber lässt einen zerstörten Baum nachwachsen. Frisch abgeschnittene Bäume können für einen Manapunkt (MP) nachwachsen. Frisch abgeschnitten umfasst einen Zeitraum von bis zu einer Woche.
+Bis zu fünf Jahre lang können Bäume für 2 MP nachwachsen. 
+Danach sind besondere Anforderungen von 55 IN, 40 WK und 55 MG notwendig. Wie ein erhöhter Aufwand von 3 MP.
+Die Wurzeln eines wiedererweckten Baumes müssen weitgehend erhalten sein um den Zauber anzuwenden.
+Ein durch den Zauber behandelter Baum wächst binnen eines Jahres zu seiner alten Größe heran.
+Es können keine Bäume Ziel des Zaubers sein, die durch Lingo Movens animiert wurden.
+	Dauer: 20/30/40
+	Kosten: 1 /2 /3
+
+
+ 
+Blüte der Magie II
+Voraussetzungen:
+	Natur-Pflanze
+	Gabe: Zaubersaat
+	MG: 53
+	KL: 46
+	IN: 43
+	KO: 26
+Pflanzt einen Teil der eigenen Magie als Saatkorn in sich selbst ein.
+Das Saatkorn reagiert, wenn die eigenen Lebenspunkte (LP) unter 10% ihres Ausgangswertes fallen. Es erblüht dann und sendet an den Zaubernden die in dem Saatkorn eingebettete Notfallration Manapunkte (MP). Das erblühen kann unter den genannten Umständen nicht unterbunden werden.
+In jedes Saatkorn können 15 MP oder 10% der Basismanapunkte eingebettet werden, je nachdem welcher Wert größer ist.
+Die Anzahl der Saatkörner die gleichzeitig verwendet werden kann liegt bei 2 und wird für alle 15 GP die nach der Charaktererschaffung in die Attribute MG, WK, MR, IN, KL und ERF investiert werden um eins gesteigert.
+Sind mehrere Saatkörner vorhanden erblühen alle gleichzeitig mit einer hübschen Farbigen Blüte, wenn die Bedingung dazu erfüllt wird.
+Das Saatkorn überdauert mit 90%iger Wahrscheinlichkeit auch die Rückkehr an den Anderen Ort, da es sich ja um die eigene Magie handelt, die als Teil des eigenen Körpers eingebettet wird.
+	Dauer: 36
+	Kosten: 3+MP im Saatkorn 
+	
+Blutige Heckenrose
+Voraussetzungen:
+Natur-Pflanze
+MG: 29
+WK: 32
+IN: 38
+Der Zauber lässt eine fleischfressende Pflanze wachsen, die Gegner in der Nähe angreift.
+Die Pflanze kann an einer beliebigen Stelle innerhalb von MTP Metern um den Zaubernden herum aus fruchtbarem Boden wachsen, die der Zaubernde gut sehen können muss. Sie benötigt eine Kampfrunde um vollständig auszuwachsen.
+Alternativ kann der Zauber verwendet werden um einen Samen herzustellen, der bei Kontakt mit fruchtbarem Boden sprießt und binnen einer Kampfrunde die Pflanze hervorbringt. Der Samen ist für MTP Stunden in der Lage zu Keimen. Um das Wachstum des Samens auf oder im Boden zu unterdrücken sind 3 ZWZ ohne Übergangszeit notwendig.
+Die Pflanze wächst als kleiner, dornenbewehrter Strauch, der eine einzige rosenartige Blüte hervorbringt. Im Inneren der sehr großen Blüte, mit einem Durchmesser von etwa 20 Zentimetern, befindet sich ein Schlund voller scharfer Zähne. Dieser versucht lebendes Fleisch oder Substanz der Wesen vom anderen Ort zu verschlingen. 
+Dafür steht dem Maul eine Attacke pro Kampfrunde mit einer AT Wert von 70 zu. Ist der Angriff erfolgreich werden MTP/2 Punkte Schaden zugefügt und die Pflanze erhält zusätzliche MTP/2 Lebenspunkte. Für alle 15 Punkte Lebenspunkte die so gewonnen wurden erhält die Pflanze ein weiteres Maul, das in der darauf folgenden Kampfrunde einsatzbereit ist.
+Möchte der Beschwörer der Pflanze auf die Pflanze einwirken und festlegen welches Ziel sie angreift, wird 1 MP und 3 ZWZ, mit Übergangszeit, benötigt. Die Pflanze greift das Ziel immer wieder an, bis es sich aus ihrer Reichweite bewegt hat oder sie eine andere Anweisung erhält. Wird der Pflanze kein Ziel vorgegeben, greift sie einen zufälligen Gegner in ihrer Reichweite an.
+Die Pflanze hat bei ihrer Erschaffung 1,5 MTP Lebenspunkte. Sie erhält doppelten Schaden durch Feuer. 
+Die Pflanze verwelkt und wird binnen weniger Minuten zu einem Häufchen Pflanzenmatsch, wenn entweder (MTP/4+gewonnene LP/10) Stunden seit dem Sprießen vergangen sind oder ihre LP aufgebraucht sind.
+	Dauer: 32
+	Kosten: 8 MP + 2 LP
+
+
+Blutige Heckenrose II
+Voraussetzungen:
+Natur-Pflanze
+MG: 54
+WK: 56
+IN: 44
+LV: 3
+Durch die Vertiefung werden die erschaffenen Pflanzen gefräßiger und wachsen schneller.
+Dadurch erhöht sich der AT-Wert aller Mäuler auf 80 und der mit jedem Treffer verursachte Schaden verdoppelt sich auf MTP Punkte Schaden. Damit erhöhen sich auch die mit jedem erfolgreichen Angriff erhaltenen Lebenspunkte auf MTP. 
+Auch die Wachstumsgeschwindigkeit der Pflanze steigt auf ein zusätzliches Maul für alle 12 durch Fressen gewonnenen Lebenspunkte. So dazugewonnene Mäuler sind in der darauffolgenden Kampfrunde einsatzbereit.
+Die Pflanze hat bei ihrer Erschaffung 2 MTP Lebenspunkte. 
+Die Pflanze sind auch Widerstandsfähiger sodass sie (MTP/3+gewonnene LP/10) Stunden bestehen bleiben, wenn sie nicht durch die völlige Zerstörung vernichtet werden.
+Die  erhöhte Vertrautheit mit dem Zauber ermöglicht es das Wachstum des Samens auf oder im Boden mit nur noch 2 ZWZ, ohne Übergangszeit, zu unterdrücken.
+	Dauer: 36
+	Kosten: 10 MP + 2 LP
+Vertiefungskosten: 5/7
+ 
+Dornenmantel
+Voraussetzungen:
+	Natur-Pflanze
+	MG: 36
+	MUT; 46
+	ERF: 30
+KO: 38
+	LV: 3
+Dornenmantel lässt ein Gewirr von Dornenranken um den Zaubernden entstehen. 
+Die Ranken bedecken den größten Teil der Oberfläche des Zaubernden, schränken aber seine Bewegungsfreiheit nicht ein. 
+Die Ranken trennen sich vom Boden nachdem sie den Wachstumsprozess, der die Dauer des Zaubers umfasst, abgeschlossen haben und eng um den Zaubernden geschlungen sind. 
+Wer den Zaubernden nun im Nahkampf angreift erhält 5 Schadenspunkte durch die Dornenranken. 
+Die Dornenranken vergehen mit der Zeit und Fallen dann ab. Am Boden zersetzen sie sich mit erhöhter Geschwindigkeit sodass bald nichts mehr von ihnen übrig ist als Pflanzenmatsch. Die Dornenranken sind für MTP/2 Runden frisch und Effektiv. Man kann nur in der Runde bevor sie verwittern erkennen, dass die Ranken nicht mehr lange bestehen werden. Feuermagie verändert die Haltbarkeit der Ranken nicht.
+	 Dauer: 37
+	Kosten: 13
+ 
+Dornenpeitschen
+Voraussetzungen:
+	Natur-Pflanze
+	MG: 62
+KL: 54
+	IN: 58
+	ERF: 40
+	GE: 32
+	LV: 5
+Der Zauber lässt Dornenranken wachsen die alle Ziele in der Umgebung wild mit Hieben attackieren. 
+Die Ranken wachsen aus dem Zaubernden oder aus dem Boden zu seinen Füßen.
+Es wachsen MTP Ranken, die jeweils MTP/4 Meter lang sind. Jede Ranke startet jede Runde einen Angriff auf ein Ziel, das sie erreichen kann. Um festzustellen ob der Angriff gelingt wird von einer AT von 75 ausgegangen. Die Angriffe richten MTP/2 Punkte Schaden an. Die Verteilung der Ranken auf erreichbare Gegner erfolgt weitgehend zufällig. Die Ranken suchen sich einen möglichst nahen Gegner aus. Bei Bedarf kann der Zaubernde die Verteilung der Ranken beeinflussen. Um eine Ranke auf einen anderen Gegner zu schicken sind 2 ZWZ, ohne ZÜZ, notwendig.
+Um einen der Angriffe abzuwehren ist eine Parade notwendig. Jeder der Angriffe muss einzeln pariert werden. 
+Um eine Ranke zu zerstören sind 25 Punkte Schaden notwendig. Feuer richtet doppelten Schaden an. Wird eine Ranke zerstört wächst sie innerhalb der nächsten Runde vollständig nach. Sie muss also nur einen Angriff aussetzen.
+Der Zauber besteht für MTP/4 Runden, dann verfaulen die Ranken schnell und zersetzen sich. Während der Zauber aktiv ist, muss der Zaubernde jede Runde 20 ZWZ und 10 MP investieren, andernfalls löst sich der Zauber vorzeitig auf.
+Dauer: 57/20
+Kosten: 15MP + 3LP/ 10
+
+
+Dornenpeitschen II
+Voraussetzungen:
+	Natur-Pflanze
+	MG: 70
+KL: 60
+	IN: 63
+	ERF: 46
+	GE: 38
+	LV: 7
+Der vertiefte Zauber lässt längere Ranken wachsen die durch verlängerte Zauberwirkung länger bestehen bleiben.
+Die Ranken erreichen nun eine länge von MTP/2 Metern. Um festzustellen ob der Angriff jeder Ranke gelingt wird von einer AT von 80 ausgegangen. 
+Der Zauber besteht für MTP/3 Runden. Während der Zauber aktiv ist, muss der Zaubernde jede Runde 16 ZWZ und 8 MP investieren, andernfalls löst sich der Zauber vorzeitig auf.
+Dauer: 52/16
+Kosten: 14MP +2LP/ 8
+Vertiefungskosten: 4/ 6
+
+ 
+Fallgrube
+Voraussetzungen: 
+Natur-Pflanze
+MG: 22
+ERF: 28
+WK: 16
+IN: 32
+Der Zauber erschafft eine Fallgrube. Da diese entsteht indem Bäume ihre Wurzeln zur Seite bewegen, kann der Zauber nur in waldigem Gebiet verwendet werden.
+Die Fallgrube ist MTP/3 Meter tief und sehr gut getarnt, da die Bewegung nur unterhalb der Erde stattfindet und die obersten Zentimeter sich kaum verändern. Nur durch eine um 20 erschwerte Wahrnehmungsprobe kann die Fallgrube erkannt werden.
+Die Fallgrube darf maximal MTP Meter vom Zaubernden entfernt entstehen. Zudem muss der zaubernden die Stelle gut sehen können.
+Ein Sturz in die Fallgrube fügt MTP/3 Punkte Schaden zu und kostet den stürzenden 15 AU.
+Um aus der Fallgrube heraus zu klettern bedarf es 20 AU und einer erfolgreichen GE Probe.
+Dauer: 23
+Kosten: 4
+
+ 
+Feld des wilden Wucherns
+Voraussetzungen:
+	Natur-Pflanze
+	MG: 36
+WK: 28
+	ERF: 36
+Der Zauber bewirkt, dass in einem Gebiet fruchtbaren Bodens enorm schnelles Pflanzenwachstum stattfindet. Dieses richtet sich speziell auf Unkraut, also tendenziell rankende und zähe Pflanzen. Wer sich in dem Gebiet das Ziel des Zaubers ist auf dem Boden befindet wird von dem Unkraut fest Umschlossen und festgehalten.
+Der Zauber wirkt auf ein Areal mit einem Durchmesser von MTP/2 Metern, das maximal MTP Meter weit vom Zaubernden entfernt ist und vom Zaubernden gesehen wird. Dem wirksamen Bereich zu entkommen erfordert eine, um bis zu 20 erschwerte, Ausweichprobe.
+Ein durch das Unkraut festgesetztes Ziel kann sich nicht von der Stelle bewegen. Um sich mit Kraft loszureißen ist eine um 10 erschwerte KK-Probe notwendig. Die Probe nimmt 10 AU in Anspruch. Alternativ kann das Unkraut durch 10 Punkte Feuerschaden lokal zerstört werden um eine Person zu befreien.
+Unkraut vergeht nicht. Das sagt man ganz zu Recht, denn dieses Unkraut hält alle gegriffenen Wesen für ganze MTP Runden an Ort und Stelle fest. daran kann selbst der Zaubernde nichts ändern.
+	Dauer: 33
+	Kosten: 12
+ 
+Festwuchern
+Voraussetzungen:
+	Natur-Pflanze
+	MG: 22
+	ERF: 24
+Unkraut wuchert extrem schnell und hält das Ziel des Zaubers fest. 
+Dieses kann versuchen sich durch eine, um 10 erschwerte, Ausweichprobe aus dem Wirkbereich des Zaubers zu retten.
+Ein durch das Unkraut festgesetztes Ziel kann sich nicht von der Stelle bewegen. Um dem Unkraut zu entkommen ist eine um 10 erschwerte KK-Probe notwendig. Die Probe nimmt 10 AU in Anspruch. Alternativ kann das Unkraut durch 10 Punkte Feuerschaden zerstört werden.
+Das Ziel des Zaubers darf maximal 1,5 MTP Meter vom Zaubernden entfernt sein und der Zaubernde muss den Boden an der Stelle sehen können an der das Unkraut wachsen soll.
+Unkraut vergeht nicht. Das sagt man ganz zu Recht, denn dieses Unkraut hält sein Ziel für ganze MTP Runden an Ort und Stelle fest. daran kann selbst der Zaubernde nichts ändern.
+	Dauer: 12
+	Kosten: 4
+	
+ 
+Fleischsaat
+Voraussetzungen:
+	Natur
+	MG: 47
+	WK: 42
+	MUT: 28
+	IN: 36
+	LV: 3
+Der Zauber schießt ein Saatkorn auf das Ziel des Zaubers. Dieses Entzieht seinem Ziel konstant Lebens und Manapunkte durch die schließlich aus dem Samen eine parasitäre, aggressive Pflanze wächst.
+Der Samen wird zuerst mit der angegebenen ZWZ erschaffen und kann nun, ohne weitere Dauer auf ein Ziel abgefeuert werden, was eine Zielen-Probe erfordert, oder direkt auf einem Ziel abgelegt werden. 
+Hat der Samen Kontakt mit dem Ziel oder einem anderen lebenden Wesen arbeitet er sich nun aus eigenem Antrieb ein Stück weit ins Innere seines Zieles vor, um dort sicherer zu verbleiben. Dies Dauert eine Kampfrunde.
+Nun beginnt der Samen seinem Wirt Magie und unter Umständen sogar Substanz zu entziehen. Wesen vom Anderen Ort verlieren durch den Samen einen Manapunkt pro Kampfrunde im Kampf und einen Manapunkt pro 10 Minuten außerhalb des Kampfes. Wesen von dieser Welt verlieren mit der gleichen Geschwindigkeit Magie. Der Manaverlust lässt sich erst ab einer Intuition (IN) von 40 sicher feststellen. Mit einem geringeren Magiegeschick fällt der Verlust meist erst nach einiger Zeit auf. Den Samen sicher zu lokalisieren erfordert zudem eine erfolgreiche Intuitionsprobe (IN). Ist das Mana des Zieles aufgebraucht kann der Samen bei Wesen vom Anderen Ort mit halber Geschwindigkeit und bei Wesen dieser Welt mit einem Fünftel der Geschwindigkeit Lebenspunkt absorbieren.
+Den Samen zu entfernen ohne das Ziel zu entlassen stellt eine Herausforderung dar. Durch eine geschickte Verwandlung kann der Samen nachdem er entdeckt wurde an die Oberfläche gebracht und mit einer relativ geringen Verletzung abgelöst werden. Die dafür erforderliche Verwandlung ist jedoch um 5 erschwert. Wurde die Position des Samens nicht sicher festgestellt ist die Verwandlung sogar um 15 erschwert. Ab besten kann der Samen, wenn er an die Oberfläche gebracht wurde, von einem Pflanzendschinn, der den Samen mit einer MAT-Probe und nur einem Punkt Schaden ablösen kann, oder einem Heildschinn entfernt werden, der den Samen mit einer MG-Probe und zwei Punkten Schaden entfernen kann. Wird der Samen an die Oberfläche gebracht muss er unmittelbar entfernt werden, da er sich sonst umgehend wieder unter die obersten Substanzschichten arbeitet.
+Freigelegt kann der Samen fast Mühelos zerstört werden.
+Gelingt es dem Samen 10 MP zu sammeln beginnt er Wurzeln zu Treiben. Das Wachstum dieser Wurzeln wird vom Wirt fast immer Schmerzhaft wahrgenommen. Gleichzeitig verankern die Wurzeln den Samen deutlich besser im Gewebe oder in der Substanz des Zieles, so dass das Entfernen des Samens deutlich erschwert wird. 
+Die Verwandlung um die Saat an die Oberfläche zu bringen wird zwar nicht schwieriger, das Entfernen der Saat aus der Substanz jedoch schon. Da selbst Pflanzendschinn meist keinen reduzierenden Einfluss auf die Wurzeln ausüben können sind sie der Situation genauso hilflos ausgeliefert wie Andere Dschinn auch. Heildschinn können mit einer MG-Probe und sechs Punkten Schaden die Saat entfernen.
+Der gekeimte Samen absorbiert nun mit der Geschwindigkeit mit der er vorher Mana absorbiert hat Lebenspunkte zu absorbieren. Sobald der Samen 5 weitere LP absorbiert hat treibt er einem kleinen Keim der sich langsam durch die Haut arbeitet und bei einer Absorption von spätestens 10 LP ein Maul außerhalb des Wirtskörpers ausbildet das zusätzlich zur Absorption der Wurzeln den Wirt und andere Wesen die sich in der Nähe des Wirts befinden oder sogar versuchen die Fleischsaat zu entfernen angreift.
+Das Maul hat einen Angriff von 90 gegen den Wirt, und einen Angriff von 60 gegen andere Wesen in seiner Reichweite. Ein Treffer richtet initial 4 Punkte Schaden an, wovon 2 Punkte der Saat als Absorption zugutekommen. Die Reichweite des kleinen Keimes liegt bei nur etwa 20 Zentimetern. Mit allen Fünf Punkten Absorption die jedoch dazukommen steigt TP um eins und die Reichweite um 10 Zentimeter.
+Nachdem sich die Saat an die Oberfläche gewagt hat wird sie Angreifbar. Der gewachsene spross hat so viele Lebenspunkte wie er Substanz absorbiert hat. Durch Schaden wird die Pflanze nicht wieder kleiner. Sind jedoch alle Lebenspunkte aufgebraucht stirbt die Saat vollständig ab.
+	Dauer: 39
+	Kosten: 5 MP + 2 LP
+
+
+Fleischsaat II
+Voraussetzungen:
+	Natur
+	MG: 61
+	WK: 49
+	MUT: 33
+	IN: 49
+	LV: 5
+Durch die Vertiefung wird die Lebenskraft der Saat gestärkt. Selbst wenn der nach Außen gewachsene Pflanzenteil zerstört wird absorbiert die Saat weiter Substanz und versucht einen neuen Trieb zu produzieren.
+	Dauer: 36
+	Kosten: 5 MP + 2 LP
+	Vertiefungskosten: 4/6
+
+
+Fleischsaat III
+Voraussetzungen:
+	Natur
+	MG: 69
+	WK: 56
+	MUT: 37
+	IN: 58
+ERF: 36
+	LV: 7
+Wird ein Trieb der Fleischsaat groß genug, erzeugt er eine Sporenkapsel die in der Folgerunde aufbricht und die Fleischsaat an alle Rundum verteilt.
+Groß genug ist die Pflanze, wenn sie 20 Punkte Substanz asssimiliert hat, von denen sie noch mindestens 10 als aktuelle Lebenspunkte besitzt. Wird der Auswuchs der Pflanze vor dem Aufbersten der Samenkapsel vollständig zerstört, kann sich die Samenkapsel nichtmehr mit genug Wucht öffnen um die Samen weit zu verteilen.
+Wird die Pflanze nicht bei ausbringen ihrer Samen gestört verteilt sie 2W6 Samen in einem Gebiet mit einem Radius von MTP/2 Metern, des Zaubernden.
+	Dauer: 33
+	Kosten: 4 MP + 2 LP
+	Vertiefungskosten: 4/6
+ 
+Geistersegen
+Voraussetzungen:
+	Natur-Pflanze
+	MG: 18
+	ERF: 26
+	IN: 36
+Der Zauber lässt eine Pflanz oder einen Teil einer Pflanze schnell wachsen.
+Der Zaubernde wählt eine Pflanze aus auf die er den Zauber wirkt. Gerade bei großen Pflanzen ist es sinnvoll sich auf einen bestimmten Teil der Pflanze beim Wirken des Zaubers zu konzentrieren. Die verzauberte Pflanze beginnt daraufhin im Zielbereich des Zaubers schnell zu wachsen.
+Dabei formt sie sich zumindest mit dem Teil dem die Hauptaufmerksamkeit des Zaubers gilt etwa so wie es sich der Zaubernde vorstellt. 
+Das Wachstum kann einen Baumstamm um bis zu MTP Meter wachsen lassen, andere Veränderungen sollten etwa in diesem Verhältnis liegen. 
+Das Wachstum ist zwar schnell dauert aber trotzdem für drei Kampfrunden an bis es völlig abgeschlossen ist. 
+Der Zaubernde muss sich nach der Initialisierung des Wachstums nicht weiter um den Vorgang kümmern, da er automatisch weiter abläuft. 
+Jemand der in den Weg dieses Wachstums gerät erfährt dadurch keinen Schaden, wird aber aus dem Weg des Pflanzenwachstums geschoben.
+	Dauer: 17
+	Kosten: 6
+ 
+Giftschnitt
+Voraussetzungen: 
+Natur-Pflanze
+MG: 33
+WK: 28
+KL: 46
+IN: 33
+Der Zauber lässt an einer Pflanze die der Zaubernde berührt ein klingenförmiges Blatt wachsen das einmalig als Waffe verwendet werden kann. Das Blatt weist an einer Seite eine rote Maserung auf, die die scharfe und giftige Seite des Blattes markiert. Die Größe des so erzeugten Blattes hängt von der üblichen Größe der Blätter der Pflanze ab.
+Der Wachstumsvorgang dauert eine Kampfrunde. Er endet nicht, wenn der Zaubernde die Pflanze nach der Initialisierung loslässt. Anschließend kann das ausgewachsene Blatt, das genug Gift für einen erfolgreichen Angriff aufweist, gepflückt und wie eine kleine Klingenwaffe verwendet werden. Pflückt jemand anderes das Blatt, kann dieser es genauso verwenden, es verwelkt aber innerhalb von 2 Runden, selbst wenn es nicht erfolgreich verwendet wurde. Es ist nicht möglich mehr als ein Blatt auf einmal zu erschaffen. 
+Wird mit dem Giftblatt ein Treffer erzielt fügt dieser Schaden wie eine kleine Klingenwaffe zu und vergiftet den getroffenen. Das Gift beginnt nun den Getroffenen langsam zu lähmen indem es AU, ZWZ und MNAU des betroffenen für MTP/3 Runden um MPT/3 Pro Runde senkt. Darüber hinaus werden dem Vergifteten jede Runde in der das Gift wirkt MTP/3 Punkte Schaden zufügt. Werden durch das Gift AU oder ZWZ unter null gesenkt erleidet der Betroffene zusätzlichen Schaden in Höhe des größten negativen Wertes. Da das Gift die Struktur des Blattes stabilisiert wird dieses nach einem Treffer schlaff und ist nicht mehr als Waffe zu gebrauchen.
+Nachdem die lähmende Wirkung des Giftes erschöpft wurde werden AU, ZWZ und MNAU mit 10 Punkten pro Kampfrunde wiederhergestellt, wenn notwendig wird damit auch bei einem negativen Wert begonnen. 
+Ein Pflanzen- oder Heildschinn kann das Gift in einer Dauer von (100-KL) ZWZ analysieren und den vergifteten mit einem Manaeinsatz von 4MP (2MP 1LP für chinesische Heiler) Heilen. Geschieht dies sinken die Werte nicht weiter und der Heilungsvorgang setzt sofort und mit doppelter Geschwindigkeit ein. Das Gift jedes Giftblattes ist einzigartig und muss einzeln analysiert werden.
+Dauer: 16
+Kosten: 7
+
+Giftschnitt II
+Voraussetzungen: 
+Natur-Pflanze
+MG: 40
+WK: 34
+KL: 55
+IN: 39
+LV: 3
+Durch die vertiefte Beschäftigung wird das Wachstum des Giftblattes beschleunigt und die Wirkung des Giftes erhöht.
+Das Blatt wächst nun in 20 ZWZ, kann je nach ZWZ des Zaubernden also noch in der gleichen Kampfrunde fertiggestellt werden. Verbleiben dem Zaubernden nach Abschluss des Zaubers keine 20 ZWZ mehr in der Kampfrunde ist das Blatt zum Beginn der nächsten Kampfrunde fertig gewachsen.
+Das Gift reduziert AU, ZWZ und MNAU des Opfers für MTP/3 Runden um MPT/2 Pro Runde senkt. Darüber hinaus werden dem Vergifteten jede Runde in der das Gift wirkt MTP/2 Punkte Schaden zufügt. 
+Dschinn die den Zauber Giftschnitt II nicht einsetzten können benötigen (120-KL) ZWZ um das Gift zu analysieren. 
+Dauer: 13
+Kosten: 6
+	Vertiefungskosten: 3/4
+
+ 
+Magische Schoten
+Voraussetzungen:
+	Natur-Pflanze
+	MG: 37
+	IN: 31
+	ERF: 40
+Der Zauber lässt eine Guransa-Pflanze sprießen. 
+Die Pflanze trägt nach fünf Jahren das erste Mal 1W3 Schoten. Jede der Schoten enthält 1W2 Guulu-Samen. Von nun an trägt die Pflanze jedes Jahr. Ab dem sechsten Mal, dass die Pflanze trägt erhöht sich die Anzahl der Schoten auf 1W4. Ab dem zehnten Mal erhöht sich die Anzahl der Samen pro Schote auf 1W3.
+Die gewonnenen Samen können als Ziel für Zauber verwendet werden. Mehr dazu auf Seite XXX bei der Beschreibung magischer Gegenstände.
+Das Wachstum der Pflanze kann durch den Zauber Geistersegen beschleunigt werden. Bei jungen Pflanzen bis zu einem Alter von fünf Jahren wird das Wachstum durch den Zauber um etwa drei Jahre vorangetrieben. Der Zauber muss also zwei Mal angewendet werden um die Pflanze zum ersten Mal zum blühen und Tragen zu bringen. Sobald die Pflanze einmal getragen hat muss der Zauber ein weiteres Mal angewendet werden um die Pflanze erneut zum Tragen zu bringen.
+	Dauer: 64
+	Kosten: 7
+	Vertiefungskosten: 4/5
+
+
+
+Guulu-Samen
+Guulu-Samen können als Ziel von Pflanzenzaubern verwendet werden, die eine magische Pflanze erschaffen. Also Blutige Heckenrose, Samen von Blut, Samen von Gift und Sporenbombe.
+Der Zauber manifestiert sich dann nicht als Samen in der Hand des zaubernden sondern in dem Samen der das Ziel des Zaubers ist. Der Zielsamen darf maximal 2,5 MTP vom Zaubernden entfernt sein um Ziel des Zaubers zu sein.
+Außerdem reduzieren sich die Kosten des Zaubers um 2MP und 2LP wenn ein Guulu-Samen das Ziel des Zaubers ist.
+
+  
+Katzenohren
+Voraussetzungen:
+	Natur-Pflanze
+MG: 19
+IN: 28
+WAH: 23
+Der Zauber lässt dem Zaubernden, zusätzlich zu eventuell schon vorhandenen Ohren, Katzenohren wachsen.
+Durch den verbesserten Sinn steigt der Wahrnehmungsbasiswert des Zaubernden um 10 an. Zudem verbessern sich der Zielen Wert um 3 und der AT Wert um 1.
+Der Zauber kann für 1 ZWZ, ohne Übergangszeit, die konstant aufgebracht werden muss und 1 MP alle MTP/2 Minuten beliebig lange aufrecht gehalten werden.
+	Dauer: 12/1
+	Kosten: 3 /1
+
+ 
+Laubgeist
+Voraussetzungen:
+	Natur-Pflanze
+	MG: 35
+	ERF: 30
+	GE: 25
+Der Zauber tarnt den Zaubernden solange er sich zwischen pflanzen bewegt sehr gut.  visuell  ist er zwischen Laub, Blättern und Bäumen nicht von seiner Umgebung zu unterscheiden.
+Solange er sich nicht bewegt ist die Tarnung perfekt. Selbst bei Bewegung ist er extrem schwer auszumachen wodurch alle Wahrnehmungsproben (WAH) um 30 erschwert sind.
+Die Tarnung betrifft alle Ebenen des Zaubernden und hält für WK/5 Runden an.
+	Dauer: 24
+	Kosten: 8
+ 
+Lebenshauch
+Voraussetzungen:
+	Natur-Pflanze
+	MG: 27
+	WK: 24
+	IN: 34
+Der Zauber verleiht dem Ziel des Zaubers kurzeitig zusätzliche Lebensenergie.
+Durch den Zauber erhält das Ziel des Zaubers 2 MTP Lebenspunkte zu seinen zusätzlichen Lebenspunkten hinzu. Auch wenn das Ziel bereits volle Lebenspunkte besitzt können diese zusätzlichen Lebenspunkte erlangt werden.
+Nach dem Ablauf von MTP Kampfrunden/ Minuten verschwinden die Lebenspunkte jedoch wieder. Der Schaden bleibt allerdings gleich. Ein Ziel das nach Ablauf des Zaubers keine Lebenspunkte besitzt verstirbt folglich sofort.
+Der Zauber kann immer nur einmal gleichzeitig auf ein Ziel gewirkt werden. Das Ziel des Zaubers muss sich innerhalb von MTP/2 Metern zum Zaubernden befinden.
+	Dauer: 22
+	Kosten: 8
+
+
+Lebenshauch II
+Voraussetzungen:
+	Natur-Pflanze
+	MG: 41
+	WK: 31
+	IN: 45
+	LV: 3
+Durch die Vertiefung erhöht sich die Anzahl der temporär dazugewonnenen Lebenspunkte auf 3 MTP LP. Das Ziel des Zaubers muss sich nun innerhalb von MTP Metern um den Zaubernden befinden.
+	Dauer: 19
+	Kosten: 7
+	Vertiefungskosten: 3/4
+
+ 
+Ligno movens
+Voraussetzungen:
+	Natur-Pflanze
+	MG: 54
+	WK: 41
+	KL: 34
+	IN: 58
+	LV: 5
+Der Zauber animiert einen Baum. Dieser steht dem Zaubernden nicht zwangsläufig als Helfer zu Seite, sondern verfolgt seine eigenen Ziele. Durch (vorhergehende) Absprache mit dem Baumgeist, wie sie durch den Zauber Wispern im Wind ermöglicht wird kann ein gemeinsames Vorgehen erreicht werden. Die durch den Zauber erschaffenen Baumhirten verfolge stets ihre eigenen Ziele, Schutz des Waldes, und werden nur, wenn diese übereinstimmen mit dem Zaubernden kooperieren. Um ihre Ziele auch mittelfristig gewährleisten zu können werden sich Baumgeist nur in den seltensten Fällen zu einer selbstzerstörerischen Tat animieren lassen.
+Der verzauberte Baum kann seinen angestammten Platz verlassen und sich umherbewegen. Wird der Baumhirte in einem Kampf involviert verwendet er seine starken Äste für Angriffe. Einen Angriff pro Kampfrunde mit einer AT zwischen 60 und 80 und TP zwischen 12 und 25 abhängig von der Größe des Baumes hat der meist eher langsame animierte Baum. Größere Bäume haben höhere Werte. Der Baum hat eine defensive Aktion die jedoch nur in einer Parade bestehen kann. Für diese wird immer ein Parade-Wert (PA) von 30 und eine Paradewirkung (PAW) zwischen 18 und 26 verwendet. Schaden den der Baum erleidet wird durch die Rinde im eins reduziert. Der Baum erleidet doppelten Schaden durch Feuer und Vulkanzauber.
+Der Baum kann sich mit einer Bewegungsreichweite von 4 recht langsam fortbewegen. 
+Der Zauber hält für MTP/2 Stunden an. Danach verwurzelt sich der Baum an der Stelle an der er sich befindet wieder und lebt dort weiter.
+	Dauer: 79
+	Kosten: 36 
+	
+Mondblume
+Voraussetzungen:
+	Natur-Pflanze
+	Verspeisen eines Mondblumensamens
+	ERF: 48
+	IN: 58
+Der Zauber lässt eine kleine Blume sprießen. 
+Inmitten grasartiger Halbe wächst eine einzelne Blüte mit einem leicht nach unten hängenden, von oben mit einem zweiten Blütenblatt bedecken, Kelch. Die recht unauffällige, weiße Blume mit nur etwa 30 Zentimetern Höhe weist eine hohe Robustheit auf, sodass die meisten Tiere sie instinktiv meiden.
+Während ihres bis zu 10 jährigen Lebens verändert sich die Pflanze Kaum. In Gegenden mit einem ausgeprägten Winter verdorrt das Grünzeugs im Herbst und wächst im Frühjahr neu, die Blüte aber bleibt unverändert. Abgesehen von einer Kleinigkeit, bei jedem Vollmond der sein Licht auf die Mondblume wirft, tritt ein einziger Tropfen aus dem inneren der Blume am Dolden hervor und tropft über eine kurze Zunge in den Blütenkelch. So sammelt sich im Kelch im Laufe der Zeit der sogenannte Mondnektar.
+Dieser besitzt sagenhafte Kräfte. Zehn tropfen können alle Wunden eines Menschen oder Dschinns heilen. Kobolde und Foliot brauchen weniger, Afriten und Mariden mehr. 100 Tropfen sind angeblich sogar in der Lage die Toten von ihrem Lager zu erwecken. Bewiesen ist die Fähigkeit die Toten zu erwecken nicht und wird heftig Debattiert. Ihre Heilkräfte an den Lebenden sind aber evident, allseits bekannt und geschätzt.
+Schade nur, dass diese Pflanze so unglaublich selten ist. Das Rührt zum einen daher, dass ein Pflanzendschinn den Zauber bei jedem Besuch in unserer Welt nur ein einziges Mal durchführen kann. Zum anderen daher, dass er nicht genau bestimmen kann wo die Pflanze wächst. Sie kann überall innerhalb von MTP Kilometern um den Zaubernden erscheinen. Und schließlich daher, das die Erfolgsquote des Zaubers recht gering ist. Mondblume wird nur mit einen Drittel des Basis MAT-Wertes gewirkt.
+Als wäre das alle nicht schon Ärger genug für eine so kleine Pflanze, bemühen sich die meisten Pflanzendschinn die in der Lage sind den Zauber durchzuführen ihre Fähigkeiten zu verbergen. Aus Respekt, dieser Hochmagischen und heilsamen Pflanze gegenüber, aber auch um zumindest in dieser Hinsicht nicht missbraucht zu werden.
+Der Zauber kann nur von einem Pflanzendschinn erlernt werden der einen Mondblumensamen verspeist. Die Mondblume blüht in ihrem Leben nur ein einziges Mal wenn sie ihren achtundachtzigsten Vollmond sieht. Die Schote die Kehrseits des Blütenkelches wächst enthält drei Samen, die bis zum Neumond langsam vergehen, da unsere Welt an den meisten Stellen nicht genug Magie aufweist um sie länger zu ernähren.
+	Dauer: 88
+	Kosten: 8
+	Vertiefungskosten: -/3
+ 
+Peitschender Ast
+Voraussetzungen:
+	Natur-Pflanze
+	MG: 15
+	ERF: 20
+	KL: 20
+	WK: 28
+Durch den Zauber wird ein Ast oder sogar ein Baumstamm vorgespannt. In einem zweiten Schritt wird der Ast dann gehen gelassen und schleudert alle Getroffenen weg. 
+Der Durchmesser der vorgespannten Pflanzenteils darf maximal 2 MTP Zentimeter betragen. 
+Wenn der Ast vorgespannt ist wird der Zauber ohne weitere Kosten bis zu 5 Minuten (50 Kampfrunden) aufrecht gehalten. Den Zauber zu lösen und den Ast loszischen zu lassen erfordert 3 ZWZ plus Übergangszeiten. Es können jedoch auch mehrere vorgespannte Äste gleichzeitig gehen gelassen werden.
+Wenn sich die Spannung löst schnellt der Ast die vorgespannte Strecke mit enormer Wucht und Geschwindigkeit zurück. Alles was im Weg steht wird mitgerissen und MTP Meter weit fort geschleudert. Zudem richtet der Aufprall MTP Schaden an. Ab einem Durchmesser von 30 Zentmetern erhöht sich der Schaden sogar auf 1,5 MTP.
+Um mehrere Äste gleichzeitig vorzuspannen müssen erhöhte Voraussetzungen erfüllt werden. Für jeden weiteren Ast erhöhen sich die Voraussetzungen an MK und KL um 8.
+Die vorzuspannende Pflanze muss natürlich bereits vorhanden sein.
+	Dauer: 24
+	Kosten: 9
+
+ 
+Raubsaat
+Voraussetzungen:
+	Natur
+	MG: 41
+	WK: 27
+	KL: 24
+	IN: 36
+	LV: 3
+Der Zauber schießt ein Saatkorn auf das Ziel des Zaubers. Dieses Entzieht seinem Ziel konstant Lebens und Manapunkte. Verendet das Ziel oder kehrt es an den Anderen Ort zurück, verbleibt der Samen in unserer Welt an der Stelle an der sich das Ziel des Zaubers zuletzt befand. Dem verbleibenden Samen kann Mana entzogen werden oder der Schöpfer des Samens kann ihnsich als Blüte der Magie selbst einpflanzen.
+Der Samen wird zuerst mit der angegebenen ZWZ erschaffen und kann nun, ohne weitere Dauer auf ein Ziel abgefeuert werden, was eine Zielen-Probe erfordert, oder direkt auf einem Ziel abgelegt werden. 
+Hat der Samen Kontakt mit dem Ziel oder einem anderen lebenden Wesen arbeitet er sich nun aus eigenem Antrieb ins Innere seines Zieles vor, um dort möglichst sicher zu verbleiben. Bei Wesen vom Anderen Ort mit aktuell weniger als 100 LP dauert dies eine Kampfrunde. Diese Dauer erhöht sich um eine Kampfrunde/ Minute für alle 100 LP. Bei Wesen von dieser Welt liegt die Dauer bei einer Kampfrunde plus einer Kampfrunde für jedes Vielfache von 20 LP.
+Hat der Samen dann sein Ziel erreicht beginnt er seinem Wirt Magie und unter Umständen sogar Substanz zu entziehen. Wesen vom Anderen Ort verlieren durch den Samen einen Manapunkt pro Kampfrunde im Kampf und einen Manapunkt pro 10 Minuten außerhalb des Kampfes. Wesen von dieser Welt verlieren mit der gleichen Geschwindigkeit Magie. Der Manaverlust lässt sich erst ab einer Intuition (IN) von 40 sicher feststellen. Mit einem geringeren Magiegeschick fällt der Verlust meist erst nach einiger Zeit auf. Den Samen sicher zu lokalsieren erfordert zudem eine erfolgreiche Intuitionsprobe (IN). Ist das Mana des Zieles aufgebraucht kann der Samen bei Wesen vom Anderen Ort mit halber Geschwindigkeit und bei Wesen dieser Welt mit einem Fünftel der Geschwindigkeit Lebenspunkt absorbieren.
+Wird der Samen durch Entfernen, Entlassen oder Tot freigelegt kann ihm die Hälfte an entzogenem Mana und Lebenspunkten an Manapunkten durch einen Pflanzendschinn entzogen werden. Alternativ kann der Samen von einem Pflanzendschinn mit einem Drittel der entzogenen Punkte und Blüte der Magie für Notfälle zurückgehalten werden. Der Samen hat dann, da es sich nicht um reines Mana des Wesens handelt, nur eine 70%ige Wahrscheinlichkeit die Rückkehr zum Anderen Ort zu überstehen.
+Wird der Samen nicht direkt eingepflanzt oder ausgelaugt verliert er alle zwei Stunden einen Manapunkt Ladung.
+Den Samen zu entfernen ohne das Ziel zu entlassen stellt, vor allem wenn sich der Samen tief im inneren Seines Zieles vergraben hat eine Herausforderung dar. Durch eine geschickte Verwandlung kann der Samen nachdem er entdeckt wurde an die Oberfläche gebracht und mit einer relativ geringen Verletzung abgelöst werden. Die dafür erforderliche Verwandlung ist jedoch um 10 erschwert. Wurde die Position des Samens nicht sicher festgestellt ist die Verwandlung sogar um 25 erschwert. Ab besten kann der Samen, wenn er an die Oberfläche gebracht wurde, von einem Pflanzendschinn, der den Samen mit einer MAT-Probe und nur einem Punkt Schaden ablösen kann, oder einem Heidschinn entfernt werden, der den Samen mit einer MG-Probe und zwei Punkten Schaden entfernen kann. Den Samen zu entfernen, wenn er tiefer liegt sollte auf jeden Fall durch einen Heildschinn geschehen da es sonst zu ganz erheblichen Verletzungen kommen kann. Wird der Samen an die Oberfläche gebracht muss er unmittelbar entfernt werden, da er sich sonst umgehend wieder in die tieferen Substanzschichten arbeitet.
+Freigelegt kann der Samen fast Mühelos zerstört werden.
+	Dauer: 32
+	Kosten: 4 MP + 1 LP
+	
+Raubsaat II
+Voraussetzungen:
+	Natur
+	MG: 54
+	WK: 33
+	KL: 28
+	IN: 45
+	LV: 3
+Durch die Vertiefung wird die Fähigkeit des Samens sich ins Innere seines Zieles zu begeben und sich dort zu Verstecken verbessert.
+Bei Wesen vom Anderen Ort mit aktuell weniger als 150 LP dauert es nun eine Kampfrunde bis sich der Samen bis ins Zentrum vorgearbeitet hat. Die Dauer erhöht sich um eine Kampfrunde/ Minute für weitere 150 LP. Danach steigt die Dauer um eine Kampfrunde pro 200 LP. Bei Wesen von dieser Welt liegt die Dauer bei einer Kampfrunde für die ersten 20 LP plus einer Kampfrunde für jedes Vielfache von 30 LP.
+Der Manaverlust durch den Samen lässt sich erst ab einer Intuition von 50 sicher feststellen. Mit einer geringeren Intuition fällt der Verlust meist erst nach einiger Zeit auf. Den Samen sicher zu lokalisieren erfordert zudem eine erfolgreiche, um 5 erschwrte, Intuitionsprobe (IN). 
+Die für das an die Oberfläche bringen des Samens erforderliche Verwandlung ist nun um 20 erschwert. Wurde die Position des Samens nicht sicher festgestellt ist die Verwandlung sogar um 40 erschwert. 
+	Dauer: 28
+	Kosten: 3 MP + 1 LP
+	Vertiefungskosten: 2/3
+
+
+Raubsaat III
+Voraussetzungen:
+	Natur
+	Gabe: Blüte der Magie
+	MG: 61
+	WK: 39
+	KL: 36
+	IN: 53
+	LV: 3
+Die Vertiefung verbessert die Fähigkeit des Zaubernden einen so gewonnenen Samen mittels Blüte der Magie zu verwenden.
+Raubsaat kann nun mit der Hälfte der entzogenen Punkte für Blüte der Magie verwendet werden. Außerdem Steigt die Wahrscheinlichkeit, dass der Samen die Rückkehr zum Anderen Ort zu übersteht auf 80% an.
+	Dauer: 26
+	Kosten: 3 MP + 1 LP
+	Vertiefungskosten: 2/3
+
+
+ 
+Saatschlag
+Voraussetzungen:
+	Natur-Pflanze
+	MG: 27
+	WK: 25
+	IN: 24
+Der Zauber erschafft einen festen Samen der mit hoher Geschwindigkeit auf das Ziel abgefeuert wird. Der Samen richtet beim Auftreffen Schaden an und entzieht dem Ziel anschließend Magie.
+Um festzustellen ob das Saatgeschoss trifft bedarf es einer Zielen-Probe. Trifft es richtet es MTP/2 Punkte Schaden an und haftet mit feinen Wiederharken am Ziel an.
+Solange es anhängt kann es dem Ziel, bis zu einem Maximum von MTP/3 MP, jede Kampfrunde einen Manapunkt entziehen. Hängen mehrere Geschosse an einem Ziel ist der Effekt kumulativ.
+Ist der Samen gesättigt fällt er zu Boden. Wird er dort von einem Pflanzendschinn aufgehoben kann dieser dem Samen MTP/5 Manapunkte entziehen und seinem eigenen Vorrat hinzufügen.
+Der abgeschossene Samen kann eine Distanz von bis zu 2 MTP Metern überbrücken.
+	Dauer: 5
+	Kosten: 4
+
+
+Saatschlag IIa
+Voraussetzungen:
+	Natur-Pflanze
+	MG: 34
+	WK: 28
+	IN: 39
+Durch die Vertiefung kann ein mit mindestens 3 MP gesättigter Samen wie ein Guulu-Samen als Ziel einer Pflanzenbeschwörung verwendet werden.
+Der Samen bringt jedoch keinerlei Kostenreduktion für den Zauber.
+	Dauer: 5
+	Kosten: 4
+	Vertiefungskosten: 2/3
+
+
+Saatschlag IIb
+Voraussetzungen:
+	Natur-Pflanze
+	MG: 29
+	WK: 36
+	ERF: 28
+	IN: 28
+Durch die Vertiefung erhöht sich die Mana-Kapazität der Samen auf MTP/2 MP, von denen MTP/4 MP entzogen werden können.
+	Dauer: 5
+	Kosten: 4
+	Vertiefungskosten: 2/3
+
+
+Saatschlag III
+Voraussetzungen:
+	Natur-Pflanze
+Saatschlag IIa und IIb
+	MG: 42
+	WK: 42
+	ERF: 31
+	IN: 42
+	LV: 3
+Durch die Vertiefung reduziert sich die zum erschaffen des Samens benötigte Dauer auf 4 ZWZ. Zudem erhöht sich die Reichweite des Zaubers auf 3 MTP Meter.
+Einem vol gesättigten Samen können nun MTP/3 MP entzogen werden.
+	Dauer: 4
+	Kosten: 4
+	Vertiefungskosten: 3/4
+
+
+Saatschlag IIIIa
+Voraussetzungen:
+	Natur-Pflanze
+Saatschlag III
+	MG: 52
+	WK: 46
+	ERF: 31
+	IN: 49
+	LV: 3
+Wird ein Samen als Ziel eines Pflanzenbeschwörungszaubers verwendet werden die Kosten des Zaubers maximal um die Menge des Absorbierten Manas reduziert.
+	Dauer: 4
+	Kosten: 4
+	Vertiefungskosten: 3/4
+
+
+Saatschlag IIIIb
+Voraussetzungen:
+	Natur-Pflanze
+Saatschlag III
+	MG: 42
+	WK: 42
+	ERF: 31
+	IN: 42
+	LV: 3
+Durch die Vertiefung reduziert sich die Übergangszeit zwischen zwei Saatschlägen auf 3 ZWZ und die Kosten des Zaubers reduzieren sich auf 3 MP.
+	Dauer: 4
+	Kosten: 3
+	Vertiefungskosten: 3/4
+
+
+
+ 
+Samen von Blut
+Voraussetzungen:
+	Natur-Pflanze
+MG: 39
+WK: 62
+IN: 58
+LV: 5
+Der Zauber lässt MTP/4 Fleischfressende Pflanzen wachsen, die Gegner in der Nähe angreifen.
+Der Zaubernde hält nach Abschluss des Zaubers die Samen für die fleischfressenden Pflanzen in der Hand. Diese können ihre Macht für bis zu MTP Stunden bewahren. Danach keimen die Samen nicht mehr.
+Werden ein Samen auf die Erde fallen gelassen oder in die Erde gepflanzt, wächst aus ihm binnen einer Kampfrunde die Fleischfressende Pflanze. Es werden pro Pflanze mindestens 20 Liter Erde benötigt.
+Mit einem kontinuierlichen Einsatz von 5 ZWZ ohne Übergangszeit kann das wachsen eines gepflanzten Samens verzögert werden.
+Die Pflanzen haben zwei große, zahnbewehrte Mäuler mit denen sie versuchen alle in ihrer Nähe, außer den Schöpfer der Samen, zu Beißen und zu Töten. Dafür steht jedem Maul eine Attacke pro Kampfrunde mit einer AT Wert von 80 zu. Ist der Angriff erfolgreich werden 12 Punkte Schaden zugefügt.
+Möchte der Beschwörer der Pflanzen auf eine Pflanze einzuwirken und festlegen welchen Ziel sie Angreift wird 1 MP und 3 ZWZ mit Übergangszeit benötigt.
+Die Pflanzen haben 3 MTP Lebenspunkte. Sie erhalten doppelten Schaden durch Feuer. 
+Die Pflanzen verwelken und werden binnen weniger Minuten zu einem Häufchen Pflanzenmatsch wenn entweder MTP/4 Stunden seit dem Pflanzen vergangen sind oder ihre LP aufgebraucht sind.
+	Dauer: 112
+	Kosten: 24 MP + 10 LP
+ 
+Samen von Gift
+Voraussetzungen:
+	Natur-Pflanze
+MG: 39
+WK: 52
+IN: 58
+KL: 58
+LV: 5
+Der Zauber lässt MTP/4 giftige Pflanzen wachsen, die Gegner in der Nähe angreifen.
+Der Zaubernde hält nach Abschluss des Zaubers die Samen für die Pflanzen in der Hand. Diese können ihre Macht für bis zu MTP Stunden bewahren. Danach keimen die Samen nicht mehr.
+Wird ein Samen auf die Erde fallen gelassen oder in die Erde gepflanzt, wächst aus ihm binnen einer Kampfrunde die giftige Pflanze. Es werden pro Pflanze mindestens 20 Liter Erde benötigt.
+Mit einem kontinuierlichen Einsatz von 5 ZWZ ohne Übergangszeit kann das wachsen eines gepflanzten Samens verzögert werden.
+Die Pflanzen bestehen aus einem Tonnenförmigen, stachelbewehrten Grundkörper aus dem oben eine bewegliche Ranke mit einem Giftstachel am Ende ragt. Die Pflanze greift an indem der Stachel Schlangenartig nach vorne Schnellt und einen Gegner innerhalb der Reichweite von 3 Metern sticht. Dafür steht jeder Pflanze eine Attacke pro Kampfrunde mit einer AT Wert von 80 zu. Ist der Angriff erfolgreich werden 3 Punkte Schaden zugefügt und das Ziel wird vergiftet. 
+Durch das Gift wird INI, AU, ZWZ und MNAU für MTP/3 Runden jede Runde um MTP/3 gesenkt und zusätzlich MTP/3 Punkte Schaden zugefügt. nachdem das Gift seine Wirkung verloren hat stellt sich die ursprüngliche Geschwindigkeit mit der gleichen Geschwindigkeit wieder her. Es wird also jede Runde INI, AU, ZWZ und MNAU um MTP/3 erhöht bis der ursprüngliche Wert wieder erreicht wurde.
+Fällt einer der sinkenden Werte durch die Vergiftung auf oder unter null, so fällt das Ziel in einem komatösen Schlaf. Aus diesem Schlag erwacht das Ziel nach MTP/3 Runden oder wenn es Schaden erleidet. Es muss jedoch seine erste Kampfrunde vollständig aufgeben um wieder richtig zu Bewusstsein zu kommen.
+Möchte der Beschwörer der Pflanzen auf eine Pflanze einzuwirken und festlegen welchen Ziel sie Angreift wird 1 MP und 3 ZWZ mit Übergangszeit benötigt.
+Die Pflanzen haben 1,5 MTP Lebenspunkte. Sie erhalten doppelten Schaden durch Feuer. 
+Die Pflanzen verwelken und werden binnen weniger Minuten zu einem Häufchen Pflanzenmatsch wenn entweder MTP/4 Stunden seit dem wachsen Pflanzen vergangen sind oder ihre LP aufgebraucht sind.
+	Dauer: 112
+	Kosten: 24 MP + 10 LP
+	
+
+Sporenbombe
+Voraussetzungen: 
+Natur-Pflanze
+MG: 46
+KL: 48
+WK: 56
+IN: 39
+LV: 3
+Der Zauber lässt eine Pflanze mit einer Blüte voller giftiger Sporen wachsen. Die Blüte sprengt sich selbst um die Samen zu verteilen.
+Der Zauber erschafft die Samen für die Pflanze. Diese liegen nach dem Zauber in der Hand des Zaubernden. Fallen die Samen auf fruchtbaren Boden beginnt dort sofort das Wachstum. Die Pflanze wächst als Trieb sehr schnell aus dem Boden einer Wand oder sogar der Decke, die Fläche aus der die Pflanze wächst muss allerdings Erdreich oder Holz sein. Es Bedarf mindestens eines Liters erde oder des Äquivalents in Holz um genug Nährstoffe für die Pflanze zu bieten.
+Mit einem kontinuierlichen Einsatz von 2 ZWZ ohne Übergangszeit kann das wachsen eines gepflanzten Samens verzögert werden.
+Binnen einer Kampfrunde wächst die Pflanze vollständig. Zum Selbstschutz bilden sich am Stängel scharfkantige Blätter aus, die jedem der sie anfasst 2 Schadenspunkte zufügen. Schließlich wächst am Ende des etwa einen Meter langen Stängels eine knollenförmige, lila Knospe aus. 
+In der Runde nachdem die Pflanze ihr Wachstum begonnen hat, wenn derjenige der die Samen geworfen hat wieder am Zug ist, platzt die mittlerweile angeschwollene Knospe mit einem dumpfen Knall auf. 
+Dabei verteilen sich die feinen Sporen im inneren der Knospe in einem Radius von etwa MTP/2 Meter. Da die Sporen sehr leicht sind ist die Verteilung der Sporen stark windabhängig. 
+Die Sporen haben eine Raue mit lauter winzigen giftigen Stachen übersäte Oberfläche die jedem Mensch und Tier der die Sporen einatmet MTP Schaden zufügt, da sich die Sporen in der Lunge absetzten. 
+Das Gift beeinträchtigt jedoch nur Wesen vom Anderen Ort. Diese werden vergiftet das sich die vielen kleinen Stacheln auf der Oberfläche der Sporen an ihrer Substanz verankern. Vergiftete erleiden für MTP/3 Runden MTP/3 Schaden. Von der Vergiftung ist nur der Beschwörer der Pflanze ausgenommen. 
+Naturdschinn können das Gift mit einer Dauer von 50 und 5MP neutralisieren.
+Heildschinn können das Gift mit einer Dauer von (100-KL) analysieren und dann mit einer Dauer von 20 und einem Manaeinsatz von 3 (1MP 1LP für chinesische Heiler) vergiftete Wesen vom anderen Ort, auch sich selbst, heilen.
+Dauer: 43
+Kosten: 30 MP + 4 LP
+ 
+Tanzende Rebe
+Voraussetzungen:
+	Pflanze
+	MG: 21
+Der Zauber erschafft eine Ranke die vom Zaubernden gesteuert wird und für eine Reihe von einfachen Manipulationen verwendet werden kann. 
+Die bis zu MTP Meter lange Rebe kann große Objekte oder Personen greifen und bewegen oder festhalten. Ergriffene Objekte können in einer Kampfrunde das gesamte Gebiet in dem die Rebe wirksam werden kann durchqueren. Sich dieser Positionsänderung oder dem Griff der Rebe zu entziehen erfordert eine um zwanzig erleichterte GE oder KK-Probe die 5 AU erfordert. Alternativ kann auch eine Parade durchgeführt werden um sich der Rebe zu entziehen.
+Die Rebe wird aus sich in der unmittelbaren Nähe des Zaubernden befindendem Nährboden beschworen. Sie kann nach der Beschwörung mit 5 ZWZ und 1 MP verwendet werden. Wird sie nicht verwendet liegt sie schlaff auf dem Boden. Es können bis zu (KL*MG)/25 Reben gleichzeitig verwendet werden.
+Die Rebe wird wie jede gewöhnliche Pflanze Beschädigt und Zerstört. Da die Rebe keine Möglichkeiten der Selbstversorgung besitzt zerfällt sie, abhängig von den Umgebungsbedingungen, im Laufe von wenigen Stunden bis Tagen.
+	Dauer: 12/ 5
+	Kosten: 3/ 1 
+ 
+Tiermeister
+Voraussetzungen: 
+Natur-Pflanze
+MG: 44
+ERF: 41
+WK: 37
+IN: 39
+Der Zauber ermöglicht es dem Zaubernden ein Tier zu übernehmen und sich im inneren des Tieres zu verbergen.
+Dazu muss der Geist des Tieres jedoch entweder unterworfen werden oder das Tier muss den Zaubernden freiwillig aufnehmen.
+Um den Geist des Tieres zu unterwerfen wird eine vergleichende WK Probe durchgeführt. Derjenige der den größeren Abstand zu seinem Basiswert erzielt gewinnt die Probe. Alle MTP Minuten kann das Wirtstier den besetzenden Geist herausfordern und die Probe wiederholen. Gewinnt das Tier wird der Zauber sofort beendet. Da die Konzentration des zaubernden im Kampf anderweitig okkupiert ist. Kann das Wirtstier hier sogar alle MTP/3 Runden versuchen den Zauber aufzuheben.
+Jedes Mal wenn ein Kampf um die Vorherrschaft stattfindet kostet dieser den Zaubernden 20 ZWZ mit Übergangszeit und 3 MP.
+Auch ohne die Herrschaft des fremden Geistes über den Körper anzufechten kann das Tier mit dem Zaubernden jederzeit kommunizieren.
+Aller schaden wird, solange der Zauber wirkt, dem tierischen Wirt zugefügt.
+Solange sich der zaubernde in einem tierischen Wirt verbirgt kann erst auf der Ebene über seiner Höchsten seine wahre Gestallt erkannt werden.
+Der Zauber erfordert kontinuierlich 3 ZWZ ohne Übergangszeit und 1 MP alle MTP/2 Minuten.
+Dauer: 36/20
+Kosten: 8/3
+
+
+Tiermeister II
+Voraussetzungen: 
+Natur-Pflanze
+MG: 53
+ERF: 48
+WK: 48
+IN: 46
+LV: 3
+Geübte Anwender des Zaubers können eine stabilere Kontrolle über unwillige Tiere bewahren. Dadurch erhalten sie einen +10 Bonus auf alle vergleichenden WK-Proben. Zudem kann das besessene Tier den Zaubernden auch im Kampf nur alle MTP/2 Runden um die Kontrolle herausfordern und der Kampf um die Kontrolle erfordert von dir nur 16ZWZ, ohne ZÜZ, und 2MP.   
+Der Zauber erfordert kontinuierlich 2 ZWZ ohne Übergangszeit und 1 MP alle MTP/2 Minuten.
+Dauer: 44/16
+Kosten: 7/2
+Vertiefungskosten: 3/4
+ 
+
+Tierruf
+Voraussetzungen: 
+Natur-Pflanze
+MG: 16
+WK: 19
+IN: 22
+ERF: 18
+Der Zauber lässt einen hohen Ton erschallen der auf größere Tiere in der Umgebung anziehend wirkt.
+Je nachdem was für Tiere in der Nähe wohnen kommen diese vermutlich zum Ursprung des Rufes. Die dafür benötigte Zeit hängt vom Tier ab.
+Tiere die durch den Ruf kommen sind dem Zaubernden vermutlich nicht bekannt und nicht gehorsam. Sie sind schlicht neugierig und bringen vermutlich sogar Erwartungen mit. Es ist nun am Zaubernden die Tiere für seine Sache zu gewinnen.
+Dauer: 7
+Kosten: 2
+ 
+
+Wispern im Wind
+ Voraussetzungen:
+	Natur-Pflanze
+	IN: 38
+	ERF: 24
+Durch den Zauber ist der Zaubernde befähigt mit den, den Pflanzen innewohnenden Geistern zu sprechen. Auf diese Weise kann der Zaubernde Informationen über die nähere Umgebung erhalten. Die groß diese Umgebung ist hängt von der Größe der Pflanze und ihrem Einfluss auf die Umgebung ab.
+Da Pflanzen, und Pflanzengeister, eine etwas andere Wahrnehmung von Zeit und ihrer Umgebung haben ist es unter Umständen sehr schwer eine bestimmte Information zu erhalten, besonders wenn es um ein recht kurzes Ereignis wie des Vorbeikommen einer Person oder eines Wesens ist. 
+Den Zauber aufrecht zu erhalten bedarf eines konstanten Aufwandes von 4 ZWZ, ohne ZÜZ, und einem MP alle 2 Minuten.
+	Dauer: 9/ 4
+	Kosten: 2/ 1 pro 2 Min.
+
+Wispern im Wind II
+ Voraussetzungen:
+	Natur-Pflanze
+	IN: 52
+	ERF: 33
+	LV: 3
+Häufiger Kontakt mit Pflanzengeistern macht die Kommunikation mit solchen Wesen und das verwenden das zugehörigen Zaubers fast schon natürlich. Dadurch sinkt der mit dem Zauber verbundene aufwand deutlich. Das Aufrechterhalten des Zaubers erfordert fürderhin nur noch 2 ZWZ, ohne ZÜZ, und 1 MP alle 5 Minuten.
+	Dauer: 5/ 2
+	Kosten: 1/ 1 pro 5 Min.
+	Vertiefungskosten: 2/ 3 
+	
+Wolfsnase
+Voraussetzungen:
+	Natur-Pflanze
+MG: 19
+IN: 33
+WAH: 18
+Der Zauber lässt dem Zaubernden, zusätzlich zu eventuell schon vorhandenen Nasen, eine Wolfsnase wachsen.
+Durch den verbesserten Sinn steigt der Intuition-Basiswert des Zaubernden um 10 an. Dadurch verbessert sich folgende Werte um jeweils 1: AT, PA, AW, MAT, MPA, MNAT.
+Der Zauber kann für 1 ZWZ, ohne Übergangszeit, die konstant aufgebracht werden muss und 1 MP alle MTP/2 Minuten beliebig lange aufrecht gehalten werden.
+	Dauer: 12/1
+	Kosten: 3 /1
+
+ 
+Wurzelflicken
+Voraussetzungen:
+	Natur-Pflanze
+	Flickenreflex
+ MG:	41/	53/	65
+ KL:	32/	41/	50
+ IN:	37/	47/	57
+ REA:	36/	47/	58
+ LV:	0/	4/	8
+Der Zauber erschafft ein feines Netz magischer Triebe, dass eine große Wunde teilweise auffüllt. Indem den Wundrändern halt verliehen wird kann selbst eine weitgehend zerstörte Gestallt aufrecht gehalten werden. Zudem werden die Triebe im Rahmen der Wundheilung in die Substanz absorbiert. Es kann durch den Zauber ein Teil des Schadens den die Substanz nehmen würde verhindert werden und ein Teil Substanz wiederhegestellt werden. Erlittener Schaden kann so insgesamt reduziert werden. Aufgrund der assoziierten Gabe wird der Zauber nicht aktiv eingesetzt, sondern als Reaktion auf Gegnerische Aktionen. 
+Wenn der Begabte oder ein gut bekannter Verbündeter, der nicht weiter als MTP/2 Meter weit entfernt ist im Laufe der Gesamtheit der gegnerischen Aktionen mindestens 35 Punkte Schaden erleidet wird demjenigen durch Flickenreflex geholfen. Das Zaubern erfordert keine Dauer und erfolgt instantan. Diese Reaktion ist dem Begabten in jeder Kampfrunde bis entsprechend der erfüllten Voraussetzungen ein bis drei Mal möglich.
+Das Flickennetz reduziert den erlittenen Schaden um 5% und stellt MTP/3 Lebenspunkte wieder her. Schaden der durch abspalten von Substanz erfolgt kann durch das Flickennetz vollkommen annulliert werden, da die abgespaltene Substanz über die Triebe angebunden wird bevor sie zerfällt. Wird der Zauber auf einen Natur-Pflanzendschinn gewirkt erhöht sich aufgrund der erhöhten Kompatibilität der Triebe zur Substanz die Wirkung des Zaubers auf 7% des Schadens und MTP/2 Lebenspunkte. Der Zauber kann auf jedes Ziel nur ein Mal pro Kampfrunde gewirkt werden.
+Der Zauber kann nur als Reflex ausgeführt werden.
+	Dauer: 0
+	Kosten: 4
+
+

@@ -1,0 +1,510 @@
+Frostdschinn
+Frostdschinn wurden an kalten Orten erstbeschworen. Sie können extremer Kälte ohne Probleme wiederstehen und nutzen die Kälte sogar zu ihrem Vorteil. Daher ist es nicht verwunderlich, dass sie gerade an sehr kalten Orten für Außeneinsätze viel verwendet wurden.
+Sie können aber in begrenztem Umfang auch die Kälte von einem Ort fernhalten, eine Fähigkeit wegen der sie gerade in kalten Winternächten noch höher geschätzt werden als wegen ihrer Kälteunempfindlichkeit und ihrer offensiven Fähigkeiten.
+Im Kampf stören Frostdschinn ihre Gegner zumeist mit einer Vielzahl von Fähigkeiten um Sie unschädlich zu machen und Sie dann in Ruhe zu besiegen. Ihr besonderes Augenmerk leigt dabei darauf ihre Gegner zu verlangsamen und zu blenden. Daher sind Frostdschinn auch gut geeignet um mit anderen in einer Gruppe zusammen zu arbeiten.
+Aufgrund der deutlich verschiedenen Veranlagung bezüglich der Präferenztemperaturen sind Konflikte mit Feuer-/ und Vulkandschinn vorprogrammiert, sollten sie solchen begegnen.
+
+Abkühlen
+Voraussetzungen:
+	Frost
+	MG:25
+	ERF:20
+	WK:25
+Lässt die Temperatur in einem Raum oder einem Radius von MTP/2 Metern um den Frostdschinn herum bis auf 0°C sinken. Es ist auch Möglich die Temperatur weniger stark zu reduzieren. Der schnelle Temperaturabfall schadet Wesen vom Anderen Ort die Kälteanfällig sind. Feuer und Vulkandschinn erleiden daher 1 Punkt Schaden pro Grad Celsius Temperaturabfall.
+Der Zauber Kostet 1 MP und Dauert 1 ZWZ pro Grad Celsius Temperaturabfall.
+	Typ: Aura
+	Dauer: 1 pro 1°C
+	Anhaltend: bis sich die Luft wieder erwärmt
+	Kosten: 1MP pro 2°C über Null.
+
+
+Absolut Null (Bst)
+Friert ziel ein
+
+
+Aura der klirrenden Kälte
+Voraussetzungen:
+	Frost
+	MG: 41
+	WK: 38
+	KO: 29
+Der Zauber erschafft um den Zaubernden einen enorm kalten Bereich. 
+Durch die Kälte fällt es anderen Dschinn schwer sich zu bewegen. Dies Äußert sich indem die Dauer für alle physischen Aktionen, Nahkampfangriffe, Bewegen und zusätzliche defensive Aktionen um 3 AU erhöht. Zudem sind alle Würfe auf physische Aktionen um 5 erschwert.
+Die Aura wirkt in einem Bereich von MTP/3 Metern um den Zaubernden.
+Um den Zauber aufrecht zu erhalten muss jede Kampfrunde 7 ZWZ und 2 MP investiert werden.
+Frostdschinn und bei den Wikingern erstbeschworene Wesen vom Anderen Ort sind von der Aura der klirrenden Kälte nicht betroffen.
+	Dauer: 19/7
+	Kosten: 5/2
+ 
+Aura der klirrenden Kälte II
+Voraussetzungen:
+	Frost
+	MG: 47
+	WK: 46
+	MR: 26
+	KO: 34
+Der Zauber erschafft um den Zaubernden einen enorm kalten Bereich. 
+Durch die Kälte fällt es anderen Dschinn schwer sich zu bewegen. Dies Äußert sich indem die Dauer für alle physischen Aktionen, Nahkampfangriffe, Bewegen und zusätzliche defensive Aktionen um 4 AU erhöht. Zudem sind alle Würfe auf physische Aktionen um MTP/2 erschwert.
+Die Aura wirkt in einem Bereich von MTP/3 Metern um den Zaubernden.
+Um den Zauber aufrecht zu erhalten muss jede Kampfrunde 6 ZWZ und 2 MP investiert werden.
+Frostdschinn und bei den Wikingern erstbeschworene Wesen vom Anderen Ort sind von der Aura der klirrenden Kälte nicht betroffen.
+	Dauer: 15/6
+	Kosten: 4/2
+		Vertiefungskosten: 3/4	
+ 
+Eisschild
+Voraussetzungen:
+	Frost
+	MG: 20/35
+	ERF: 20
+	KO: 28
+Der Zauber erschafft ein Schild aus Eis. Dieses kann entweder verwendet werden um Angriffen mit offensiver Magie abzuwehren oder um Nahkampfangriffe zu verteidigen. Das Schild hat eine Basisstabilität von MTP/2 die durch jeden erfolgreichen Einsatz um eins reduziert wird.
+Wird das Schild gegen magische Angriffe eingesetzt, wird zusätzlich zur Magieparade eine normale, um 10 erleichterte, Parade für das Eisschild gewürfelt. Beides zusammen gilt als eine defensive Aktion. Gelingen beide Proben verhindert dieses den angerichteten Schaden um MPAW+ PAW/2+1W10. Gelingt nur die Magieparade wird sie normal ausgeführt. Gelingt nur der Einsatz des Schildes wird der Schaden nur um PAW/2+1W10 reduziert.
+Wird das Eisschild im Nahkampf eingesetzt erhöht es die Erfolgswahrscheinlichkeit der Parade um 20.
+Das Eisschild erhöht die Paradewirkung (PAW) des Trägers um MTP.
+Das Schild kann bei Beschädigung ausgebessert werden. Dafür ist ein MG von 35 nötig. Ist diese Bedingung erfüllt kann für 2 MP und 5 ZWZ pro wiedererlangtem Stabilitätspunkt die Grundstabilität wiederhergestellt werden. Das Ausbessern des Eisschildes erfordert eine MAT probe. Zwischen jedem Punkt wiederhergestellter Stabilität wird die ZÜZ angewandt. 
+Das Eisschild kann mit Schmelzen/Verdampfen zerstört werden. Das Schild kann nur an kälteaffine Wesen und Dschinn weitergegeben werden. Wird das Schild abgegeben kann es nichtmehr repariert werden.
+Das Schild zerspringt in viele kleine Splitter, wenn die Stabilität des Schildes aufgebraucht wurde oder wenn MTP/2 Stunden seit dem Erstellen oder dem letzten Ausbessern vergangen sind.
+	Dauer: 35/5
+	Kosten: 12/2
+ 
+Eisschild II
+Voraussetzungen:
+	Frost
+MG: 30/42
+	WK: 36
+	ERF: 28
+	KO: 35
+	LV: 3
+Der Zauber erschafft ein Schild aus Eis. Dieses kann entweder verwendet werden um Angriffen mit offensiver Magie abzuwehren oder um Nahkampfangriffe zu verteidigen. Das Schild hat eine Basisstabilität von MTP die durch jeden erfolgreichen Einsatz um eins reduziert wird.
+Wird das Schild gegen magische Angriffe eingesetzt, wird zusätzlich zur Magieparade eine normale, um 10 erleichterte, Parade für das Eisschild gewürfelt. Beides zusammen gilt als eine defensive Aktion. Gelingen beide Proben verhindert dieses den angerichteten Schaden um MPAW+ PAW/2+1W10. Gelingt nur die Magieparade wird sie normal ausgeführt. Gelingt nur der Einsatz des Schildes wird der Schaden nur um PAW/2+1W10 reduziert.
+Wird das Eisschild im Nahkampf eingesetzt erhöht es die Erfolgswahrscheinlichkeit der Parade um 20.
+Das Eisschild erhöht die Paradewirkung (PAW) des Trägers um MTP.
+Das Schild kann bei Beschädigung ausgebessert werden. Dafür ist ein MG von 42 nötig. Ist diese Bedingung erfüllt kann für 1 MP und 4 ZWZ pro wiedererlangtem Stabilitätspunkt die Grundstabilität wiederhergestellt werden. Das Ausbessern des Eisschildes erfordert eine MAT-probe, es können jedoch mehrere Stabilitätspunkte mit einem Mal wiederhergestellt werden. Geschieht die ist nur eine MAT-Probe notwendig und es muss zwischen dem wiederherstellend er einzelnen Stabilitätspunkte keine ZÜZ aufgebracht werden.
+Das Eisschild kann mit Schmelzen/Verdampfen stark angegriffen werden, der Zauber zerstört 1 Stabilitätspunkt pro 3 Punkte Schaden durch den Zauber. Das Schild kann nur an kälteaffine Wesen und Dschinn weitergegeben werden. Wird das Schild abgegeben kann es nichtmehr repariert werden.
+Das Schild zerspringt in viele kleine Splitter, wenn die Stabilität des Schildes aufgebraucht wurde oder wenn MTP Stunden seit dem Erstellen oder dem letzten Ausbessern vergangen sind.
+	Dauer: 26/4
+	Kosten: 9/1
+	Vertiefungskosten: 3/4
+
+ 
+Eiswasserkur
+Voraussetzungen:
+	Frost
+	WK: 24
+	MR: 36/29
+	KO: 32/ 24
+Durch den Zauber wird der Widerstand den das Ziel des Zaubers Kälte entgegen bringt erhöht. 
+Erfüllt das Ziel des Zaubers die geringeren Anforderungen steigt die Kälteresistenz des Zieles des Zaubers um 5 Prozent an. Werden auch die höheren Anforderungen erfüllt steigt die Kälteresistenz sogar um 10% an. Erfüllt das Ziel des Zaubers keine der Anforderungen erleidet es stattdessen 2 Punkte Schaden und verliert MTP/3 INI, AU, ZWZ und MNAU von seiner nächsten Aktion.
+Der Zaubernde muss auf jeden Fall die Anforderungen des Zaubers erfüllen, er kann auch Ziel des Zaubers sein.
+Der Zauber kann auf Frostaffine Wesen doppelt gewirkt werden. Andere Wesen vertragen den Zauber nur ein Mal.
+Das Ziel des Zaubers darf maximal MTP/2 Meter vom Zaubernden entfernt sein.
+	Dauer: 9
+	Kosten: 4
+ 
+Eiszapfenhagel
+Voraussetzungen:
+	Frost
+	Zapfenkanone II (a/b)
+	Nicht Frostschild der Kälte
+	MG: 46
+	WK: 52
+	ERF: 39
+	WAH: 38 
+	LV: 5
+Die Zauber durchbohrt das Ziel mit einer großen Menge Eiszapfen. 
+Die Anzahl der Eiszapfen, also die Häufigkeit mit der der Zauber gleichzeitig gewirkt wird, kann beliebig groß gewählt werden, damit erhöhen sich jedoch auch die Vorbereitungszeit und die Kosten des Zaubers. Werden mehrere Eiszapfen gleichzeitig gewirkt entfällt die Zauberübergangszeit zwischen dem Wirken der Eiszapfen, da es sich auch bei einer großen Menge von Eiszapfen nur um einen einzigen Zauber handelt. Es ist daher auch nur eine einzige MAT-Probe für alle Eiszapfen zusammen notwendig. Jedes Wirken des Zaubers erschafft drei Eiszapfen.
+Da mit dem Zauber viele Eiszapfen auf einmal abgefeuert ist es schwierig dem Geschosshagel zu entgehen. Um zu bestimmen wie viele der Eiszapfen ihr Ziel treffen wird ein einziger Wurf auf Zielen durchgeführt. Der für die Probe verwendete Zielen-Wert wird ab dem zweiten Eiszapfen, pro Eiszapfen um 3 erhöht insgesamt also um neunfache der Anzahl die der Zauber gewirkt wird weniger drei. Die Differenz zwischen erhöhtem Zielen-Wert und Würfelergebnis gibt nun Auskunft über die Anzahl der treffenden Eiszapfen. Für jedes vielfache von vier, das in die Differenz von Wurfergebnis und Zielen Wert passt trifft ein Zapfen. Wird der erhöhte Zielen-Wert unterboten oder genau getroffen trifft mindestens ein Zapfen.
+Aufgrund der Streuung der Eiszapfen erleidet die Zielen-Probe mit mehr als einem Eiszapfen den dreifachen Distanzabzug.
+Jeder Eiszapfen der trifft richtet MTP/2 Punkte Schaden an und reduziert INI, AU, ZWZ und MNAU für die Dauer des Kampfes um 1. Dies geschieht zusätzlich zur Verlangsamung durch Kälteschlag.
+Möchte sich ein Gegner den Treffer nicht ohne Gegenwehr gefallen lassen kann er entweder eine Magieparade machen oder Ausweichen. 
+Im Falle einer erfolgreichen Magieparade wird ganz normal der Gesamtschaden um MPAW reduziert. Der Verlangsamungseffekt fällt dann für alle Eiszapfen die zumindest teilweise abgewehrt wurde weg. 
+Möchte ein Gegner ausweichen, so wird der Zielen Grundwert um die Hälfte der Differenz zwischen Ausweichen-Wert und Würfelergebnis der Ausweichenprobe (AU) erschwert.
+In Gegenden mit viel Wasser oder Eis reduzieren sich die Kosten pro Wirken auf nur 6 MP.
+Die Eiszapfen können maximal eine Distanz von 40 Metern ohne Verluste an ihrer zerstörerischen Wirkung überbrücken.
+	Dauer: 10 
+	Kosten: 7 
+	Vertiefungskosten: 5/7
+
+Erkalten
+Voraussetzungen: 
+	Frost
+	WK: 40
+	ERF: 25
+	MUT: 28
+Durch den Zauber stumpft der Zaubernde emotional ab.
+Dadurch ist er in der Lage sich selbst von schlimmsten Anblicken oder Situationen soweit zu distanzieren, dass er darauf nicht emotional reagiert, zumindest solange der Zauber wirkt.
+Außerdem verliert der Zaubernde jede unrationelle Furcht was ihm erlaubt noch gezielter und rücksichtsloser vorzugehen.  Dies führt zu einem Bonus von MTP auf MUT und von MTP/2 auf AT, PA, MAT, MPA und AW.
+Der Zauber kann mit einem ründlichen Einsatz von 5 ZWZ und 1 MP beliebig lange aufrecht gehalten werden. Außerhalb des Kampfes fallen die Manakosten jede Minute ein Mal an.
+Auch wenn dieser Bonus für Konflikte sehr ansprechend wirkt ist mit dem Zauber ein Haken verbunden. Da sich der Zaubernde in so großem Umfang von sich selbst und anderen distanziert verliert er auch seine Empathie, die für ihn als Wesen vom Anderen Ort essenziell ist. Nachdem der Zauber gewirkt wurde sind Verwandlungen für die Anzahl Kampfrunden die der Zauber verwendet wurde *5 Minuten um 20 erschwert. Für den gleichen Zeitraum kann der Zaubernde nicht an den Anderen Ort zurückkehren, da er nicht in der Lage ist Teil des großen Strudels zu werden. Wird der Zauber sehr häufig oder sehr lange am Stück angewendet kann dieser Zustand für einen längeren Zeitraum oder sogar für immer anhalten.
+	Dauer: 19/5
+	Kosten: 5/1
+ 
+Festfrieren
+Voraussetzungen:
+	Frost
+	MG: 23
+	ERF: 35
+	WK: Mind. INI des Ziels
+Friert den Getroffenen an Ort und Stelle fest. Der Zauber kann in einem Radius von MTP/2 Metern um den Zaubernden herum ausgeführt werden dabei können nur Ziele gewählt werden die Kontakt zu etwas besitzen an dem sie festgefroren werden können.
+Der Effekt des Zaubers kann durch einen geeigneten Zauber oder den Einsatz von 15AU ausgehoben werden. Beträgt die KK des Ziels mindestens 40 genügen 10 AU um sich aus dem Zauber zu befreien. 
+	Dauer: 5 
+	Kosten: 3
+ 
+Frostiger Pfähler
+Voraussetzungen:
+	Frost
+	MG: 29
+	WK: 38
+	KK: 28
+Der Zauber erschafft einen Speer aus Eis der das Ziel durchbohrt und an Ort und Stelle festsetzt.
+Auf eine Distanz von bis zu 2 MTP Meter richtet ein Treffer mit dem Frostspeer 1,5 MTP Punkte Schaden an.
+Beim Treffen wirft die Wucht des Treffers das Ziel ein Stück weit zurück. Befindet sich das Ziel des Zaubers weniger als MTP/5 Meter von einer festen Fläche entfernt wird es von der Eislanze an der Fläche festgenagelt. Die Eislanze bleibt auf jeden Fall, nachdem sie getroffen hat, in der Substanz des Zieles stecken.
+Die Eislanze schmelzt nur sehr langsam und wiederstrebend, selbst bei hohen Umgebungstemperaturen, da sie in ihrem inneren ein kleines Reservat an Frostmagie besitzt. Es dauert bei Umgebungstemperaturen um die 25°C etwa eine halbe Stunde bis die Eiszapfen soweit geschmolzen sind, dass sie den Getroffenen nicht mehr stören und ohne Schwierigkeiten entfernt werden können. Einwirkung durch Feuer oder Vulkanmagie erhöht natürlich die Schmelzgeschwindigkeit. 
+Jeder Eisspeer der in einem Gegner steckt richtet bei jeder physischen Aktion die dieser durchführt, also Laufen, Angreifen, Parieren oder Ausweichen einen Punkt Schaden an und erschwert das durchführen der Aktion um 5. 
+Einen Eisspeer zu entfernen Dauert 6 AU und fügt demjenigen aus dem der Eisspeer gezogen wird vier Punkte Schaden zu. Durch einen Eisspeer an eine Fläche genagelte Wesen benötigen 10 AU um sich zu befreien und erleiden dabei sechs Punkte Schaden.
+Mehrfache Treffer haben alle vollen Effekt.
+	Dauer: 12
+	Kosten: 9
+ 
+Frostsaat (Bst)
+Voraussetzungen:
+	Frost
+	Gabe: Zaubersaat
+	MG: 53
+	IN: 46
+	ERF: 35
+	WK: 35 +4 pro Wirken
+	LV: 5
+Der Zauber überträgt Frostmagie auf das Ziel, sodass dieses dadurch geschädigt wird.
+Der Zauber muss vor dem ersten Durchführen mit einer Dauer von 30 vorbereitet werden, die MAT Probe ist erst beim eigentlichen Manatransfer notwendig. Nun kann bei Kontakt, z.B. durch einen erfolgreichen Nahkampfangriff, mit dem Übertragen der Magie begonnen werden. Nach dem ersten erfolgreichen übertragen von Magie kann in einem Abstand von MTP/2 Metern um das Ziel herum weiter Magie übertragen werden, dazu ist kein Sichtkontakt notwendig. Die Übertragung kann, sofern mindestens 1 MP im Ziel vorhanden ist unterbrochen und später fortgesetzt werden.
+Wird der Zauber mit einem Nahkampfangriff initiiert ist dieser um 5 erschwert, da ein Teil der Konzentration des Angreifers für den Zauber notwendig ist. MNKler nicht
+Der vorbereitete Zauber kann beliebig lange ungenutzt parat gehalten werden, solange kann aber kein anderer Zauber gewirkt werden und es entfallen jede Kampfrunde in der der Zauber nicht eingesetzt wird 5 ZWZ und 1 MP auf das erhalten des Zaubers.
+ Jeder erfolgreiche Einsatz des Zaubers schiebt MTP/2 Manapunkte, in das Ziel des Zaubers. Dieses erleidet MTP Punkte Schaden und seine INI, AU, ZWZ und MNAU werden in Höhe des übertragenen Manas reduziert. 
+Übersteigt das übertragene Mana 1/5 der Basis LP des Ziels können langfristige Schäden auftreten. Um zu ermitteln ob dies der Fall ist wirft das Ziel des Zaubers bei jeder Übertragung, die die Bedingung für das Auftreten von Langzeitschäden erfüllt auf MPA. Die Probe ist um 1 pro MP über der Langzeitschadensgrenze erschwert. Scheitert die Probe werden die Attribute des Ziels nach erachten des Spielleiters gesenkt. Dies kann mehrfach geschehen.
+Der Zaubernde kann das übertragene Mana in einem Radius von 5 MTP erfühlen und so den Verzauberten wiederfinden.
+Das übertragen des Manas wird mit der Menge des bereits übertragenen Manas zunehmend Schwieriger, da sich die Substanz des Ziels gegen das eindringend es Fremden Manas wehrt. Daher steigt die Anforderung an WK um weiteres Mana in das Ziel zu übertragen um 4 pro bereits durchgeführter Übertragung.
+Wird der Zauber von Afriten oder Mariden durchgeführt ist es möglich, das Element des Ziels Langfristig zu verändern. Je nach Absicht und Geschick des Zaubernden kann sich der auftretenden Langzeitschaden dann geringhalten.
+Das übertragene Fremdmana kann vom Ziel des Zaubers nur am Anderen Ort mit (MR+WK)/40 Mana/Tag abgebaut werden.
+	Dauer: 22
+	Kosten: 3+Übertragenes Mana
+ 
+Frostschild der Kälte
+Voraussetzungen:
+	Frost
+	Eisschild II
+	Nicht Frostiger Pfähler
+MG: 62
+	KL: 36
+	WK: 58
+	KO: 46
+	LV: 5
+Der Zauber erschafft ein großes Schneeflockenförmiges Schild aus Eis. 
+Das Schild hat eine Stabilität von MTP, die sich bei jedem erfolgreichen Einsatz um eins reduziert.
+Wird das Schild gegen magische Angriffe eingesetzt, wird zusätzlich zur Magieparade eine normale, um 20 erleichterte, Parade für das Frostschild der Kälte gewürfelt. Beides zusammen gilt als eine defensive Aktion. Gelingen beide Proben verhindert dieses den angerichteten Schaden um MPAW+ PAW+1W10. Gelingt nur die Magieparade wird sie normal ausgeführt. Gelingt nur der Einsatz des Schildes wird der Schaden nur um PAW+1W10 reduziert. Wird das Herz der Kälte gegen Feuer- oder Vulkanzauber angewandt wird die Wirkung des abgewehrten Zaubers zusätzlich um einen weiteren W10 reduziert. 
+In der nächsten Kampfrunde nachdem das Frostschild der Kälte einen Zauber abgewehrt hat feuert es automatisch einen Hagelschauer auf den Urheber des Zaubers ab. Der Zauber gelingt automatisch. Wurde das Frostschild der Kälte in dem dazwischenliegenden Zeitraum zerstört ist diese Reaktion nichtmehr möglich.
+Wird das Eisschild im Nahkampf eingesetzt erhöht es die Erfolgswahrscheinlichkeit der Parade um 25 und die Wirksamkeit der Parade (PAW) um MTP. Der abgewehrte Angreifer wird durch den Kontakt mit dem Herz der Kälte verlangsamt hat in seiner aktuellen Kampfrunde 10 AU weniger zur Verfügung. Verbleiben dem Angreifer weniger als 10 AU in dieser Kampfrunde wird der komplette Effekt in die nächste Kampfrunde übertragen.
+Schmelzen/Verdampfen hat keinerlei Auswirkungen auf das Frostschild der Kälte.
+Das Herz der Kälte kann nicht abgegeben werden.
+In einem Radius von MTP/2 Metern um das Schild liegt die Umgebungstemperatur 10 Grad Celsius unter der restlichen Umgebungstemperatur. Die Temperatur liegt in diesem Bereich nie über 15 Grad Celsius.
+Die Stabilitätspunkte des Herzens der Kälte können für je 2 LP und 1 MP pro Stabilitätspunkt ohne Zeitauswand regeneriert werden.
+Jeder Einsatz des Herzens der Kälte kostet den Träger 1 MP.
+Wird das Frostschild der Kälte zerstört zerstiebt es in einer Kältewelle die an allen in einem Radius von MTP/2 Metern MTP Punkte Schaden anrichtet und an allen in einem Radius von MTP Metern MTP/2 Punkte Schaden anrichtet. Frostdschinn erleiden davon keinen Schaden. Ansonsten schmilzt es sehr schnell wenn MTP Stunden seit dem Erstellen oder dem letzten Ausbessern vergangen sind.
+	Dauer: 56
+	Kosten: 32
+	Vertiefungskosten: 5/7
+ 
+Frostschild der Kälte II
+Voraussetzungen:
+	Frost
+	Frostschild der Kälte
+	MG: 69
+	KL: 48
+	WK: 66
+	MR: 36
+	KO: 46
+	LV: 7
+Der Zauber erschafft ein großes Schneeflockenförmiges Schild aus Eis. 
+Das Schild hat eine Stabilität von MTP, die sich bei jedem erfolgreichen Einsatz um eins reduziert.
+Wird das Schild gegen magische Angriffe eingesetzt, wird zusätzlich zur Magieparade eine normale, um 20 erleichterte, Parade für das Frostschild der Kälte gewürfelt. Beides zusammen gilt als eine defensive Aktion. Gelingen beide Proben verhindert dieses den angerichteten Schaden um MPAW+ PAW+2W10. Gelingt nur die Magieparade wird sie normal ausgeführt. Gelingt nur der Einsatz des Schildes wird der Schaden nur um PAW+1W10 reduziert. Wird das Herz der Kälte gegen Feuer- oder Vulkanzauber angewandt wird die Wirkung des abgewehrten Zaubers zusätzlich um einen weiteren W10 reduziert. 
+In der nächsten Kampfrunde nachdem das Frostschild der Kälte einen Zauber abgewehrt hat feuert es automatisch einen Hagelschauer auf den Urheber des Zaubers ab. Der Zauber gelingt automatisch. Wurde das Frostschild der Kälte in dem dazwischenliegenden Zeitraum zerstört ist diese Reaktion nichtmehr möglich.
+Wird das Eisschild im Nahkampf eingesetzt erhöht es die Erfolgswahrscheinlichkeit der Parade um 25 und die Wirksamkeit der Parade (PAW) um MTP. Der abgewehrte Angreifer wird durch den Kontakt mit dem Herz der Kälte verlangsamt hat in seiner aktuellen Kampfrunde MTP AU weniger zur Verfügung. Verbleiben dem Angreifer weniger als MTP AU in dieser Kampfrunde, kann der Verteidiger aussuchen ob der komplette Effekt in die nächste Kampfrunde übertragen werden soll.
+Schmelzen/Verdampfen hat keinerlei Auswirkungen auf das Frostschild der Kälte.
+Das Herz der Kälte kann nicht abgegeben werden.
+In einem Radius von MTP/2 Metern um das Schild liegt die Umgebungstemperatur 10 Grad Celsius unter der restlichen Umgebungstemperatur. Die Temperatur liegt in diesem Bereich nie über 15 Grad Celsius.
+Die Stabilitätspunkte des Herzens der Kälte können für je 2 LP pro Stabilitätspunkt ohne Zeitauswand regeneriert werden.
+Auf die gleiche Weise kann die Stabilität des Schildes auf bis zu 1,5 MTP erhöht werden.
+Jeder Einsatz des Herzens der Kälte kostet den Träger 1 MP.
+Wird das Frostschild der Kälte zerstört zerstiebt es in einer Kältewelle die an allen in einem Radius von MTP/2 Metern MTP Punkte Schaden anrichtet und an allen in einem Radius von MTP Metern MTP/2 Punkte Schaden anrichtet. Frostdschinn erleiden davon keinen Schaden. Ansonsten schmilzt es sehr schnell wenn MTP Stunden seit dem Erstellen oder dem letzten Ausbessern vergangen sind.
+	Dauer: 48
+	Kosten: 27
+	Vertiefungskosten: 4/6
+ 
+Froststrahl
+Voraussetzungen:
+	Frost
+MG: 38
+WK: 36
+	ERF: 24
+	LV: 3
+Der Zauber sendet einen Strahl aus Eis los der das Ziel festfrieren lässt und verlangsamt. 
+Der Zauber richtet MTP Punkte Schaden pro 2,0 für den Zauber aufgewendete, ZWZ des Zaubernden an. Sofern mindestens MTP Punkte Schaden angerichtet werden sinken INI, AU, ZWZ und MNAU des getroffenen um ZWZ/3. Diese Geschwindigkeitsreduktion tritt zusätzlich zum Kälteeffekt der Frostdschinn auf. Die verlangsamten Werte können auf diese Weise nur durch den Kälteeffekt der Frostdschinn unter 10 sinken.
+Das Ziel des Zaubers wird durch den Eisstrahl festgesetzt. Es kann keine Bewegungsaktionen durchführen ohne sich vorher von dem Zauber zu befreien. Dafür muss der Strahl durchbrochen werden ohne dass der Zaubernde den Zauber fortsetzt. Fliegende Wesen können durch den Froststrahl die für den Flug notwendigen Bewegungen nichtmehr aufrechterhalten und stürzen zu Boden. Der durch den Aufschlag angerichtete Schaden richtet sich nach der Fallhöhe. Durch eine freie MAT-Probe kann der Flugunfähige versuchen stattdessen zu schweben.
+Nachdem der Zauber erfolgreich platziert wurde kann er ohne zusätzliche MAT-Probe über mehrere Runden aufrecht gehalten werden. In diesem Fall steigt der Verlangsamungseffekt des Zaubers mit jeder Kampfrunde um 20% an.
+Dem Froststrahl auszuweichen, durch eine ausweichen (AW) oder Parade (PA) Probe ist, aufgrund der recht geringen Geschwindigkeit des Zaubers, um 10 erleichtert.
+Der Eisstrahl bleibt als fest Verbindung zwischen Zauberndem und Ziel bestehen und fungiert als Leiter der magischen Energie. Wird der Eisstrahl durchbrochen, wird auch der Zauber durchbrochen. Es ist eine MAT Probe erforderlich um den Zauber wiederaufzunehmen und weiter zu führen. Bleibt der Eisstrahl jedoch bestehen kann der Zauber auch nach einer Unterbrechung für andere Aktionen oder Zauber ohne MAT Probe fortgesetzt werden.
+Solange das Ziel festgefroren ist kann es sich nicht von der Stelle bewegen. Durch einen geeigneten Zauber oder einen Nahkampfangriff ohne Probe kann der Eisstrahl zerbrochen werden. Ein Zauber bedarf einer MAT Probe.
+	Dauer: Wahl
+	Kosten: Wahl/3
+
+
+Glatteis
+Voraussetzungen:
+	Frost
+	WK: 18
+	MG: 24
+	KL: 26
+Erschafft eine Fläche mit Glatteis. Das Zentrum der Fläche darf sich Maximal MTP Meter vom Zaubernden entfernt befinden. Die Glatteisfläche hat einen Durchmesser von MTP Metern. Jeder der sich auf dem Eis schnell oder unvorsichtig bewegt, einen Nahkampfangriff oder ein Ausweichen ausführt muss eine GE Probe machen um nicht zu Fallen. Wird der GE Wert um mehr als 10 überschritten Scheitert zudem die gewünschte Aktion.
+Damit beim Laufen keine GE Probe anfällt, darf man sich nur mit 1/4 seiner Maximalgeschwindigkeit bewegen.
+Wer gestürzt ist kann sich in der doppelten der normalen Zeit, 36AU, wieder erheben, oder sich mit normaler Geschwindigkeit, 18AU, erheben und eine GE Probe machen.
+Das Eis taut, je nach den Umgebungsbedingungen eventuell langsam auf.
+	Dauer: 18
+	Kosten: 8
+ 
+Hagelschauer
+Voraussetzungen:
+	Frost
+	MG: 25
+	KL: 18
+	WK: 24
+Der Zauber sendet einen Strom schrotkugelgroßer Hagelkörner auf sein Ziel. 
+Der Zauber richtet an diesem MTP/2 Punkte Schaden an und erschwert ihm in dieser Runde alle defensiven Aktionen um10. Der Effekt ist nicht kumulativ.
+Der Zauber trifft ohne Zielen-Probe (ZI).
+	Dauer: 8
+	Kosten: 4
+
+Hauch des Winters
+Voraussetzungen:
+	Frost
+	MG: 22	
+WK: 27
+	IN: 24
+Durch den Zauber kommt ein kalter Wind auf, der es fliegenden Wesen erschwert ihre Höhe zu halten und voran zu kommen.
+Die Bewegungsreichweite fliegender Wesen wird durch den Zauber in einem Radius von 5 MTP Metern um den Zaubernden um 1/3 Reduziert. Außerdem müssen fliegende Wesen jede Kampfrunde 3 AU aufwenden um ihre aktuelle Höhe zu halten. Ansonsten sinken sie MTP/3 Meter ab. 
+Der Zauber kann mit einem ründlichen Aufwand von 4 ZWZ und 1 MP beliebig lange aufrecht gehalten werden.
+	Dauer: 19/4
+	Kosten: 4/1
+
+ 
+Herz der Kälte (bst)
+Voraussetzungen:
+	LV: 7
+Der Zauber erschafft ein großes Frostsymbol auf dem Boden.
+
+
+Kältesauger
+Voraussetzungen:
+	Frost
+	MG:29	
+	ERF: 26
+	IN: 26	
+Kältesauger lässt den Frostdschinn die in der Umgebung vorhandene Kälte konsumieren um sich selbst zu stärken. Der Zauber ist ein wichtiger Grund aus dem Frostdschinn beschworen wurden, denn er erhöhte die Lebensqualität und Lebensfähigkeit von an sehr kalten Orten lebenden Zauberern enorm.
+Der Zauber kann nur eingesetzt werden, wenn die Umgebungstemperatur unter 10°C liegt.
+Der Zauber sollte nur außerhalb des Kampfes verwendet werden. Für jede Minute die in den Zauber investiert wird erhöht sich die Umgebungstemperatur um 2°C und der zaubernde regeneriert 1LP und 1MP. Der Zauber wirkt in einem Radius von MTP/2 Metern.
+Nachdem der Zauber ausgeführt wurde sinkt die Temperatur nur sehr langsam wieder. Erst nach etwa drei Stunden ist die vorher herrschende Temperatur wiederhergestellt.
+Der Zauber kann maximal ein Mal alle drei Stunden eingesetzt werden.
+	Dauer: 1 min./ 2°C
+	Kosten: 0
+
+
+Kalt und Spröde
+Voraussetzungen:
+	Frost
+	MG: 29
+	WK: 34
+	KL: 22
+Die Substanz des Zieles des Zaubers kühlt deutlich ab und wird dadurch spröder und brüchiger.
+Das Ziel des Zaubers ist daher anfälliger für physischen Schaden. Jeder Nahkampfangriff gegen das Ziel des Zaubers richtet 20% mehr Schaden an.
+Der Zauber kann auf Ziele gewirkt werden die sich im Sichtfeld des Zaubernden befinden und nicht mehr als MTP Meter vom Zaubernden entfernt sind.
+Der Zauber wirkt für MTP/4 Kampfrunden.
+Durch wiederholtes Wirken erhöht sich der zusätzliche Schaden jeweils um weitere 10%.
+	Dauer: 8
+	Kosten: 5
+ 
+Pulverschnee
+Voraussetzungen:
+	Frost
+	MG: 12
+	ERF: 8
+Ein Stoß Pulverschnee fliegt aus recht kurzer Entfernung, von ca. WK/ 10 Metern, auf das Ziel zu und blendet es für eine Runde. 
+Die Blindheit wirkt sich in Form einer Reduktion von AU, ZWZ und MNK des Ziels um MTP des Zaubernden aus. Dazu kommt einem Abzug von 20 auf alle Attacke und Paradewürfe. Ausweichen und Zielen sind dem Geblendetem unmöglich. Das Zielen ist aufgrund des breit gefächerten Schnees um 10 erleichtert. 
+Der Zauber hat keine Auswirkung auf Frostdschinn. Feuer und Vulkandschinn können sich dem Effekt durch eine MAT probe und 3 MP entziehen, Dschinn die Funkenfinger besitzen können sich dem Effekt sicher und kostenfrei entziehen.
+	Dauer: 7
+	Kosten: 5
+ 
+Schneeblumen
+Voraussetzungen:
+	Frost
+	MG: 33
+	WK: 29
+	MR: 36
+	IN: 37
+	ERF: 27
+	LV: 3
+Der Zauber erschafft große Schneeflocken aus Eis die in der Luft um den Zaubernden verweilen. Die Schneeflocken fungieren als selbstständige Schilde und nehmen einen Teil des Schadens auf wenn sie von einem Geschoss getroffen werden.
+Der Zauber erschafft MTP Schneeflocken, die sich in einem Bereich von MTP/5 Metern um den Zaubernden in der Luft verteilen. 
+Für jedes der langsam dahinschwebenden Schilde besteht eine 5%ige Wahrscheinlichkeit, dass ein auf den Zaubernden gerichtetes Geschoss erst eine der Flocken trifft. Die Wahrscheinlichkeit kann unabhängig von der Anzahl an erschaffenen schwebenden Schilden nicht über 60% steigen. Geschieht das, wird der Schaden des Geschosses um MR/12 reduziert. Bei leichten Geschossen mit weniger als 2 MTP, des Schneeblumenschöpfers, Punkten Zerstörungskraft besteht außerdem eine 5%ige Wahrscheinlichkeit, dass das Geschoss so abgelenkt wird, dass es Garnichts außer der Schneeblume trifft.
+Die Schneeblumen können nur durch neuwirken des Zaubers wieder aufgefüllt werden. Dadurch wird jedoch nur auf MTP Schneeblumen wieder aufgefüllt.
+Um die Schneeblumen schweben zu lassen muss der Zauber konstant mit 6 ZWZ, ohne Übergangszeit und 1 MP gespeist werden, sonst stürzen die Schneeblumen zu Boden.
+	Dauer: 48/6
+	Kosten: 16/1
+
+Schneeblumen II
+Voraussetzungen:
+	Frost
+	MG: 46
+	WK: 41
+	MR: 43
+	IN: 42
+	ERF: 31
+	LV: 5
+Der Zauber erschafft große Schneeflocken aus Eis die in der Luft um den Zaubernden verweilen. Die Schneeflocken fungieren als selbstständige Schilde und nehmen einen Teil des Schadens auf wenn sie von einem Geschoss getroffen werden.
+Der Zauber erschafft MTP Schneeflocken, die sich in einem Bereich von MTP/5 Metern um den Zaubernden in der Luft verteilen. 
+Für jedes der langsam dahinschwebenden Schilde besteht eine 5%ige Wahrscheinlichkeit, dass ein auf den Zaubernden gerichtetes Geschoss erst eine der Flocken trifft. Die Wahrscheinlichkeit kann unabhängig von der Anzahl an erschaffenen schwebenden Schilden nicht über 75% steigen. Geschieht das, wird der Schaden des Geschosses um MR/10 reduziert. Bei leichten Geschossen mit weniger als MTP, des Schneeblumenschöpfers, Punkten Zerstörungskraft besteht außerdem eine 10%ige Wahrscheinlichkeit, dass das Geschoss so abgelenkt wird, dass es Garnichts außer der Schneeblume trifft. Bis zu einer Zerstörungskraft von 3 MTP bleibt eine 5%ige Chance, dass das Geschoss abgelenkt wird.
+Die Schneeblumen können für 5 ZWZ und 2MP pro Schneeblume wieder aufgefüllt werden. Beim Auffüllen von mehreren Schneeblumen wird das Erschaffen von bis zu MG/20 Schneeblumen auf einmal als ein Zauber gehandhabt.
+Um die Schneeblumen schweben zu lassen muss der Zauber konstant mit 5 ZWZ, ohne Übergangszeit und 1 MP gespeist werden, sonst stürzen die Schneeblumen zu Boden.
+	Dauer: 41/5
+	Kosten: 14/1
+	Vertiefungskosten: 5/7 
+	
+Schneesturm
+Voraussetzungen:
+	Frost
+	MG: 40
+	ERF: 30
+	WK: 35
+	LV: 5
+Erschafft einen Schneesturm der in einem Gebiet mit einem Radius von MTP Metern um den Zaubernden tobt. Der Sturm richtet jede Runde MTP Schaden an und Blendet alle im inneren des Sturmes. Der Sturm wütet für (MG+WK)/30 Runden. Alle vom Sturm geblendeten können nur mit halber AU, ZWZ und MNK agieren. Des Weiteren werden Attacke- und Paradewürfe um 20 erschwert, Ausweichen und Zielen ist innerhalb des Sturmes Unmöglich.
+Frostdschinn werden durch den Sturm nicht geblendet und erleiden nur halben Schaden.
+Der Zaubernde ist für die Dauer des Sturmes nicht in der Lage offensive Aktionen durch zu führen, kann sich aber im inneren des Sturmes frei bewegen und erhält eine passive Aktion pro Runde.
+Der Zaubernde erleidet keinerlei Schaden durch den Sturm.
+	Dauer: 68
+	Kosten: 45
+ 
+Schneesturm II
+Voraussetzungen:
+	Frost
+	MG: 54
+	ERF: 39
+	WK: 46
+	LV: 7
+Erschafft einen Schneesturm der in einem Gebiet mit einem Radius von MTP Metern um den Zaubernden tobt. Der Sturm richtet jede Runde 1,5 MTP Schaden an und Blendet alle im inneren des Sturmes. Der Sturm wütet für (MG+WK)/25 Runden. Alle vom Sturm geblendeten können nur mit halber AU, ZWZ und MNK agieren. Des Weiteren werden Attacke- und Paradewürfe um 20 erschwert, Ausweichen und Zielen ist innerhalb des Sturmes Unmöglich.
+Frostdschinn werden durch den Sturm nicht geblendet und erleiden nur MTP/2 Schaden.
+Der Zaubernde muss für die Dauer des Sturmes 30 ZWZ pro Kampfrunde aufwenden ansonsten klingt der Sturm vorzeitig ab.
+Der Zaubernde erleidet keinerlei Schaden durch den Sturm.
+	Dauer: 59
+	Kosten: 40
+	Vertiefungskosten: 4/6
+
+ 
+Schockgefrieren
+Voraussetzungen:
+	Frost
+	MG: 18
+	ERF:12
+Kühlt einen Gegenstand enorm schnell herunter und lässt ihn so zu Eis erstarren. 
+Der Zauber kann auch gegen Wesen vom Anderen Ort gerichtet werden, wenn er mit einem Nahkampfangriff verbunden wird. Dazu muss erst der Zauber vorbereitet werden und dann der Nahkampfangriff durchgeführt werden. Der Nahkampfangriff muss die nächste Aktion sein, darf aber ZWZ bedingt in der nächsten Runde ausgeführt werden. Zwischen Zauber und Nahkampfangriff fällt die ZWZ an. Der durch den Zauber verstärkte Angriff richtet einen zusätzlichen Schaden von MTP an. Gegen Feuer- und Vulkandschinn werden sogar 1,5 MTP Schaden angerichtet. Dieser Schaden wird nicht durch die Schwäche für Eisangriffe weiter erhöht. Verfehlt der Nahkampfangriff kann der Zauber für 1MP für einen weiteren unmittelbaren Angriff aufrecht gehalten werden.	
+Dauer: 14
+	Kosten: 5
+
+ 
+Stachelfeld
+Voraussetzungen:
+	Element: Frost, Erde
+	MG: 28
+	ERF: 28
+	WK: 42
+Der Zauber erschafft in einem runden Gebiet mit einem Durchmesser von MTP/4, dass sich maximal MTP Meter vom Zaubernden entfernt befindet eine Reihe von ca. MTP/15 Meter hohen Felsstacheln. Die Stacheln spießen jeden der sich in dem Gebiet befindet auf und richten damit einen Schaden von 1W6*0,5 MTP an. Um das Gebiet zu verlassen oder einem wachsenden Stachel zu entkommen ist eine Ausweichenprobe notwendig. Die Ausweichenprobe ist für alle die das Gebiet durch ausweichen nicht verlassen können um 20 erschwert. Wird der für die erschwerte Ausweichenprobe notwendige Wert übertroffen eine normale Ausweichenprobe würde aber gelingen, so kann einem Teil des Schadens entronnen werden. Der angerichtete Schaden reduziert sich in diesem Fall auf 1W4*0,5MTP. Da die Stacheln bestehen bleiben, sind Durchbohrte festgesetzt bis sie sich mit einer aktiven Aktion, 18 AU, befreien. Jede Runde die jemand Aufgespießtes aufgespießt beginnt erleidet er 1W6 Schaden.
+	Dauer: 25
+	Kosten: 18
+ 
+Stachelfeld II
+Voraussetzungen:
+	Frost
+	MG: 34
+	ERF: 32
+	WK: 50
+	LV: 3
+Der Zauber erschafft in einem runden Gebiet mit einem Durchmesser von MTP/3 Metern, das sich maximal 1,5 MTP Meter vom Zaubernden entfernt befindet eine Reihe von ca. MTP/12 Meter hohen Kristallstacheln. 
+Die Stacheln spießen jeden der sich in dem Gebiet befindet auf und richten damit einen Schaden von 1W8*0,5MTP an. 
+Um das Gebiet zu verlassen oder einem wachsenden Stachel zu entkommen ist eine Ausweichenprobe notwendig. Die Ausweichenprobe ist für alle die das Gebiet durch ausweichen nicht verlassen können um 20 erschwert. 
+Wird der für die erschwerte Ausweichenprobe notwendige Wert übertroffen eine normale Ausweichenprobe würde aber gelingen, so kann einem Teil des Schadens entronnen werden. Der angerichtete Schaden reduziert sich in diesem Fall auf 1W4*0,5MTP. 
+Da die Stacheln bestehen bleiben, sind Durchbohrte festgesetzt bis sie sich mit einer aktiven Aktion, 18 AU, befreien. Jede Runde die jemand Aufgespießtes aufgespießt beginnt erleidet er 1W10 Punkte Schaden.
+	Dauer: 22
+	Kosten: 16
+	Vertiefungskosten: 3/4
+ 
+
+Zapfenkanone
+Voraussetzungen:
+	Frost
+	MG: 25
+WK: 28
+	ERF: 20
+Die Zapfenkanone feuert einen oder mehrere Eiszapfen auf das Ziel ab, um es mit großer Geschwindigkeit zu durchbohren. 
+Die Anzahl der Eiszapfen, also die Häufigkeit mit der der Zauber gleichzeitig gewirkt wird, kann beliebig groß gewählt werden, damit erhöhen sich jedoch auch die Vorbereitungszeit und die Kosten des Zaubers. Werden mehrere Eiszapfen gleichzeitig gewirkt entfällt die Zauberübergangszeit zwischen dem Wirken der Eiszapfen, da es sich auch bei einer großen Menge von Eiszapfen nur um einen einzigen Zauber handelt. Es ist daher auch nur eine einzige MAT-Probe für alle Eiszapfen zusammen notwendig.
+Jeder Eiszapfen der trifft richtet MTP Punkte Schaden an. Werden mit dem Zauber viele Eiszapfen auf einmal abgefeuert wird es immer schwieriger dem Geschosshagel zu entgehen. Um zu bestimmen wie viele der Eiszapfen ihr Ziel treffen wird ein einziger Wurf auf Zielen durchgeführt. Der für die Probe verwendete Zielen-Wert wird ab dem zweiten Eiszapfen, pro Eiszapfen um 5 erhöht. Die Differenz zwischen erhöhtem Zielen-Wert und Würfelergebnis gibt nun Auskunft über die Anzahl der treffenden Eiszapfen. Für jedes vielfache von Sieben, das in die Differenz von Wurfergebnis und Zielen Wert passt trifft ein Zapfen. Wird der Zielen-Wert unterboten oder genau getroffen trifft mindestens ein Zapfen.
+Aufgrund der Streuung der Eiszapfen erleidet die Zielen-Probe mit mehr als einem Eiszapfen den doppelten Distanzabzug.
+Bsp.1: Olaf Rotwang wirkt eine Zapfenkanone mit 6 Eiszapfen. Da er eine hohe ZWZ hat gelingt ihm dies in einer Runde. Auch die MAT-Probe gelingt ihm Problemlos. Nun möchte er wissen mit wie vielen Eiszapfen er Ragnar Spaltzorn trifft. Sein Zielen Grundwert beträgt 42. Nun erhöht er zuerst seinen Zielen Wert um 25 ((6-1)*5), auf 67. Jetzt Würfelt er mit 1W100 auf Zielen. Er hat eine 34 geworfen. Er rechnet nun seinen Erhöhten Zielen-Wert, 67, weniger dem Würfelergebnis, 34, und erhält eine Differenz von 33. Nun prüft er wie viele ganze Vielfache von 7 in die Differenz passen. Es sind 4; 4*7 =28; 28<33. Olaf Rotwang trifft Ragnar Spaltzorn also mit vier Eiszapfen. Die anderen beiden Eiszapfen verfehlen ihn knapp. 
+Möchte sich ein Gegner den Treffer nicht ohne Gegenwehr gefallen lassen kann er entweder eine Magieparade machen oder Ausweichen. 
+Im Falle einer erfolgreichen Magieparade wird ganz normal der Gesamtschaden um MPAW reduziert. 
+Möchte ein Gegner ausweichen, so wird der Zielen Grundwert um die Hälfte der Differenz zwischen Ausweichen-Wert und Würfelergebnis der Ausweichenprobe (AU) erschwert.
+Bsp.2: Ragnar Spaltzorn sieht die Eiszapfen auf sich zufliegen und beschließt dem Angriff auszuweichen. Sein AW Wert ist 52. Er würfelt und bekommt eine 36. Er bestimmt nun die die Differenz zwischen seinem Ausweichen Wert und dem Würfelergebnis und erhält 16; 52-36=16. Dann halbiert er dies und weiß nun um wie viel er es Olaf Rotwang erschwert hat ihn zu treffen; 16/2=8. Da Olaf Rotwang seinen erhöhten Zielen-Wert um 8 reduzieren muss trifft er nicht mehr mit vier Zapfen. Er rechnet nach 33-8=25; 25/7=3 Rest 4, und stellt fest, dass er immer noch mit drei Eiszapfen trifft. Ragnar Spaltzorn kann einem Eiszapfen ausweichen, wird aber trotzdem von drei Eiszapfen getroffen. Er erleidet 3 MTP Schaden.
+In Gegenden mit viel Wasser oder Eis reduzieren sich die Kosten auf nur 5 MP pro Eiszapfen.
+Die Eiszapfen können maximal eine Distanz von 30 Metern ohne Verluste an ihrer zerstörerischen Wirkung überbrücken.
+	Dauer: 8 
+	Kosten: 6
+Es können beide Vertiefungen Zapfenkanone IIa und Zapfenkanone IIb erlernt werden. Es können aber immer nur die Vorteile einer Vertiefung in Anspruch genommen werden.
+
+
+Zapfenkanone IIa
+Voraussetzungen:
+	Frost
+	MG: 38
+WK: 34
+	ERF: 26
+	LV: 3
+Die Zapfenkanone feuert einen oder mehrere Eiszapfen auf das Ziel ab, um es mit großer Geschwindigkeit zu durchbohren. 
+Die Anzahl der Eiszapfen, also die Häufigkeit mit der der Zauber gleichzeitig gewirkt wird, kann beliebig groß gewählt werden, damit erhöhen sich jedoch auch die Vorbereitungszeit und die Kosten des Zaubers. Werden mehrere Eiszapfen gleichzeitig gewirkt entfällt die Zauberübergangszeit zwischen dem Wirken der Eiszapfen, da es sich auch bei einer großen Menge von Eiszapfen nur um einen einzigen Zauber handelt. Es ist daher auch nur eine einzige MAT-Probe für alle Eiszapfen zusammen notwendig.
+Jeder Eiszapfen der trifft richtet MTP Punkte Schaden an. Werden mit dem Zauber viele Eiszapfen auf einmal abgefeuert wird es immer schwieriger dem Geschosshagel zu entgehen. Um zu bestimmen wie viele der Eiszapfen ihr Ziel treffen wird ein einziger Wurf auf Zielen durchgeführt. Der für die Probe verwendete Zielen-Wert wird ab dem zweiten Eiszapfen, pro Eiszapfen um 5 erhöht. Die Differenz zwischen erhöhtem Zielen-Wert und Würfelergebnis gibt nun Auskunft über die Anzahl der treffenden Eiszapfen. Für jedes vielfache von Sieben, das in die Differenz von Wurfergebnis und Zielen Wert passt trifft ein Zapfen. Wird der Zielen-Wert unterboten oder genau getroffen trifft mindestens ein Zapfen.
+Aufgrund der Streuung der Eiszapfen erleidet die Zielen-Probe mit mehr als einem Eiszapfen den doppelten Distanzabzug.
+Möchte sich ein Gegner den Treffer nicht ohne Gegenwehr gefallen lassen kann er entweder eine Magieparade machen oder Ausweichen. 
+Im Falle einer erfolgreichen Magieparade wird ganz normal der Gesamtschaden um MPAW reduziert. 
+Möchte ein Gegner ausweichen, so wird der Zielen Grundwert um die Hälfte der Differenz zwischen Ausweichen-Wert und Würfelergebnis der Ausweichenprobe (AU) erschwert.
+In Gegenden mit viel Wasser oder Eis reduzieren sich die Kosten auf nur 4 MP pro Eiszapfen.
+Die Eiszapfen können maximal eine Distanz von 30 Metern ohne Verluste an ihrer zerstörerischen Wirkung überbrücken.
+	Dauer: 7 
+	Kosten: 5
+	Vertiefungskosten: 4/6
+
+Zapfenkanone IIb
+Voraussetzungen:
+	Frost
+MG: 34
+WK: 32
+	ERF: 29
+	WAH: 32
+	LV: 3
+Die Zapfenkanone feuert einen oder mehrere Eiszapfen auf das Ziel ab, um es mit großer Geschwindigkeit zu durchbohren. 
+Die Anzahl der Eiszapfen, also die Häufigkeit mit der der Zauber gleichzeitig gewirkt wird, kann beliebig groß gewählt werden, damit erhöhen sich jedoch auch die Vorbereitungszeit und die Kosten des Zaubers. Werden mehrere Eiszapfen gleichzeitig gewirkt entfällt die Zauberübergangszeit zwischen dem Wirken der Eiszapfen, da es sich auch bei einer großen Menge von Eiszapfen nur um einen einzigen Zauber handelt. Es ist daher auch nur eine einzige MAT-Probe für alle Eiszapfen zusammen notwendig.
+Jeder Eiszapfen der trifft richtet MTP Punkte Schaden an. Werden mit dem Zauber viele Eiszapfen auf einmal abgefeuert wird es immer schwieriger dem Geschosshagel zu entgehen. Um zu bestimmen wie viele der Eiszapfen ihr Ziel treffen wird ein einziger Wurf auf Zielen durchgeführt. Der für die Probe verwendete Zielen-Wert wird ab dem zweiten Eiszapfen, pro Eiszapfen um 6 erhöht. Die Differenz zwischen erhöhtem Zielen-Wert und Würfelergebnis gibt nun Auskunft über die Anzahl der treffenden Eiszapfen. Für jedes vielfache von Sieben, das in die Differenz von Wurfergebnis und Zielen Wert passt trifft ein Zapfen. Wird der Zielen-Wert unterboten oder genau getroffen trifft mindestens ein Zapfen.
+Aufgrund der Streuung der Eiszapfen erleidet die Zielen-Probe mit mehr als einem Eiszapfen den doppelten Distanzabzug.
+Möchte sich ein Gegner den Treffer nicht ohne Gegenwehr gefallen lassen kann er entweder eine Magieparade machen oder Ausweichen. 
+Im Falle einer erfolgreichen Magieparade wird ganz normal der Gesamtschaden um MPAW reduziert. 
+Möchte ein Gegner ausweichen, so wird der Zielen Grundwert um die Hälfte der Differenz zwischen Ausweichen-Wert und Würfelergebnis der Ausweichenprobe (AU) erschwert.
+In Gegenden mit viel Wasser oder Eis reduzieren sich die Kosten auf nur 5 MP pro Eiszapfen.
+Die Eiszapfen können maximal eine Distanz von 40 Metern ohne Verluste an ihrer zerstörerischen Wirkung überbrücken.
+	Dauer: 8 
+	Kosten: 6
+	Vertiefungskosten: 4/6
+

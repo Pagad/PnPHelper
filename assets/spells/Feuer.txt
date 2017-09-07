@@ -1,0 +1,429 @@
+Feuer
+Feuerdschinn sind hitzige Wesen vom Anderen Ort. Sie schätzen die Veränderung, auch wenn ihnen die Veränderungen in unserer Welt viel zu starr von statten gehen. Diese stetigen Veränderungen, mit einem Hauch von Zerstörung, sehen sie im Feuer, das sie ein Stück weit kontrollieren können.
+Feuerdschinn sind durch ihren Bezug zum Feuer starke Krieger die von den meisten großen Imperien der Geschichte genutzt wurden. Feuerdschinn sind im Kampf auf allen Distanzen kundig. Ihre besondere Spezialität sind ihre hohe Trefferquote, die erzielt wird da viele ihrer Zauber einen Zielen Bonus erhalten oder gar kein Zielen erfordern und ihre Fähigkeit die Hitzeresistenz ihrer Feinde zu reduzieren und ihren Zaubern so eine sträkere Wirkung zu verleihen. 
+Außerhalb des Kampfes sind Feuerdschinn meist schnell gelangweilt. Sie schätzen die Abwechslung und Unterhaltung die ein kleiner Brand mit sich bringt.
+Manche Feuerdschinn sind sehr Stolz oder sehr leicht reizbar, oft beides, lassen sich aber auch genauso schnell wieder beruhigen. Ihr Temperament ist berühmt (berüchtigt).
+
+Aura der Schlacke
+Voraussetzungen:
+	Feuer
+	MG: 38
+	WK: 53
+	KL: 44
+	ERF: 46
+Alle in einem Gebiet von MTP/3 Metern um den Zaubernden haben eine Reduzierte Feuerresistenz. Besteht keine hinreichend große Resistenz bildet sich der Überhang als Anfälligkeit aus.
+Die Reduktion der Feuerresistenz beläuft sich auf ((WK+ERF+KL+IN)/20)+10%). 
+Nur der Zaubernde selbst ist von diesem Effekt nicht betroffen.
+Der Zauber kann für 8 ZWZ, ohne Übergangszeit, und 3 MP pro Kampfrunde beliebig lang aufrecht gehalten werden.
+	Dauer: 29/8
+	Kosten: 8/3
+
+
+Aura der Schlacke II
+Voraussetzungen:
+	Feuer
+	MG: 49
+	WK: 61
+	KL: 52
+	ERF: 53
+	LV: 3
+Alle in einem Gebiet von MTP/3 Metern um den Zaubernden haben eine Reduzierte Feuerresistenz. Besteht keine hinreichend große Resistenz bildet sich der Überhang als Anfälligkeit aus.
+Die Reduktion der Feuerresistenz beläuft sich auf ((2*WK+ERF+KL+IN)/15)+20%). 
+Nur der Zaubernde selbst ist von diesem Effekt nicht betroffen.
+Der Zauber kann für 6 ZWZ, ohne Übergangszeit, und 3 MP pro Kampfrunde beliebig lang aufrecht gehalten werden.
+	Dauer: 26/6
+	Kosten: 7/3
+Vertiefungskosten: 5/7 
+
+Explosionsfeuerball
+Voraussetzungen:
+	Feuer
+	MG: 35 +n*4
+	ERF: 30
+WK: 38 + n*4
+Der Zauber erschafft ein magisches Geschoss, das beim Aufprall detoniert und umliegenden Wesen Schaden zufügt.
+Der Explosionsfeuerball richtet 1 MTP Schaden an seinem Ziel an. Zusätzlich detoniert der Explosionsfeuerball beim Aufprall, sodass alle Wesen im Umkreis on MTP/6 Metern halben Schaden erleiden. Weitere MTP/6 Meter weiter wird der Schaden nochmal halbiert und so weiter.
+Der Explosionsfeuerball ist wie der Feuerball ein magisches Geschoss, das in seiner Größe nicht beschränkt ist. Das heißt, dass der Explosionsfeuerball durch jedes Wirken nach dem ersten Mal, größer wird. Dadurch bekommt er einen Bonus von +1 MTP und die Trefferwahrscheinlichkeit steigt. Dies äußert sich indem ein Bonus von 5 auf Zielen vergeben wird. Zudem wird es immer schwieriger dem größer werdenden Geschoss auszuweichen. Daher wird für jedes zweite Wirken das Ausweichen um 5 erschwert. 
+Um fest zu stellen ob der Explosionsfeuerball trifft fällt eine Zielen Probe an.
+Der Explosionsfeuerball kann maximal eine Strecke von 30 Metern überqueren ohne drastische Einbußen an Zielsicherheit und Durchschlagskraft zu erleiden.
+	Dauer: 17
+	Kosten: 9
+
+Explosionsfeuerball II
+Voraussetzungen:
+	Feuer
+	MG: 44 +n*3
+	ERF: 30
+	WAH: 32
+WK: 47 +n*3
+Der Zauber erschafft ein magisches Geschoss, das beim Aufprall detoniert und umliegenden Wesen Schaden zufügt.
+Der Explosionsfeuerball richtet 1,2 MTP Schaden an seinem Ziel an. Zusätzlich detoniert der Explosionsfeuerball beim Aufprall, sodass alle Wesen im Umkreis on MTP/5 Metern halben Schaden erleiden. Weitere MTP/5 Meter weiter wird der Schaden nochmal halbiert und so weiter.
+Der Explosionsfeuerball ist wie der Feuerball ein magisches Geschoss, das in seiner Größe nicht beschränkt ist. Das heißt, dass der Explosionsfeuerball durch jedes Wirken nach dem ersten Mal, größer wird. Dadurch bekommt er einen Bonus von +1,2 MTP und die Trefferwahrscheinlichkeit steigt. Dies äußert sich indem ein Bonus von 6 auf Zielen vergeben wird. Zudem wird es immer schwieriger dem größer werdenden Geschoss auszuweichen. Daher wird für jedes zweite Wirken das Ausweichen um 5 erschwert. 
+Um fest zu stellen ob der Explosionsfeuerball trifft fällt eine Zielen Probe an.
+Der Explosionsfeuerball kann maximal eine Strecke von 50 Metern überqueren ohne drastische Einbußen an Zielsicherheit und Durchschlagskraft zu erleiden.
+	Dauer: 13
+	Kosten: 8
+	Vertiefungskosten: 5/7
+ 
+Fackel
+Voraussetzungen:
+	Feuer
+	MG: 5
+	ERF: 5
+Erschafft einen kleinen bleibenden Feuerball der um denjenigen schwirrt der ihn erschuf um die Gegend zu erhellen. Die Fackel hat einen Lichtkreis von etwa 5m.
+Die Fackel bleibt für eine Stunde bestehen.
+	Dauer: 5
+	Kosten: 3
+ 
+Feuerball
+Voraussetzungen:
+Feuer
+	MG:10+5/Wirken
+	ERF:15
+	WK: 28 + 3/Wirken
+Der Zauber erschafft ein magisches Geschoss, das beim Aufprall dem getroffenen Wesen Schaden zufügt.
+Der Feuerball richtet 1 MTP Schaden an seinem Ziel an. Der Feuerball ist ein magisches Geschoss, das in seiner Größe nicht beschränkt ist. Das heißt, dass der Feuerball durch jedes Wirken nach dem ersten Mal, größer wird. Dadurch bekommt er einen Bonus von +1 MTP und die Trefferwahrscheinlichkeit steigt. Dies äußert sich indem ein Bonus von 5 auf Zielen vergeben wird. Zudem wird es immer schwieriger dem größer werdenden Geschoss auszuweichen. Daher wird für jedes zweite Wirken das Ausweichen um 5 erschwert. 
+Um fest zu stellen ob der Feuerball trifft fällt eine Zielen Probe an.
+Der Feuerball kann maximal eine Strecke von 50 Metern überqueren ohne drastische Einbußen an Zielsicherheit und Durchschlagskraft zu erleiden.
+	Dauer: 6
+	Kosten: 6
+
+Feuerball II
+Voraussetzungen:
+Feuer
+	MG:20+3/Wirken
+	ERF:25
+	WK: 38 + 2/Wirken
+Der Zauber erschafft ein magisches Geschoss, das beim Aufprall dem getroffenen Wesen Schaden zufügt.
+Der Feuerball richtet 1,2 MTP Schaden an seinem Ziel an. Der Feuerball ist ein magisches Geschoss, das in seiner Größe nicht beschränkt ist. Das heißt, dass der Feuerball durch jedes Wirken nach dem ersten Mal, größer wird. Dadurch bekommt er einen Bonus von +1,2 MTP und die Trefferwahrscheinlichkeit steigt. Dies äußert sich indem ein Bonus von 6 auf Zielen vergeben wird. Zudem wird es immer schwieriger dem größer werdenden Geschoss auszuweichen. Daher wird für jedes zweite Wirken das Ausweichen um 5 erschwert. 
+Um fest zu stellen ob der Feuerball trifft fällt eine Zielen Probe an.
+Der Feuerball kann maximal eine Strecke von 75 Metern überqueren ohne drastische Einbußen an Zielsicherheit und Durchschlagskraft zu erleiden.
+	Dauer: 5
+	Kosten: 5
+	Vertiefungskosten: 4/ 5 
+ 
+Feuerstoß
+Voraussetzungen:
+	Feuer
+	MG: 21
+	MUT: 23
+	WK: 32
+Der Zauber lässt den Zaubernden, gleich einem Feuerspucker, eine Flammenwolke ausstoßen.
+Die Flammenwolke ergreift alle die vor dem Zaubernden stehen und bis zu MTP/3 Meter weit weg sind. Zu den Seiten greift der Feuerstoß jeweils einen Meter weit.
+Wer von dem Feuerstoß getroffen wird erleidet MTP Punkte Schaden und ist kurz geblendet, sodass er 5 AU, ZWZ und MNAU verliert. Ein erneuter Treffer mit dem Feuerstoß erhöht die verlorene Zeit nur um jeweils einen weiteren Punkt.
+	Dauer: 18
+	Kosten: 11
+
+Feuerstoß II
+Voraussetzungen:
+	Feuer
+	MG: 21
+	MUT: 23
+	WK: 32
+Der Zauber lässt den Zaubernden, gleich einem Feuerspucker, eine Flammenwolke ausstoßen.
+Die Flammenwolke ergreift alle die vor dem Zaubernden stehen und bis zu MTP/2 Meter weit weg sind. Zu den Seiten greift der Feuerstoß jeweils einen Meter weit.
+Wer von dem Feuerstoß getroffen wird erleidet 1,5 MTP Punkte Schaden und ist kurz geblendet, sodass er 5 AU, ZWZ und MNAU verliert. Ein erneuter Treffer mit dem Feuerstoß erhöht die verlorene Zeit nur um jeweils einen weiteren Punkt.
+	Dauer: 18
+	Kosten: 10
+	Vertiefungskosten: 3/4
+
+Feuerstrahl
+Voraussetzungen:
+	Feuer
+	MG: 28
+	ERF: 20
+	WK:25
+Der Zauber erschafft einen etwa MTP Meter langer Feuerstrahl der alles in seinem Weg verbrennt. 
+Feuerstrahl wird im Regelfall die ganz Runde lang gewirkt, er richtet an Ziel einen Schaden von (ZWZ/18) MTP an. Der Feuerstrahl kann ohne Zauberübergangszeit und ohne erneute Probe in der nächsten Runde fortgeführt werden. Der Zauber kostet 14 MP pro Runde, auch wenn er nicht die ganz Runde lang gewirkt wird.
+	Dauer: Nach Wahl
+	Kosten: 14 / Runde
+ 
+Fieberkur
+Voraussetzungen:
+Feuer
+	MR: 36
+	ERF: 24
+	KO: 34
+	MR: 24	
+Der Zauber hebt alle Statuseffekte auf die auf den Zaubernden wirken.
+Indem die Temperatur des Zaubernden stark angehoben wird werden alle Effekte die die Attribute oder Talente des Zaubernden verändern aufgehoben. Auch Gift wird durch den Zauber neutralisiert.
+	Dauer: 28
+	Kosten: 9
+ 
+Flammenring
+Voraussetzungen:
+	Feuer
+	MG: 29
+	WK: 36
+	MUT: 41
+Der Zauber lässt einen geschlossenen Kreis von Flammen aus dem Boden schießen.
+Die Flammen wachsen in einem Abstand von MTP/2 Metern vom Zaubernden entfernt, sodass ein Feuerkreis mit einem Durchmesser von MTP Metern mit dem Zaubernden in der Mitte entsteht. Die Flammen sind etwa MTP/10 Meter hoch.
+Wer bei der Erschaffung des Kreises getroffen wird, oder den Kreis durchquert erleidet MTP/2 Punkte Schaden.
+Um sich bei der Erschaffung des Kreises vor den Flammen zu retten bedarf es einer Ausweichen-Probe.
+Wer sich im inneren des Kreises, bis hin zu einer Höhe von MTP Metern, befindet kann Ziel des Herausfordern Zaubers werden.
+Der Flammenring bleibt für MTP/2 Kampfrunden bestehen. Ein erneutes wirken des Zaubers während der Effekt noch besteht verlängert die Wirkung des Zaubers um MTP/2 Kampfrunden, ab dem Moment des zweiten Wirkens.
+Das Verlängern des Zaubers bedarf nur 16ZWZ und 7MP.
+	Dauer: 32
+	Kosten: 10
+
+ 
+Glühender Zorn
+Voraussetzungen:
+Feuer
+	WK: 36
+	IN: 23
+	MUT: 42
+Der Zauber macht den Zaubernden aggressiv und steigert den Schaden den er verursacht.
+Durch den Zauber steigen AT und MAT um MTP Punkte an. MTP und TP steigen um MTP/3.
+Gleichzeitig wird der Zaubernde von einem rasenden Zorn erfasst, der ihn zwingt weiter zu kämpfen bis alle Ziele vernichtet sind oder gedemütigt fliehen müssen. Erst zu diesem Zeitpunkt endet der Zauber.
+Solange die Wirkung des Zaubers aktiv ist kann der Zaubernde keine strategischen Zauber wirken, sondern nur Schadenszauber.
+Proben auf defensive Aktionen sind um 20 erschwert.
+Um sich selbst zum Rückzug zu bringen muss eine um 20 erschwerte Klugheitsprobe (KL) bestanden werden.
+	Dauer: 28
+	Kosten: 9
+
+
+Glühender Zorn II
+Voraussetzungen:
+Feuer
+	WK: 42
+	IN: 28
+	MUT: 52
+Der Zauber macht den Zaubernden aggressiv und steigert den Schaden er verursacht.
+Durch den Zauber steigen AT und MAT um 1,5 MTP Punkte an. MTP und TP steigen um MTP/2.
+Gleichzeitig wird der Zaubernde von einem rasenden Zorn erfasst, der ihn zwingt weiter zu kämpfen bis alle Ziele vernichtet sind oder gedemütigt fliehen müssen. Erst zu diesem Zeitpunkt endet der Zauber.
+Solange die Wirkung des Zaubers aktiv ist kann der Zaubernde keine strategischen Zauber wirken, sondern nur Schadenszauber.
+Proben auf defensive Aktionen sind um 20 erschwert.
+Um sich selbst zum Rückzug zu bringen muss eine um 20 erschwerte Klugheitsprobe (KL) bestanden werden.
+	Dauer: 23
+	Kosten: 8
+	Vertiefungskosten: 3/4 
+
+Glut
+Voraussetzungen: 
+Feuer
+	MG: 18
+	ERF: 22
+Der Zaubernde erschafft eine Kugel aus Glühenden Kohlestücken. Die kann entweder ganz als Geschoss abfeuert werden, als Schrot abgefeuert werden oder als Falle auf dem Boden deponieren werden. 
+Der Glutklumpen kann nur eine Runde gehalten werden und muss dann abgefeuert oder positioniert werden. Als komplettes Geschoss abgefeuert richtet der Glutball 2 MTP Schaden an. Zudem besteht die 50%ige Möglichkeit, dass sich dieser sich ins Fleisch des betroffenen gräbt und für zwei weitere Runden MTP/2 Schaden anrichtet. Der Glutball kann maximal 2 MTP Meter weit geschleudert werden und immer noch seine volle Wirkung entfalten.
+Als Schrotgeschoss abgefeuert breiten sich die Glutklumpen trichterförmig vor dem zaubernden aus. Der Öffnungswinkel des Trichters liegt bei etwa 60°. Die Glutklumpen richten MTP Schaden an jedem an der sich im MTP Meter langen Wirkungsbereich des Zaubers befindet. 
+Wird der Glutball als Falle deponiert, so richtet er an jedem der darauf tritt oder dagegen kommt MTP Schaden an. 
+Die Glutklumpen bleiben für drei Runden erhalten bevor sie erlöschen.
+	Dauer: 20
+	Anhaltend: 3 Runden
+	Kosten: 13
+ 
+Heiße Luft
+Voraussetzungen:
+	Feuer
+	IN: 32
+	KL:28
+	GE: 34
+Der Zauber erhöht die Bewegungsreichweite eines fliegenden Wesens indem der Zauber geeignete Winde schafft.
+Der Zauber umgibt das Ziel des Zaubers und erschafft eine geeignete Thermik im Flugbereich des Zieles des Zaubers.
+Der Zauber kann auf ein beliebiges Wesen innerhalb von MTP Metern gewirkt werden, auch sich selbst, dessen Bewegungsreichweite (BR) sich um 20% erhöht.
+Der Zauber wirkt für MTP/3 Kampfrunden.
+	Dauer: 9
+	Kosten: 3
+
+ 
+Herausfordern
+Voraussetzung:
+	Feuer
+	WK: 53
+	IN: 32
+	CH: 36
+	MUT: 47
+	LV: 3
+Der Zauber zwingt das Ziel des Zaubers sich mit dem Zaubernden zu duellieren.
+Der Zauber kann nur auf Ziele gewirkt werden die sich in einem von Zaubernden erschaffenen Flammenring befinden und das der Zaubernde klar sehen kann.
+Dem Zauber kann durch eine erfolgreiche Magieparade widerstanden werden.
+Der Effekt des Zaubers endet nach MTP/5 Kampfrunden, wenn einer der Kämpfer kampfunfähig ist oder wenn der Flammenring erlischt.
+Die beiden in ein Duell verstrickten Kämpfer können den Flammenring nicht verlassen und nur dann andere Ziele angreifen, wenn ihnen das einen Vorteil für ihr Duell bringt. Das eigene Überleben gilt auch als Duellvorteil. Wegrennen ist eine unehrenhafte aber legitime Strategie.
+Es kann immer nur ein Gegner in ein Duell verstrickt werden.
+	Dauer: 24
+	Kosten: 8
+
+
+Herausfordern II
+Voraussetzung:
+	Feuer
+	WK: 59
+	IN: 36
+	CH: 44
+	MUT: 54
+	LV: 5
+Der Zauber zwingt das Ziel des Zaubers sich mit dem Zaubernden zu duellieren.
+Der Zauber kann nur auf Ziele gewirkt werden die sich in einem von Zaubernden erschaffenen Flammenring befinden und das der Zaubernde klar sehen kann.
+Dem Zauber kann durch eine erfolgreiche Magieparade widerstanden werden.
+Der Effekt des Zaubers endet nach MTP/3 Kampfrunden, wenn einer der Kämpfer kampfunfähig ist oder wenn der Flammenring erlischt.
+Die beiden in ein Duell verstrickten Kämpfer können den Flammenring nicht verlassen und nur dann andere Ziele angreifen, wenn ihnen das einen Vorteil für ihr Duell bringt. Das eigene Überleben gilt auch als Duellvorteil. Wegrennen ist eine unehrenhafte aber legitime Strategie.
+Es kann immer nur ein Gegner in ein Duell verstrickt werden.
+	Dauer: 21
+	Kosten: 8
+	Vertiefungskosten: 4/6
+
+ 
+Höllenfeuer
+Voraussetzungen:
+	Feuer
+	MG: 62
+	WK: 65
+	MUT: 58
+	ERF: 39
+	IN: 40
+	LV:5
+Der Zauber erschafft eine Reihe von kleinen sengend heißen Feuerbällen um den Zaubernden herum. Es handelt sich dabei keineswegs um normale Feuerbälle sondern um spezielle, besonders mächtige Flammen aus den Tiefen des Anderen Ortes. Wie Feuerdschinn Zugriff auf die Quelle dieser Flammen nehmen ist unklar. Es gibt jedoch auch Feuerdschinn die keinen Zugang zur Quelle dieses besonderen Feuers haben. Sicher ist jedoch, dass mit dem Besitz dieser Feuerbälle ein drastischer Anstieg des kriegerischen Potentials des Feuerdschinns einhergeht.
+Der Besitz von sogenanntem Höllenfeuer hat auf die magische Kraft des Feuers im Zaubernden einen anfachenden Effekt, sodass alle Feuerzauber des Zaubernden stärker als üblich sind. Der durch das Höllenfeuer hervorgerufenen Effekte ist abhängig von der Anzahl der vorhandenen Höllenfeuerbälle. Durch das Höllenfeuer sinken die Kosten aller Feuerzauber um die Anzahl der vorhandenen Höllenfeuerbälle/2. Außerdem steigt der Schaden aller Feuerzauber des Besitzers der Höllenfeuerballe um die Anzahl Höllenfeuerbälle/3 pro MTP Punkten ursprünglichem Zauberschaden.
+Durch den Zauber entstehen MTP/2 Feuerbälle, jeder dieser Feuerbälle kann genutzt werden um einen von zwei Effekten auszulösen. Das Aktivieren eines Feuerballs Erfordert 3 ZWZ und 3 MP. Ein aktivierter Höllenfeuerball gilt als Verbraucht und hat keinen Effekt mehr auf andere Feuerzauber.
+Die erste mögliche Verwendung der Feuerbälle ist es sie als Geschosse einzusetzen. Ein Treffer mit einem solches Geschoss richtet MTP Punkte Schaden an. Durch die wiedernatürliche Geschwindigkeit der Höllenfeuerbälle ist das Ausweichen um 20 erschwert.
+Die zweite Verwendungsmöglichkeit ist es einen Nahkampfangriff durch einen Feuerball zu verstärken. Trifft der Angriff richtet er 1,5 MTP Punkte Schaden zusätzlich an. Verfehlt der Angriff, oder wird der Feuerball erhalten jedoch der durch den Feuerball verursachte Zusatzschaden um MTP/2. Der mit einem Höllenfeuerball verstärkte Angriff kann er wie ein MNK Angriff pariert werden.
+Die Feuerbälle bleiben für die Dauer des Kampfes erhalten, endet der Kampf, weil alle Gegner gefallen oder geflohen sind, so verschwinden die verbleibenden Feuerbälle.
+	Dauer: 100/3
+	Kosten: 35/3
+
+
+Höllenfeuer II
+Voraussetzungen:
+	Feuer
+	MG: 68
+	WK: 72
+	MUT: 64
+	ERF: 45
+	IN: 44
+	LV:7
+Die vertiefte Beschäftigung mit dem Zauber erhöht die Kontrolle des Zaubernden über das Höllenfeuer. Dadurch kann der Zaubernde Nicht nur die Anzahl der Beschworenen Höllenfeuerbälle um MTP/4 zusätzliche Feuerbälle steigern, sondern er umgibt sich selbst auch mit einem Hitzeschleier und kann die Höllenfeuerbälle als defensive Aktion aktivieren.
+Der Durch den Zauber erzeugte Hitzeschleier richtet an allen Gegnern in Nahkampfreichweite MTP/6 Punkte Schaden pro Kampfrunde an und reduziert den Schaden aller Zauber die den Hitzeschleier durchqueren um zwei. Feuer- und Vulkanzauber richten hinter dem Schleier sogar MTP/2 Punkte weniger Schaden an.
+Das Aktivieren der Höllenfeuerbälle als defensive Aktion funktioniert als Abfangfeuer. Indem ein Höllenfeuerball gegen ein ankommendes Geschoss geschleudert wird, wird der Schaden dieses Geschosses um bis zu 3 MTP Punkte, des Höllenfeuerball Zaubernden, reduziert. Richtet das Geschoss weniger als MTP Punkte Schaden, des Höllenfeuerball Zaubernden an und ist es direkt auf den das Abwehrfeuer auslösenden gerichtet durchschlägt der Höllenfeuerball das Geschoss und richtet im Falle einer erfolgreichen ZI-Probe MTP Punkte Schaden an. Das Abwehrfeuer erfordert keine ZI-Probe. Wird der Höllenfeuerball gegen ein Feuergeschoss das nicht aus Höllenfeuer besteht gerichtet wird das Geschoss aufgelöst und der Höllenfeuerball richtet (MTP + Geschossschaden/2) Punkte Schaden an. 
+	Dauer: 93/3
+	Kosten: 41/3
+ 
+Inferno
+Voraussetzungen:
+	Feuer
+	MG: 40
+	ERF: 30
+	WK: 45
+	LV: 3
+Der Zauber lässt eine gigantische, extrem heiße Flammenbrunst zu allen Seiten aus dem Zaubernden schlagen. Die  Flammen  breiten  sich  in Sekundenschnelle in  einem  Radius  von MTP/2 Metern um den zaubernden aus und verbrennen alles, was sich in diesem Gebiet befindet mit 4 MTP Schaden. 
+Hölzerne Gegenstände, Papier und anderes entflammbares Material, das sich in diesem Gebiet befindet oder sehr dicht daran ist, kann Feuer fangen.
+	Dauer: 78
+	Kosten: 45
+
+
+Inferno II
+Voraussetzungen:
+	Feuer
+	MG: 48
+WK: 57
+	ERF: 34
+	MUT: 46
+	LV: 5
+Der Zauber lässt eine gigantische, extrem heiße Flammenbrunst zu allen Seiten aus dem Zaubernden schlagen. Die  Flammen  breiten  sich  in Sekundenschnelle in  einem  Radius  von MTP Metern um den Zaubernden aus und verbrennen alles, was sich in diesem Gebiet befindet mit 5 MTP Schaden.
+Wer von dem Zauber getroffen wird erleidet Verbrennungen durch die er in der Folgerunde weitere MTP/2 Punkte Schaden erleidet.
+Hölzerne Gegenstände, Papier und anderes entflammbares Material, das sich in diesem Gebiet befindet oder sehr dicht daran ist, kann Feuer fangen.
+	Dauer: 70
+	Kosten: 52
+ 
+Kometenfaust
+Voraussetzungen:
+	Feuer
+	MG: 31
+	WK: 39
+	ERF: 32
+Kometenfaust umgibt die bei einem Nahkampfangriff verwendete Extremität mit einer Art Explosionsfeuerball, sodass diese mehr Schaden anrichtet und feindliche Rüstung beschädigen kann.
+Der Zauber wird in zwei Schritten durchgeführt. Im ersten Schritt wird der Zauber vorbereitet, im zweiten wird der Zauber mit einem Nahkampfangriff zusammen angewendet.
+Für den ersten Schritt muss eine MAT-Probe durchgeführt werden und es müssen 9 ZWZ und 6 MP aufgewendet werden. Der Zauber umgibt nun bereits die Extremität des Zaubernden.
+Der zweite Schritt sollte möglichst direkt an den ersten folgend durchgeführt werden weil sich sonst die Wirkung der Kometenfaust reduziert. Für jedes andere, nicht defensive, Aktion, Zaubern ist nicht möglich, die zwischen dem vorbereiten des Zaubers und dem Einsatz geschieht reduziert sich die Wirkung des Zaubers um ein Drittel. Das gleiche gilt für verfehlte oder Parierte Angriffe. Der Nahkampfangriff muss wie ein MNK-Angriff pariert werden, außerdem müssen während des Nahkampfangriffs, beziehungsweise direkt danach, noch 2 MP und 5 ZWZ aufgewendet werden.
+Die Kometenfaust richtet zusätzlich zum Nahkampfschaden 1 MTP Punkte Schaden an. Zusätzlich wird die Wirkung von Panzern wie Lederhaut, Steinhaut oder Corpus Kristallinus lokal um bis zu 2 Reduziert.
+	Dauer: 14
+	Kosten: 8
+ 
+Qualm
+Voraussetzungen:
+	Art: Feuer
+	MG: 15
+	ERF: 20
+Der Zauber bewirkt, dass eine dichte, stinkende, heiße, tiefschwarze Qualmwolke um den Zaubernden herum aufsteigt die das Sichtfeld blockiert und nicht Feuer-/ nicht Vulkandschinn Verbrennungen von MTP/4 Punkten Schaden zufügt. Der Schaden wird jede Runde die in der Qualmwolke aufrecht gehalten wird zugefügt. 
+Die Qualmwolke hat eine Ausdehnung von 2*MTP m³. 
+Die eingeschränkte Sicht erschwert Zielenproben in den Qualm hinein um 20 und Zielenproben innerhalb des Qualmes oder aus dem Qualm heraus um 30. Es dauert 15 ZWZ den Zauber auszuführen, danach raucht der Zaubernde mit 1 m³ /5 ZWZ vor sich hin bis aller Qualm ausgestoßen ist. Der Qualmausstoß geschieht automatisch und der Zaubernde kann solange bereits wieder anderes machen.
+	Dauer: 15 / 5
+	Anhaltend: Bis verweht oder verteilt
+	Kosten: 8
+ 
+Sonnensturm
+Voraussetzungen:
+	Feuer
+	MG: 42
+	WK: 38
+	KL: 45
+	LV: 3
+Der Zauber lässt eine Wolke gleißender Lichtspeere in ein Zielgebiet einschlagen. Jeder in dem Zielgebiet erleidet MTP Punkte Schaden und sind für die nächste Kampfrunde geblendet. Zudem sinkt seine Feuerresistenz um 10%. Ziele die keine Magieparade durchführen und denen die damit notwendige Magieresistenz (MR) Probe nicht bestehen erhalten den Sonnenbrand Effekt.
+Das Zielgebiet hat einen Kreis von einem Durchmesser von MTP/2 Metern. Der Effekt breitet sich zwischen dem Zaubernden und dem Zielgebiet Kegelförmig aus. Das Zielgebiet darf maximal 2*MTP Mete weit entfernt sein.
+Es ist nicht möglich dem Zauber durch Ausweichen zu entgehen.
+Dadurch das Ziele die dem Zauber direkt entgegen sehen geblendet werden sind Proben auf Parade, Ausweichen und Zielen um 20 erschwert.
+Ziele die unter dem Sonnenbrand Effekt leiden erhalten bei jeder physischen Aktion, AW, AT, PA, BR, in den nächsten MTP/4 Runden automatisch zwei Punkte Schaden.
+	Dauer: 78
+	Kosten: 23
+	Vertiefungskosten: 3/4
+	Bei den Ägyptern erstbeschworene Dschinn beherrschen den Zauber automatisch.
+
+ 
+Überhitzen
+Voraussetzungen
+	Feuer
+	MG: 24
+	KO: 28 + 6*n
+	WAH: 28 + 6*n
+Der Zauber erhöht die Temperatur des Ziels und auch seine Geschwindigkeit.
+Die Geschwindigkeitserhöhung äußert sich als MTP/2 Bonus auf INI, AU, ZWZ und MNAU.
+Der Zauber kann auch auf andere Wesen gewirkt werden, die der Zaubernde berührt, wenn das Ziel die Anforderungen an Konstitution erfüllt. Wird der Zauber auf ein anderes Ziel gewirkt muss der Zaubernde die KO Anforderungen selbst nicht erfüllen.
+Der Zauber kann auf die meisten Wesen einmal gewirkt werden. Frostdschinn vertragen den Zauber gar nicht. 
+Pro 25% Hitzeresistenz kann der Zauber ein weiteres Mal mit überlappender Effektwirkung auf das gleiche Ziel gewirkt werden.
+Die Wirkung des Zaubers sinkt jede Runde um eins bis sie komplett verschwunden ist.
+	Dauer:  12
+	Kosten: 5
+
+
+Überhitzen II
+Voraussetzungen
+	Feuer
+	MG: 24
+	MR: 26+5*n
+	KO: 32 + 5*n
+	WAH: 34 + 4*n
+Der Zauber erhöht die Temperatur des Ziels und auch seine Geschwindigkeit.
+Die Geschwindigkeitserhöhung äußert sich als MTP/2 Bonus auf INI, AU, ZWZ und MNAU.
+Der Zauber kann auch auf andere Wesen gewirkt werden, die der Zaubernde berührt, wenn das Ziel die Anforderungen an Konstitution (KO) und Magieresistenz (MR) erfüllt. Wird der Zauber auf ein anderes Ziel gewirkt muss der Zaubernde die Konstitutions-Anforderungen (KO) selbst nicht erfüllen. Die Magieresistenzanforderungen jedoch schon.
+Der Zauber kann auf die meisten Wesen einmal gewirkt werden. Frostdschinn vertragen den Zauber gar nicht. 
+Pro 20% Hitzeresistenz kann der Zauber ein weiteres Mal mit überlappender Effektwirkung auf das gleiche Ziel gewirkt werden.
+Die Wirkung des Zaubers sinkt jede Runde um eins bis sie komplett verschwunden ist.
+Beim ersten Wirken ist n null.
+	Dauer:  11
+	Kosten: 4
+	Vertiefungskosten: 2/3
+ 
+
+Verzundern
+Voraussetzungen:
+	Feuer
+	WK: 43
+	KL: 38
+	ERF: 32
+Der Zauber senkt die Feuerresistenz des Ziels um ((WK+ERF+KL+IN)/20)+10%). 
+Auf eine Distanz von maximal MTP/2 Meter sendet der Zaubernde einen Strahl magischer Energie, der die Anfälligkeit des Ziels für Feuermagie steigert. Auf diese Weise kann eine negative Resistenz von maximal 50% hergestellt werden.
+	Dauer: 12
+	Kosten: 2
+
+Verzundern II
+Voraussetzungen:
+	Feuer
+	WK: 52
+	KL: 44
+	ERF: 38
+Der Zauber senkt die Feuerresistenz des Ziels um ((WK+ERF+KL+IN)/15)+20%). 
+Auf eine Distanz von maximal MTP/2 Meter sendet der Zaubernde einen Strahl magischer Energie, der die Anfälligkeit des Ziels für Feuermagie steigert. Auf diese Weise kann eine negative Resistenz von maximal 100% hergestellt werden.
+	Dauer: 9
+	Kosten: 2
+	Vertiefungskosten: 3/4
+

@@ -1,0 +1,294 @@
+Sand
+Sanddschinn sind in den großen Sandwüsten unserer Erde verwurzelt. Sie wurden von Magiern beschworen die sich entweder viel in solchen bewegten oder, diese als wichtige strategische Punkte nutzten.
+Sanddschinn wurden beschworen um in sandigem Gelände einen möglichst großen militärischen Einfluss zu gewinnen. Daher sind Sanddschinn von ihrem Fähigkeitsspektrum auch primär auf den Kampf spezialisiert. Dabei spielt es keine Rolle ob sie eine Stellung angreifen sollen, eine Stellung verteidigen sollen oder einen Hinterhalt legen sollen. Solange das Terrain stimmt sind Sanddschinn fast allen Gegnern überlegen.
+Um ihre Gegner besonders gut in den Griff zu bekommen, haben Sanddschinn eine sehr spezielle Kampftechnik entwickelt, die zum einen darauf beruht, die Distanz in der der Kampf geführt wird zu kontrollieren und zum anderen Nahkampfangriffe durch die Verbindung mit Sand zu verstärken.
+Die Distanz in der Sanddschinn ihre Fähigkeiten am besten nutzen können liegt ein Stück außerhalb der üblichen Nahkampfreichweite, aber immer noch sehr nah am Gegner. In dieser Distanz können weder Nahkämpfer noch Fernkämpfer ihre Fähigkeiten voll ausspielen, sodass Sanddschinn einen strategischen Vorteil besitzen. Sanddschinn hingegen können  durch den Gebrauch von magisch mit Sand vergrößerten Extremitäten gerade in dieser Distanz enormen Schaden anrichten. Zusätzlich stören Sie ihre Feinde mit umherfliegendem Sand sodass diese sich schlechter zur Wehr setzten können.
+Sanddschinn verwenden für ihre Zauber Sand aus der Umgebung. Gibt es in der Umgebung keinen Sand sind ihre Zauber nicht oder nur deutlich erschwert durchführbar. Wenn die Umgebung dies erlaubt kann Sand entweder durch den Zerrütten Zauber hergestellt werden oder indem Dauer und Kosten des Zaubers verdoppelt werden aus der Umgebung gewonnen werden. Im zweiten Fall werden alle sich in der Nähe befindlichen geeigneten Flächen ein wenig angegriffen um den für den Zauber notwendigen Sand zu gewinnen. Wenn die Art des Zaubers es zulässt kann dieser auch Teilweise für die nächsten Zauber mitgenutzt werden, sodass sich die zusätzlichen Aufwendungen zunehmends reduzieren. Im Falle der Zauber Sandklauen und Sandschweif verdreifachen sich die initialen Kosten, die im weiteren Verlauf auftretenden Kosten für die Kontrolle der verstärkten Extremitäten bleibt jedoch gleich. 
+	
+ 
+Aura des fliegenden Sandes
+Voraussetzungen:
+	Sand
+	MG: 23
+	WK: 24
+	WAH: 18
+	IN: 22
+Der Zauber erschafft um den Zaubernden ein Gebiet in dem sehr viel Flugsand unterwegs ist.
+Durch den Flugsand können Sanddschinn im Einflussbereich der Aura Zauber mit 2 ZWZ und 1 MP Einsatz weniger durchführen. Der Zaubernde kann durch die Aura Zauber mit 1 ZWZ weniger durchführen, die Zauberkosten bleiben gleich.
+Nicht Sanddschinn die im Einflussbereich des Zaubers sind erleiden einen Abzug auf AT und ZI von MTP/2.
+Die Aura des fliegenden Sandes Wirkt in einem Gebiet mit einem Radius von MTP/3 Metern um den Zaubernden herum.
+Um die Aura des fliegenden Sandes aufrecht zu halten fallen jede Runde 5 ZWZ, ohne Übergangszeit, und 2 MP an.
+	Dauer: 18/5
+	Kosten: 5/2 
+	
+
+Fliegender Sandschnitt
+Voraussetzungen:
+	Sand
+	MG: 32
+	ERF: 25
+Ein klingenförmiger Sandschwall folgt einem der Handbewegung des Zaubernden und löst sich dann um weiter in die vom Zaubernden gewählte Richtung zu fliegen.
+Der Zauber zerschneidet durch konstante Bewegung der Körner gegeneinander das Ziel. Der Schnitt kann maximal MTP Metern vom Zaubernden entfernt seine volle Wirkung von 2 MTP Punkten Schaden entfalten. 
+Es ist keine Zielen-Probe (ZI) erforderlich damit der Zauber trifft.
+	Dauer: 17
+	Kosten: 9
+ 
+Fliegender Sandschnitt II
+Voraussetzungen:
+	Sand
+	MG: 32
+	ERF: 25
+Ein klingenförmiger Sandschwall folgt einem der Handbewegung des Zaubernden und löst sich dann um weiter in die vom Zaubernden gewählte Richtung zu fliegen.
+Der Zauber zerschneidet durch konstante Bewegung der Körner gegeneinander das Ziel. Der Schnitt kann maximal MTP Metern vom Zaubernden entfernt seine volle Wirkung von 2 MTP Punkten Schaden entfalten. 
+Es ist keine Zielen-Probe (ZI) erforderlich damit der Zauber trifft.
+	Dauer: 13
+	Kosten: 8
+	Vertiefungskosten: 2/3
+ 
+
+Sandklaue (MNK)
+Voraussetzungen: 
+Sand
+	MG: 27/ 42/ 57
+	ERF: 18/ 32/ 46
+	GE: 24/ 39/ 54
+	KL: 10/ 25/ 40
+	LV: 0/ 0/ 3
+Der Zauber vergrößert eine Hand des Zaubernden zu einer übergroßen Klaue aus Sand indem Sand aus der Umgebung um die Hand gelegt und zu der sehr großen Klaue ausgeformt wird. Im ersten Schritt wird die Klaue beschworen. Dies Dauert 28 ZWZ und Kostet 9 MP. Die beschworene Klaue kann nun immer wieder eingesetzt werden solange der Zauber aufrecht gehalten wird. Um den Zauber aufrecht zu halten ist lediglich ein Einsatz von einem MP pro Kampfrunde erforderlich. Wenn die Klaue in dieser Kampfrunde zum Angreifen verwendet wird entfallen die Aufrechterhaltungskosten. Der für einen Angriff notwendig Manaaufwand um die Sandklaue zu verwenden beläuft sich auf zwei MP.
+Im zweiten Schritt kann die Sandklaue nun verwendet werden. Ein Angriff mit der Klaue benötigt 26 MNAU und kosten 2 MP. Ein Treffer richtet zusätzlich zum physischen Basisschaden von TP MTP+1W4 Punkte Schaden an. Die Sandklaue kann nur Ziele Treffen die sich maximal MTP/3 Meter vom Zaubernden entfernt befinden.
+Besonders geschickte Sanddschinn können gleichzeitig zwei Sandklauen und einen Sandschweif verwenden. Um eine Sandklaue zu verwenden ist sind 27 MG, 18 ERF, 24 GE und 10 KL von Nöten, mit jeder zusätzlichen Extremität aus Sand steigen die Anforderungen um eine Stufe.
+Wird mehr als eine Extremität verwendet sinkt die für jeden nachfolgenden Angriff mit durch Sand verstärken Extremitäten in dieser Runde um 8 MNAU. Werden drei Extremitäten aus Sand verwendet sinkt die Dauer die jeder Angriff ab dem dritten benötigt um weitere 5 MNAU. 
+Angriffe die Rundenübergreifend durchgeführt werden sind mit der Sandklaue nicht möglich.
+Eine durch Sand verstärkte Extremität kann in einer Runde mehrfach verwendet werden wenn zwischendurch eine andere Aktion, wie beispielsweise ein Angriff mit einer anderen durch Sand verstärkten Extremität oder ein Zauber, durchgeführt wurde.
+Mit Sandklauen kann ohne Einschränkungen gezaubert werden.
+Beispiel: Saxxam ist ein Erfahrener Dschinn der zwei Sandklauen und einen Sandschweif verwendet. Seine MNAU reicht aus um alle drei Extremitäten in einer kampfrunde einzusetzen. Sein Nahkampfschaden (TP) liegt bei 14, sein magischer Schaden (MTP) liegt bei 13 und seine MNAU bei 58.
+Er greift erst mit einer seiner Sandklauen an, der Angriff erfordert 26 MNAU und gelingt ihm. Saxxam bezahlt für den Angriff 2 MP.
+Er fügt dem Ziel des Angriffs also TP+MTP+1W4 Punkte Schaden zu. Zusätzlich reduziert er AT und ZI des Opfer für dessen nächste Kampfrunde um die Hälfte des zugefügten Schadens. Da er eine 2 würfelt sind das 29 Punkte Schaden und 14 Punkte weniger AT und ZI.
+Nun greift Saxxam mit seinem Sandschweif an. Der Angriff erfordert alleine 22 MNAU, da er eine KL von 33 und eine GE von 55 besitzt. Da es sich jedoch um den zweiten Angriff mit Sandextremitäten handelt sinkt die notwendige Dauer auf nur 14 MNAU.
+Der Angriff kostet ihn 3 Manapunkte (MP) und gelingt. 
+Damit erleidet das Ziel weiteren Schaden. Dieser beläuft sich auf TP+MTP+1W6. Mit der 6 die Saxxam gewürfelt hat kommt er zu insgesamt 33 Punkten Schaden. Da sein Opfer sich aber entschieden hat den Angriff zu parieren sinkt der Schaden um die Paradewirkung (PAW) des Gegners von 17 auf 16 Punkte Schaden und 8 Punkte Abzug auf AT und ZI.
+Der dritte Angriff von Saxxam, diesmal mit der zweiten Sandklaue, dauert 13 MNAU und Kostet ihn wieder 2 MP. Da der Angriff verfehlt richtet Saxxam keinen weiteren Schaden an.
+Mit der ihm verbleibenden MNAU von 5 kann er keinen weiteren Angriff starten und muss den Zug seines Gegners abwarten. Der 45 Punkte Schaden erlitten hat und einen Gesamtabzug von 22 auf alle AT und ZI Proben in seiner Runde hinnehmen muss.
+Dauer: 28 ZWZ/ 26 MNAU
+	Kosten: 9/ 2/ 1
+ 
+Sandklaue II (MNK) 
+Voraussetzungen: 
+Sand
+	MG:  37/ 47/ 55 /62 / 68
+	WK:  32/ 42/ 50/ 57/ 63
+	ERF: 28/ 38/ 46/ 52/ 56
+	GE:   30/ 40/ 48/ 54/ 58
+	KL:   20/ 30/ 38/ 44/ 48
+	LV:      0/   0/   3/  5/  7
+Der Zauber vergrößert eine Hand des Zaubernden zu einer übergroßen Klaue aus Sand indem Sand aus der Umgebung um die Hand gelegt und zu der sehr großen Klaue ausgeformt wird. Im ersten Schritt wird die Klaue beschworen. Dies Dauert 22 ZWZ und Kostet 7 MP. Die beschworene Klaue kann nun immer wieder eingesetzt werden solange der Zauber aufrecht gehalten wird. Um den Zauber aufrecht zu halten ist lediglich ein Einsatz von einem MP pro Kampfrunde erforderlich. Wenn die Klaue in dieser Kampfrunde zum Angreifen verwendet wird entfallen die Aufrechterhaltungskosten. Der für einen Angriff notwendig Manaaufwand um die Sandklaue zu verwenden beläuft sich auf zwei MP.
+Im zweiten Schritt kann die Sandklaue nun verwendet werden. Ein Angriff mit der Klaue benötigt 26 MNAU und kosten 2 MP. Ein Treffer richtet zusätzlich zum physischen Basisschaden von TP MTP+1W4 Punkte Schaden an. Die Sandklaue kann nur Ziele Treffen die sich maximal MTP/3 Meter vom Zaubernden entfernt befinden.
+Besonders geschickte Sanddschinn können gleichzeitig vier Sandklauen und einen Sandschweif verwenden. Um eine Sandklaue zu verwenden ist der erste Satz Anforderungen von Nöten, mit jeder zusätzlichen Extremität aus Sand steigen die Anforderungen um eine Stufe.
+Wird mehr als eine Extremität verwendet sinkt die für jeden nachfolgenden Angriff mit durch Sand verstärken Extremitäten in dieser Runde um 8 MNAU. Werden drei Extremitäten aus Sand verwendet sinkt die Dauer die jeder Angriff ab dem dritten benötigt um weitere 5 MNAU. Bei vier verwendeten Extremitäten sinkt die für einen Angriff notwendige Dauer ab dem vierten Angriff um weitere 4 MNAU. Bei fünf Extremitäten sinkt die Dauer ab dem ersten Angriff um 2 MNAU pro Angriff.
+Angriffe die Rundenübergreifend durchgeführt werden sind mit der Sandklaue nicht möglich.
+Eine durch Sand verstärkte Extremität kann in einer Runde mehrfach verwendet werden wenn zwischendurch eine andere Aktion, wie beispielsweise ein Angriff mit einer anderen durch Sand verstärkten Extremität oder ein Zauber, durchgeführt wurde.
+Mit Sandklauen kann ohne Einschränkungen gezaubert werden.
+Dauer: 22 ZWZ/ 26 MNAU
+	Kosten: 7/ 2/ 1
+	Vertiefungskosten: 5/7 
+	
+Sandschnitt (MNK)
+Voraussetzungen:
+	MG: 24
+	ERF: 26
+	WK: 26
+Ein klingenförmiger Sandschwall folgt der Angriffsbewegung und trifft das Ziel mit dem Nahkampfangriff des Zaubernden. Der Sand zerfetzt und zerschneidet durch konstante Bewegung der Körner untereinander das Ziel. Dadurch wird zusätzlich zum physischen Basisschaden von TP 1,5 MTP Schaden angerichtet.	
+	Kosten: 5
+ 
+Sandschweif (MNK)
+Voraussetzungen:
+	Sand
+	MG: 27/ 42/ 57
+	ERF: 18/ 32/ 46
+	GE: 24/ 39/ 54
+	KL: 10/ 25/ 40
+	LV: 0/ 0/ 3
+Der Zaubernde erschafft sich einen Schwanz aus Sand. Dieser ist, sofern feststellbar, kehrseitig am Körper des Zaubernden befestigt. 
+Im ersten Schritt wird der Schweif beschworen. Dies Dauert 36 ZWZ und Kostet 11 MP. Der beschworene Schweif kann immer wieder eingesetzt werden solange, der Zauber gehalten wird. Um den Zauber aufrecht zu halten sind lediglich 2 MP pro Runde erforderlich wenn die Klaue eine Kampfrunde nicht verwendet wird. Wird der Schweif verwendet belaufen sich die Kosten dafür auf 3 MP und die Aufrechterhaltungskosten entfallen.
+Im zweiten Schritt kann nun der Sandschweif verwendet werden. Ein Angriff mit dem Sandschweif nimmt 26-(KL+GE)/20 MNAU in Anspruch und richtet zusätzlich zum physischen Basisschaden von TP MTP+1W6 Punkte Schaden an. 
+Wird der Zauber zusammen mit dem Zauber Sandklaue verwendet, steigen die Anforderungen für jede weitere magisch verstärkte Extremität um eine Stufe an. 
+Wird mehr als eine Extremität verwendet sinkt die für jeden nachfolgenden Angriff mit durch Sand verstärken Extremitäten in dieser Runde um 8 MNAU. Werden drei Extremitäten aus Sand verwendet sinkt die Dauer die jeder Angriff ab dem dritten benötigt um weitere 5 MNAU. 
+Angriffe die Rundenübergreifend durchgeführt werden sind mit dem Sandschweif nicht möglich.
+Eine durch Sand verstärkte Extremität kann in einer Runde mehrfach verwendet werden wenn zwischendurch eine andere Aktion, wie beispielsweise ein Angriff mit einer anderen durch Sand verstärkten Extremität oder ein Zauber, durchgeführt wurde.
+Dauer: 36 ZWZ/ 26-x MNAU
+	Kosten: 11/ 3/ 2
+ 
+Sandsturm
+Voraussetzungen:
+	Sand
+	MG: 22 + 8 pro zusätzlichen MTP Metern Radius
+	ERF: 14 + 8 pro zusätzlichen MTP Metern Radius
+	WK: 30 + 8 pro zusätzlichen MTP Metern Radius
+	LV: 3
+Der Zauber entfacht einen Sandsturm der sich um den Zaubernden im Zentrum Sturmes ausbreitet. 
+Der Zaubernde kann die Ausdehnung und Dauer des Sandsturmes bestimmen. Dabei kostet es 14 MP einen Sandsturm mit einem Radius von MTP Metern eine Runde lang aufrecht zu erhalten. Für jeweils weitere 10MP kann der Radius des Sandsturmes um MTP Meter vergrößert werden oder der Zauber um eine Runde verlängert werden. Einen Sandsturm mit einem Radius von 2 MTP Metern zwei Runden lang aufrecht zu erhalten würde (14+3*10) MP= 44 MP kosten. 
+Jeder der sich im inneren des Sandsturms befindet erleidet MTP Punkte Schaden pro Runde und ist durch den Sand geblendet. Dadurch werden AT, PA, AW, MPA, ZI und MNAT auf die Hälfte reduziert. TP und MTP sinken auf 2/3 ihres ursprünglichen Wertes. 
+Nachdem der Zauber gewirkt wurde bleibt er bestehen bis die zum Wirken des Zaubers verwendete Kraft aufgebraucht ist.
+Der Zauber hat keine Auswirkungen auf Sanddschinn.
+Luftdschinn können sich für 4 MP pro Runde vor den Auswirkungen des Zaubers schützen. 
+	Dauer: 40+24 pro zusätzlichen MTP Metern Radius und Runde
+Kosten: 14 +10 pro zusätzlichen MTP Metern Radius und Runde
+ 
+Sandsturm II
+Voraussetzungen:
+	Sand
+MG: 28 + 5 pro zusätzlichen MTP Metern Radius
+	ERF: 22 + 5 pro zusätzlichen MTP Metern Radius
+	WK: 36 + 6 pro zusätzlichen MTP Metern Radius
+	LV: 5
+Der Zauber entfacht einen Sandsturm der sich um den Zaubernden im Zentrum Sturmes ausbreitet. 
+Der Zaubernde kann die Ausdehnung und Dauer des Sandsturmes bestimmen. Dabei kostet es 12 MP einen Sandsturm mit einem Radius von MTP Metern eine Runde lang aufrecht zu erhalten. Für jeweils weitere 8MP kann der Radius des Sandsturmes um MTP Meter vergrößert werden oder der Zauber um eine Runde verlängert werden. Einen Sandsturm mit einem Radius von 2 MTP Metern zwei Runden lang aufrecht zu erhalten würde (12+3*8) MP= 36 MP kosten. 
+Jeder der sich im inneren des Sandsturms befindet erleidet MTP Punkte Schaden pro Runde und ist durch den Sand geblendet. Dadurch werden AT, PA, AW, MPA, ZI und MNAT auf die Hälfte reduziert. TP und MTP sinken auf 2/3 ihres ursprünglichen Wertes. 
+Nachdem der Zauber gewirkt wurde bleibt er bestehen bis die zum Wirken des Zaubers verwendete Kraft aufgebraucht ist.
+Der Zauber hat keine Auswirkungen auf Sanddschinn.
+Luftdschinn können sich für 4 MP pro Runde vor den Auswirkungen des Zaubers schützen. 
+	Dauer: 34+20 pro zusätzlichen MTP Metern Radius und Runde
+Kosten: 12 +8 pro zusätzlichen MTP Metern Radius und Runde
+	Vertiefungskosten: 3/5 
+	
+Sandtauchen
+Voraussetzungen:
+	Sand
+	MG: 22
+	GE: 32
+	KO: 29
+	WK: 30
+	ERF: 22
+Der Zauber ermöglicht es dem Zaubernden durch Sand zu schwimmen wie ein Fisch durch Wasser. Trotzdem bedarf der Zaubernde noch in regelmäßigen Abständen Atemluft und muss daher bis kurz unter die Oberfläche auftauchen. Die Zeit die ein Sanddschinn komplett abtauchen kann liegt bei KO/3 Minuten. Wird diese Zeit überschritten verliert ein Sanddschinn jede Minute 4 LP.
+Im Sand abgetaucht halbiert sich die Bewegungsgeschwindigkeit. Sandtauchen kostet 2MP pro Minute. Geht  einem abgetauchten Sanddschinn das Mana aus zahlt er stattdessen 4LP pro Minute.
+Sandtauchen im Kampf aufrecht zu erhalten kostet 10 ZWZ pro Runde.
+Aus Gründen der Manaersparnis verstecken sich Sanddschinn gerne mit einem Schilfrohr durch Sandtauchen tief im Sand und atmen durch das Schilfrohr. An dieser festen Position können sie den Zauber problemlos auflösen. Je nachdem wie tief sie sich versteckt haben kann es notwendig sein Sandtauchen zum Auftauchen wieder zu verwenden.
+Sollten sich zwei abgetauchte Sanddschinn bekämpfen wird die halbe AU und 2/3 TP verwendet. Sandzauber können nicht mitten im Sand verwendet werden.
+	Dauer: 18/10
+	Kosten: 2/Minute
+
+ 
+Sandtrichter
+Voraussetzungen:
+	Sand
+	MG: 24
+	WK: 42
+	ERF:28
+Sandtrichter lässt einen Trichter im Sand entstehen, der Sand an den Flanken des Trichters strömt nach unten sodass alle die sich im Gebiet des Sandtrichters befinden langsam auf die Mitte des Trichters zutreiben und es fast unmöglich ist sich nach oben zu bewegen. 
+Der Sandtrichter ist MTP/2 Meter tief und hat oben einen Durchmesser von MTP Metern. Wer im Trichter gefangen ist erleidet einen AU, INI, MNAU Verlust von 10 der andauert solange man sich im inneren des Sandtrichters befindet. Verwandlungen sind im Sandtrichter um 20 erschwert. Zudem erleiden alle die im Sandtrichter landen einen einmaligen Schaden von MTP/2 nahe der Mitte und MTP/3 am Rand.
+Die Mitte des Trichters darf sich maximal MTP Meter vom Zaubernden entfernt befinden.
+	Dauer: 34
+Kosten: 16
+ 
+Schuppenpanzer
+Voraussetzungen:
+	Sand
+	MR: 24
+	KO: 38
+	MG: 26
+	WK: 26
+Der Zauber bedeckt die Haut des Zaubernden mit einem starken Schuppenpanzer, der diesen vor Angriffen Schützt.
+Dadurch wird jeder Schaden der den Schuppenpanzer trifft um eins reduziert. Zusätzlich fügt der doch bedenklich scharfkantige Panzer jedem der einen erfolgreichen Nahkampfangriff gegen den Zaubernden ausführt 1 Punkt Schaden zu.
+Um den Zauber aufrecht zu halten muss jede Runde 3 ZWZ, ohne Übergangszeit und 1 MP aufgewendet werden.
+	Dauer: 33/ 3
+	Kosten: 9/ 1 
+	
+Treibsand
+Voraussetzungen:
+	Sand
+	MG: 17
+	WK: 18
+Der Zauber weicht den Boden in einem Gebiet auf, so dass das Vorankommen auf diesem Boden deutlich erschwert ist.
+Betroffen ist ein Gebiet mit einem Durchmesser von MTP Metern, dessen Mitte nicht weiter als MTP Meter vom Zaubernden entfernt sein darf.
+Alle die sich innerhalb des Gebietes auf dem Boden fortbewegen haben nur halbe Bewegungsreichweite.
+Es können Maximal WK/20, abgerundet, solcher Gebiete gleichzeitig  erschaffen und aufrecht gehalten werden.
+Um ein Gebiet aufrecht zu erhalten ist jede kampfrunde ein Einsatz von 3 ZWZ, ohne Übergangskosten, und 1 MP notwendig.
+Der Zauber kann nur auf sandigen Boden angewandt werden.
+	Dauer: 12/ 3
+	Kosten: 4/ 1 
+	
+Wanderdüne
+Voraussetzungen:
+	Sand
+	MG: 28
+	GE: 28
+	ERF: 22
+Der Zauber bewegt eine Person oder ein Wesen das auf Sand steht in gerader Linie auf den Zaubernden zu oder von ihm weg.
+Von dem Zauber können nur Ziele erfasst werden die der Zaubernde Sehen kann und die sich maximal 1, 5 MTP Meter von ihm entfernt befinden. Das Ziel kann maximal MTP/2 Meter weit bewegt werden. 
+Ist das Ziel mehr als WK*3 kg schwer verdoppeln sich Dauer und Kosten für den Zauber. Liegen höhere Vielfache dieses Wertes vor wird dieses Vielfache auch für Dauer und Kosten angewandt.
+Befindet sich das Ziel innerhalb von MTP Metern um den Zaubernden und wird maximal MTP/3 Meter weit bewegt Dauert der Zauber nur 3 und Kostet nur 1 MP. Auch hier gilt die Gewichtsregel.
+Bsp.: Al-Scharam möchte das Nilpferd das ihm empfindlich nahe gekommen ist von sich weg bewegen. Dazu verwendet er Wanderdüne. Sein WK-Wert liegt bei 38. Das Nilpferd wiegt 1050 kg. Mit seiner WK von 38 kann er maximal 38*5 kg = 190 kg bewegen. 1050 kg /190 kg = 5,53. Al Scharam muss also das 6-Fache der ursprünglichen Zauberkosten bezahlen. Da sich das Nilpferd aber sehr nahe an ihm befindet und er es nur wenige Meter bewegen möchte kann er die Reduzierte Dauer und Kosten verwenden. Damit ergibt sich eine Dauer von 6*3 = 18 und kosten von 6*1 MP = 6 MP.
+ 	Dauer: 6 / 3
+	Kosten: 2/ 1
+
+ 
+Wanderdüne II
+Voraussetzungen:
+	Sand
+	MG: 28
+	GE: 28
+	ERF: 22
+Der Zauber bewegt eine Person oder ein Wesen das auf Sand steht in gerader Linie auf den Zaubernden zu oder von ihm weg.
+Von dem Zauber können nur Ziele erfasst werden die der Zaubernde Sehen kann und die sich maximal 2,5 MTP Meter von ihm entfernt befinden. Das Ziel kann maximal MTP Meter weit bewegt werden. 
+Ist das Ziel mehr als WK*5 kg schwer verdoppeln sich Dauer und Kosten für den Zauber. Liegen höhere Vielfache dieses Wertes vor wird dieses Vielfache auch für Dauer und Kosten angewandt.
+Befindet sich das Ziel innerhalb von MTP Metern um den Zaubernden und wird maximal MTP/3 Meter weit bewegt Dauert der Zauber nur 3 und Kostet nur 1 MP. Auch hier gilt die Gewichtsregel.
+	Dauer: 6 / 3
+	Kosten: 2/ 1
+	Vertiefungskosten: 3/4 
+	
+Wüstenwind
+Voraussetzungen:
+	Sand
+	MG:26
+	WAH: 29
+	WK: 24
+Der Zauber ruft einen starken, sandigen, heißen Wind herbei der allen Fliegenden Wesen im Wirkungsbereich Schaden zufügt.
+Wirkungsbereich des Zaubers ist ein Würfelförmiges Gebiet mit einer Kantenlänge von je 2 MTP Metern. Die dem Zaubernden nächste Kante darf maximal MTP Meter von ihm entfern sein.
+Wer sich im Wirkungsbereich des Zaubers befindet muss mit seiner nächsten Aktion Landen oder er erleidet 1,5 MTP Schaden. Sich Im Gebiet des Zaubers befindende fliegende Wesen haben nur ihre halbe Bewegungsreichweite. Zudem wird AW um 20 reduziert und ZI halbiert.
+Der Zauber wirkt solange er gehalten wird, dazu sind jede Runde 10 ZWZ, ohne Übergangszeit, und 4 MP notwendig.
+Sanddschinn sind von den Talentabzügen nicht betroffen und erleiden nur MTP Punkte Schaden.
+Luftdschinn können sich der Wirkung des Zaubers für 4 MP entziehen.
+	Dauer: 25 / 10
+	Kosten: 10 / 4
+ 
+Verschlingen
+Voraussetzungen:
+	Kristall-Bestie; Sand
+	WK: 38
+	KO: 42
+	KK: 38
+	GE: 26
+	MUT: 35
+	LV: 3
+Frist ein anderes Wesen vom Anderen Ort mit Haut und Haar.
+Durch den verschlingen Zauber wird zum einen die Gegenwehr des Opfers reduziert, zum anderen wird dessen Verdauung beschleunigt. Der Zauber kann nur auf Ziele gewirkt werden die sich in Nahkampfdistanz des Zaubernden befinden, auch durch Sandklauen erweiterte Reichweite zählt als Nahkampfdistanz. 
+Wesen die Ziel des Zaubers sind und weniger als MTP LP oder MP besitzen werden sofort komplett verschlungen unabhängig von ihren sonstigen Fähigkeiten.
+Hat das Ziel noch mehr übrig erleidet es MTP Punkte Abzug auf LP und MP. Seine Gegenwehr im inneren des Zaubernden ist eingeschränkt, da alle Zauber mit doppelten kosten gewirkt werden müssen. Nahkampfangriffe erfordern ebenfalls die doppelte Dauer.
+Dem verschlungenen werden jede folgende Kampfrunde 2 MTP Manapunkte abgezogen. Sind keine Manapunkte mehr übrig, ist das Ziel dem weitern verschlingen hilflos ausgeliefert.
+Wie bei normalen Fressen erhält der Fressende die Hälfte der Lebens-/ und Manapunkte seines Opfers dazu. Dabei kann der Basiswert des fressenden nicht überschritten werden.
+	Dauer: Eine Kampfrunde
+	Kosten: 4
+ 
+Zerrütten
+Voraussetzungen:
+	WK: 26
+	ERF: 24
+	KK: 24
+Wie ein Mahlwerk aus Sand arbeitet sich der durch den Zauber kontrollierte Sand durch das vorgegebene Gebiet. 
+Besonders effektiv ist der Zauber gegen hartes Material wie Stein oder Metall. An Eisen kann nur ein Viertel der Wirkung entsteht und es unmöglich ist Silber auf diese Art zu beschädigen, da sich der Zauber, der den Sand kontrolliert, nahe des Silbers auflöst. 
+Der Zauber bearbeitet einen Kreis von einem Meter Durchmesser und hat einen durchschnittlichen Vorschub von MTP/10 Metern pro wirken. Je nach Material verändert sich die Tiefe des zerriebenen Bereichs.
+	Dauer: 40
+Kosten: 6
+ 
+Zerrütten II
+Voraussetzungen:
+	WK: 38
+	ERF: 29
+	KK: 30
+Wie ein Mahlwerk aus Sand arbeitet sich der durch den Zauber kontrollierte Sand durch das vorgegebene Gebiet. 
+Besonders effektiv ist der Zauber gegen hartes Material wie Stein oder Metall. An Eisen kann nur ein Viertel der Wirkung entsteht und es unmöglich ist Silber auf diese Art zu beschädigen, da sich der Zauber, der den Sand kontrolliert, nahe des Silbers auflöst. 
+Der Zauber bearbeitet einen Kreis von einem Meter Durchmesser und hat einen durchschnittlichen Vorschub von MTP/8 Metern pro wirken. Je nach Material verändert sich die Tiefe des zerriebenen Bereichs.
+	Dauer: 32
+Kosten: 5
+Vertiefungskosten: 2/3
+

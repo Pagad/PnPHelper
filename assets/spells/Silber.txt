@@ -1,0 +1,197 @@
+Silber
+Die Magier Atlantis haben viele Dschinn ihren grausigen Experimenten unterzogen um Silberdschinn zu erschaffen. Sie taten dies, dass sie indem sie die größte Schwäche der Wesen vom Anderen Ort überkämen ein ultimatives Wesen erschaffen könnten, dass alle ihre Feinde für sie besiegen und klein halte könne. Die meisten der Wesen die solchen Versuchen unterzogen wurden starben oder wurden verstümmelt. Einige sind ohne bleibende Schäden davongekommen. Aber nur die allerwenigsten haben etwas dabei gelernt. Diese wenigen sind die Silberdschinn. Irgendetwas hat sie befähigt das Silber für sich zu akzeptieren und sogar in ihrer Magie zu nutzen. 
+Ihre Fähigkeiten erlauben es ihnen Silber, aber auch Eisen und Stahl zu nutzen. Sie können aber niemals ein Metall für ihren Zweck erschaffen, sondern müssen dies immer aus ihrer Umgebung beziehen.
+Ihre Fähigkeiten Silber zu manipulieren haben ihnen eine ungewöhnlich starke Resistenz gegen gewöhnliche Magie verliehen, joch ihre Fähigkeiten im Umgang mit Magie auch deutlich geschwächt. Silberdschinn können von den allgemeinen Zaubern nur noch Verwandlung und Schlag zaubern. Alle anderen Zauber können für je 3/4 GP einzeln erlernt werden.
+Auf Grund ihrer Vergangenheit und ihrer besonderen Natur wird Silberdschinn von anderen Wesen vom Anderen Ort mehr Respekt und Verständnis entgegengebracht als üblich. Vertrauen sollte man darauf aber besser nicht, da die Aufgaben die ihnen gestellt werden selten Platz für die persönlichen Gefühle der beschworenen Wesen lassen.
+Die Namen der wenigen Silberdschinn die erfolgreich erschaffen wurden sind größtenteils verschwunden, aber ab und an taucht hier und da mal wieder einer auf. Auch wenn die üblichen Grimoire der heutigen Zeit sie selten listen, gelangen sie hin und wieder in die Hände neugieriger Zauberer. Da fast keiner von ihnen mit den Fähigkeiten von Silberdschinn wirklich vertraut ist, werden sie für alle möglichen Zwecke eingesetzt um herauszufinden was passiert. Es ist folglich schwer vorher zusehen für welche Aufgabe ein Silberdschinn beschworen wird.
+Die Anzahl an Silberchips die ein Silberdschinn besitzt ist abhängig von seiner Magieresistenz und seinem Level. Bei den Magieresistenzwerten 40, 60, 70 und dann alle 10 erhält er einen Silberchip. Es kann jedoch maximal ein Chip auf Level 1, 2 Chips auf Level 3 und dann alle 2 Level ein weiterer Chip besessen werden. Silberchips sind keine physischen Objekte, es kann dem Spieler aber helfen sich tatsächliche Münzen zu Recht zu legen. 
+Aura des Silberstaubes
+
+Voraussetzungen:
+	Silber
+	Hohe Silbermagie
+	MG: 36
+	IN: 29
+	MR: 52
+Durch den Zauber schweben viele Späne um den Zaubernden in der Luft.
+Die Späne können je nach Verfügbarkeit aus Eisen oder Silber bestehen. Sie müssen vor Beginn des Zaubers wirklich als Späne vorliegen, nicht als Metallblock. Um einen voll ausgeprägten Zauber zu erschaffen werden etwa 20 Gramm feine Späne benötigt.
+Die Späne in der Luft Schädigen alle die sich in den Einflussbereich des Zaubers begeben. Silberspäne fügen allen im Einflussbereich des Zaubers jede Kampfrunde 1,5 MTP Schaden zu. Eisenspäne fügen MTP/2 Punkte Schaden zu. Bei Silberspänen werden zudem alle Aktionen von Betroffenen um 5 erschwert.
+Zauber die den Bereich der Späne durchqueren werden bei Eisenspänen um 1 Schadenspunkt geschwächt, bei Silberspänen um 6.
+Der Einflussbereich des Zaubers beträgt MTP/3 Meter.
+Wesen die sich im Einflussbereich des Zaubers befinden und ein Schutzschild haben erleiden trotzdem die vollen Auswirkungen. Nur ein Dichtes Schild kann Eisenspäne abhalten. Silberspäne ignorieren auch dichte Schilde und fügen zudem jedem Schild im Einflussbereich 6 Punkte Schaden zu. 
+Um den Zauber aufrecht zu erhalten muss jede Runde 14 ZWZ, ohne Übergangszeit, und 8 MP aufgewendet werden.
+	Dauer: 39/14
+	Kosten: 14/8
+ 
+Fliegende Untertasse
+Voraussetzungen:
+	Silber
+	MG: 37
+	WK: 29
+	MR: 32
+	IN: 0/45
+Der Zauber lässt ein Stück Eisen oder Silber durch die Luft fliegen. 
+Die Flugbahn des bewegten Objekts kann vom Zaubernden frei gewählt werden, er muss es aber den Großteil der Bahn sehen können. Nur mit einer IN über 45 ist ein ‘Blindflug‘ möglich. Es ist sinnvoll einfach das nächste Ziel des gesteuerten Objektes zu nennen, wenn keine besondere Taktik verfolgt wird.
+Derart gesteuerte Objekte dürfen eine Masse von maximal 10 WK Gramm besitzen. Objekte unter 20 Gramm können nicht den vollen Schaden entfalten, dafür ist das Ausweichen vor solchen, schnelleren, Objekten um 10 erschwert.
+Das gewählte Objekt kann sich in einem Radius von MTP Metern um den Zaubernden bewegen. Außerhalb dieses Radius kann der Zaubernde keinerlei Kontrolle auf das Objekt ausüben.
+Um das Objekt reglos in der Luft zu halten ist eine rundliche Aufwendung von 4 ZWZ, ohne Übergangszeit, und 2 MP notwendig. Auf einer festen Bahn erhöht sich die notwendige Aufwendung auf 9 ZWZ, ohne Übergangszeit, und 4 MP. 
+Wird das Objekt genutzt um Angriffe durchzuführen so ist für jeden Angriff eine Dauer von 18 ZWZ und 5 MP benötigt. Ein erfolgreicher Angriff fügt MTP Punkte Schaden zu. Dazu kommen Auswirkungen die durch das Material hervorgerufen werden. Eiserne Objekte fügen MTP/2 Punkte zusätzlichen Schaden zu. Kleine eiserne Objekte fügen MTP/4 Punkte zusätzlichen Schaden zu. Silberne Objekte fügen 2 MTP Punkte zusätzlichen Schaden zu. Kleine silberne Objekte fügen MTP Punkte zusätzlichen Schaden zu. Bei Objekten die für gezielte Angriffe verwendet werden fallen keine zusätzlichen Kosten für statisches Schweben an. Angriffe mit Fliegende Untertasse müssen gezielt werden.
+Besitzt das Ziel eines Angriffs ein Schild so hat dies keine Konsequenzen für den Angriff sofern das gesteuerte Objekt aus Silber ist. Der Schaden wird trotzdem in voller Höhe dem Ziel zugefügt.
+Es ist möglich den Zauber auf mehrere Objekte gleichzeitig anzuwenden, die getrennt voneinander Agieren, diese können aber nur nach einander gezielt manipuliert werden.
+	Dauer: 4/9/18
+	Kosten: 2/4/5 
+
+Formen
+Voraussetzungen:
+	Silber
+	MG: 34
+	ERF: 34
+	IN: 27
+Der Zauber ermöglicht es dem Zaubernden einen Eisen-/ oder Silberblock frei zu formen. 
+Das durch den Zauber beeinflusste Eisen oder Silber muss zusammenhängend sein und darf eine Masse von maximal MTP Kilogramm bei Eisen und MTP/5 Kilogramm bei Silber besitzen.
+Die für den Zauber benötigte Dauer steigt enorm an, wenn eine besonders filigrane, ästhetische oder komplexe Struktur erzeugt werden soll. Die angegebene Dauer ist für eine sehr einfache Manipulation wie längen, stauchen oder weiten angegeben.
+	Dauer: 29
+	Kosten: 5/ 5 pro Minute
+ 
+Fügen/Zerspanen
+Voraussetzungen:
+	Silber
+	MG: 21
+	WK: 32
+Der Zauber fügt entweder Eisen-/ oder Silberspäne zusammen oder zerlegt ein Stück Metall in viele feine Späne.
+Die manipulierte Gesamtmasse darf nicht über MTP/3 Kilogramm Eisen oder 10 WK Gramm Silber liegen. Außerdem darf sich die manipulierte Masse nicht außerhalb eines Radius von MTP/2 Metern um den Zaubernden herum befinden.
+	Dauer: 38
+	Kosten: 7 
+
+Schutz vor Eisen
+Voraussetzungen:
+	Silber
+	MG:  16/24/32/40/48
+	ERF: 19/26/33/40/47
+	MK:  18/25/32/39/46
+	MR:  20/28/36/44/52
+	LV:    0 /0  /0  /3  /3
+Der Zauber erhöht die Eisenresitenz des Zieles um 10%. 
+Der Zauber kann auch auf andere Personen als den Zaubernden gewirkt werden, wenn der Zaubernde die Person berührt.
+Um den Schutz um 10 weitere Prozent zu erhöhen müssen die jeweils nächsten Voraussetzungen erfüllt werden. Die Resistenz kann nicht über 80% steigen.
+Die Resistenz bleibt für 3 MTP Minuten bestehen.
+	Dauer: 14
+	Kosten: 2
+ 
+Schutz vor Eisen II
+Voraussetzungen:
+	Silber
+	MG:  24/32/40/46/52/57/61
+	ERF: 27/34/41/47/53/58/62
+	MK:  25/32/39/45/51/56/60
+	MR:  26/34/42/49/56/62/68
+	LV:    0 /0  /3  /3  /5  /5  /7
+Der Zauber erhöht die Eisenresitenz des Zieles um 10%. 
+Der Zauber kann auch auf andere Personen als den Zaubernden gewirkt werden, wenn der Zaubernde die Person berührt.
+Um den Schutz um 10 weitere Prozent zu erhöhen müssen die jeweils nächsten Voraussetzungen erfüllt werden. Die Resistenz kann nicht über 90% steigen.
+Die Resistenz bleibt für 5 MTP Minuten bestehen.
+	Dauer: 12
+	Kosten: 2
+	Vertiefungskosten: 2/3
+ 
+Schutz vor Silber
+Voraussetzungen:
+	Silber
+	MG:  22/32/42/50/57
+	ERF: 21/28/34/39/43
+	MK:  24/32/39/45/50
+MR:  27/35/43/51/59
+	LV:    0 /0  /3  /3  /5
+Der Zauber erhöht die Silberresidenz des Zieles um 10%. 
+Der Zauber kann auch auf andere Personen als den Zaubernden gewirkt werden, wenn der Zaubernde die Person berührt.
+Um den Schutz um 10 weitere Prozent zu erhöhen müssen die jeweils nächsten Voraussetzungen erfüllt werden. Die Resistenz kann nicht über 80% steigen.
+Die Resistenz bleibt für 3 MTP Minuten bestehen.
+	Dauer: 21
+	Kosten: 3
+ 
+Silber anziehen/abstoßen
+Voraussetzungen:
+	Silber
+	MG: 24
+	ERF: 32
+	WK: 36
+Wie ein Magnet zieht der Zauber Silber und Eisen zum Zaubernden an oder stößt es ab. Das so angezogene Material trifft den Zaubernden aber nicht sondern kommt kurz vor dem Zaubernden zum Stehen und fällt dort zu Boden.
+Wird das Material abgestoßen fliegt es mit gleicher Geschwindigkeit weiter, beginnt aber langsamer zu werden und eventuell zu Boden zu fallen.
+Der Zauber wirkt auf alles Material in einem Radius von MTP Metern um den Zaubernden.
+Es muss vor dem Wirken des Zaubers entschieden werden ob Eisen oder Silber betroffen werden soll und ob das Material angezogen oder abgestoßen wird.
+	Dauer: 16
+	Kosten: 6
+ 
+Silberwind
+Voraussetzungen:
+	Silber
+	Hohe Silbermagie
+MG: 46
+	ERF:45
+	LV: 3
+Der Zauber erschafft einen Windzug in welchem sich Silberspäne befinden. 
+Silberwind kann auch in geschlossenen Räumen gewirkt werden. Der Zauber kann bei stärkeren natürlichen Winden verweht werden, was den Effekt schwächt, verteilt oder aufhebt, je nach Windstärke und Windrichtung. 
+Um Silberwind durchführen zu können müssen die verwendeten Silberspäne bereits vorhanden sein. Der Zauber bedarf mindestens 20 Gramm Silberspäne. 
+Der durch Silberwind erschaffene Windkanal hat einen Durchmesser von MTP/4 Metern und breitet sich vom Zaubernden in eine beliebige Richtung MTP Meter lang aus. 
+Alle die sich in diesem Kamal befinden werden getroffen und erleiden 20 Punkte Schaden. 
+Silberwind muss gezielt werden. Die Zielen-Probe ist um 20 Punkte erleichtert.
+Kein Schutzschild kann etwas gegen die Silberspäne tun.
+	Dauer: 55	
+	Kosten: 26
+
+Silber Zähmen
+Voraussetzungen:
+	Silber
+	MG: 16
+	WK: 22
+	ERF: 18
+Der Zauber ermöglicht es dem Zaubernden das Stück Silber, das das Ziel des Zaubers ist zu berühren ohne dadurch Schaden zu erleiden.
+Die Auswirkungen des Zaubers gelten nur für den Zaubernden, alle anderen Wesen vom Anderen Ort erleiden durch das betroffene Stück Silber weiterhin normal Schaden.
+Um den Zauber aufrecht zu halten bedarf es eines konstanten Einsatzes von 3 ZWZ. Dazu kommen kosten von 1 MP pro Stunde außerhalb des Kampfes und 1 MP pro 3 Kampfrunden innerhalb des Kampfes.
+Der Zauber kann maximal auf WK/20 Stücke Silber mit einer maximalen Masse von je 10WK g gewirkt werden.
+	Dauer: 12/3
+	Kosten: 2/(1) 
+	
+Trabant
+Voraussetzungen:
+	Silber
+	MG: 28/48
+	WK: 24/38
+	MR: 36/56
+	KL:  26/48
+	LV:   0  /5
+Der Zauber lässt ein Stück Silber oder Eisen auf einer sich ständig verändernden Bahn schnell um den Zaubernden kreisen.
+Der Trabant dient zum Schutz, da er zum einen Gegner im Nahkampf verletzen kann und zum anderen magische Angriffe auf den Zaubernden abschwächen kann.
+Werden die höheren Anforderungen erfüllt kann mit dem Zauber sogar ein zweiter Trabant gleichzeitig verwendet werden. Dies sorgt für eine bessere Abdeckung des Zaubernden und macht es schwieriger für Angreifer eine Lücke zu finden.
+Magische Angriffe auf den Zaubernden werden bei einem Trabanten mit 20%iger Wahrscheinlichkeit geschwächt. Bei zwei Trabanten erhöht sich diese Wahrscheinlichkeit auf 40%. Trifft ein Trabant aus Silber auf einen Zauber reduziert er dessen Wirkung um 30%, oder maximal 15 Punkte Schaden. Ein Trabant aus Eisen kann die Wirkung eines Zaubers nur um 10% oder 5 Punkte Schaden reduzieren.
+Im Nahkampf macht der Trabant es anderen Schwierig den Zaubernden anzugreifen ohne selbst vom Trabanten getroffen zu werden. Um eine Lücke zu finden die einen solchen Angriff ermöglicht ist eine um 10 erleichterte Wahrnehmungs-Probe (WAH) notwendig. Misslingt die Probe besteht eine 30%ige Wahrscheinlichkeit dass der Angreifer vom Trabanten getroffen wird und selbst Schaden erleidet. Durch einen zweiten Trabanten wird die Wahrnehmungsprobe (WAH) schwieriger sodass sie ohne Erleichterung durchgeführt werden muss. Scheitert die Probe steigt die Wahrscheinlichkeit getroffen zu werden auf 60% an.  Bei einem Trabanten aus Silber liegt der bei einem Treffer erlittene Schaden bei 20 Punkten. Ein Trabant aus Eisen fügt lediglich MTP/2 Punkte Schaden zu.
+Führt der Zaubernde selbst einen Nahkampfangriff aus, so besteht eine 20%ige Wahrscheinlichkeit das Ziel des Nahkampfangriffs zu treffen. Bei zwei Trabanten steigt die Trefferwahrscheinlichkeit auf 40%.
+Um den Trabanten sicher zu entgehen wir die Parade um 15 beziehungsweise um 30 bei zwei Trabanten erschwert. Wird diese Erschwernis hingenommen kann den Trabanten sicher entgangen werden.
+Um den Zauber zu starten muss jeder Trabant durch ein eigenes wirken des Zaubers initiiert werden. Um den Zauber nun aufrecht zu erhalten muss jede Runde 8 ZWZ, ohne Übergangszeit, und 3 MP für einen oder 12 ZWZ, ohne Übergangszeit, und 5 MP für zwei Trabanten aufgebracht werden.
+Schutzschilde werden von silbernen Trabanten ignoriert.
+	Dauer: 28 / 8/12
+	Kosten:7 / 3/5
+ 
+Trabant II
+Voraussetzungen:
+	Silber
+	Gabe Hohe Silbermagie oder Vertiefung
+	MG: 34/50/62
+	WK: 21/34/45
+	MR: 36/50/60
+	KL:  32/44/56
+	LV:   3  /5  /7
+Der Zauber lässt ein Stück Silber oder Eisen auf einer sich ständig verändernden Bahn schnell um den Zaubernden kreisen.
+Wird Trabant II beherrscht kann Trabant I nicht verwendet werden!
+Der Trabant dient zum Schutz, da er zum einen Gegner im Nahkampf verletzen kann und zum anderen magische Angriffe auf den Zaubernden abschwächen kann.
+Werden die höheren Anforderungen erfüllt kann mit dem Zauber sogar ein zweiter oder dritter Trabant gleichzeitig verwendet werden. Dies sorgt für eine bessere Abdeckung des Zaubernden und macht es schwieriger für Angreifer eine Lücke zu finden.
+Magische Angriffe auf den Zaubernden werden bei einem Trabanten mit 20%iger Wahrscheinlichkeit geschwächt. Bei zwei Trabanten erhöht sich diese Wahrscheinlichkeit auf 40%, bei einem dritten auf 60%. Trifft ein Trabant aus Silber auf einen Zauber reduziert er dessen Wirkung um 30%, oder maximal 15 Punkte Schaden. Ein Trabant aus Eisen kann die Wirkung eines Zaubers nur um 10% oder 5 Punkte Schaden reduzieren.
+Im Nahkampf macht der Trabant es anderen Schwierig den Zaubernden anzugreifen ohne selbst vom Trabanten getroffen zu werden. Um eine Lücke zu finden die einen solchen Angriff ermöglicht ist eine um 10 erleichterte Wahrnehmungs-Probe (WAH) notwendig. Misslingt die Probe besteht eine 30%ige Wahrscheinlichkeit dass der Angreifer vom Trabanten getroffen wird und selbst Schaden erleidet. Durch einen zweiten Trabanten wird die Wahrnehmungsprobe (WAH) schwieriger sodass sie ohne Erleichterung durchgeführt werden muss. Scheitert die Probe steigt die Wahrscheinlichkeit getroffen zu werden auf 60% an. Durch einen dritten Trabanten wird die Situation für Nahkämpfer noch unangenehmer. Die Wahrnehmungsprobe um eine Lücke zu finden ist um 15 erschwert und die Wahrscheinlichkeit bei einem Misserfolg getroffen zu werden steigt auf 90% an. Bei einem Trabanten aus Silber liegt der bei einem Treffer erlittene Schaden bei 20 Punkten. Ein Trabant aus Eisen fügt lediglich MTP/2 Punkte Schaden zu.
+Führt der Zaubernde selbst einen Nahkampfangriff aus, so besteht eine 20%ige Wahrscheinlichkeit das Ziel des Nahkampfangriffs zu treffen. Bei zwei Trabanten steigt die Trefferwahrscheinlichkeit auf 40%, bei einem dritten auf 60%.
+Um den Trabanten sicher zu entgehen wir die Parade um 15, beziehungsweise um 30 bei zwei und um 45 bei drei, Trabanten erschwert. Wird diese Erschwernis hingenommen kann den Trabanten sicher entgangen werden.
+Um den Zauber zu starten muss jeder Trabant durch ein eigenes wirken des Zaubers initiiert werden. Um den Zauber nun aufrecht zu erhalten muss jede Runde 6 ZWZ, ohne Übergangszeit, und 2 MP für einen oder 10 ZWZ, ohne Übergangszeit, und 4 MP für zwei oder 13 ZWZ, ohne Übergangszeit und 5 MP für drei Trabanten aufgebracht werden.
+Schutzschilde werden von silbernen Trabanten ignoriert.
+	Dauer: 16 / 6/10/13
+	Kosten: 6 /  2/4/5
+	Vertiefungskosten: 5/7
+

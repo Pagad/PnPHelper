@@ -1,0 +1,604 @@
+Totendschinn
+Totendschinn wurden viel mit der Versorgung der Toten und ihrer Leichen beauftragt. Sie sollten die Seelen auf die andere Seite bringen und sich dort noch eine Weile um sie kümmern bis die dort herrschenden Kräfte sich ihrer annehmen. 
+Die Körper sollten entsprechend der Traditionen und Rieten versorgt und für die Ewigkeit bereitgemacht werden. Das war vor allem bei den Ägyptern eine umfangreihe Aufgabe in die viel Arbeit und viele Rohstoffe flossen.
+Totendschinn wurden auch gerne als Grabwächter mächtiger Zauberer beschworen worden. Meist von den Zauberern selbst; um sicher zu stellen das keine der Dinge die Sie mit ins Totenreich nehmen wollen entwendet werden.
+Durch ihre Rolle ist es wenig verwunderlich, dass die Totendschinn sich mit Verwesungsgestank umgeben und sich auf magische Weise insektische Diener rufen können, die für einige der Präparationsschritte hilfreich waren und an den meisten Verwesungsprozessen beteiligt sind.
+Trotz ihres nicht selten abstoßenden äußeren besitzen viele Totendschinn eine sehr barherzige Seite die es ihnen erlaubt den Verstorbenen Frieden zu schenken und sie auf die andere Seite zu entlassen.
+Dass sich die Kampffertigkeiten der Totendschinn vor allem auf den Nahkampf spezialisiert haben liegt zu einen an dem beengten Umfeld in dem sie einige Tätigkeiten verrichteten, auch als Totenwachen. Jedoch auch an der Direktheit und Verbundenheit die einer Berührung einhergeht. So entwickelten die Totendschinn einen einzigartigen Stil in dem sich Nahkampf und Magie zu einer gefährlichen, schnellen, vielseitigen und beschützenden Kombination vermischten.
+Die Vertiefungen von Schutzhand können beide erworben werden, es kann jedoch immer nur eine Version des Zaubers verwendet werden.
+
+Blitzhand (MNK)
+Voraussetzungen:
+	Tot
+	MG: 23
+	WK: 39
+	MR: 22
+Mit dem Treffer wird das Ziel von einer magischen Entladung durchdrungen. Diese stört den Fluss der Magie im Ziel des Zaubers.
+Daher muss dieses für jeden aktiven, also aufrechtgehaltenen oder über mehrere Runden gewirkten Zauber, eine um 20 erschwerte Probe auf MAT machen. Scheitert die Probe wird der Zauber unterbrochen. 
+Zudem muss das Ziel des Zaubers eine MR-Probe machen. Scheitert diese ist es für MTP ZWZ nicht in der Lage Zauber zu wirken. Magieparaden sind für diesen Zeitraum um MTP erschwert.
+Durch die mehrfache Anwendung dieses Zaubers auf ein Ziel verlängert sich nicht die Dauer in der dieses nicht zaubern kann, die Zauber aufrecht zu erhalten wird jedoch jedes Mal aufs Neue herausgefordert. 
+	Kosten: 5 
+
+Die tausend Hände des Zerstörers (MNK)
+Voraussetzungen:
+	Tod
+	MG: 46
+	GE:58
+	WK: 44
+	WAH: 38
+	LV: 5
+Jedes Mal wenn der magische Nahkampfangriff erfolgreich durchgeführt wird darf der Zaubernde ein weiteres Mal angreifen. 
+Mit jedem Treffer erhöht sich der Schaden den der Angriff zufügt. In der ersten Runde fügt der Zauber einen zusätzlichen Punkte Schaden zu. Der durch den Zauber zusätzlich zugefügte Schaden verdoppelt sich jede Runde. (1, 2, 4, 8, 16, 32, 64, 128, …)
+Kosten: 24
+
+
+Die Tausend Hände des Zerstörers II (MNK)
+Voraussetzungen:
+	Tod
+	MG: 62
+	GE:68
+	WK: 58
+	WAH: 43
+	ERF: 46
+	LV: 7
+Jedes Mal wenn der magische Nahkampfangriff erfolgreich durchgeführt wird darf der Zaubernde ein weiteres Mal angreifen. 
+Mit jedem Treffer erhöht sich der Schaden den der Angriff zufügt. In der ersten Runde fügt der Zauber zwei zusätzliche Punkte Schaden zu. Der durch den Zauber zusätzlich zugefügte Schaden verdoppelt sich jede Runde. (2, 4, 8, 16, 32, 64, 128, …)
+	Kosten: 18
+	Vertiefungskosten: 5/7 
+	
+
+Die tausend Hände des Zerstörers 
+Voraussetzungen:
+	Tod
+	MG: 46
+	GE:58
+	WK: 54
+	KO: 42
+	ERF: 44
+	LV: 5
+Der Zauber verändert die Gestalt des zaubernden, so dass sie eine große Menge an Armen aufweist. Jeder der Arme darf nun etwa gleichzeitig einen Angriff durchführen. 
+Das heißt, dass sich alle Ziele der Angriffe beim wirken des Zaubers in Nahkampfreichweite sein müssen und das zu Beginn des Zaubers die Angriffe Aufgeteilt werden müssen. Es dürfen auch Ziele die hinter dem zaubernden Liegen angegriffen werden. Für die Angriffe auf diese Ziele ist der Angriff um 10 erschwert.
+Die Menge der durch den Zauber gerufenen Arme liegt bei MTP- Anzahl der bereits vorhandene Arme.
+Nach dem Zauber bilden sich die zusätzlichen Arme wieder zurück. Dies und die Erschöpfung in die der Zauber den Zaubernden versetzt führt dazu, dass der Zaubernde nach dem Angriff für (MTP/2-1)*5 ZWZ außer Gefecht gesetzt ist und selbst (MTP/2-1)*2 Punkte Schaden erleidet.
+Die Angriffe der Arme können erst ab einem MG von 68 und einer KO von 54 magisch unterstützt werden.
+	Dauer: 67
+	Kosten: 38
+
+
+ 
+Dunkelhand (MNK)
+Voraussetzungen:
+	Tod
+	MG: 36
+	IN: 41
+	GE: 38
+Der Zauber hüllt die angreifende Extremität des Zaubernden in Schatten, sodass diese schwerer gesehen werden kann. 
+Dadurch wird die Parade gegen den Angriff um MTP+3 erschwert. Außerdem richtet der Angriff MTP/2 Punkte zusätzlichen Schaden an und hat, wenn er nicht pariert wird eine 10%ige Wahrscheinlichkeit doppelten Schaden anzurichten. Gelingt dies wird auch der magische Schaden verdoppelt. Besitzt der Angreifer die Meucheln Gabe steigt die Wahrscheinlichkeit doppelten Schaden anzurichten auf 25% an.
+	Kosten: 5
+
+
+Dunkelhand II (MNK)
+Voraussetzungen:
+	Tod
+	MG: 44
+	WK: 36
+	IN: 48
+	GE: 53
+	LV: 3
+Durch die Vertiefung wird der Zauber schwerer zu parieren und hat eine höhere Chance doppelten Schaden anzurichten.
+Die Parade gegen den Angriff wird nun um 1,5 MTP+5 erschwert.
+Wird der Angriff nicht pariert besteht eine 20%ige Wahrscheinlichkeit doppelten Schaden anzurichten. Durch die Meucheln Gabe steigt die Wahrscheinlichkeit für doppelten Schaden sogar auf 40% an.
+	Kosten: 5
+	Vertiefungskosten: 4/6 
+
+Entwaffnende Hand (MNK)
+Voraussetzungen:
+	Tod
+	WK: 38
+	KL: 32
+	GE: 26
+Der Zauber vergiftet den Getroffenen so, dass seine Fähigkeit anzugreifen und Schaden zuzufügen sinkt. 
+Dies macht sich in einem Absinken von AT und MAT um (WK+KL)/10 +1W6 und einem Absinken von TP und MTP um (WK+KL)/ 40 deutlich. Der Zauber kann zwei Mal an einem Ziel seine Wirkung entfalten, danach kann die Wirkung nicht mehr gesteigert werden.
+Möchte sich das Ziel des Zaubers von der Wirkung des Zaubers befreien kann es eine Probe auf (KL+ WK +ERF)/3 machen. Hat die Probe Erfolg wird die Wirkung des Zaubers aufgehoben. Die Probe darf das erste Mal am Ende der Runde gemacht werden in der der Zauber das zweite Mal wirkt. Die Probe dauert 10 AU, ZWZ oder MNK, je nachdem welcher der Werte vorher zuletzt verwendet wurde. Wurde der Zauber mehrfach angewendet müssen die Anwendungen einzeln aufgehoben werden.
+Der mit dem Zauber verbundene Angriff richtet zudem die üblichen TP Punkte Schaden eines Nahkampfangriffs an.
+	Kosten: 6 
+
+Fäulnis
+Voraussetzungen:
+	Art: Tod
+	MG: 40
+	ERF:30
+	LV: 5
+Der Zauber lässt den Körper des Verzauberten, von der Stelle der Berührung ausgehend verwesen. Dieser Prozess setzt sich fort bis der Körper des Betroffenen entweder komplett verwest ist oder geheilt wird. 
+Fäulnis muss als Zauber mit 40 ZWZ vorbereitet werden und kann dann durch Berührung, beispielsweise durch einen erfolgreichen Nahkampfangriff, Aktiviert werden. Die Aktivierung kann nicht mit einem MNK-Zauber verbunden werden und erfordert weitere 10 ZWZ. Erst bei der Aktivierung wird die MAT-Probe durchgeführt um zu prüfen ob der Zauber erfolgreich ist.
+Setzt die Verwesung ein richtet sie während einer Kampfrunde 0,2 MTP Schaden an. Außerhalb des Kampfes, wenn der Verfaulende Ruhe hat, schreitet die Verwesung langsamer voran. Sie richtet dann nur 1 MTP pro 10 Minuten an. 
+Zu Beginn des Zaubers bedeckt die Verwesung eine Fläche von etwa MTP/2 cm² wobei sehr kleine Gestalten mit weniger Fläche betroffen werden. Es dauert mindesten 2 Spielrunden eine Gestalt völlig zu bedecken. Danach breitet sich die Verwesung mit MTP/2 Kubikzentimeter pro Kampfrunde, oder pro 2 Minuten außerhalb des Kampfes, weiter aus
+Sollte die Verwesung ausgebrannt oder Abgeschnitten werden besteht eine 50%ige Gefahr der Wiederansteckung. Der Prozess des Entfernens der Verwesung richtet Schaden nach Ermessen des Spielleiters an.
+	Dauer: 40/10
+	Kosten: 25
+ 
+Fluch
+Voraussetzungen:
+Tod
+	MG: 22
+	ERF:38
+IN: 28
+Dieser Zauber ist sehr aufwendig und erfordert ein Ritual, dass ganz nach Präferenz des Zaubernden gestaltet sein kann. Mysteriöses und magisches Rumfuchteln, Voodoo, oder Regentanz ähnliche Rituale bis hin zu aufwändigen Opferungen decken nur ein kleines Spektrum dessen ab was Todesmagier alles vollbringen um jemanden zu verfluchen.
+Der Zauber kann sowohl auf Distanz als auch bei Kontakt ausgeführt werden. Dabei sollten Ausführungen die auf Distanz wirken aufwendiger und umfangreicher sein als Ausführungen die den direkten Kontakt erfordern. Auf jeden Fall muss der Verfluchende einen Kontakt zu Ziel herstellen. Dazu sind persönliche Gegenstände sehr gut geeignet. Andernfalls sollte der Verfluchende das Ziel mindestens persönlich kenn um einen erfolgreichen Fluch durchführen zu können. 
+Jeder Totendschinn sollte sich auf eine oder höchstens zwei Varianten des Zaubers festlegen, die er immer verwendet. 
+Je nach für die Ausführung betriebenem Aufwand sollte auch die Effizienz des Zaubers variieren. Der Zauber wirkt indem das Opfer des Zaubers Pech hat. Häufigkeit und Intensität des Pechs sind vom Spielleiter fest zu legen. Eine mögliche Umsetzung ist es den Patzerbereich für den Verfluchten zu vergrößern. Eine andere manche Würfe zu erschweren. Am schönstes ist es natürlich wenn die Auswirkungen des Zaubers rollenspielerisch umgesetzt werden. 
+Und eins noch: der Zauber tritt natürlich immer dann zutage wenn es einem am wenigsten passt.
+	Dauer: mind. 50
+	Kosten: 10
+ 
+Freundschutz
+Voraussetzungen:
+	Tot
+	MG: 26
+	REA: 47
+	IN: 43
+	GE: 38
+	KO: 26
+Der Zaubernde kann defensive Aktionen für das Ziel des Zaubers durchführen als wenn er selbst das Ziel des Zaubers wäre.
+Das Ziel des Zaubers darf während des Zauberns und während des Verteidigens nicht weiter als MTP/3 Meter vom Zaubernden entfernt sein.
+Der Zauber wirkt für eine Kampfrunde.
+	Dauer: 7
+	Kosten: 3
+Die Vertiefungen des Zaubers wirken additiv.
+
+Freundschutz IIa
+Voraussetzungen:
+	Tot
+	MG: 46
+	REA: 57
+	IN: 53
+	GE: 44
+	KO: 35
+	LV: 3
+Durch die Vertiefung können bis zu MTP/5 unterschiedliche Wesen Ziel des Zaubers werden. Jedes Ziel muss einzeln bezaubert werden.
+	Dauer: 7
+	Kosten: 3
+	Vertiefungskosten: 4/6
+
+Freundschutz IIb
+Voraussetzungen:
+	Tot
+	MG: 34
+	REA: 47
+	IN: 56
+	GE: 46
+	KO: 26
+Durch die Vertiefung erhöht sich die Reichweite des Zaubers auf bis zu MTP/2 Meter.
+	Dauer: 7
+	Kosten: 3
+	Vertiefungskosten: 2/3
+
+Freundschutz IIc
+Voraussetzungen:
+	Tot
+	MG: 41
+	REA: 53
+	IN: 46
+	GE: 40
+	KO: 28
+Durch die Vertiefung erhöhen sich Geschwindigkeit und Effizienz des Zaubers.
+	Dauer: 5
+	Kosten: 2
+	Vertiefungskosten: 4/6
+
+Freundschutz III
+Voraussetzungen:
+	Tot
+	Freundschutz IIa +IIb +IIc
+	MG: 55
+	REA: 64
+	IN: 63
+	GE: 54
+	KO: 44
+	LV: 5
+Die Vertiefung führt die Vorteile der Vorhergehenden Vertiefungen zusammen und verstärkt sie.
+Durch die Vertiefung können bis zu MTP/4 unterschiedliche Wesen mit einem Wirken Ziel des Zaubers werden. 
+Jedes Ziel kann beim Zaubern bis zu 2 MTP Meter entfernt sein, defensive Aktionen können aber nur für Wesen durchgeführt werden die nicht weiter als MTP/2 Meter weit entfernt sind.
+n ist die Anzahl der Ziele des Zaubers.
+	Dauer: 4 *n
+	Kosten: 1 *n
+	Vertiefungskosten: 7/10
+
+
+ 
+Geistbrechende Hand (MNK)
+Voraussetzungen:
+	Tod
+	MG: 24
+	KL: 36
+	WK: 42
+Der Zauber stört den Geist des Ziels durch eine magische Schockwelle. 
+Dies wird durch ein absinken von MAT, MPA, MG, KL, WK, MG und IN um (WK+KL)/10+1W6 und einem Absinken von MTP und MPAW um (WK+KL)/20. Die sinkenden Attribute müssen nicht auf die Talente umgerechnet werden. Der Zauber kann nur einmal gleichzeitig bei einem Ziel seine Wirkung entfalten. 
+Der Geist des Ziels wird nach einer erfolgreichen Probe auf eines der gesenkten Attribute (KL+ WK+ERF)/3 wieder klar. Die Probe darf das erste Mal am Ende der Runde gemacht werden in dem der Zauber das zweite Mal wirkt. Die Probe dauert 10 AU, ZWZ oder MNK, je nachdem welcher der Werte vorher zuletzt verwendet wurde.
+	Kosten: 7
+ 
+Gewebe Zerreißen (MNK)
+Voraussetzungen:
+	Tod
+	MG: 38/54
+	GE: 36/ 48
+KL: 38	
+	KK: 28
+Der Zauber umgibt die Hand des Zaubernden mit einer magischen Schicht, die organisches Gewebe zerfetzt. Der Zauber wurde ursprünglich verwendet um Leichen ordentlich aufzuschneiden. Im Laufe der Zeit hat sich die Anwendung aber etwas verwaschen, sodass Anwender mit einer MG unter 54 oder einer FF unter 48 keine sauberen Schnitte zufügen.
+Der Angriff mit Gewebe Zerreißen fügt zusätzlich zum physischen Angriff, MTP Punkte Schaden zu. Anwender mit einer MG über 54 und einer FF über 48 fügen zudem 1W6 Punkte extraschaden zu.
+	Kosten: 6
+
+Gewebe Zerreißen II (MNK)
+Voraussetzungen:
+	Tod
+	MG: 44/60
+	GE: 43/ 51
+KL: 43	
+	KK: 33
+Durch die vertiefte Beschäftigung mit dem Zauber kann die Wirkungsfläche des Zaubers vergrößert und damit der angerichtete Schaden erhöht werden.
+Der Angriff mit Gewebe Zerreißen fügt nun zusätzlich zum physischen Angriff, 1,5 MTP Punkte Schaden zu. Anwender mit einer MG über 60 und einer FF über 51 fügen zudem 2W6 Punkte extraschaden zu.
+	Kosten: 8
+	Vertiefungskosten: 3/4
+ 
+Gifthand (MNK)
+Voraussetzungen:
+	Tod
+	MG: 34
+	KL: 39
+	WK: 26
+	ERF: 34
+Gifthand vergiftet den getroffenen, sodass dieser Schaden erleidet. 
+Außerdem fügt der Angriff die normalen TP Punkte Nahkampfschaden zu.
+Das Gift fügt dem vergifteten für (WK+KL)/10 Runden jede Runde (WK+KL)/20 Punkte Schaden zu.
+	Kosten: 6 
+
+Giftige Aura
+Voraussetzungen:
+	Tod
+	MG: 32
+	WK: 46
+	KL: 26
+Vergiftet die Luft um den Zaubernden herum. ALLE in einem Radius von MTP/3 um den Zaubernden erleiden jede Runde MTP/6 Punkte Schaden.
+Um den Zauber aufrecht zu halten muss der Zaubernde jede Runde 3 ZWZ und 1 MP investieren.
+Totendschinn sind von dem Zauber nicht betroffen.
+	Dauer: 25 / 3
+	Kosten: 4 / 1
+	
+
+Giftige Aura II
+Voraussetzungen:
+	Tod
+	MG: 40
+	WK: 52
+	KL: 36
+Vergiftet die Luft um den Zaubernden herum. Alle in einem Radius von MTP/2 Metern um den Zaubernden herum erleiden jede Runde MTP/5 Punkte Schaden.
+Um den Zauber aufrecht zu halten muss der Zaubernde jede Runde 3 ZWZ und 1 MP investieren.
+Totendschinn sind von dem Zauber nicht betroffen.
+	Dauer: 13 / 3
+	Kosten: 3 / 1
+	Vertiefungskosten: 2/3
+
+ 
+Grabeshände
+Voraussetzungen: 
+Tod
+	MG: 20
+	ERF: 17
+An einer vom Zaubernden gewählten Stelle brechen etwa ein Dutzend Leichenhände aus dem Boden und greifen die Person, die das Ziel des Zaubers ist. Die Stelle an der die Hände aus dem Boden brechen darf maximal MTP Meter vom zaubernden entfernt sein. Der Griff richtet keinen Schaden an, aber setzt das Ziel fest. Da der Griff der Grabeshände extrem fest und unnachgiebig ist, ist es sogar durch eine Verwandlung schwierig zu entkommen. Sich los zu reißen oder sich in etwas zu verwandeln das von den Grabeshänden nicht gegriffen werden kann, erfordert eine Kraftprobe. Selbst wenn die Hände abgetrennt werden klammern sie sich weiter an dem Gegriffenen fast. Der Zauber wirkt solange er aufrecht gehalten wird. Dazu müssen jede Runde 5ZWZ, ohne Überganszeit, und 4MP aufgewendet werden.
+	Dauer: 20 / 5
+	Anhaltend: Bis zum auflösen des Zaubers
+	Kosten: 4 /3
+
+ 
+Hand der Ruhe
+Voraussetzungen:
+	Tot
+	MG: 24
+	IN: 36
+	CH: 28
+Indem der Zaubernde einen Verbündeten mit dem Zauber Berührt schenkt er diesem Frieden und kann dessen Ängste und Sorgen zur Ruhe kommen lassen.
+Das Ziel des Zaubers erhält einen Bonus von MTP auf die nächste MUT-Probe und von MTP/3 auf alle anderen Proben solange der Zauber wirkt.
+Der Zauber wirkt für MTP/4 Kampfrunden oder bis zu nächsten MUT-Probe des Zieles.
+	Dauer: 9
+	Kosten: 2
+  
+In den Abgrund blicken
+Voraussetzungen:
+	Tot
+	Gabe: Der Tiefe Strom
+	WK: 60
+	MUT: 45
+	LV: 3
+Das Ziel des Zaubers wird plötzlich von der Gewissheit jetzt sterben zu müssen überkommen.
+Solange bis dem Ziel des Zaubers eine MUT-Probe gelingt sind alle Aktionen um 1,5 MTP, des Zaubernden, erschwert. Die MUT-Probe kann ein Mal pro Kampfrunde durchgeführt werden und erfordert 10 AU.
+Ziele die das erste Mal von dem Zauber getroffen werden haben eine Erschwernis von 10 auf ihre MUT-Probe und erleiden einen auf 2,5 MTP gesteigerten Effekt durch den Zauber. Gelingt es ihnen jedoch die Situation/Konfrontation zu überleben erhalten sie einen permanenten +1 Bonus auf MUT.
+	Dauer: 36
+	Kosten: 4 
+
+Kontakt ins Totenreich
+Voraussetzungen:
+	Art: Tod
+	MG: 7
+	ERF: 6
+	IN:15
+Der Zaubernde ist vorübergehend in der Lage sich spirituell mit einem Geist zu unterhalten. Dabei ist es unwichtig ob der Verstorbene menschlicher oder tierischer Art ist, sofern der Zaubernde Tiersprachen beherrscht. 
+Der Zauber wirkt auch bei Wesen vom Anderen, selbst wenn es sich nur zu Hause, also am Anderen Ort, aufhält. 
+Der Zauber muss mit umständlichem und viel okkultem Getue in der Nähe des Leichnams des verstorbenen durchgeführt werden. Ist das nicht möglich so sollte der Zauber zumindest an einem passenden Ort durchgeführt werden, zum Beispiel in der Nähe vieler anderer Leichen. Bei einem passenden Ersatz Ort wird der Zauber um 10 erschwert. Je weniger der Ort passt, umso unmöglicher wird der Zauber. Niemand außer dem zaubernden kann die Unterredung hören.
+Die Verbindung ins Totenreich bricht nach maximal MTP/3 Minuten ab.
+	Dauer: 100
+	Kosten: 7
+ 
+Lähmhand (MNK)
+Voraussetzungen:
+	Tod
+	MG: 38
+	IN: 24
+	KL: 36
+	ERF: 32
+Lähmhand vergiftet den Getroffenen so, dass er verlangsamt wird. Dies macht sich in einer Reduktion von INI, AU, ZWZ und MNK um (WK+KL)/10+1W6 deutlich. Der Zauber kann zwei Mal auf ein Ziel gewirkt werden, danach kann sich die Wirkung nicht mehr steigern. 
+Die Wirkung des Giftes hält für (WK+KL)/10 Runden an.
+	Kosten: 6
+ 
+Lösende Hand (MNK)
+Voraussetzungen:
+	Tod
+	MG: 52
+	WK: 42
+	IN: 38
+	LV: 3
+Der Zauber erschüttert die Substanz des Getroffenen auf eine besondere Weise und löst dadurch einen Teil der Magie aus dem Getroffenen heraus.
+Neben dem Nahkampfschaden von TP, verliert das Ziel des Zaubers 1,5 MTP Manapunkte (MP). Auf diese Weise können die Manapunkte des Zieles nie unter die MTP des Zieles fallen.
+	Kosten: 6
+
+
+Lösende Hand II (MNK)
+Voraussetzungen:
+	Tod
+	MG: 60
+	WK: 54
+	IN: 38
+	LV: 3
+Der Zauber erschüttert die Substanz des Getroffenen auf eine besondere Weise und löst dadurch einen Teil der Magie aus dem Getroffenen heraus.
+Neben dem Nahkampfschaden von TP, verliert das Ziel des Zaubers 2 MTP Manapunkte (MP). Auf diese Weise können die Manapunkte des Zieles nie unter die MTP des Zieles fallen.
+	Kosten: 6
+	Vertiefungskosten: 3 / 4
+
+ 
+Magische Abwehrbeschleunigung
+Voraussetzungen:
+	Tot
+	MG: 29
+	REA: 41
+Der Zauber gibt dem Zaubernden eine weitere defensive Aktion.
+	Dauer: 14
+	Kosten: 1
+
+ 
+Mumifizieren
+Voraussetzungen:
+	Tod
+	MG: 38
+	WK: 44
+	KL: 38
+	GE: 54
+	LV: 3
+Der Zauber tötet eine lebende Kreatur, bandagiert sie und verwandelt sie in eine Mumie die alle Ziele angreift, die der Zaubernde als Feindlich betrachtet.
+Ziel des Zaubers kann jedes lebende Wesen mit einer Masse unter WK*4 kg sein. Ein Wesen vom Anderen Ort kann nicht Ziel des Zaubers sein.
+Die so erschaffene Mumie bewegt sich etwa wie ein normales, lebendes Exemplar seiner Gattung, ist aber deutlich stärker und zäher, da es seine Muskeln ohne Rückhalt verwendet und keinen Schmerz spürt. Die für die Mumie verwendeten Lebenspunkte sollten etwa dem doppelten der Lebenspunkte eines lebenden Exemplars entsprechen.
+Da der Zaubernde einen Teil seiner Substanz in die Mumie legt bedarf es keiner Anstrengung um die Mumie zu erhalten. Das erschaffen der Mumie kostet aber einmalig 6LP.
+Es kann immer nur eine Mumie auf einmal von einem Totendschinn geschaffen und kontrolliert werden.
+Die Dauer fällt zur Hälfte für die Vorbereitung des Zaubers an und zur Hälfte für dessen Durchführung. Das Ziel des Zaubers ist also nach einer Dauer von 49 bereits tot und nicht mehr aktionsfähig. Der Zaubernde muss das Ziel zu diesem Zeitpunkt berühren. Andernfalls scheitert der Zauber und der Zaubernde muss 4 MP bezahlen.
+	Dauer: 98
+	Kosten: 24 
+
+Pesthauch
+Voraussetzungen:
+	Tod
+	MG: 24
+	KL: 36
+	ERF: 37
+WK: 48
+LV: 3
+Der den Zauber wirkende atmet eine Wolke giftigen Gases aus. Die Wolke verbreitet sich in einem Radius von etwa MTP/2 Metern um den Zaubernden. Alle die in Kontakt mit der Wolke kommen, auch nicht atmende Wesen, werden vorrübergehend leicht vergiftet. Dies wirkt sich aus indem AT, PA, MNAT, MAT, MPA, AW und ZI um 10 sinken und INI, AU, ZWZ du MNK um 5 sinken. Zusätzlich erleiden alle vergifteten 2 Punkte Schaden pro Runde in der sie vergiftet sind.
+Die Vergiftung hält für MTP/3 Kampfrunden oder bis zur Runde nachdem das Gas vollständig verschwunden ist an, je nachdem was kürzer ist.
+Das Gas durch Wind weggeweht. 
+Luftdschinn können 8 ZWZ und 3 MP investieren um den Pesthauch weg zu wehen, wenn die Räumlichkeiten dies zulassen.
+Totendschinn sind von den Auswirkungen nicht betroffen.
+	Dauer: 39 
+	Kosten: 16
+
+
+Pesthauch II
+Voraussetzungen:
+	Tod
+	MG: 38
+	KL: 43
+	ERF: 41
+WK: 53
+LV: 3
+Der den Zauber wirkende atmet eine Wolke giftigen Gases aus. Die Wolke verbreitet sich in einem Radius von etwa MTP Metern um den Zaubernden. Alle die in Kontakt mit der Wolke kommen, auch nicht atmende Wesen, werden vorrübergehend leicht vergiftet. Dies wirkt sich aus indem AT, PA, MNAT, MAT, MPA, AW und ZI um MTP sinken und INI, AU, ZWZ du MNK um MTP/2 sinken. Zusätzlich erleiden alle vergifteten 3 Punkte Schaden pro Runde in der sie vergiftet sind.
+Die Vergiftung hält für MTP/2 Kampfrunden oder bis zur Runde nachdem das Gas vollständig verschwunden ist an, je nachdem was kürzer ist.
+Das Gas wird durch Wind weggeweht. 
+Luftdschinn können 9 ZWZ und 4 MP investieren um den Pesthauch weg zu wehen, wenn die Räumlichkeiten dies zulassen.
+Totendschinn sind von den Auswirkungen nicht betroffen.
+	Dauer: 32 
+	Kosten: 18
+	Vertiefungskosten: 3/4
+
+ 
+Schutzhand
+Voraussetzungen:
+	Tod
+	MG: 31
+	MR: 34
+	IN: 33
+	KO: 34
+	GE: 28
+Der Zauber erhöht die Fähigkeit des Totendschinn sich und andere zu schützen.
+Die geschieht indem PA, MPA und MNPA um MTP angehoben werden. Zusätzlich steigen auch PAW, MPAW und MNPAW um MPT/3 an.
+Der Zauber wirkt für eine Kampfrunde.
+	Dauer: 12
+	Kosten: 4
+
+
+Schutzhand IIa
+Voraussetzungen:
+	Tod
+	MG: 41
+	MR: 44
+	IN: 39
+	KO: 44
+	GE: 38
+Die Vertiefung beschleunigt das Wirken des Zaubers und ermöglicht es den Zauber über mehrere Runden hinweg aufrecht zu erhalten.
+Der Zauber kann mit einem konstanten Einsatz von 8 ZWZ und 3 MP über beliebig viele Runden hinweg aufrecht gehalten werden.
+	Dauer: 10
+	Kosten: 3
+	Vertiefungskosten: 4/6
+
+
+Schutzhand IIb
+Voraussetzungen:
+	Tod
+	MG: 47
+	MR: 48
+	IN: 44
+	KO: 47
+	GE: 41
+Die Vertiefung bewirkt das der Zauber durch einfaches wirken über mehrere Runden hinweg wirksam ist.
+Der Zauber wirkt für MTP/4 Kampfrunden.
+	Dauer: 29
+	Kosten: 11
+	Vertiefungskosten: 5/7 
+
+Seelenhirte
+Voraussetzungen:
+Tot			
+MG:	10	35	65
+IN:	10	24	46
+LV:	0	3	5
+Der Zauber hilft dem Totendschinn die Seele eines verstorbenen Wesens auf die andere Seite zu geleiten.
+Mit dem Zauber öffnet der Totendschinn dem Verstorbenen das Tor auf die andere Seite. Diese kleine Geste ist den meisten Totendschinn selbstverständlich. Im Regelfall erhalt der Totendschinn dafür nicht einmal einen Dank aber manchmal gibt es auch Ausnahmen.
+ Mit den komplexeren Versionen des Zaubers können auch kleinere Gruppen von bis zu MTP/2 Seelen und sogar größere Gruppen von bis zu 2,5 MTP Verstorbenen in Totenreich geleitet werden.
+Dauer:	7	17	37
+Kosten:	3	7	11
+
+
+Seelenhirte II
+Voraussetzungen:
+Tot			
+MG:	10	41	73
+IN:	10	28	40
+LV:	0	3	5
+Durch die Vertiefung kann der Zauber schneller und effizienter gewirkt werden.
+Dauer:	5	13	28
+Kosten:	2	5	8
+	Vertiefungskosten: 3/4
+		 
+Skelettpanzer
+Voraussetzungen:
+	Tod
+	MG: 22
+	IN: 43
+	GE: 34
+	WAH: 28
+Der Zauber erlaubt es dem Totendschinn ein vorhandenes Skelett zu besetzen und als Rüstung zu gebrauchen.
+Auch Mumien und andere alte Kadaver können als Schutz gebraucht werden. Alte Leichen sind jedoch am leichtesten zu besetzen und bieten die gleichen Vorteile. Das besetzen von ganz frischen Leichen ist unmöglich da noch zu viel von der Präsenz des Vorbesitzers vorhanden ist. Ab etwa drei Tagen alte Leichen können mit einer um 50 erschwerten Probe besetzt werden. Zusätzlich ist sogar noch eine WK Probe erforderlich. Nach einer Woche fällt die WK Probe weg, die Erschwernis bleibt aber. Nach zwei Wochen sinkt sie auf 40. Nach einem Monat auf 35. Nach drei Monaten auf 30. Nach einem halben Jahr auf 25. Nach einem Jahr auf 20. nach drei Jahren auf 15. Nach 10 Jahren auf 10. und aber etwa 25 Jahren bestehen keine Probleme mehr.
+Der Skelettpanzer hat 10 Stabilitätspunkte. Jeder Angriff der den Skelettpanzer trifft richtet 2 Punkte weniger Schaden an und reduziert die Stabilität des Skelettpanzers um 1.
+Der Skelettpanzer kann nicht repariert werden. Da sich der Totendschinn ganz im inneren des Panzers befindet, hat er die äußere Gestalt des Skelettes. Verwandlungen sind erst wieder möglich nachdem der Panzer aktiv verlassen wurde. Dies erfordert 20 ZWZ. Danach hat der Totendschinn wieder die Gestalt die besaß als er den Skelettpanzer aufgenommen hat.
+bereits deutlich ramponierte Skelette weisen eine geringere Stabilität auf, die Anforderungen an ZWZ und MP für den Zauber werden davon nicht beeinträchtigt.
+	Dauer: 62
+	Kosten: 8
+
+ 
+Sonnenhand (MNK)
+	Tod
+	MG: 44
+	WK: 36
+	ERF: 42
+	LV: 3
+Der Zauber lässt die angreifende Extremität hell erstrahlen, sodass es dem Ziel des Angriffs erschwert ist den Angriff Abzuwehren. Dies Äußert sich in einer um 2 MTP erschwerte Parade gegen die Sonnenfaust. 
+Zusätzlich richtet der Angriff zusätzlich zu den TP Punkten nahkampfschaden MTP/2 Punkte Schaden durch den Zauber zu.
+Jedes weitere Mal das das gleiche Ziel mit Faust der Sonne getroffen wird steigert sich der zugefügte Schaden um 1W6. Das Ergebnis des Würfelwurfes wird für weite Angriffe fest addiert. Der Effekt des steigenden Schadens löst sich langsam rückwärts wieder auf. Immer nach einer Stunde wird der neuste Schadensbonus entfernt.
+Beispiel: Neben seinen sonstigen Aktionen greift Achum-Nu Igbid drei Runden in Folge mit Sonnenhand an. Der Angriff trifft jedes Mal. Achum-Nu hat 13 Punkte TP und 14 Punkte MTP. 
+Bei seinem ersten Treffer richtet Achum-Nu 20 Punkte Schaden an; 13+14/2.
+Bei seinem zweiten Treffer richtet er 20+1W6 Punkte Schaden an. Er würfelt eine sechs, richtet also 26 Punkte Schaden an.
+Bei seinem dritten Treffer richtet Achum-Nu 26+1W6 Punkte Schaden an. Er Würfelt eine zwei, richtet also 28 Punkte Schaden an.
+	Kosten: 6 
+
+Stimmen der Toten
+Voraussetzungen:
+	Art: Tod
+	MG: 11
+	ERF: 7
+Die Stimme des den Zauber wirkenden klingt wie ein eindrucksvolles Donnern von hunderten von Stimmen. Der Zauber ist vor allem in geschlossenen Räumen von imposanter Wirkung.
+Der Zauber wirkt für MTP/10 Minuten.
+	Dauer: 5
+	Anhaltend: MTP/10 Minuten
+	Kosten: 2
+ 
+Totenerweckung
+Voraussetzungen:
+	Tod
+	MG: 30 +n*5
+	ERF: 25 +n*5
+Wie ein Puppenspieler kann der Zaubernde damit eine Leiche führen. Der Zauber kann nur auf Leichen angewendet werden, deren Skelettstruktur noch weitgehend intakt ist.
+Das Geführte Skelett muss sich im Sichtfeld des Zaubernden befinden. Ist das Sichtfeld für mehr als einen Augenblick gestört zerfällt der Zauber.
+Die geführte Leiche ist recht langsam. Ihr Bewegungstempo ist das klassische Zombie-schlurfen. Auch ihre Arme oder andere Extremitäten, können nicht wesentlich schneller bewegt werden. 
+Ein Angriff der Leiche hat eine AT von 30 und Fügt MTP/2 Schaden zu. Die Leiche ist aus Fleisch und Knochen und wird wie solches zerstört, sie kann mit 4 MTP Lebenspunkten behandelt werden. Diese Angaben sind für Menschliche Leichen und müssen für Leichen anderer Gattungen entsprechend angeglichen werden. 
+Der Zauber kann auf (MG+WK)/25, abgerundet, Leichen gleichzeitig gewirkt werden. Für jede Leiche muss der Zauber einzeln gewirkt werden. Die Anforderung an MG und ERF steigt um 5 für jede weitere Leiche.
+Um den Zauber aufrecht zu halten muss jede Runde 5 ZWZ, ohne Übergangszeit, pro Leiche investiert werden.
+	Dauer: 46 / 5
+	Kosten: 16
+
+
+Totenerweckung II
+Voraussetzungen:
+	Tod
+	MG: 40 +n*3
+	WK: 36 +n*3
+	ERF: 35 +n*3
+Wie ein Puppenspieler kann der Zaubernde damit eine Leiche führen. Der Zauber kann nur auf Leichen angewendet werden, deren Skelettstruktur noch weitgehend intakt ist.
+Das Geführte Skelett muss sich im Sichtfeld des Zaubernden befinden. Ist das Sichtfeld für mehr als einen Augenblick gestört zerfällt der Zauber.
+Die geführte Leiche ist recht langsam. Ihr Bewegungstempo ist nur ein wenig schneller als das klassische Zombie schlurfen. 
+Ein Angriff der Leiche hat eine AT von MG und Fügt MTP/2 Schaden zu. Die Leiche ist aus Fleisch und Knochen und wird wie solches zerstört, sie kann mit 4 MTP Lebenspunkten behandelt werden. Diese Angaben sind für Menschliche Leichen und müssen für Leichen anderer Gattungen entsprechend angeglichen werden. 
+Der Zauber kann auf (MG+WK)/20, abgerundet, Leichen gleichzeitig gewirkt werden. Für jede Leiche muss der Zauber einzeln gewirkt werden. Die Anforderung an MG, WK und ERF steigt um 3 für jede weitere Leiche.
+Um den Zauber für eine Leiche aufrecht zu halten muss jede Runde 4 ZWZ investiert werden.
+	Dauer: 36 / 4
+	Kosten: 12
+	Vertiefungskosten: 3/4 
+
+Totenlichter
+Voraussetzungen:
+	Art: Tod
+	MG: 13
+	ERF: 7
+Ein Dutzend kleiner Kerzenflammen großer Geisterlichter umtanzen den Zaubernden und erzeugen auf eine leicht gruselig anmutende Art und Weise eine Beleuchtung der Umgebung. Die Farbe der Lichter kann vom Zaubernden frei gewählt werden. Nach etwa einer Stunde verlöschen die Lichter wieder.
+	Dauer: 13
+	Anhaltend: 1h
+	Kosten: 4
+ 
+Madenmal
+Voraussetzungen:
+	Tod
+	MG: 17
+	ERF: 13
+Ruft Maden, Ratten und ähnliches widerliches, krabbelndes Getier aus der Gegend herbei. Sollten sich aus irgendeinem Grund keine solchen Wesen in der Nähe befinden, kann der Zauber sie sogar beschwören. 
+Wenn das Getier gerufen wird kostet der Zauber lediglich 3MP. Ist es notwendig das Getier selbst zu beschwören kostet der Zauber 7 MP. Das gerufene Getier kann entweder einfach nur hübsch widerlich aussehen oder sogar einfache Befehle ausführen. Der widerliche Klumpen Getier kann nicht zum Angriff genutzt werden, sondern lediglich dazu Dinge zu holen, jemanden ablenken oder jemanden abzuschrecken.
+Nach etwa MTP Minuten verteilen sich die Kreaturen wieder und horchen nicht mehr auf Befehle. 
+Jeder Befehl an die Kreaturen kostet einen Magiepunkt.
+	Dauer: 20
+	Kosten: 3/7/1
+
+Zersetzende Hand (MNK)
+Voraussetzungen:
+	Tod
+	MG: 32
+	KL: 34
+	WK: 33
+	ERF: 24
+Der Zauber hinterlässt eine Säure auf der Haut des Zieles die zusätzlichen Schaden zufügt.
+Die Säure fügt dem getroffenen für (2*WK+KL)/50 Runden jede Runde (2*WK+KL)/10 Punkte Schaden zu.
+Außerdem fügt der Angriff die normalen TP Punkte Nahkampfschaden zu.
+Versucht das Ziel die hinterlassene Säure wegzuwischen, dann zerfrisst es ihm halt den Arm statt den Bauch, völlig egal. Das einzige was da noch hilft ist abschneiden oder ausbrennen.
+	Kosten: 6
+

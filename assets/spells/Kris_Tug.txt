@@ -1,0 +1,216 @@
+Discus
+Voraussetzungen:
+	Kristall
+	MG: 19
+	WK: 36
+	GE: 28
+	WAH: 24
+Der Zauber erschafft eine flache Kristallscheibe mit Scharfem Rand.
+Die Kristallscheibe hat einen Durchmesser von MTP/4 Metern. Sie fügt jedem den sie trifft MTP Punkte Schaden zu.
+Da die Kristallscheibe jedes Mal wenn sie einen Gegner trifft etwas Energie verliert, kann sie maximal WK/ 10 Gegner, abgerundet, verletzen, bevor sie stehen bleibt.
+Nachdem die Scheibe erschaffen wurde wird sie magisch beschleunigt und mit einer Zielen-Probe losgeschickt. Für jeden Punkt den der Geworfene Wert den Zielen-Wert übertrifft verfehlt sie auf 10 Meter um 20 cm. Würde also der Zielen Wert um 5 überboten verfehlt die Scheibe ein 10 Meter entferntes Ziel um einen Meter. Gezielt wird die Mitte der Kristallscheibe.
+Die Kristallscheibe kann aufgehoben und erneut von einem Kristalldschinn verwendet werden. In diesem Fall kostet das ausführen des Zaubers nur 14 ZWZ und 4 MP.
+Hebt jemand anderes die Scheibe auf so kann er sie nur durch Körperkraft antreiben. Es bedarf einer Probe auf (FF+GE)/2 +10 um festzustellen ob die Scheibe erfolgreich losgeschickt wurde. Scheitert die Probe, fällt die Scheibe KK/10 Meter entfernt zu Boden, jemand getroffenes erlitte dabei nur TP/2 Punkte Schaden. Gelingt die Probe jedoch so fliegt die Scheibe los und kann bis zu KK/20 Ziele mit jeweils TP Punkten Schaden verletzen.
+Es ist auch möglich die Kristallscheibe nur zu erschaffen und nicht magisch zu beschleunigen, dies erfordert 40 ZWZ und 16 MP:
+Die Kristallscheibe besitzt MTP Stabilitätspunkte. Jedes Mal wenn die Scheibe ein Ziel trifft verliert sie einen Stabilitätspunkt. Wird der Kristalldiscus ungeschickt abgeworfen verliert er drei Stabilitätspunkte.
+Wird der Kristalldiscus gezielt angegriffen verliert er einen Stabilitätspunkt für je 2 Punkte Schaden die er erleidet.
+	Dauer: 51/14/40
+	Kosten: 18/4/16
+ 
+Discus II
+Voraussetzungen:
+	Kristall
+	MG: 27
+	WK: 46
+	GE: 40
+	WAH: 36
+Der Zauber erschafft eine flache Kristallscheibe mit Scharfem Rand.
+Die Kristallscheibe hat einen Durchmesser von MTP/3 Metern. Sie fügt jedem den sie trifft MTP Punkte Schaden zu.
+Da die Kristallscheibe jedes Mal wenn sie einen Gegner trifft etwas Energie verliert, kann sie maximal WK/ 7 Gegner, abgerundet, verletzen, bevor sie stehen bleibt.
+Nachdem die Scheibe erschaffen wurde wird sie magisch beschleunigt und mit einer Zielenprobe losgeschickt. Für jeden Punkt den der Geworfene Wert den Zielen-Wert übertrifft verfehlt sie auf 10 Meter um 20 cm. Würde also der Zielen Wert um 5 überboten verfehlt die Scheibe ein 10 Meter entferntes Ziel um einen Meter. Gezielt wird die Mitte der Kristallscheibe.
+Die Kristallscheibe kann aufgehoben und erneut von einem Kristalldschinn verwendet werden. In diesem Fall kostet das ausführen des Zaubers nur 14 ZWZ und 4 MP.
+Hebt jemand anderes die scheibe auf so kann er sie nur durch Körperkraft antreiben. Es bedarf einer Probe auf (FF+GE)/2 +10 um festzustellen ob die Scheibe erfolgreich losgeschickt wurde. Scheitert die Probe, fällt die Scheibe KK/9 Meter entfernt zu Boden, jemand getroffenes erlitte dabei nur TP/2 Punkte Schaden. Gelingt die Probe jedoch so fliegt die Scheibe los und kann bis zu KK/15 Ziele mit jeweils TP Punkten Schaden verletzen.
+Es ist auch möglich die Kristallscheibe nur zu erschaffen und nicht magisch zu beschleunigen, dies erfordert 34 ZWZ und 14 MP:
+Die Kristallscheibe besitzt 1,5*MTP Stabilitätspunkte. Jedes mal wenn die Scheibe ein Ziel trifft verliert sie einen Stabilitätspunkt. Wird der Kristalldiscus ungeschickt abgeworfen verliert er drei Stabilitätspunkte.
+Wird der Kristalldiscus gezielt angegriffen verliert er einen Stabilitätspunkt für je 2 Punkte Schaden die er erleidet.
+Ein Wesen das Discus II beherrscht kann einen gefunden Kristalldiscus mit 10 ZWZ und 3 MP beschleunigen. Wurde das gefundene Exemplar jedoch mit Discus erschaffen können damit maximal WK/9 Gegner verletzt werden.
+	Dauer: 41/10/34
+	Kosten: 15/3/14
+ 
+Kristallisieren
+Voraussetzungen:
+	Kristall
+	MG: 23
+WK: 37
+	ERF: 25
+der Zauber verändert die Struktur des Ziels des Zaubers in eine kristallische. Das verzauberte Objekt wird dadurch härter und haltbarer.
+Um den Zauber einzusetzen ist es notwendig das Ziel des Zaubers zu berühren. 
+Der Zauber kann nicht offensiv gegen andere verwandt werden. Wehrt sich jemand gegen die Kristallisierung schlägt sie automatisch fehl. 
+Gegenstände die kristallisiert wurden haben einen Waffenbonus von 1 Punkt Schaden.		Dauer: 16/ 50cm³
+	Kosten: 3 / 50 cm³
+ 
+Schutzwall
+Voraussetzungen:
+	Kristall
+	MG:24
+	WK: 28
+ERF:22
+Der Zauber erschafft eine Kristallwand nahe des Zaubernden. Die Kristallwand ist 3 Meter vom Zaubernden entfernt und deckt einen Teilkreis von etwa 90° ab. Die Wand ist MTP/4 Meter hoch. Sie kann auch außerhalb des Sichtbereichs erschaffen werden. 
+Die Kristallwand besitzt 3 MTP Stabilitätspunkte. 
+Sie kann mit einer Dauer von ‘Verlorene Stabilitätspunkte‘ ZWZ und einem Drittel davon an Manakosten wieder hergestellt werden. Um die Mauer auszubessern ist weder sicht- noch physischer Kontakt notwendig.
+Der Schutzwall kann mehrfach erschaffen werden, es kann jedoch immer nur der neuste Schutzwall wieder repariert werden.
+	Dauer: 22
+	Kosten: 8
+ 
+Stachelfeld
+Voraussetzungen:
+	MG: 28
+	ERF: 24
+	WK: 44
+Der Zauber erschafft in einem runden Gebiet mit einem Durchmesser von MTP/4, dass sich maximal MTP Meter vom Zaubernden entfernt befindet eine Reihe von ca. MTP/15 Meter hohen Kristallstacheln. 
+Die Stacheln spießen jeden der sich in dem Gebiet befindet auf und richten damit einen Schaden von 1W6*0,5MTP an. 
+Um das Gebiet zu verlassen oder einem wachsenden Stachel zu entkommen ist eine Ausweichenprobe notwendig. Die Ausweichenprobe ist für alle die das Gebiet durch ausweichen nicht verlassen können um 20 erschwert. 
+Wird der für die erschwerte Ausweichenprobe notwendige Wert übertroffen eine normale Ausweichenprobe würde aber gelingen, so kann einem Teil des Schadens entronnen werden. Der angerichtete Schaden reduziert sich in diesem Fall auf 1W4*0,5MTP. 
+Da die Stacheln bestehen bleiben, sind Durchbohrte festgesetzt bis sie sich mit einer aktiven Aktion, 18 AU, befreien. Jede Runde die jemand Aufgespießtes aufgespießt beginnt erleidet er 1W6 Schaden.
+	Dauer: 34
+	Kosten: 22
+ 
+Tugend:
+
+Bewegtes Schwert
+Voraussetzungen:
+	Kristall-Tugend
+	Verwenden einer Nahkampfwaffe aus Kristall
+MG: 56
+	MK: 52
+	MR: 42
+	GE: 44
+	MUT: 33
+	LV: 5
+Der Zauber versetzt den Kristall aus dem die Waffe besteht in Bewegung. Dadurch kann jede Defensive des Ziels, auch Schilde, ignorieren und zerstört diese stattdessen.
+Der nächste Angriff mit der Waffe fügt 2 MTP und 1 TP zusätzlichen Schaden zu. Es jedoch nicht mehr als eine Kampfrunde zwischen dem Wirken des Zaubers und dem erfolgreichen einsetzen der Klinge liegen.
+Durch den Zauber erleidet die Waffe 2 MTP Punkte Schaden
+	Dauer: 24
+	Kosten: 11
+ 
+Corpus Crystallinus
+Voraussetzungen:
+	Kristall-Tugend
+	MG: 34
+	MR: 28
+	ERF: 38
+	KO: 22
+Durch den Zauber wird der Körper, oder ein Teil des Körpers, des Zaubernden von einer Krstallschicht überzogen die ihn schützt. 
+Die Kristallschicht reduziert jeden Schaden der dem Zaubernden im kristallisierten Gebiet zugefügt wird um 1. Die Kristallschicht ist sehr schwer zu zerstören, sodass selbst wiederhöhlte Treffer auf ein Gebiet kaum Schaden an der Kristallschicht hervorrufen.
+Ist mehr als die Hälfte der Körperoberfläche des Zaubernden mit Kristall überzogen so erhöht sich die Dauer für Angriffe, Bewegen und passive Aktionen um 1. 
+Die Kristallschicht bleibt für unbestimmte Zeit bestehen nachdem sie erschaffen wurde. Möchte der Kristallisierte sich verwandeln muss er erst die Kristallschicht ablösen, was Schaden verursacht abhängig von der Größe des mit Kristall überzogenen Gebiets. Oder den Kristall mit einer Geschwindigkeit von 11 ZWZ / m² ablösen. Das Ablösen kostet 1 MP pro m².  
+Der Zauber kann nicht kumulativ  mit der Gabe Klinge/Stachel/Schwert kombiniert werden.
+	Dauer: 26 pro m²
+	Kosten: 3 pro m²
+ 
+Klinge der Ewigen
+Voraussetzungen:
+	Kristall-Tugend
+	Verwenden einer Nahkampfwaffe aus Kristall
+MG: 26
+	MK: 16
+	MR: 22
+	GE: 24
+	MUT: 23
+Der Zauber erfüllt die Nahkampfwaffe mit Magischer Energie. Dadurch fügt sie bei ihrem nächsten Treffer MTP Punkte zusätzlichen Schaden an.
+Der Zauber muss erst gewirkt werden und kann dann im nächsten Schritt eingesetzt werden.
+Bleibt der Zauber ungenutzt in einer Waffe so erleidet diese MTP/4 Punkte Schaden pro kampfrunde. Der Schaden entsteht nicht wenn der Angriff aus Zeitgründen erst in der nächsten Runde durchgeführt werden kann. Zerbirst die Waffe unter der Last des Zaubers, so geht die magische Kraft verloren.
+Das Parieren des Angriffs erfolgt wie bei einem MNK Angriff.
+	Dauer: 4
+	Kosten: 5
+ 
+Klinge der Ewigen II
+Voraussetzungen:
+	Kristall-Tugend
+	Verwenden einer Nahkampfwaffe aus Kristall
+MG: 32
+	MK: 27
+	MR: 34
+	GE: 30
+	MUT: 30
+Der Zauber erfüllt die Nahkampfwaffe mit Magischer Energie. Dadurch fügt sie bei ihrem nächsten Treffer 1,5*MTP Punkte zusätzlichen Schaden an.
+Der Zauber muss erst gewirkt werden und kann dann im nächsten Schritt eingesetzt werden.
+Bleibt der Zauber ungenutzt in einer Waffe so erleidet diese MTP/3 Punkte Schaden pro kampfrunde. Der Schaden entsteht nicht wenn der Angriff aus Zeitgründen erst in der nächsten Runde durchgeführt werden kann. Zerbirst die Waffe unter der Last des Zaubers, so geht die magische Kraft verloren.
+Das Parieren des Angriffs erfolgt wie bei einem MNK Angriff.
+	Dauer: 4
+	Kosten: 5
+	vertiefungskosten: 3/4 
+	
+Kristallgeschoss
+Voraussetzungen:
+	Element: Kristall-Tugend, Kristall-Wissenschaft
+	MG: 46
+	ERF:34
+	GE: 36
+	WAH: 48
+Der Zauber erschafft eine Art Blasrohr mit dem Kristallkugeln mit sehr hoher Geschwindigkeit abgefeuert werden können.
+Der Zauber erschafft beim ersten wirken eine kleine Röhre mit einem Außendurchmesser von etwa 3 cm und einer Länge von ca. 80 cm, mit einem magischen Behälter daran. Diese Röhre zu erschaffen nimmt 90 ZWZ und 26 MP in Anspruch.
+Bei jedem weiteren Wirken wird eine kleine Kristallkugel erschaffen, die in die Röhre eingelegt wird und enorm beschleunigt auf das Ziel abgefeuert wird. Eine solche Kristallkugel zu erschaffen und abzufeuern erfordert lediglich 5 ZWZ und 3 MP.
+Trifft eine Kugel richtet sie einen Schaden von MTP an. 
+Den Kristallgeschossen auszuweichen  ist um 5 erschwert. 
+Um festzustellen ob das Geschoss trifft fällt eine um 5 erleichterte Zielen-Probe an.
+Die Kristallkugeln bleiben auch nach dem Aufprall bestehen und können folglich wieder eingesammelt werden falls sie aufgefunden werden können. Eine erhaltene Kristallkugel abzufeuern erfordert nur 5 ZWZ und 1 MP. Die ZWZ fällt dabei größtenteils für das Einlegen der Geschosse an und kann alternativ durch 5AU beglichen werden.
+Die Kristallgeschosse können auf maximal 40 Meter ihr Wirkung voll entfalten.
+	Dauer: 90/5/5
+	Kosten: 25/3/1
+ 
+Kristallklinge
+Voraussetzungen:
+	Element: Kristall-Tugend, Kristall-Wissenschaft	MG: 38
+	ERF: 22
+	GE: 28 
+Der Zauber erschafft eine kleine Klingenwaffe aus Kristall wie einen Dolch oder ein Messer.
+Die Klinge kann ohne die Waffenkampffähigkeit mit einem AT Abzug von 10 verwendet werden. Die Klinge richtet MG/12 Punkte zusätzlichen Schaden im Nahkampf an.
+Wird gezielt die Klinge angegriffen nimmt sie Schaden. Sie besitzt 2,5*MTP Stabilitätspunkte.
+	Dauer: 36
+	Kosten: 12
+ 
+Kristallklinge II
+Voraussetzungen:
+	Kristall
+	MG: 44
+	ERF: 28
+	GE: 34 
+Der Zauber erschafft eine kleine Klingenwaffe Kristall wie ein Schwert, einen Rapier oder einen Speer.
+Die Klinge kann ohne die Waffenkampffähigkeit mit einem AT Abzug von 20 verwendet werden. Die Klinge richtet MG/8 Punkte zusätzlichen Schaden im Nahkampf an.
+Wird gezielt die Klinge angegriffen nimmt sie Schaden. Sie besitzt 3*MTP Stabilitätspunkte.
+	Dauer: 46
+	Kosten: 17
+ 
+Kristallschild
+Voraussetzungen:
+	Kristall-Tugend
+	MG: 34
+	ERF: 28
+	KO: 28 
+Der Zauber erschafft einen Schild aus Kristall. 
+Dieses kann entweder verwendet werden um Angriffen mit offensiver Magie abzuwehren oder um Nahkampfangriffe zu verteidigen. Das Schild hat eine Basisstabilität von MTP die durch jeden erfolgreichen Einsatz um eins reduziert wird.
+Ist das umgebende Gelände dazu angetan die notwendigen Mineralien für das Kristallwachstum zu liefern liegt die Stabilität sogar bei 1,5*MTP
+Wird das Schild gegen magische Angriffe eingesetzt, wird zusätzlich zur Magieparade eine normale, um 10 erleichterte, Parade für das Kristallschild gewürfelt. Beides zusammen gilt als eine defensive Aktion. Gelingen beide Proben verhindert dieses den angerichteten Schaden um MPAW+PAW/2+2. Gelingt nur die Magieparade wird sie normal ausgeführt. Gelingt nur der Einsatz des Schildes wird der Schaden nur um PAW/2 reduziert.
+Wird das Eisschild im Nahkampf eingesetzt erhöht es die Erfolgswahrscheinlichkeit der Parade um 20. Außerdem wird die Wirkung der Parade um PAW/2+2 erhöht.
+Das Schild kann zusammen mit einer Nahkampfwaffe zusammen verwendet werden wenn die Waffenkampf Fähigkeit erlernt wurde. Ansonsten wird sowohl der Angriff mit einer Waffe als auch das Parieren mit dem Schild um 10 erschwert. 
+	Dauer: 42
+	Kosten: 14
+ 
+Linse
+Voraussetzungen:
+	Element: Kristall-Tugend, Kristall-Wissenschaft
+	MG: 44
+	ERF: 30
+	WAH: 36
+Der Zauber erschafft eine Linse aus Kristall mit einem Durchmesser von etwa 20cm. Die Linse kann auch kleiner ausgeführt werden.
+Die Linse kann entweder benutzt werden um die Fernsicht zu verbessern und so einen +10 Bonus auf eine WAH-Probe auf große Distanz zu erhalten.
+Alternativ kann sie verwendet werden um das Licht der Sonne auf einen Punkt zu konzentrieren der dadurch enorm Heiß wird.
+Dazu kann die Linse entweder in den Händen gehalten werden, was die entsprechenden Hände natürlich belegt, oder sie kann für 8 ZWZ und 3 MP schweben gelassen werden.
+Um den Brennpunkt neu auszurichten sind 8 AU notwendig wenn die Linse in den Händen gehalten wird. Schwebt die Linse sind 5 ZWZ und 1MP notwendig um sie neu Auszurichten. Das Ausrichten zählt als eigenständiger Zauber und ist daher auch mit einer Übergangszeit behaftet. Das Ausrichten kann in jeder Runde erst stattfinden nachdem geprüft wurde ob sich jemand im Brennpunkt befindet.
+Am Anfang jeder Runde in der die Linse bereits besteht und auf einen Punkt ausgerichtet ist wird geprüft ob sich jemand im Brennpunkt der Linse befindet. Ist dies der Fall, erhält derjenige den entsprechend der Wetterbedingungen vom Spielleiter festgelegten Schaden.
+Die durch die Linse verursachte Schadenswirkung ist von der Sonneneinstrahlung abhängig. Je nach Wetterverhältnissen liegt der verursachte Schaden zwischen 1MTP und 2MTP +3W10. Aufgrund der Natur des Zaubers zählt der durch ihn verursachte Schaden als Feuerschaden.
+	Dauer: 35 /8 /5/ 8AU 
+	Kosten: 12 / 3/ 1/ 0
+
+ 

@@ -13,6 +13,7 @@ import model.Value;
 import model.IO.Reader;
 import model.calculator.Calculator;
 import model.world.CultureWithElement;
+import model.world.Spell;
 import view.editor.EditorScene;
 import view.hero.*;
 import view.spells.SpellBookScene;
@@ -20,12 +21,12 @@ import controller.hero.HeroSceneController;
 
 public class Main extends Application{
 
-	private static final String ELEMENTS_PATH = "Elements.txt";
-	private static final String CULTURES_PATH = "Cultures.txt";
-	private static final String HERO_BASE_VALUES_PATH = "HeroBaseValues.txt";
-	private static final String GIFTS_PATH = "Gifts.txt";
-	private static final String HANDICAP_PATH = "Handicaps.txt";
-	private static final String DOMAINS_PATH ="Domains.txt";
+	public static final String ELEMENTS_PATH = "assets\\Elements.txt";
+	private static final String CULTURES_PATH = "assets\\Cultures.txt";
+	private static final String HERO_BASE_VALUES_PATH = "assets\\HeroBaseValues.txt";
+	private static final String GIFTS_PATH = "assets\\Gifts.txt";
+	private static final String HANDICAP_PATH = "assets\\Handicaps.txt";
+	private static final String DOMAINS_PATH ="assets\\Domains.txt";
 	
 	
 	public static Stage primStage=null;
@@ -38,7 +39,7 @@ public class Main extends Application{
 		
 		LoadData();
 		CultureWithElement.init();
-		
+		Spell.init();
 		
 		hero = new Hero();
 		Value v1 = new Value("MG", 20);

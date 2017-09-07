@@ -1,0 +1,404 @@
+Schatten
+Schattendschinn lauern auf ihre Opfer. Sie verwirren sie mit Angriffen aus allen möglichen Richtungen. Dann blenden und verängstigen sie ihre Opfer um sich von hinten auf sie zu stürzen und ihnen den Gar aus zu machen.
+Auch wenn Schattendschinn generell als hinterhältig, gemein und sadistisch gelten sind sie meistens sehr mit sich zufrieden, vor allem, wenn ihnen mal wieder ein Opfer ins Netz gegangen ist.
+Zauberer beschwören Schattendschinn gerne, vor allem um sie zum Schutz von zwielichten Orten einzuteilen. Doch auch zu erkunden von alten Gebäuden und Ruinen sind Schattendschinn gut geeignet.
+ 
+Aura der Furcht
+	Schatten
+	MG: 29
+	WK: 46
+	ERF: 38
+Jeder der sich im Einflussbereich der Aura befindet hat einen um MTP verringerten MUT-/ und einen um MTP/3 reduzierten WK-Wert. Damit geht eine AT Reduktion von MTP/2, eine PA Reduktion von MTP/3 und eine TP Reduktion von 1 einher.
+Zusätzlich werden alle im Einflussbereich der Aura der Furcht für die Zauber Erschrecken und Einschüchtern anfälliger, sodass Magieparaden gegen diese Zauber um MTP erschwert werden.
+Die Aura wirkt auf alle in einem Radius von MTP/3 Metern um den Zaubernden herum.
+Um die Aura der Furcht aufrecht zu erhalten bedarf es Einsatzes von 6 ZWZ und 2 MP.
+	Dauer: 28/6
+	Kosten: 7/2
+	
+
+
+ 
+Blenden
+Voraussetzungen:
+	Schatten
+	MG: 17/23/30/38/47/57/68
+	WK: 24/30/36/44/50/56/62
+	IN:   23/29/35/40/45/49/53
+	KL:  00/10/18/26/32/42/52
+	LV:   0  /0  /3  /3  /5  /5  /7
+Der Zauber nimmt dem Ziel des Zaubers die Sicht. Wäre davon nur die erste Ebene betroffen, wäre der Zauber für die meisten Dschinn gut zu verkraften. Je nach Macht und Geschick des Zaubernden können aber auch deutlich mehr Ebenen betroffen sein und selbst Wesen vom Anderen Ort vollständig erblinden.
+Wer sich in plötzlicher Dunkelheit wiederfindet wird erschrecken. Wesen vom Anderen Ort werden vermutlich als ersten die höheren ebenen Überprüfen um sich einen Halt zu geben. Wer erblindet erleidet in den zwei folgenden Kampfrunden einen Mut (MUT) Abzug von MTP/2 und einen Willenskraft (WK) Abzug von MTP/4. Um sich neu zu orientieren ist eine Dauer von (100-KL)/2 ZWZ notwendig die in der nächsten Runde nicht zur Verfügung steht. Erblindet das Ziel sogar auf allen ihm zu Verfügung stehenden Ebenen bedeutet das einen noch tiefer greifenden Schrecken. Das Ziel erleidet dann in den drei folgenden Kampfrunden einen Mut (MUT) Abzug von MTP und einen Willenskraft (WK) Abzug von MTP/2. Um sich neu zu orientieren ist eine Dauer von (150-KL)/2 ZWZ notwendig die in der nächsten Runde nicht zur Verfügung steht. Angriffe, Parieren und Zielen ist entsprechend des Sichtverlustes erschwert.
+Der Zauber kann bis zu sieben Ebenen betreffen, aber maximal eine mehr als der Zaubernde selbst beherrscht. Außerdem müssen natürlich die entsprechenden Anforderungen erfüllt werden. Der erste Satz Anforderungen bezieht sich auf die erste Ebene der Zweite auf die Zweite etc. . Das gleiche gilt für Dauer und Kosten des Zaubers.
+Der Zauber kann nur auf Ziele gewirkt werden die sich maximal MTP/3 Meter vom Zaubernden entfernt befinden.
+Der Effekt des Zaubers kann durch eine erfolgreiche Magieparade (MPA) deutlich geschwächt werden. Für je 3 Punkte MPAW wird eine Ebene weniger betroffen.
+	Dauer:   8/24/24/28/32/36/40
+	Kosten:  6/ 9/12/14/16/18/20
+ 
+Dämmern
+Voraussetzung:
+Schatten
+	MG: 22
+	ERF: 10
+Durch den Zauber wird das Licht in der Umgebung matter und gestreuter, die Schatten werden tiefer. Was bessere Bedingungen für Schattenzauber schafft. 
+Der Zauber wirkt in einem Radius von MTP/ 2 Metern um den Zaubernden zum Zeitpunkt des Zauberns und bewegt sich nicht mit dem Zaubernden mit, sondern ist ortsfest. 
+Sehr helles Licht oder absolute Finsternis durschneiden den Zauber und heben ihn Kurzzeitig auf. Sobald die Störquelle weg ist stellt sich die Dämmerung aber on selbst wieder her.
+Der Zauber hält für MTP Minuten an.
+	Dauer: 17
+	Kosten: 4
+
+
+Der letzte Schnitt
+Voraussetzungen:
+	MG: 44
+	WK: 29
+	KL: 36
+	IN: 38
+	ERF: 32
+	LV: 3
+Der Zauber verbindet die Lebenskraft des Zieles mit seinem Schatten, sodass Angriffe gegen den Schatten den gleichen Effekt wie Angriffe auf den echten Körper des Zieles haben.
+Da Menschen so schnell sterben hat sich der Irrglaube verbreitet, dass man Stirbt wenn jemanden auf seinen Schatten (ab)schneidet.
+Da der Schatten von jemandem, bei geeigneten Lichtverhältnissen, viel leichter zu treffen und viel schwerer zu verteidigen ist, kann dieser Zauber einen überwältigenden Strategischen Vorteil bringen. Die genauen Auswirkungen werden abhängig von den Lichtverhältnissen vom Spielleiter festgelegt.
+Ein Schatten der Trefferfläche einer Peron ist kann nicht für andere Schattenzauber verwendet werden.
+Der Zauber kann nur ein Ziel auf einmal betreffen.
+Der Zauber kann für Maximal MTP/4 Runden am Stück gegen ein Ziel aufrecht gehalten werden, danach bedarf es einer mindestens ebenso langen Pause. Andere Ziele können bereits nach mindestens einer Runde Pause gewählt werden.
+Um den Zauber aufrecht zu halten bedarf es eines Einsatzes von 14 ZWZ und 5 MP. Pro Kampfrunde.
+	Dauer: 44/ 14 
+	Kosten: 9/ 5
+
+ 
+Der letzte Schnitt II
+Voraussetzungen:
+	MG: 56
+	WK: 36
+	KL: 41
+	IN: 45
+	ERF: 39
+	LV: 5
+Der Zauber verbindet die Lebenskraft des Zieles mit seinem Schatten, sodass Angriffe gegen den Schatten den gleichen Effekt wie Angriffe auf den echten Körper des Zieles haben.
+Da Menschen so schnell sterben hat sich der Irrglaube verbreitet, dass man Stirbt wenn jemanden auf seinen Schatten (ab)schneidet.
+Da der Schatten von jemandem, bei geeigneten Lichtverhältnissen, viel leichter zu treffen und viel schwerer zu verteidigen ist, kann dieser Zauber einen überwältigenden Strategischen Vorteil bringen. Die genauen Auswirkungen werden abhängig von den Lichtverhältnissen vom Spielleiter festgelegt.
+Ein Schatten der Trefferfläche einer Peron ist kann nicht für andere Schattenzauber verwendet werden.
+Der Zauber kann auf bis zu MG/20 Ziele gleichzeitig gewirkt werden. Für jedes Ziel muss der Zauber einzeln gewirkt werden.
+Der Zauber kann für Maximal MTP/3 Runden am Stück gegen ein Ziel aufrecht gehalten werden, danach bedarf es einer mindestens ebenso langen Pause. Andere Ziele können bereits nach mindestens einer Runde Pause gewählt werden. Diese Regelungen gelten für die einzelnen Zauberslots einzeln, jedoch für Ziele gemeinsam.
+Um den Zauber aufrecht zu halten bedarf es eines Einsatzes von 12 ZWZ und 4 MP. Pro Kampfrunde.
+	Dauer: 40/ 12 
+	Kosten: 8/ 4
+	Vertiefungskosten: 4/6 
+	
+Einschüchtern
+Voraussetzungen:
+	Schatten
+	MG: 46	
+	WK: 59
+	ERF: 38
+	LV: 5
+Durch den Zauber wird das Ziel des Zaubers dermaßen erschreckt, dass es sich nicht mehr traut Angriffe durchzuführen.
+Der Zauber kann nur auf ein Ziel gewirkt werden, das den Zaubernden sieht und vom Zaubernden gesehen wird. Außerdem darf sich das Ziel maximal 2 MTP Meter vom Zaubernden entfernt befinden.
+Das Ziel des Zaubers hat eine freie Magieparade um den Angriff durch einschüchtern abzuwehren. Diese ist jedoch in Höhe der summierten MUT Abzüge des Zieles erschwert. MUT Abzüge die nicht durchgeführt werden konnten, weil dadurch MUT unter 5 fallen wurde wirken sich trotzdem auf die Magieparade aus.
+Scheitert die Magieparade darf das Ziel des Zaubers nur noch offensive Aktionen durchführen nachdem es eine MUT-Probe bestanden hat. Die MUT-Probe fällt vor jeder offensiven Aktion an.
+Ab der zweiten Runde in der der Zauber wirkt hat der Eingeschüchterte jede Kampfrunde die Chance sich durch eine, entsprechend der Abzüge erschwerte MPA vom Einfluss des Zaubers zu befreien. Die Probe nimmt 18 ZWZ in Anspruch und Kostet unabhängig vom Erfolg 3 MP.
+Der Mut (MUT) eines eingeschüchterten Wesens sinkt um MTP und seine Willenskraft (WK) um MTP/2.
+	Dauer: 32
+	Kosten: 14
+ 
+Endlose Grube
+Voraussetzungen:
+	Schatten
+	MG: 38
+	WK: 41
+	IN: 34
+	KL: 32
+Der Zauber gaukelt dem Opfer vor in einen endlosen Schacht zu fallen. Das Ziel ist dem Sturz hilflos ausgeliefert. Selbst Flugversuche mit existenten Flügeln bringen nichts.
+Durch den Zauber beginnt sich das Ziel des Zaubers meist der Illusion entsprechend seltsam zu benehmen. Es wirft sich auf den Boden, kreischt verwandelt sich. Flattert wird mit den Flügeln, hört auf mit den Flügeln zu Schlagen. Alles aus der Illusion heraus verständliche Schreckreaktionen die aber dem wahren Körper Schaden zufügen können.
+Die Illusion zerfällt nach MTP/5 Kampfrunden von selbst wieder. Um vorher aus dem Zauber zu entfliehen bedarf es einer erfolgreichen Klugheits-/ (KL) oder Willenskraft-Probe (WK). Die Probe nimmt 10 AU, ZWZ oder MNAU ein, unabhängig vom Erfolg. Es darf nur eine Probe pro Kampfrunde durchgeführt werden.
+Mentaldschinn haben eine freie Magieparade gegen den Zauber.
+	Dauer: 19
+	Kosten: 4
+
+ 
+Erschrecken
+Voraussetzungen:
+	Schatten
+	MG: 22
+	WK: 36
+	ERF: 30
+Mit Hilfe des Zaubers jagt der Zaubernde dem Opfer des Zaubers einen riesen Schrecken ein. Dadurch erleidet das Ziel des Zaubers einen leichten Abzug auf die ihm in der nächsten Kampfrunde zur Verfügung stehenden Zeit.
+Vor allem aber muss das Ziel alle vorbereiteten Zauber sofort auslösen und aufrecht gehaltene Zauber fallen lassen.
+Um den Zauber anwenden zu können muss das Ziel des Zaubernden sehen können. Es muss entsprechend der Sichtbedingungen voller Sichtkontakt bestehen, dabei ist ein Zwielicht, wie es von Schattendschinn generell geschätzt wird förderlich und gibt dem Zaubernden einen +5 Bonus auf seine Proben.
+Ist der Zauber erfolgreich gewirkt worden wird eine vergleichende Probe zwischen der Willenskraft (WK) des Zaubernden und dem Mut (MUT) des Ziels durchgeführt. Gewinnt das Ziel des Zaubers den Vergleich bleibt der Zauber ohne Auswirkungen. Gewinnt der Zaubernde treten alle Effekte in vollem Umfang ein. AU, ZWZ und MNAU des überwältigten Zieles sinken in der Folgerunde um MTP. Außerdem sinkt der MUT des überwältigten für die Dauer des Kampfes um MTP/2 und die Willenskraft (WK) um MTP/4. Durch mehrfaches wirken des Zaubers sinkt die MUT Reduktion auf nur jeweils 2 Punkte pro weiterem wirken. Der nach dem ersten Wirken durch Erschrecken erzielte zusätzliche Abzug auf MUT darf in Summe maximal MTP/2 betragen.
+	Dauer: 16
+	Kosten: 4
+
+ 
+Erstickender Schatten
+Voraussetzungen:
+	Schatten
+	MG: 36
+	WK: 43
+	ERF: 32
+	LV:3
+Teerartig erhebt sich eine Beule aus dem Schatten der um das Ziel des Zaubers aufsteigt. Die Masse aus Schatten und Magie kriecht an ihrem Ziel empor und klebt sich an diesem fest und klebt es an Ort und Stelle fest. Diese Schattenmasse erhebt sich immer weiter aus dem Schatten empor bis sie das Ziel vollständig eingeschlossen hat. 
+Atmende Wesen ersticken, sobald die Atemwege blockiert sind. Nicht atmende Wesen erleiden MTP/3 Punkte Schaden pro Runde in der sie mindestens zur Hälfte von diesem Schatten eingeschlossen sind. 
+Die AU, ZWZ du MNAU des Opfers werden bei eingeschlossenen bis auf ein Viertel ihres ursprünglichen Wertes reduziert. 
+Es ist möglich aber enorm schwer die Schattenhülle durch Kraft abzustreifen, nur mit einer um 20 erschwerten Körperkraftprobe gelingt es sich durch reine körperliche Anstrengung aus der Masse frei zu kämpfen. Dies dauert mindestens eine ganze Kampfrunde. 
+Der effektivste Weg die Masse loszuwerden besteht aus intensivem Licht in dem sie verdampft.
+Das Ziel des Zaubers darf maximal MTP Meter vom Zaubernden entfernt sein. Es ist kein Sichtkontakt, aber ein durchgehender Schatten notwendig m den Zauber verwenden zu können.
+Es ist ein Magiegeschick (MG) von 55 notwendig um einen zweiten erstickenden Schatten gleichzeitig zu erschaffen.
+Der Zauber kann mit einem Einsatz von 8 ZWZ und 3 MP beliebig lange aufrecht gehalten werden.
+	Dauer: 38/8
+	Kosten: 13/3
+
+ 
+Fallgrube
+Voraussetzungen:
+	Schatten
+	MG: 39
+	WK: 21
+	KL: 37
+Der Zauber erschafft eine Fallgrube.
+Da die Wände der Fallgrube die gleiche Farbe haben wie der umgebende Schatten ist die Grube gut getarnt und kann nur durch eine Wahrnehmungs-Probe (WAH) entdeckt werden.
+Die Grube hat einen Durchmesser von MTP/6 Metern und ist MTP Meter tief.
+Ein Sturz in die Grube verursacht TP/2 Punkte Schaden.
+Die Grube kann nur in einem Schatten erschaffen werden, der mindestens so groß ist wie die obere Öffnung der Grube.
+Wird die Grube direkt unter einem Wesen erstellt hat dieses eine freie Ausweichenprobe (AW) um nicht in die Grube zu fallen.
+Der Zauber bleibt für MTP/2 Kampfrunden bestehen. Dann wächst der Boden der Fallgrube wieder nach oben, sodass der Zustand vor Beginn des Zaubers wieder makellos hergestellt ist. Unterhalb der Fallgrube hat der Zauber keinerlei Auswirkungen. Er betrifft erstaunlicherweise nur die Oberfläche auf der der Zauber gewirkt wurde.
+	Dauer: 21
+	Kosten: 4
+
+ 
+Falsche Präsenz
+Voraussetzungen:
+	Schatten
+	Mindestens 5 Ebenen
+MG: 53
+KL: 49
+	IN: 34
+	LV: 3
+Kennst du das wenn du allein durch ein altes dunkles Verlies schleichst und auf einmal das Gefühl hast, dass jemand hinter dir steht? Vielleicht steht wirklich jemand hinter dir. Wenn du Pech hast hat jemand Falsche Präsenz auf dich gewirkt, denn dann ist jemand in der Nähe; woanders wo du ihn nicht siehst, weil du dich auf die Stelle hinter dir konzentrierst.
+Durch den Zauber bekommen alle in einem bestimmten Gebiet das Gefühl der Zaubernde würde hinter ihnen stehen. Auf der 4. Ebene können Wesen vom Anderen Ort sogar wirklich einen Schatten erahnen, der sich gerade am Rande ihres Sichtfeldes befindet. 
+Der Zaubernde wirkt den Zauber auf einen Schatten in seinem Sichtfeld. Dieser wird mit der falschen Präsenz ausgestattet und erzeugt bei allen die nicht weiter als MTP Meter entfernt sind das Gefühl, dass sich dort jemand befindet.
+Die meisten drehen sich daraufhin unwillkürlich zu der Stelle um an der sie jemanden vermuten allein schon um das seltsame Gefühl in ihrem Rücken zu befriedigen. Davon ausgenommen sind nur solche die sich entweder im Nahkampf befinden oder eine Klugheitsprobe (KL) bestehen. Jemand der vorgewarnt wurde hat einen Bonus auf die Klugheitsprobe von 20.
+Wer sich zu dem Zauber hin umdreht kann den wahren Körper des Zaubernden, selbst wenn er ihn direkt ansieht, nicht sehen solange der Zauber wirkt.
+Der Effekt des Zaubers wird für Wesen aufgehoben die der Zaubernde im Nahkampf angreift.
+Außerdem können nicht Zauber und Dinge die der Zaubernde hält und nicht vollständig durch seinen Körper verborgen werden gesehen werden.
+Mentaldschinn und Dschinn mit einer mindestens 50%igen Mentalresistenz haben eine automatsche, freie Magieparade gegen den Zauber.
+	Dauer: 54
+	Kosten: 19
+ 
+Gedankenfolter
+Voraussetzungen:
+	Schatten
+	MG: 42
+	WK: 56
+	IN: 54
+	KL: 40
+LV: 5
+Der Zauber zermürbt den Geist des Zieles.
+Durch den Zauber werden dem Ziel unangenehmen Erinnerungen der Vergangenheit, besonders Gelegenheiten bei denen dem Opfer des Zaubers physische Schmerzen zugefügt wurden, in Erinnerung gerufen.
+Besonders auf bereits durch andere Schattenzauber geschwächte Geister hat der Zauber verheerende Auswirkungen. Mentale Zusammenbrüche sind die Regel. Aussetzer an der Tagesordnung. Auch wenn dem Ziel des Zaubers eine freie Magieparade zur Verfügung steht wird der ursprüngliche Paradewert um die Summe der durch andere Zauber verlorenen Mut-Punkte reduziert. Bei der Reduktion werden die durch die Zauberwirkungen gesammelten Punkte verwendet, nicht die Tatsächlich verlorenen Punkte, da diese geringer ausfallen können, wenn das Ofer bereits die Untergrenze erreicht hat.
+Gelingt der Zauber erleidet das Opfer MTP plus nominellen Mut-Verlust (MUT) Punkte Schaden. MUT, WK und KL werden um MTP plus nominell verlorene Mut-punkte/2 reduziert. Dadurch werden auch MAT und MPA um MTP reduziert und MPAW um MTP/2.
+Dem Opfer des Zaubers steht unter Berücksichtigung der Abzüge durch den Zauber eine zweite Magieparade zu. Scheitert auch diese werden MUT, WK und KL langfristig um MTP/3 reduziert.
+	Dauer: 66
+	Kosten: 18
+ 
+Horrorschlag
+Voraussetzungen:
+	Schatten
+	MG: 28
+	WK: 33
+IN: 23
+Der Zauber sendet einen Energieschlag durch den Gegner der diesen sowohl schädigt als auch erschreckt.
+Der durch den Zauber angerichtete Schaden beläuft sich auf MTP Punkte Schaden. Zusätzlich muss der Getroffene eine Mutprobe (MUT) machen scheitert diese erleidet er Abzüge auf MUT, von MTP/2 und auf WK, von MTP/4. Durch einen erneuten Treffer können die Abzüge einmalig um die Hälfte des ursprünglichen Effekts gesteigert werden.
+Der Zauber wird in der Nahkampfdistanz verwendet und kann sowohl durch eine Parade, wie ein MNK-Angriff, als auch durch eine Magieparade abgewehrt werden.
+Wir der Angriff von hinten ausgeführt erhöht sich nicht nur der angerichtete Schaden entsprechend der Meucheln Gabe, sondern auch der einschüchternde Effekt wird um 50% gesteigert.
+Der Zauber kann auch unter unvorteilhaften Bedingungen für Schattendschinn verwendet werden, dann ist der einschüchtern Effekt jedoch halbiert.
+	Dauer: 10
+	Kosten: 8 
+	
+
+Land der Dämmerung
+Voraussetzungen:
+	Schatten
+	MG: 54
+	WK: 43+6*n, ex
+	ERF: 36
+	KL: 44
+	LV: 5
+Der Zauber versetzt den Zaubernden und sein Opfer in eine erschreckende Paralleldimension.
+Die Paralleldimension hat ideale Eigenschaften für Schattenmagie, eine trübe Brühe von Himmel droht dicht über einer kahlen Ascheebene auf der noch die knorrigen Überreste schon vor langem verstorbener Bäume stehen. Das Licht kommt von überall und es herrscht ein so allgemeines Zwielicht das alles in einem Radius von 2 Metern um die Bäume als Schatten behandelt werden kann. Auch in den Furchen und Wellen des Bodens gibt es mehr als genug beschatte Stellen die für Schattenzauber verwendet werden können.
+Unfreiwillig ins Land der Dämmerung versetzte Ziele erleiden einen MUT Abzug von MTP, der um 2 pro weiter hierher versetzter Person reduziert wird. Und einen WK Abzug von MTP/2 der um eins pro weiter versetzter Person reduziert wird. Damit sinken AT, MAT, PA und MPA um MTP/3 und TP und MTP um 2.
+Schattendschinn die den Zauber wirken können ohne kosten und Dauern Schattengestalt annehmen. Alle Zauber haben hier nur die halbe Dauer und um 25% reduzierte Kosten.
+Der Zauber kann maximal (2*WK+KL)/40 Opfer ins Land der Schatten versetzen.
+Der Zauber kostet einmalig 20 + 4 * Anzahl versetzter Personen, exklusive des Zaubernden, Manapunkte (MP) und dauert 43 + 20*Anzahl versetzte Personen, hier inclusive des Zaubernden, ZWZ. Anschließend bleibt der Zauber automatisch für zwei kampfrunden bestehen und kann für 4 + 1 * Anzahl Opfer Manapunkte (MP) und 1 LP, pro verweilender Person, inklusive des Zaubernden, um zwei Runden verlängert werden. Das verlängern des Zaubers hat keine Dauer.
+	Dauer: 50+20*n, in/ 4+n, ex
+	Kosten: 20+4*n, ex/ 4+n, ex MP und  n, in LP
+
+ 
+Land der Dämmerung II
+Voraussetzungen:
+	Schatten
+	MG: 62
+	WK: 49+4*n, ex
+	MR: 32
+	ERF: 43
+	KL: 52
+	LV: 7
+Der Zauber versetzt den Zaubernden und sein Opfer in eine erschreckende Paralleldimension.
+Die Paralleldimension hat ideale Eigenschaften für Schattenmagie, eine trübe Brühe von Himmel droht dicht über einer kahlen Ascheebene auf der noch die knorrigen Überresten schon vor langem verstorbener Bäume stehen. Das Licht kommt von überall und es herrscht ein so allgemeines Zwielicht das alles in einem Radius von MTP/4 Metern um die Bäume als Schatten behandelt werden kann. Auch in den Furchen und Wellen des Bodens gibt es mehr als genug beschatte Stellen die für Schattenzauber verwendet werden können.
+Unfreiwillig ins Land der Dämmerung versetzte Ziele erleiden einen MUT Abzug von MTP, und einen WK Abzug von MTP/2. Damit sinken AT, MAT, PA und MPA um MTP/2 und TP und MTP um 3.
+Schattendschinn die den Zauber wirken können ohne kosten und Dauern Schattengestalt annehmen. Alle Zauber haben hier nur die halbe Dauer und um 25% reduzierte Kosten.
+Der Zauber kann maximal (2*WK+KL)/30 Opfer ins Land der Schatten versetzen.
+Der Zauber kostet einmalig 16 + 3 * Anzahl versetzter Personen, exklusive des Zaubernden, Manapunkte (MP) und dauert 46 + 14*Anzahl versetzte Personen, exklusive des Zaubernden, ZWZ. Anschließend bleibt der Zauber automatisch für zwei Kampfrunden bestehen und kann für 3 + 1 * Anzahl Opfer Manapunkte (MP) und 1 LP, pro Opfer, um zwei Runden verlängert werden. Das verlängern des Zaubers hat keine Dauer.
+	Dauer: 46+14*n, ex/ 4+n, ex
+	Kosten: 16+3*n, ex/ 3+n, ex MP und  n, ex LP
+	Vertiefungskosten: 5/7
+ 
+Schattendiener
+Voraussetzungen:
+	Schatten
+	MG: 42
+	KL: 33
+	ERF: 30
+Der Zauber erschafft aus einem Schatten eine dürre Gestalt, die einfachen Anweisungen des Zaubernden Folge leistet.
+Der Schatten aus dem der Schattendiener geschaffen wird muss sich um den Zaubernden in einem Umkreis von MTP Metern befinden. Die erschaffene Gestalt hat 2 Arme, 2Beine, 1Kopf und ist von dürrer Statur.
+Sie kann nur sehr leichte Gegenstände, bis 10 WK Gramm, tragen. Wird sie zum Angriff auf ein Ziel verwendet hat sie zwei Angriffe pro Runde mit einer AT von 65. Ein Treffer des Schattendieners richtet MTP/2+2 Punkte Schaden an.
+Die Gestalt kann nur im Zwielicht existieren und verschwindet bei direkter Lichteinwirkung oder bei völlig erlöschendem Licht. Ansonsten ist die Gestalt durch nichts zu verletzen oder aufzuhalten.
+Um den Zauber aufrecht zu halten bedarf es eines Einsatzes von 10 ZWZ, ohne Übergangszeit, und 3 MP pro Kampfrunde. 
+Mit einem Einsatz von 3 ZWZ, mit Übergangszeit, kann dem Schattendiener  ein neuer Befehl gegeben werden.
+Es kann nur ein Schattendiener auf einmal beschworen werden.
+	Dauer: 38 / 10
+	Kosten: 13 / 3
+
+ 
+Schattendiener II
+Voraussetzungen:
+	Schatten
+	MG:  42 + n*6
+	WK:  32 + n*7
+	KL:   34 + n*5
+	ERF: 31 + n*4
+	LV: 3
+Der Zauber erschafft aus einem Schatten eine dürre Gestalt, die einfachen Anweisungen des Zaubernden Folge leistet.
+Der Schatten aus dem der Schattendiener geschaffen wird muss sich um den Zaubernden in einem Umkreis von MTP Metern befinden. Die erschaffene Gestalt hat 2 Arme, 2Beine, 1Kopf und ist von dürrer Statur.
+Sie kann nur sehr leichte Gegenstände, bis 10 WK Gramm, tragen. Wird sie zum Angriff auf ein Ziel verwendet hat sie zwei Angriffe pro Runde mit einer AT von 75. Ein Treffer des Schattendieners richtet MTP/2+3 Schaden an.
+Die Gestalt kann nur im Zwielicht existieren und verschwindet bei direkter Lichteinwirkung oder bei völlig erlöschendem Licht. Ansonsten ist die Gestalt durch nichts zu verletzen oder aufzuhalten.
+Um den Zauber aufrecht zu halten bedarf es eines Einsatzes von 7 ZWZ, ohne Übergangszeit, und 2 MP. Mit einem Einsatz von 3 ZWZ, mit Übergangszeit, kann dem Schattendiener ein neuer Befehl gegeben werden.
+Es können so viele Schattendiener auf einmal beschworen werden, wie es die Anforderungen zulassen. Für jeden weiteren Schattendiener erhöhen sich die Anforderungen um eine Stufe. Bei einem Schattendiener ist n eins.
+	Dauer: 32 / 7
+	Kosten: 11 / 2
+	Vertiefungskosten: 5/7 
+	
+Schattenfesseln
+Voraussetzungen:
+	Schatten
+MG: 30
+	ERF: 20
+Der Zauber lässt etwa ein Dutzend Tentakeln, die in Händen münden, aus Schatten erscheinen die das Ziel des Zaubers greifen, zu ihrem Ursprung ziehen und es dort festhalten. Um sich von den Schattenfesseln nicht fortziehen zu lassen bedarf es einer Körperkraftprobe (KK).
+Die Tentakel können mit keiner Magie oder Gewalt bewegt oder beschädigt werden, sondern verschwinden nur durch direktes, helles Licht oder vollständige Dunkelheit.
+Das von den Tentakeln ergriffene Ziel erleidet einen Abzug auf seine AU, ZWZ und MNAU von MTP und kann sich nicht von der Stelle weg bewegen an der es von den Schattenfesseln festgehalten wird.
+Um den Zauber aufrecht zu halten bedarf es eines Einsatzes von 5 ZWZ, ohne Übergangszeit, und 2 MP. Außerhalb des Kampfes fallen die Kosten nur jede Minute einmal an. Der Zauber kann mehrfach gleichzeitig gewirkt werden.
+	Dauer: 18/5
+	Kosten: 4/2
+
+
+Schattengeschoss
+Voraussetzungen:
+	Schatten
+	MG: 28
+	IN: 32
+	ERF: 27
+Aus einem Schatten im Radius von MTP Metern um den Zaubernden herum erscheint eine kleine Energiekugel in der Farbe des Schattens aus dem sie geflogen ist. Trifft sie, richtet sie beim Getroffenen MTP Punkte Schaden an. 
+Um festzustellen um das Geschoss trifft ist eine Zielen-Probe (ZI) notwendig.
+Das Ziel des Geschosses darf maximal 2,5 MTP Meter von dem Schatten entfernt sein aus dem das Geschoss austritt. Durchquert das Geschoss auf dem Weg zu seinem Ziel einen Bereich sehr starken Lichtes oder fast komplett ohne Licht so verschwindet das Schattengeschoss in diesem.
+	Dauer: 8
+	Kosten: 6
+
+Schattengestalt
+Voraussetzungen:
+	Schatten
+	MG: 36
+	ERF: 26
+Der Zaubernde wird durch den Zauber zu seinem eigenen Schatten. 
+Eigentlich würde niemand mehr einen Schatten werfen, also gäbe es auch keinen Schatten. Aber der Zauber funktioniert nun mal. 
+Wenn der Schatten, angegriffen wird erhält der Zaubernde normalen Schaden, der Schatten kann sich nicht im Raum bewegen, sondern bleibt immer 2D, kann sich also über den Boden oder an Wänden und Decke entlang bewegen. Wobei Bewegungen an der Decke entlang nur bei fliegenden gestalten möglich sind. An sich nicht fliegende Gestalten müssen mit den Füßen immer auf dem Boden bleiben.
+Der Zauber kann mit einem stetigen Aufwand von 8 ZWZ, ohne Übergangszeit, und 2 MP pro Minute beliebig lange aufrecht gehalten werden.
+	Dauer: 29/8
+Kosten: 8/2 pro Minute
+
+ 
+Schattenschritt
+Voraussetzungen:
+	Schatten
+	MG: 40
+	KL: 37
+	IN: 44
+Der Zauber erlaubt es dem Zaubernden in einen Schatten hinein und aus einem anderen Schatten heraus zu treten, gerade so als ob die Schatten gemeinsam eine Tür darstellten.
+Die verwendeten Schatten müssen beide groß genug sein um die gesamte Gestalt des Zaubernden aufnehmen zu können. Außerdem dürfen die Schatten nicht weiter als MTP Meter voneinander entfernt sein.
+	Dauer: 22
+	Kosten: 6
+ 
+Schattenschritt II
+Voraussetzungen:
+	Schatten
+	MG: 48
+	KL: 41
+	IN: 54
+	LV: 3
+Der Zauber erlaubt es dem Zaubernden in einen Schatten hinein und aus einem anderen Schatten heraus zu treten, gerade so als ob die Schatten gemeinsam eine Tür darstellten.
+Die verwendeten Schatten müssen beide groß genug sein um die gesamte Gestalt des Zaubernden aufnehmen zu können. Außerdem dürfen die Schatten nicht weiter als 2,5 MTP Meter voneinander entfernt sein.
+	Dauer: 16
+	Kosten: 5
+	Vertiefungskosten: 3/4
+
+
+Schattenstich
+Voraussetzungen:
+	MG: 25
+	IN: 30
+	ERF: 15
+Aus einem Schatten im Umkreis von MTP Metern um den Zaubernden herum tritt ein Stachel empor und durchbohrt alle die in seiner Bahn stehen. Wer von dem Stachel getroffen wird erleidet MTP Punkte Schaden. 
+Der Stachel ist MTP/6 Meter Lang und verschwindet nachdem er sich völlig ausgedehnt hat sofort wieder.
+Der Stachel kann kein Ziel treffen, dass sich in besonders hellem Licht oder absoluter Finsternis befindet.
+	Dauer: 7
+	Kosten: 5
+
+Schleichen
+Voraussetzungen:
+	Schatten
+	MG: 36
+	IN: 24
+	GE: 36
+Der Zauber dämpft die durch ihn verursachten Geräusche und verschleiert seine Präsenz ein wenig so, dass es schwerer ist ihn zu finden. 
+Durch den Schleichen Zauber werden Wahrnehmungsproben (WAH) um den Schleichenden zu finden um 1,5*MTP erschwert.
+Der Zauber kann auch auf andere Wesen innerhalb von MTP Metern um den Zaubernden herum ausgeführt werden.
+Der Zauber kann beliebig lange aufrecht gehalten werden. Dazu bedarf es eines Einsatzes von 2 ZWZ und 1 MP pro Kampfrunde oder angefangener Minute, außerhalb des Kampfes.
+	Dauer: 18/ 2
+	Kosten: 3/ 1
+ 
+Schwarze Jungfrau
+Voraussetzungen:
+	Schatten
+	MG: 51
+	ERF: 39
+	IN: 46
+	WK: 58
+	LV: 5
+Aus einem oder mehreren Schatten in einem Radius um den Zaubernden von MTP Metern treten eine Reihe Stacheln aus den Schatten hervor.
+Die stacheln können maximal (MG+KL)/35 verschiedene Ziele haben, die alle von mindestens einem der Schatten aus erreichbar sein müssen und alle von der gleichen Anzahl Stacheln angegriffen werden. Zumindest so gut wie möglich. Überzählige Stacheln werden zufällig verteilt. 
+Die Anzahl der insgesamt erscheinenden Stacheln liegt bei (MG+WK)/15. 
+Die Stacheln sind MTP/6 Meter lang und richten beim Treffen jeweils MTP Schaden an. Nachdem sich die Stacheln völlig ausgestreckt haben verschwinden sie sofort wieder. Wenn die Stacheln direktes Sonnenlicht, oder völlige Dunkelheit durchqueren verschwinden sie.
+	Dauer: 54
+	Kosten: 29
+ 
+Tausend sehende Augen
+Voraussetzungen:
+	Schatten
+	Ebenen 5
+	MG: 37
+	IN: 46
+	KL: 48
+Der Zauber lässt all überall in allen Schatten um den Zaubernden herum Augen erscheinen die für den Zaubernden beobachten.
+Der Zaubernde kann mit allen Augen die gleiche Ebene sehen. Die Augen erscheinen in einem Radius von MTP Metern um den Zaubernden herum. Immer etwa ein Dutzend pro Quadratmeter. Die Augen können auf der dritten Ebenen gesehen werden. Werden die Augen durch helles Licht oder tiefe Dunkelheit mitsamt dem Schatten entfernt bilden sich binnen einer Kampfrunde neue Augen. Das Gleiche gilt für hinzukommende Schatten.
+Der Zauber kann mit einem Einsatz von 5 ZWZ, ohne Übergangszeit, und 2 MP beliebig lange aufrecht gehalten werden. Außerhalb des Kampfes gelten die Kosten pro Minute.
+	Dauer: 19/5
+	Kosten: 5/2

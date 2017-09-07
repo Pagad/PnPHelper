@@ -1,0 +1,563 @@
+Schild
+Schilddschinn werden schon seit Jahrtausenden beschworen. Sie sind Ideal um sich einen Geschützten Bereich zu erschaffen oder um auch auf große Distanzen Informationen zu erhalten ob jemand einen Bereich betreten hat.
+Im Kampf nehmen sie eine wichtige Rolle ein, da sie in der Lage sind auch Personen gut durch mobile schilde zu schützen. Manche ihrer Schilde sind sogar in der Lage jemanden bei Kontakt zu verletzen und damit die Funktionalität eines rein passiven Schildes zu überschreiten.
+Die meisten Schildschinn sind von Natur aus eher zurückhaltend und brachen recht lange um sich wirklich mit jemandem zusammen zu tun. Trotzdem verteilen sie natürlich Schilde solange der Vorrat reicht, wenn es ihnen Befohlen wird.
+Schilddschinn haben normalerweise mindestens fünf Ebenen, auf denen sie wahrnehmen können.
+Schilde sind magische Konstrukte die erschaffen werden um den Schildträger vor Schaden zu bewahren. Bei stationäre Schilden liegt oft kein definierter Schildträger vor sondern ein Schildraum. Wird ein Schildträger oder Schildraum durch mehrere magische Konstrukte geschützt, muss schon beim erschufen festgelegt werden in welcher Reihenfolge die Schilde von außen nach innen vorliegen. Als erstes wird immer das äußerste Schild geschädigt, das den Angriff aufnehmen kann.
+Schilddschinn können durch betrachten eines Schildes, sie müssen natürlich die notwendige Ebene besitzen, die Art des Schildes erkennen. Und daraus die Basisstärke des Schildes Schlussfolgern. Um jedoch genauere Informationen über ein Schild zu sammeln ist der Zauber Einsicht notwendig.
+Das folgende gilt nur für die durch folgende Zauber erschaffene Schilde: Schutzschild, dichtes Schutzschild, Kupferschild, Heißkaltschild, fluktuierendes Schild, getarntes Schild, reflektierender Schild.
+Die von Schilddschinn erschaffenen Schilde sind stets Kugelförmig. Sie können ihre Größe mit erstaunlicher Geschwindigkeit verändern und passen sich immer den Umgebungsbedingungen an. Sie umschließen wenn es ihnen möglich ist die komplette Gestalt ihres Trägers. Da Sie weiterhin Kugelförmig sind kommt es speziell bei langgestreckten Gestalten schnell zu Problemen.
+Schilde können den Boden und auch andere, anorganische Objekte wenige Zentimeter tief durchdringen ohne dass es ein Problem gibt. Wäre ein Schild aber gezwungen tiefer in umgebende Materie einzudringen würde es stattdessen die Größe verändern. So kann es bei engen Passagen leicht passieren, dass ein Teil eines Schildträgers ungeschützt ist.
+Schilde werden erschaffen um Angriffe abzuwehren. Das bedeutet aber auch das nicht angreifende Wesen die meisten Schilde Problemlos durchqueren können und dann im inneren des Schildes das nun ungeschützte Ziel angreifen können. Diese Strategie funktioniert jedoch nur solange sich der Angreifer im Nahkampf mit dem Ziel befindet. 
+Der Nahkampf liegt vor sobald einer der betroffenen einen Nahkampfangriff durchführt oder der Schildträger den Nahkampf mit dem andren Betroffenen beabsichtigt. Im Nahkampf lässt das Schild Angriffe des Schildträgers passieren, blockiert jedoch Angriffe des Gegners.
+Kupferschilde reagieren auch ohne dass der Nahkampf nach den genannten Bedingungen vorliegt immer auf Nahkampfangriffe.
+
+ 
+Absorbierender Schild
+Voraussetzungen:
+	MG: 58
+	WK: 43
+	MR: 45
+	KL: 42
+	ERF: 47
+	LV: 5
+In der ersten Kampfrunde nachdem der der Schild erschaffen wurde, absorbier er allen magischen Schaden der den Schild trifft. Für jeden absorbierten Punkt Schaden erhält der Schild einen Punkt Stabilität. Danach verhält sich der Schild wie ein Schutzschild.
+Der Schild ist in der Absorptionsrunde auf allen Ebenen als verzerrtes, tiefschwarzes Loch sichtbar, das sich vor dem Zaubernden befindet. Schaden der den Zaubernden von hinten trifft kann also nur dann absorbiert werden, wenn der Zaubernde dem Angriff erfolgreich ausweicht. Danach ist der Schild nur noch auf der höchsten Ebene des Zaubernden Sichtbar.
+Als Schutzschild umgibt der absorbierende Schild den Zaubernden als Halbkuppel, die nur Schaden aufnimmt der den Zaubernden von vorne trifft.
+Begib sich während der Absorption ein Wesen vom Anderen Ort im den Schild, beispielsweise um einen Nahkampfangriff durchzuführen, verliert dieses Wesen MTP Lebenspunkte an den Schild, die ebenfalls der Stabilität des Schildes hinzugefügt werden. Befindet sich das Wesen die gesamte Runde im Absorptionsbereich verliert es sogar 3MTP Lebenspunkte (LP) an das Schild.
+	Dauer: 86
+	Kosten: 21
+	Vertiefungskosten: 4/6
+ 
+Abwehrkuppel
+Voraussetzungen:
+	Schild
+	MG: 44+n*4
+WK: 46+n*6
+KL: 32+n*4
+	ERF: 36+n*5
+	IN: 41+n*5
+	LV: 7
+Der Zauber erschafft eine Kuppel die einen Bereich versperrt. Meist wird der Zauber verwendet um ein Grundstück zu schützen. 
+Das Netz Erhebt sich als Halbkugel mit einem Durchmesser von MTP Metern. Um den Durchmesser um weitere MTP Meter zu vergrößern erhöhen sich die Anforderungen, Dauer und Kosten als wenn das Netz zwei Ebenen höher erschaffen würde.
+Um das Netz auch unterirdisch zu vervollständigen muss gerechnet werden als ab das Netz drei Ebenen höher erschaffen würde. Zudem erhöhen sich die Aufwendungen beim erhöhen des Durchmessers jeweils wie als wenn es eine weitere Ebene höher erschaffen würde.
+Das Netz kann wird auf einer Ebene erschaffen. Dies kann maximal die höchste dem Zaubernden bekannte Ebene sein. Das Netz ist nur auf dieser und allen dem Zaubernden unbekannten Ebenen sichtbar. Um einen Schild auf einer bestimmten Ebene erschaffen zu können müssen die entsprechenden Anforderungen erfüllt werden. Der gegebene Satz Anforderungen entspricht einem Netz auf der 2. Ebene. Für jede Ebene darüber erhöhen sich alle Anforderungen um eine Stufe. Die Dauer steigt um 64 und die Kosten um 16.
+Das Netz kann einer beliebigen Anzahl von Angriffen standhalten, solange keiner davon die Stabilität des Netzes fünffach übertrifft. Die Stabilität des Netzes liegt bei Erschaffungsebene *10.
+Jemand der das Netz physisch angreift erleidet MTP/2 Punkte Schaden. Auch unbedachter Kontakt ei der Fortbewegung zieht solchen Schaden nach sich. 
+Die Kuppel bleibt bestehen bis MTP Tage vergangen sind. Der Zauber löst sich auch auf wenn das Wesen vom Anderen Ort das die Kuppel erschaffen hat entlassen wird.
+	Dauer: 335+n*64
+	Kosten: 44+n*16
+
+ 
+Abwehrnetz
+Voraussetzungen:
+	Schild
+	MG:39+n*4
+WK: 42+n*4
+KL: 34+n*4
+	ERF:30+n*4
+Der Zauber erschafft ein Netz, das einen Bereich versperrt. Meist wird der Zauber verwendet um einen Zugang zu verschließen. 
+Das Netz kann zwischen zwei beliebige Dinge gespannt werden. Es wird entweder durch Schleimig, klebrige Fadenenden festgeklebt oder um die Begrenzung herumgewickelt. 
+Das Netz kann wird auf einer Ebene erschaffen. Dies kann maximal die höchste dem Zaubernden bekannte Ebenbe sein. Das Netz ist nur auf dieser und allen dem Zaubernden unbekannten Ebenen sichtbar. Um einen Schild auf einer bestimmten Ebene erschaffen zu können müssen die entsprechenden Anforderungen erfüllt werden. Der gegebene Satz Anforderungen entspricht einem Netz auf der 2. Ebene. Für jede Ebene darüber erhöhen sich alle Anforderungen um 6 Punkte. Die Dauer steigt um 11 und die Kosten um 4.
+Das Netz kann einer beliebigen Anzahl von Angriffen standhalten, solange keiner davon die Stabilität des Netzes fünffach übertrifft.  Die Stabilität des Netzes liegt bei Erschaffungsebene *10.
+Jemand der das Netz physisch angreift erleidet 2 Punkte Schaden.
+Das Abwehrnetz bleibt bestehen bis MTP Stunden vergangen sind.
+	Dauer: 35+n*11
+	Kosten: 11+n*4
+ 
+Alarmkuppel
+Voraussetzungen:
+	Schild
+	MG:63
+	WK: 64
+KL: 48
+	ERF:44
+	IN: 42
+	LV: 5
+Der Zauber erschafft eine Kuppel, die dem Zaubernden bei Kontakt ein Warnsignal sendet. 
+Die Kuppel ist nur auf einer dem zaubernden bekannten Ebene Ebenen sichtbar. Zudem ist sie auf allen dem Zaubernden nicht bekannten Ebenen sichtbar. Die Ebene auf der die Kuppel sichtbar ist, ist die zweite Ebene. Für eine Erhöhung der Basisanforderungen um jeweils 5 pro Ebene kann die erste Ebene auf der die Kuppel sichtbar ist angehoben werden. Außerdem erhöht sich die Dauer um 20 pro Ebene und die Kosten um 5 pro Ebene.
+Die Kuppel hat einen Basisdurchmesser von MTP Metern. Um diesen zu verdoppeln steigen die Anforderungen an den Zauber um jeweils 10 Punkte an. Die Dauer und die Kosten verdoppeln sich.
+Die Maschen sind 200/MTP Zentimeter auseinander. 
+Wird das Netz berührt oder durchdrungen so erfährt der Dschinn, der das Netz gewoben hat, im Augenblick des Kontaktes, davon indem er es einfach spürt. Alternativ kann auch ein Vertreter bestimmt werden. Dies erfordert eine erfolgreiche MAT-Probe 34 Dauer und 10 MP. Diese Vertreter sind oft Kobolde die als Alarmsystem getarnt in irgendwelche Plastekisten gesperrt werden. Scheitert der Versuch einen Vertreter zu ernennen wird halt zumeist der Dschinn in die Kiste gesperrt. Um einen Vertreter ernennen zu können ist LVL 7 notwendig. Alle anderen Anforderungen bleiben gleich.
+Wird das Netz regelmäßig, etwa wöchentlich, durch den Zauber Netz stärken gespeist, kann das Netz quasi ewig bestehen bleiben.
+	Dauer: 354
+	Kosten: 68
+ 
+Alarmnetz
+Voraussetzungen:
+	Schild
+	MG:34
+KL: 28
+	ERF:30
+	IN:25
+Der Zauber erschafft ein unsichtbares Netz, das dem Zaubernden bei Kontakt ein Warnsignal sendet. 
+Das Netz kann zwischen zwei beliebige Dinge gespannt werden. Es wird entweder durch Schleimig, klebrige Fadenenden festgeklebt oder um die Begrenzung herumgewickelt. 
+Das Netz ist auf allen dem zaubernden bekannten Ebenen unsichtbar, kann jedoch in günstigem Licht durch ein leichtes schimmern entdeckt werden. Dafür ist eine Wahrnehmungs-Probe (WAH) notwendig.
+Es hat eine Maximale Fläche von MTP m². Die Maschen sind 100/MTP Zentimeter auseinander. 
+Wird das Netz berührt oder durchdrungen so erfährt der Dschinn, der das Netz gewoben hat, im Augenblick des Kontaktes, davon indem er es einfach spürt. 
+Das Netz löst sich nach dem ersten Kontakt auf, sodass es nicht als Widerstand gefühlt werden kann. 
+Wird das Netz nicht ausgelöst verschwindet es nach MTP Tagen von selbst wieder.
+Es ist möglich Dinge an losen Fadenenden zu befestigen.
+	Dauer: 34
+	Kosten: 4
+ 
+Anliegender Schild
+Voraussetzungen:
+	Schild
+	MG: 31/41/51/61
+	WK: 13/23/33/43	
+IN:   29/39/49/59
+LV:   3  /3  /5  /7
+Der Zauber erschafft einen magischen Schild der sich der Gestalt des Schildträgers anpasst.
+Der Schild kann maximal auf der höchsten Ebene die der zaubernde beherrscht erschaffen werden. Um einen Schild auf einer bestimmten Ebene erschaffen zu können müssen die entsprechenden Anforderungen erfüllt werden. Der erste Satz Anforderungen entspricht einem Schild das auf der 2. Ebene sichtbar ist. Der Schild ist nur auf der Ebene auf der er gewirkt wird sichtbar.
+Der Schild kann denjenigen, der sich darunter verbirgt, vor Angriffen schützen, bis dieser seine Energie verbraucht hat. Der Schild passt sind der Gestalt des Schildträgers an, und weist daher einige der Schwächen konventioneller Schilde nicht auf. Aufgrund der Komplexität des Schildes ist es Dschinn bisher nicht gelungen Anliegende Schilde über der 5. Ebene zu erschaffen. Der Schild kann ein maximales Volumen von MTP Kubikmetern beinhalten. Soll etwas Größeres durch den Schild geschützt werden, ragt zwangsläufig ein Teil des Ziels aus dem Schild hervor.
+Der Schild hat eine Ladung von Ebene*(MTP/2-1). Jedes Mal, wenn durch den Schild geschützte Schaden nehmen würde die der Schild aufnehmen kann, erleidet stattdessen der Schild den Schaden.
+Da der Schild als feinmaschiges Netz aufgebaut ist kann er Angriffe durch Wasser, Sand und Luftmagie nicht abwehren.
+Das Schild wird entweder auf den Zaubernden oder ein Ziel das er berührt gewirkt.
+Der Zauber kann mehrfach auf ein Ziel gewirkt werden, die Schilde stapeln sich dann um den Geschützten herum. Der Zaubernde legt dabei fest an welche Stelle im Schildstapel der Schild einnimmt.
+Der Schild bleibt bestehen bis er alle Stabilitätspunkte verloren hat oder bis MTP/3 Stunden vergangen sind.
+	Dauer:  24/29/34/39
+	Kosten: 4  /7  /10/13
+	Vertiefungskoten: 2/3
+ 
+Binden
+Voraussetzungen:
+	Schild, Heilung
+	MG: 20
+	ERF: 20
+	FF:25
+Der Zauber erschafft eine Reihe magischer Fäden die sich mit hoher Kraft und Geschwindigkeit um ihr Ziel wickeln.
+Das Ziel des Zaubers muss sich innerhalb von MTP/2 Metern zum Zaubernden befinden und der zaubernde muss das Ziel sehen können.
+Den Fäden zu entkommen ist sehr schwierig, da sie ihr Ziel in begrenztem Maße verfolgen. Es erfordert eine um 20 erschwerte Ausweichen (AW) Probe um den Fäden zu entrinnen. 
+Durch eine gelungene Parade kann dafür gesorgt werden, dass sich die Fäden nicht ganz so straff um das Ziel wickeln. In diesem Fall ist es möglich durch eine GE Probe die, 25 AU erfordert, aus dem Zauber zu entkommen.
+Eine Magieparade hat keine Wirkung gegen den Zauber.
+Das von Fäden zusammengeschnürte Oper ist weitgehend bewegungsunfähig. Nahkampfangriffe und Ausweichen sind nicht möglich solange der Binden Zauber wirkt. Paraden sind um 30 erschwert und die PAW sinkt um MTP/2, des Bindenden. 
+Solange der Binden Zauber wirkt ist es meist schwierig sich auf ein Ziel zu konzentrieren und mit Zaubern gezielt anzugreifen. Zudem unterdrückt der Zauber die magische Kraft des eingeschnürten teilweise. Solange Binden wirkt sind alle Zauber (MAT) um 20 erschwert und die Auswirkungen von zaubern (MTP) sind um 3 reduziert. Zielen-Proben sind um 30 erschwert.
+Es ist möglich das Netz zu zerreißen oder mit Zaubern durchzubrennen. Es besitzt eine Stabilität von 3 MTP, das Netz gilt als Schildzauber. Um das Netz zu zerreißen ist eine um 30 erschwerte KK Probe notwendig. Die Probe dauert 30. Der das Netz Zerreißende erleidet dabei MTP/2 Punkte Schaden. Das Netz zu durchbrennen ist möglich indem mit Zaubern ein entsprechender Schaden zugefügt wird.
+Wenn das Netz nicht durch andere Auswirkungen zerstört wird bleibt es für MTP/3 Stunden bestehen.
+	Dauer: 35
+	Kosten: 12
+ 
+Bresche Schlagen
+Voraussetzungen:
+	Schild
+	MG: 40+5*n
+	WK:36+3*n
+	MR:36+4*n
+	IN: 36+5*n
+	LV: 3
+Der Zauber schafft einen kurzzeitigen Zugang durch ein Alarmnetz oder Abwehrnetz. 
+Auf diese Weise kann ein magischer Alarmmechanismus durchquert werden ohne ihn auszulösen. Scheitert der Zauber jedoch wird augenblicklich Alarm ausgelöst.
+Die durch den Zauber zu Seite gedrückten magischen Fäden kehren nach MTP/2 Minuten an ihren ursprünglichen Platz zurück und verschließen die Bresche.
+Die Anforderungen für den Zauber steigen für je Stabilität des zu bewegenden Abwehrmechanismuses um je eine Stufe an. Die Stabilität wird wie bei Schildbrecher beschrieben bestimmt. Für Alarmnetzte wird eine Stabilität von 3 angenommen.
+Der Zauber hat keine Auswirkung auf Goldgespinst und Goldgeflecht.
+Der Zauber Dauert 4 und kostet 2 pro 10 Stabilität des Schildes. Dabei wird immer aufgerundet.
+	Dauer: 4 pro 10 Stabilität
+	Kosten: 2 pro 10 Stabilität 
+
+Dichter Schutzschild
+Voraussetzungen:
+	Schild
+	MG: 21/31/41/51/59/67
+	WK: 19/29/39/49/55/61	
+IN:   20/27/34/41/48/55
+LV:   0 /  0/  3/  3/  5/  7
+Der Zauber erschafft einen magischen Schild.
+Der Schild kann maximal auf der höchsten Ebene die der zaubernde beherrscht erschaffen werden. Um einen Schild auf einer bestimmten Ebene erschaffen zu können müssen die entsprechenden Anforderungen erfüllt werden. Der erste Satz Anforderungen entspricht einem Schild das auf der 2. Ebene sichtbar ist. Der Schild ist nur auf der Ebene auf der er gewirkt wird sichtbar.
+Der Schild kann denjenigen, der sich darunter verbirgt, vor Angriffen schützen, bis dieser seine Energie verbraucht hat. Der Schild ist wie eine Kugel um denjenigen den er Schützt, passt sich aber Hindernissen an die näher als der eigentliche Durchmesser des Schildes sind an. Der Schild kann einen Maximalen Durchmesser von MTP Metern einnehmen. Soll etwas Größeres dadurch geschützt werden, ragt zwangsläufig ein Teil des Ziels aus dem Schild hervor.
+Der Schild hat eine Ladung von Ebene*MTP/2. Jedes Mal wenn durch den Schild geschützte Schaden nehmen würde die der Schild aufnehmen kann, erleidet stattdessen der Schild den Schaden.
+Da der Schild als sehr dicht versponnenes System von Fäden aufgebaut ist kann er auch Angriffe durch Wasser, Sand und Luftmagie abwehren.
+Das Schild wird entweder auf den Zaubernden oder ein Ziel das er berührt gewirkt.
+Der Zauber kann mehrfach auf ein Ziel gewirkt werden, die Schilde stapeln sich dann um den Geschützten herum. Der Zaubernde legt dabei fest an welche Stelle im Schildstapel der Schild einnimmt.
+Der Schild bleibt bestehen bis er alle Stabilitätspunkte verloren hat oder bis MTP/2 Stunden vergangen sind.
+	Dauer: 27/30/33/36/39/42
+	Kosten: 4/7/10/12/14/16
+
+ 
+Einsicht
+Voraussetzungen:
+	Schild
+	KL:36/46/54/60
+	ERF: 28/36/42/46
+	IN:32/42/50/56
+	LV: 0/3/5/7
+Der Zauber erlaubt es dem Zaubernden zu erahnen wie stark ein oder mehrere Schilde in seiner nähre sind.
+Schwache Schilde haben bis 20 Stabilitätspunkte. Mittlere Schilde haben bis 50 Stabilitätspunkte. Starke Schilde haben mehr als 50 Stabilitätspunkte. 
+Stufe I: Der Zaubernde erfährt von einem Schildträger in seinem Sichtbereich ob die Summe der getragenen Schilde schwach, mittel oder stark ist.
+Stufe II: Der Zaubernde erfährt entweder von allen Schildträger in seinem Sichtbereich ob die Summe der getragenen Schilde schwach, mittel oder stark ist. Oder er Erfährt von einem Schildträger die genaue Summe der Stärke seiner Schilde in Stabilitätspunkten oder die Stärke eines Schildes in Stabilitätspunkten.
+Stufe III: Der Zaubernde erfährt entweder von allen Schildträger in seinem Sichtbereich ob die genaue Summe der Stärke der Schilde in Stabilitätspunkten. Oder die Stärke in Stabilitätspunkten aller Schilde eines Schildträgers in seinem Sichtbereich.
+Stufe VI: Der Zaubernde erfährt die genaue Stärke in Stabilitätspunkten aller Schilde aller Schildträger in seinem Sichtfeld.
+	Dauer: 6
+	Kosten: 2
+
+ 
+Erzwungene Schildabgabe
+Voraussetzungen:
+	Schild
+	MG: 22/44
+	WK: 26/ 54
+	ERF: 19/44
+	IN: 26/43
+	LV: 0/3
+Der Zauber nimmt sich Schild, dass jemand anderes geschützt hat.
+Das Ziel der erzwungenen Schildabgabe muss sich in unmittelbarer Nähe des Zaubernden befinden und darf maximal MTP/5 Meter entfernt sein. 
+Das Schild wandert dabei von einem zum anderen sodass, für kurze Zeit keiner der Beiden geschützt ist.
+Ist das Ziel mit der Schildabgabe einverstanden dauert der Zauber 10 ZWZ und Kostet 2 MP.
+Ist das Ziel des Zaubers nicht damit einverstanden seinen Schild abzugeben kommt es zu einer vergleichenden WK Probe, derjenige der den Größeren Abstand zu seinem WK Wert erzielt gewinnt den Vergleich; und das Schild. Kommt es zum Kräftemessen Dauert der Zauber 26 und kostet 6 MP. Für denjenigen der versucht sein Schild fest zu halten kommen Kosten von 10 AU auf die er bei seinem nächsten Zug begleichen muss. Um einem unwilligen Ziel den Schild zu rauben muss der Zaubernde auf Level 3 sein.
+Das Schild kann auf diese Weise auch zwischen zwei anderen Wesen wandern, dann erhält der zaubernde jedoch eine Erschwernis von 10 auf die vergleichende Probe.
+	Dauer: 10/24
+	Kosten: 2/6
+ 
+Fluktuierender Schild
+Voraussetzungen:
+	Schilde
+	MG: 30
+	IN: 30	
+	MUT: 25
+Der Zauber erschafft einen sehr unstetigen Schild. Der Schild reagiert auf die kleinsten Änderungen im Zaubernden, dem Schildträger und der Umwelt sodass sein Verhalten selbst für erfahrene Schilddschinn nicht vorhersehbar ist.
+Der Schild hat eine Basisstabilität von 2 MTP, diese verändert sich jedoch rede Kampfrunde, oder alle 5 Minuten außerhalb des Kampfes.
+Um die Veränderung zu bestimmen wird ein W2 und eine W6 geworfen. Der W2 bestimmt ob der Schild stärker oder schwächer wird. Bei einer geraden Zahl wird der Schild schwächer, bei einer ungeraden stärker. Der W6 legt fest um wie viele Punkte sich die Stärke des Schildes verändert.
+Der Schild löst sich nach MTP/3 Stunden auf oder wenn seine Stabilität null beträgt.
+Der Fluktuierende Schild ist auf der 5. Ebene sichtbar unabhängig davon ob der Zaubernde diese beherrscht oder nicht.
+Der Schild kann nicht von Erzwungene Schildabgabe betroffen werden.
+	Dauer: 26
+	Kosten: 9
+	Vertiefungskosten: 2/3
+ 
+Getarnter Schild
+Voraussetzungen:
+	Schild
+	MG: 24/34/44/54/62/70
+	WK: 20/30/40/50/56/62	
+IN:   26/31/38/45/52/59
+LV:   0 /  0/  3/  3/  5/  7
+Der Zauber erschafft einen magischen Schild der erst eine Ebene höher sichtbar ist als er eigentlich erschaffen wird. Und auch auf dieser Ebene bedarf es einer erfolgreichen Wahrnehmungsprobe (WAH) um den Schild zu entdecken.
+Der Schild kann maximal auf der höchsten Ebene die der zaubernde beherrscht erschaffen werden. Um einen Schild auf einer bestimmten Ebene erschaffen zu können müssen die entsprechenden Anforderungen erfüllt werden. Der erste Satz Anforderungen entspricht einem Schild das auf der 2. Ebene erschaffen wird. 
+Der Schild kann denjenigen, der sich darunter verbirgt, vor Angriffen schützen, bis dieser seine Energie verbraucht hat. Der Schild ist wie eine Kugel um denjenigen den er Schützt, passt sich aber Hindernissen an die näher als der eigentliche Durchmesser des Schildes sind an. Der Schild kann einen Maximalen Durchmesser von MTP Metern einnehmen. Soll etwas Größeres dadurch geschützt werden, ragt zwangsläufig ein Teil des Ziels aus dem Schild hervor.
+Der Schild hat eine Ladung von Ebene*MTP/2. Jedes Mal, wenn durch den Schild geschützte Schaden nehmen würde die der Schild aufnehmen kann, erleidet stattdessen der Schild den Schaden.
+Da der Schild als lose versponnenes System von Fäden aufgebaut ist kann er keine Angriffe durch Wasser, Sand und Luftmagie abwehren.
+Das Schild wird entweder auf den Zaubernden oder ein Ziel das er berührt gewirkt.
+Der Zauber kann mehrfach auf ein Ziel gewirkt werden, die Schilde stapeln sich dann um den Geschützten herum. Der Zaubernde legt dabei fest an welche Stelle im Schildstapel der Schild einnimmt.
+Der Schild bleibt bestehen bis er alle Stabilitätspunkte verloren hat oder bis MTP/2 Stunden vergangen sind.
+	Dauer: 31/34/37/40/43/46
+	Kosten: 5/8/11/13/15/17
+	Vertiefungskosten: 3/4
+
+ 
+Getarnter Schild II
+Voraussetzungen:
+	Schild
+	MG: 32/43/52/60/68/74
+	WK: 30/38/46/54/60/64	
+IN:   34/40/46/52/57/61
+LV:   0 /  3/  3/  5/  5/  7
+Der Zauber erschafft einen magischen Schild der erst zwei Ebene höher sichtbar ist als er eigentlich erschaffen wird. Und auch auf dieser Ebene bedarf es einer erfolgreichen, um 10 erschwerten, Wahrnehmungsprobe (WAH) um den Schild zu entdecken.
+Der Schild kann maximal auf der höchsten Ebene die der Zaubernde beherrscht erschaffen werden. Um einen Schild auf einer bestimmten Ebene erschaffen zu können müssen die entsprechenden Anforderungen erfüllt werden. Der erste Satz Anforderungen entspricht einem Schild dar auf der 2. Ebene erschaffen wird. 
+Der Schild kann denjenigen, der sich darunter verbirgt, vor Angriffen schützen, bis dieser seine Energie verbraucht hat. Der Schild ist wie eine Kugel um denjenigen den er Schützt, passt sich aber Hindernissen an die näher als der eigentliche Durchmesser des Schildes sind an. Der Schild kann einen Maximalen Durchmesser von MTP Metern einnehmen. Soll etwas Größeres dadurch geschützt werden, ragt zwangsläufig ein Teil des Ziels aus dem Schild hervor.
+Der Schild hat eine Ladung von Ebene*MTP/2. Jedes Mal, wenn durch den Schild geschützte Schaden nehmen würde die der Schild aufnehmen kann, erleidet stattdessen der Schild den Schaden.
+Da der Schild als lose versponnenes System von Fäden aufgebaut ist kann er keine Angriffe durch Wasser, Sand und Luftmagie abwehren.
+Das Schild wird entweder auf den Zaubernden oder ein Ziel das er berührt gewirkt.
+Der Zauber kann mehrfach auf ein Ziel gewirkt werden, die Schilde stapeln sich dann um den Geschützten herum. Der Zaubernde legt dabei fest an welche Stelle im Schildstapel der Schild einnimmt.
+Der Schild bleibt bestehen bis er alle Stabilitätspunkte verloren hat oder bis MTP/2 Stunden vergangen sind.
+	Dauer: 35/38/41/44/47/50
+	Kosten: 5/8/11/13/15/17
+Vertiefungskosten: 3/4
+
+ 
+Goldband
+Voraussetzungen:
+	Schilde
+	MG: 42
+	WK: 44
+	MR: 46
+	KL: 36
+Der Zauber erschafft einen Draht aus stark magischem Faden alle alles was ihn berührt Schädigt.
+Wer den Faden unvorsichtig berührt erleidet MTP Punkte Schaden. 
+Der Faden wird weder durch Kontakt noch durch Zauber Geschädigt.
+Der Faden hat eine maximale Länge von MTP/2 Metern. Er wird durch einen Hilfsfaden befestigt, sodass er auch zwischen bis zu MTP Meter entfernten Anschlagpunkten befestigt werden kann.
+Der faden bleibt für MTP/2 Stunden bestehen. Er kann von seinem Schöpfer jedoch auch früher wieder aufgelöst werden.
+	Dauer: 34
+	Kosten: 7
+ 
+Goldgeflecht
+Voraussetzungen:
+	Schilde
+	MG: 56
+	WK: 62
+	MR: 48
+	KL: 48
+	LV: 5
+Der Zauber erschafft ein dichtes Geflecht aus stark magischen Fäden, die alles was sie berührten Schädigen.
+Wer das Goldgespinst unvorsichtig berührt erleidet 1,5*MTP Punkte Schaden. 
+Das Geflecht wird weder durch Kontakt noch durch Zauber Geschädigt.
+Das Geflecht hat eine maximale Ausbreitung von MTP/2 Quadratmetern. Er wird durch Hilfsfäden befestigt, sodass er auch zwischen bis zu MTP Meter entfernten Anschlagpunkten befestigt werden kann.
+Das Geflecht bleibt für MTP/2 Stunden bestehen. Er kann von seinem Schöpfer jedoch auch früher wieder aufgelöst werden.
+	Dauer: 144
+	Kosten: 57
+
+ 
+Goldgespinst
+Voraussetzungen:
+	Schilde
+	MG: 49
+	WK: 54
+	MR: 40
+	KL: 42
+	LV: 3
+Der Zauber erschafft ein Geflecht aus stark magischen Fäden, die alles was sie berührten Schädigen.
+Wer das Goldgespinst unvorsichtig berührt erleidet MTP Punkte Schaden. 
+Das Gespinst wird weder durch Kontakt noch durch Zauber Geschädigt.
+Das Gespinst hat eine maximale Ausbreitung von MTP/2 Quadratmetern. Er wird durch Hilfsfäden befestigt, sodass er auch zwischen bis zu MTP Meter entfernten Anschlagpunkten befestigt werden kann.
+Die Maschen des Gespinsts haben eine Seitenlänge von Je 50/MTP Zentimetern.
+Das Gespinst bleibt für MTP/2 Stunden bestehen. Er kann von seinem Schöpfer jedoch auch früher wieder aufgelöst werden.
+	Dauer: 84
+	Kosten: 27 
+
+Heißkaltschild
+Voraussetzungen:
+	Schild
+	MG: 43
+	WK: 35	
+IN: 24
+ERF: 44
+Der Zauber erschafft einen magischen Schild mit Resistenz gegen eine Art von speziellem Schaden. Entweder Feuerschaden oder Schaden durch Frostzauber.
+Der Schild ist nur auf der 4. Und 5. Ebene sichtbar.
+Der Schild kann denjenigen, der sich darunter verbirgt, vor Angriffen schützen, bis dieser seine Energie verbraucht hat. Dabei nimmt er auch den Schaden durch Angriffe auf die nicht der Resistenz des Schildes entsprechen. 
+Der Schild ist wie eine Kugel um denjenigen den er Schützt, passt sich aber Hindernissen an die näher als der eigentliche Durchmesser des Schildes sind an. Der Schild kann einen Maximalen Durchmesser von MTP Metern einnehmen. Soll etwas Größeres dadurch geschützt werden, ragt zwangsläufig ein Teil des Ziels aus dem Schild hervor.
+Der Schild hat eine Ladung von 1,5*MTP Stabilitätspunkten. Jedes Mal wenn durch den Schild geschützte Schaden nehmen würde die der Schild aufnehmen kann, erleidet stattdessen der Schild den Schaden. Durch die Resistenz des Schildes gegen eine bestimmte Art von Schaden, wird Schaden der der Resistenz des Schildes entspricht auf 20% des Ausgangswertes reduziert.
+Da der Schild als feinmaschiges Netz aufgebaut ist kann er Angriffe durch Wasser, Sand und Luftmagie nicht abwehren.
+Das Schild wird entweder auf den Zaubernden oder ein Ziel das er berührt gewirkt.
+Der Zauber kann mehrfach auf ein Ziel gewirkt werden, die Schilde stapeln sich dann um den Geschützten herum. Der Zaubernde legt dabei fest an welche Stelle im Schildstapel der Schild einnimmt.
+Der Schild bleibt bestehen bis er alle Stabilitätspunkte verloren hat oder bis MTP/2 Stunden vergangen sind.
+	Dauer: 37
+	Kosten: 11
+ 
+Kokon
+Voraussetzungen:
+	Schild
+	MG: 53
+	WK: 48
+	ERF: 42
+	KL: 42
+	LV: 3
+Der Zauber Sperrt ein andres Wesen oder den Zaubernden selbst in einen stabilen Kokon.
+Weigert sich das Ziel des Zaubers gegen die Behandlung steht ihm eine freie Magieparade zur Verfügung.
+Im Kokon ist das Ziel des Zaubers vollständig von seiner Umwelt abgeschnitten. Es hat keinerlei Sinneswahrnehmungen die es nicht von ihm selbst kommen.
+Das der Kokon nur einen Durchmesser von rund 30 Zentimetern und eine Länge von 70 Zentimetern aufweist ist es im Kokon recht eng. Das macht aber Garnichts, da in dem Kokon keine Notwendigkeit für eine definierte Gestalt besteht. Der Zauber löst sogar zwangsweise die bisherige Gestalt des Zieles auf, sodass ein sich im Kokon befindliches Wesen, auch eines aus unserer Welt, immer gestaltlos ist.
+Der Kokon verwahrt seinen Gast für 2 MTP Stunden. Das führt bei Wesen aus unserer Welt leicht zu Wahnsinn, wenn keine um 20 erschwerte WK-Probe bestanden wird. Wesen vom Anderen Ort tuen sich etwas leichter damit, ohne äußere Sinneswahrnehmung ihr geistige Gesundheit zu wahren, für sie fällt aber auch eine um 20 erleichterte WK-Probe an. Wie ausgeprägt der Wahnsinn ist der beim Scheitern der Probe entsteht, liegt an den speziellen Umständen des Zaubers und des Ziels. Klaustrophobie ist quasi immer die Folge.
+Der Kokon weist eine Stabilität von 100*MTP Punkten auf, die sich mit einer Rate von 10 pro Minute wieder herstellt, sodass der Kokon nahezu unzerstörbar ist.
+Nach Ablauf des Zaubers öffnet sich der Kokon an einer Seite und sein Insasse strömt heraus wobei er langsam wieder Gestalt annimmt. Wird nicht gezielt etwas Anderes herbeigeführt handelt es sich dabei um die Gestalt die er beim Eintritt in den Kokon besaß.
+Während der Ruhezeit im Kokon regenerieren Wesen vom Anderen Ort MTP Lebenspunkte und 2 MTP Manapunkte. Wesen aus unserer Welt regenerieren lediglich MTP Lebenspunkte.
+	Dauer: 34
+	Kosten: 16
+	Vertiefungskosten: 4/5
+ 
+Komprimierter Schild
+Voraussetzungen:
+	Schild
+	MG: 34
+	WK: 39
+	MR: 29
+	KO: 34
+Der Zauber erschafft ein rundes Schild, wie es von Kämpfern verwendet wird.
+Das Schild hat einen Radius von bis zu MTP/10 Metern.
+Das Schild kann entweder verwendet werden um Angriffen mit offensiver Magie abzuwehren oder um Nahkampfangriffe zu verteidigen. Das Schild hat eine Basisstabilität von MTP/2, die durch jeden erfolgreichen Einsatz um eins reduziert wird.
+Wird das Schild gegen magische Angriffe eingesetzt, wird zusätzlich zur Magieparade eine normale, um 10 erleichterte, Parade für das komprimierte Schild gewürfelt. Beides zusammen gilt als eine defensive Aktion. Gelingen beide Proben verhindert dieses den angerichteten Schaden um MPAW+ PAW/2+1W10. Gelingt nur die Magieparade wird sie normal ausgeführt. Gelingt nur der Einsatz des Schildes wird der Schaden nur um PAW/2+1W10 reduziert.
+Wird das Eisschild im Nahkampf eingesetzt erhöht es die Erfolgswahrscheinlichkeit der Parade um 20. Das Eisschild erhöht zudem die Paradewirkung (PAW) des Trägers um MTP.
+Das Schild kann für 1MP und 4 ZWZ je einen Stabilitätspunkt zusätzlich zu seinem Aktuellen Stand bekommen. Die Ausbesserung wird mit ZÜZ durgeführt. Werden jedoch mehrere Ausbesserungen auf einmal durchgeführt fällt zwischen diesen keine ZÜZ an. Die Stabilität kann bis maximal MTP angehoben werden. Durch den Zauber Netz stärken wird dieses Maximum um MTP/2 bis maximal 2,5 MTP angehoben werden. 
+Das Schild wird an einer Stelle der Gestalt verankert. Diese Stelle kann entweder durch eine Schildabgabe an sich selbst, den Zauber Schildstapel umsortieren oder eine Verwandlung verändert werden. 
+Das Schild löst sich auf, wenn die Stabilität des Schildes aufgebraucht wurde oder wenn MTP/2 Stunden seit dem Erstellen des Schildes oder der letzten Ausbesserung vergangen sind.
+Das Schild kann nicht abgegeben werden. Dies kann durch die Gabe Ach, mein Arm -dein Arm umgangen werden.
+	Dauer: 28/4
+	Kosten: 11/1
+ 
+Kupferschild
+Voraussetzungen:
+	Schild:
+	MG: 41
+	WK: 43
+	MR: 36
+	IN: 34
+Der Zauber erschafft ein Schild in das einzelne verstärkte, magische Fäden eingewoben sind.
+Die verstärkten Fäden sind eine schwächere Version des Goldbandes. Die zwar die Stärke des Schildes nicht signifikant erhöht, dafür aber bei Kontakt Nahdistanzkämpfer verletzt. Durch die eingeflochtenen, verstärkten Fäden erleiden Gegner im Nahkampf bei jedem erfolgreichen Angriff der das Schild trifft Schaden in Höhe 1/3 ihrer eigenen TP.
+Zusätzlich bedarf es einer Konstitutions-Probe (KO) um den Angriff trotz des Schmerzes mit voller Kraft durchzuziehen. Scheitert die Probe reduziert sich der Schaden des Angriffs auf TP/2.
+Da das Schild sehr dicht am Körper getragen werden muss ums einen Zweck erfüllen zu können, können darunter keine weiteren Schilde gestapelt werden.
+Durch die Kupferfäden ist das Schild auf allen Ebenen ab der Zweiten sichtbar.
+Das Schild hat eine Stabilität von 2 MTP.
+	Dauer: 38
+	Kosten: 12
+Vertiefungskosten: 3/4
+ 
+Netz stärken
+Voraussetzungen:
+	Schild
+	MG: 26
+	WK: 34
+	IN: 44
+Der Zauber verstärkt einen bereits vorhandenen Schildzauber. Damit wird entweder ein Abwehrschild verstärkt oder die Verweildauer eines Goldband-Zaubers oder Kuppelzaubers erhöht.
+Um den Zauber auf ein Schild einsetzten zu können muss sich der Zaubernde innerhalb von MTP/3 Metern zum Ziel des Zaubers befinden.
+Wird der Zauber auf ein Schutzschild, Dichtes Schutzschild oder Heißkaltschild gewirkt erhöhen sich dessen Stabilitätspunkte um MTP, sodass dies entsprechend mehr Schaden abhalten kann bevor es zerfällt. Die Verweildauer des Schildes wird außerdem um MTP/4 Stunden erhöht.
+Wird der Zauber auf ein Goldband, Goldgeflecht oder Goldgespinst gewirkt erhöht sich dessen Verweildauer um MTP/4 Stunden.
+Wird der Zauber auf ein Alarmnetz gewirkt zerfällt dieses nicht beim ersten Mal bei dem es Auslöst sondern setzt sich nach etwa einer Minute wieder zusammen und kann erneut ausgelöst werden. Das Netz kann sich durch Netz stärken zwei Mal wieder zusammensetzten.
+Wird der Zauber auf ein Abwehrnetz angewandt erhöht sich dessen Stabilität um MTP Punkte. Außerdem Steigt die Verweildauer des Netzes um MTP/2 Stunden.
+Wird der Zauber auf eine Abwehrkuppel oder Alarmkuppel gewirkt erhöht sich deren Verweildauer um MTP/2 Tage. Um den Zauber auf Kuppel anzuwenden wird die fünffache Dauer und auch fünffache Kosten benötigt.
+	Dauer: 12
+	Kosten: 5
+ 
+Reflektierender Kompressionsschild
+Voraussetzungen:
+	Schild
+	MG: 48
+	WK: 43
+	MR: 35
+	IN: 44
+	KO: 34
+	LV: 3
+Der Zauber erschafft ein rundes Schild, wie es von Kämpfern verwendet wird.
+Das Schild hat einen Radius von bis zu MTP/10 Metern.
+Das Schild kann entweder verwendet werden um Angriffen mit offensiver Magie abzuwehren oder um Nahkampfangriffe zu verteidigen. Das Schild hat eine Basisstabilität von MTP/2, die durch jeden erfolgreichen Einsatz um eins reduziert wird.
+Wird das Schild gegen magische Angriffe eingesetzt, wird zusätzlich zur Magieparade eine normale, um 10 erleichterte, Parade für das komprimierte Schild gewürfelt. Beides zusammen gilt als eine defensive Aktion. Gelingen beide Proben verhindert dieses den angerichteten Schaden um MPAW+ PAW/2+1W10. Gelingt nur die Magieparade wird sie normal ausgeführt. Gelingt nur der Einsatz des Schildes wird der Schaden nur um PAW/2+1W10 reduziert. Gelingt die Parade mit dem Schild werden zusätzlich 10% des Schadens der den Schild trifft zur Quelle des Schädigen Effektes reflektiert. Der reflektierte Schaden wird von dem bei Parierenden wirkenden Schaden abgezogen.
+Wird das Eisschild im Nahkampf eingesetzt erhöht es die Erfolgswahrscheinlichkeit der Parade um 20. Das Eisschild erhöht zudem die Paradewirkung (PAW) des Trägers um MTP.
+Das Schild kann für 2MP und 6 ZWZ je einen Stabilitätspunkt zusätzlich zu seinem Aktuellen Stand bekommen. Die Ausbesserung wird mit ZÜZ durgeführt. Werden jedoch mehrere Ausbesserungen auf einmal durchgeführt fällt zwischen diesen keine ZÜZ an. Die Stabilität kann bis maximal MTP angehoben werden. Durch den Zauber Netz stärken wird dieses Maximum um MTP/2 bis maximal 2,5 MTP angehoben werden. 
+Das Schild wird an einer Stelle der Gestalt verankert. Diese Stelle kann entweder durch eine Schildabgabe an sich selbst, den Zauber Schildstapel umsortieren oder eine Verwandlung verändert werden. 
+Das Schild löst sich auf, wenn die Stabilität des Schildes aufgebraucht wurde oder wenn MTP/2 Stunden seit dem Erstellen des Schildes oder der letzten Ausbesserung vergangen sind.
+Das Schild kann nicht abgegeben werden. Dies kann durch die Gabe Ach, mein Arm -dein Arm umgangen werden.
+	Dauer: 45/6
+	Kosten: 17/2
+	Vertiefungskosten: 3/4
+ 
+Reflektierender Schild
+Voraussetzungen:
+	Schild
+MG:	40	46	52	58
+WK:	34	39	49	54
+IN:	38	42	50	54
+WAH:	24	27	34	37
+LV: 	3	3	5	5
+ Der Schutzschild sendet einen Teil des Schadens der es trifft zurück zum Verursacher des schädigenden Effektes. Dies ist jedoch nur bei Schadenszaubern und nichtmagischen Effekten möglich die direkt vom Zaubernden zum Träger des Schildes Führen wie Geschosse, Strahlen und Auren. Schadenzauber die aus einer anderen Richtung als der Zaubernde Angreifen wie beispielsweise Eruption können von dem reflektierenden Schild nicht reflektiert werden.
+Die vom Schild zurückgesandte Energie wird wie ein Geschoss gehandhabt, es ist jedoch keine Ziele-Probe (ZI) notwendig.
+Der Zauber ist eine modifizierte Version des Schutzschild Zaubers und besitzt die gleiche Erscheinungsform und die gleichen Beschränkungen beim Aufnehmen von Schaden. Der reflektierende Schild ist auf der vieren Ebene sichtbar. Ist die höchste Ebene des Schöpfers des Schildes kleiner als das erscheint der Schild auf der höchsten Ebene des Schöpfers.
+Der Schild hat 2*MTP Stabilitätspunkte. Der Schild bleibt bestehen bis er alle Stabilitätspunkte verloren hat oder bis MTP/2 Stunden vergangen sind.
+Das Schild sendet beim ersten Satz Anforderungen 10% des vom Schild aufgefangenen Schadens zurück zum Schöpfer des Schädigenden Effektes. Der auf den Schild wirkende Schaden wird dadurch nicht beeinflusst.
+Beim zweiten Satz Anforderungen wird der auf den Schild einwirkende Schaden um den zurückgesandten Anteil reduziert.
+Der dritte Satz sendet 20% des übernommenen Schadens zurück ohne den vom Schild erlittenen Schaden zu reduzieren. 
+Der vierte Satz sendet 20% des Schadens zurück und reduziert den vom Schild aufzufangenden Schaden um die Größe des zurückgesandten Effekts.
+Dauer:	38	42	48	52
+Kosten:	12	13	14	15
+	Vertiefungskosten: 3/4
+
+ 
+Reflektierender Schild II
+Voraussetzungen:
+	Schild
+MG:	48	53	58	63	68
+WK:	40	46	52	58	64
+IN:	40	44	48	52	56
+MR:	38	44	49	54	59
+WAH:	30	34	37	40	43
+LV: 	3	5	5	7	9
+ Der Schutzschild sendet einen Teil des Schadens der es trifft zurück zum Verursacher des schädigenden Effektes. Dies ist jedoch nur bei Schadenszaubern und nichtmagischen Effekten möglich die direkt vom Zaubernden zum Träger des Schildes Führen wie Geschosse, Strahlen und Auren. Schadenzauber die aus einer anderen Richtung als der Zaubernde Angreifen wie beispielsweise Eruption können von dem reflektierenden Schild nicht reflektiert werden.
+Die vom Schild zurückgesandte Energie wird wie ein Geschoss gehandhabt, es ist jedoch keine Ziele-Probe (ZI) notwendig.
+Der Zauber ist eine modifizierte Version des Schutzschild Zaubers und besitzt die gleiche Erscheinungsform und die gleichen Beschränkungen beim Aufnehmen von Schaden. Der reflektierende Schild ist auf der vieren Ebene sichtbar. Ist die höchste Ebene des Schöpfers des Schildes kleiner als das erscheint der Schild auf der höchsten Ebene des Schöpfers.
+Der Schild hat 2*MTP Stabilitätspunkte. Der Schild bleibt bestehen bis er alle Stabilitätspunkte verloren hat oder bis MTP/2 Stunden vergangen sind.
+Das Schild sendet beim ersten Satz Anforderungen 10% des vom Schild aufgefangenen Schadens zurück zum Schöpfer des Schädigenden Effektes. Der auf den Schild wirkende Schaden wird dadurch nicht beeinflusst.
+Beim zweiten Satz Anforderungen wird der auf den Schild einwirkende Schaden um den zurückgesandten Anteil reduziert.
+Der dritte Satz sendet 20% des Schadens zurück und reduziert den vom Schild aufzufangenden Schaden um die Größe des zurückgesandten Effekts.
+Wird der vierte Satz an Anforderungen Erfüllt kann der reflektierende Schild 25% des Aufgenommenen Schadens zurückschicken. Der zurückgesandte Effekt wird von dem Auf den Schild einwirkenden Schaden abgezogen.
+Wird auch der fünfte Satz Anforderungen Erfüllt sendet der Schild sogar ein Drittel des erhaltenen Schadens zurück. Der zurückgesandte Effekt wird von dem Auf den Schild einwirkenden Schaden abgezogen.
+Dauer:	32	36	42	48	54
+Kosten:	12	13	14	15	16
+Vertiefungskosten: 4/5 
+
+Schildabgabe
+Voraussetzungen:
+	Schild
+	MG: 28
+	ERF: 21
+	IN: 36
+Der Zauber gibt sin Schild das ihn Schützt an jemand anderen ab.
+Das Ziel der Schildabgabe muss sich in unmittelbarer Nähe des Abgebenden befinden und darf maximal MTP/5 Meter entfernt sein. 
+Das Schild wandert dabei von einem zum anderen sodass, für kurze Zeit keiner der Beiden geschützt ist.
+	Dauer: 10
+	Kosten: 2
+ 
+Schildbrecher
+Voraussetzungen:
+	Art: Schild
+	MG: 28+4*n
+	MK: 26+6*n
+	ERF: 22+4*n
+	IN: 28+4*n
+Der Zauber Zerstört ein Schildgeflecht. 
+Kosten und Schwierigkeit des Zaubers sind abhängig von der Stabilität des Schildes.
+Ein normales Alarmnetz hat eine Stabilität in Abhängigkeit von der Ebene auf der es gewirkt wurde. Diese Beträgt: erste Ebene auf der das Schild sichtbar ist mal zehn.
+Schutzschilde, dichte Schutzschilde und Heißkaltschilde habe eine Stabilität in Höhe ihrer verbleibenden Stabilitätspunkte. 
+Goldfaden, Goldgespinst und Goldgeflecht haben eine Stabilität von MTP des Schöpfers mal zehn.
+Pro zehn Stabilität des Schildes steigen die Anforderungen die notwendig sind um den Zauber ausführen zu können um eine Stufe an.
+Die Kosten des Zaubers beläuft sich auf 3 pro 10 Stabilität des Schildes, es wird immer aufgerundet. Die Dauer liegt bei 10 pro 10 Stabilität. Auch hier wird immer aufgerundet.
+	Dauer: 10 pro 10 Stabilität
+	Kosten: 3 pro 10 Stabilität
+ 
+Schildstapel umsortieren
+Voraussetzungen:
+	Schild
+	MG: 16
+	MK: 14
+Der Zauber verändert die Reihenfolge in der die Schilde um ein Ziel gestapelt sind.
+Wird ein Ziel durch mehrere Schilde geschützt nimmt immer der äußerste Schild als erstes den Schaden auf. 
+Um die Schilde in eine andere als die derzeit bestehende Reihenfolge zu bringen ist es notwendig Schildstapel umsortieren einzusetzen um die bisherige Reihenfolge der Schilde zu ändern.
+Beim erschaffen eines neuen Schildes kann nur die Position dieses einen Schildes innerhalb des Schildstapels festgelegt werden.
+Das Ziel des Zaubers darf sich maximal MTP/2 Meter vom Zaubernden entfernt befinden und muss mit der Änderung der Schildreihenfolge nicht einverstanden sein.
+Der Zauber hat eine Dauer von 6+1pro Schild im Schildstapel.
+	Dauer: 6+n
+	Kosten: 2
+ 
+Schutzschild
+Voraussetzungen:
+	Schild
+	MG: 19/29/39/49/57/65
+	WK: 13/23/33/43/49/55	
+IN: 20/27/34/41/48/55
+LV: 0/0/0/0/3/5
+Der Zauber erschafft einen magischen Schild.
+Der Schild kann maximal auf der höchsten Ebene die der zaubernde beherrscht erschaffen werden. Um einen Schild auf einer bestimmten Ebene erschaffen zu können müssen die entsprechenden Anforderungen erfüllt werden. Der erste Satz Anforderungen entspricht einem Schild das auf der 2. Ebene sichtbar ist. Der Schild ist nur auf der Ebene auf der er gewirkt wird sichtbar.
+Der Schild kann denjenigen, der sich darunter verbirgt, vor Angriffen schützen, bis dieser seine Energie verbraucht hat. Der Schild ist wie eine Kugel um denjenigen den er Schützt, passt sich aber Hindernissen an die näher als der eigentliche Durchmesser des Schildes sind an. Der Schild kann einen Maximalen Durchmesser von MTP Metern einnehmen. Soll etwas Größeres dadurch geschützt werden, ragt zwangsläufig ein Teil des Ziels aus dem Schild hervor.
+Der Schild hat eine Ladung von Ebene*MTP/2. Jedes Mal wenn durch den Schild geschützte Schaden nehmen würde die der Schild aufnehmen kann, erleidet stattdessen der Schild den Schaden.
+Da der Schild als feinmaschiges Netz aufgebaut ist kann er Angriffe durch Wasser, Sand und Luftmagie nicht abwehren.
+Das Schild wird entweder auf den Zaubernden oder ein Ziel das er berührt gewirkt.
+Der Zauber kann mehrfach auf ein Ziel gewirkt werden, die Schilde stapeln sich dann um den Geschützten herum. Der Zaubernde legt dabei fest an welche Stelle im Schildstapel der Schild einnimmt.
+Der Schild bleibt bestehen bis er alle Stabilitätspunkte verloren hat oder bis MTP/2 Stunden vergangen sind.
+	Dauer: 17/20/23/26/29/32
+	Kosten: 3 /6  /9 /11/13/15
+ 
+Schutzschild II
+Voraussetzungen:
+	Art: Schild
+	MG: 21/31/41/51/59/67/75
+	WK: 13/23/33/43/49/55/61	
+IN:   20/27/34/41/48/55/62
+LV:   0  /0  /3  /3  /5  /7  /9
+Der Zauber erschafft einen magischen Schild.
+Der Schild kann maximal auf der höchsten Ebene die der zaubernde beherrscht erschaffen werden. Um einen Schild auf einer bestimmten Ebene erschaffen zu können müssen die entsprechenden Anforderungen erfüllt werden. Der erste Satz Anforderungen entspricht einem Schild das auf der 2. Ebene sichtbar ist. Der Schild ist nur auf der Ebene auf der er gewirkt wird sichtbar.
+Der Schild kann denjenigen, der sich darunter verbirgt, vor Angriffen schützen, bis dieser seine Energie verbraucht hat. Der Schild ist wie eine Kugel um denjenigen den er Schützt, passt sich aber Hindernissen an die näher als der eigentliche Durchmesser des Schildes sind an. Der Schild kann einen Maximalen Durchmesser von 2 MTP Metern einnehmen. Soll etwas Größeres dadurch geschützt werden, ragt zwangsläufig ein Teil des Ziels aus dem Schild hervor.
+Der Schild hat eine Ladung von Ebene*(MTP/2+1). Jedes Mal, wenn durch den Schild geschützte Schaden nehmen würde die der Schild aufnehmen kann, erleidet stattdessen der Schild den Schaden.
+Da der Schild als feinmaschiges Netz aufgebaut ist kann er Angriffe durch Wasser, Sand und Luftmagie nicht abwehren.
+Das Schild wird entweder auf den Zaubernden oder ein Ziel das er berührt gewirkt.
+Der Zauber kann mehrfach auf ein Ziel gewirkt werden, die Schilde stapeln sich dann um den Geschützten herum. Der Zaubernde legt dabei fest an welche Stelle im Schildstapel der Schild einnimmt.
+Der Schild bleibt bestehen bis er alle Stabilitätspunkte verloren hat oder bis MTP Stunden vergangen sind.
+	Dauer:  16/19/22/25/28/31/34
+	Kosten: 3  /6  /9  /11/13/15/17
+	Vertiefungskosten: 5/7
+ 
+Stolperdraht
+Voraussetzungen:
+	Schild
+	MG: 15
+	ERF: 20
+Der Zauber spannt einen sehr dünnen magischen Faden. 
+Der Faden ist nur auf der höchsten Ebene des Zaubernden, und auch dort nur schwer,  erkennbar. 
+Der Faden wird zwischen zwei Dinge gespannt und ist sehr stabil. Es benötigt eine Kraftprobe (KK) um ihn zu zerreißen. Durch seine Stabilität und seine schlechte Sichtbarkeit eignet sich der Faden gut als Stolperfalle oder um in ähnlicher Weise als Hindernis eingesetzt zu werden. 
+Wenn sich jemand kraftvoll gegen den Faden bewegt erleidet derjenige Schaden in Höhe von MTP/2+ 1W6. Der Zauber gilt als Schadenzauber.
+Der Faden bleibt für MTP Tage bestehen bevor er sich auflöst.
+	Dauer: 14
+	Kosten: 3

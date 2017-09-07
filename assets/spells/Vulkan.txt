@@ -1,0 +1,558 @@
+Vulkan
+Vulkandschinn sind für ihre Zerstörungswut, ihre Gewalttätigkeit und ihren Wahnsinn berüchtigt. Sie wurden ausschließlich von Inkamagiern beschworen, bei denen sie auch mehr zum Ansehen des Zauberers beitragen sollten als dass sie tatsächlich in den Kampf geschickt wurden. 
+Damit die hoffentlich neidischen Kollegen, das geschaffene Meisterwerk auch in voller Pracht bewundern konnten wurden die meisten Vulkandschinn mit recht wenig Ebenen erschaffen oder sollten zumindest eine Gestalt annehmen die ihr Wesen deutlich wiederspiegelt.
+Auf dem Schlachtfeld fühlen sich Vulkandschinn deutlich wohler denn als Prestigeobjekt. Sie können durch ihre enorme Zerstörungskraft ein Schlachtfeld schnell in ein Blutbad verwandeln über das nicht selten auch ihre eigene Substanz reichlich verteilt ist.
+Nachdem die Beschwörung von Vulkandschinn in den Kriegen gegen die Britischen Truppen in Südamerika eine Renaissance erlebte werden sie heute aufgrund ihres selbstzerstörerischen Wahnsinns weitgehend gemieden. 
+ 
+Ansteckender Irrsinn
+Voraussetzungen:
+	Vulkan
+	WK: 54
+	IN: 28
+Durch den Zauber erhält das Ziel des Zaubers einen Wahnsinnigen Zug des Zaubernden. 
+Im Regelfall handelt es sich dabei um die selbstzerstörerische Vernichtung  die Vulkandschinn auszeichnet. Es kann jedoch auch ein anderer Wahnsinniger Zug sein den der Zaubernde als Nachteil besitzt.
+Voraussetzung für den Zauber ist, dass sich die Augen des Zaubernden und des Zieles über eine Distanz unter MTP Metern treffen. Der Blickkontakt kann unmittelbar vor oder nach wirken des Zaubers erfolgen.
+Das Ziel des Zaubers kann dem Effekt des Zaubers entweder durch eine reguläre Magieparade (MPA) oder durch eine freie um 10 erschwerte Widerstandsprobe mit der Magieresistenz (MR) widerstehen. Es kann nur eine der beiden Abwehraktionen durchgeführt werden.
+Ist das Ziel mit dem Wahnsinn infiziert kann es diesen erst in einer ruhigen Situation durch eine MR-Probe abschütteln.
+Durch einen kritischen Erfolg des Zaubernden wird die Abwehr gegen den Zauber um 10 weitere Punkte erschwert. Durch einen kritischen Erfolg oder einen Patzer bei der Verteidigung gegen den Zauber wird der Wahnsinn permanent übertragen. 
+Der durch den Zauber übertragene Irrsinn bleibt beim Zaubernden weiterhin vollständig bestehen. 
+	Dauer: 16
+	Kosten: 6
+
+ 
+Aura der sengenden Hitze
+Voraussetzungen:
+	Vulkan
+	MG: 38
+	WK: 42
+	MR: 32
+	MUT: 26
+Durch den Zauber strahlt der Zaubernde eine enorme Hitze aus.
+Die Hitze verbrennt alle in einem Radius von MTP/3 Metern um den Zaubernden mit 3 Punkten Schaden pro Kampfrunde.
+Wer den Zaubernden im Nahkampf trifft oder von ihm pariert wird erleidet 4 Punkte zusätzlichen Schaden.
+Den Zauber aufrecht zu halten erfordert jede Runde 7 ZWZ, ohne Übergangszeit, und 4 MP.
+Vulkandschinn sind von den Auswirkungen nicht betroffen und Feuerdschinn erhalten nur einen Punkt Schaden. Auch im Nahkampf.
+	Dauer: 22/7
+	Kosten: 8/4
+
+ 
+Einbrennen
+Voraussetzungen:
+	Vulkan
+	MG: 30
+	WK: 36
+	ERF: 25
+	GE: 22
+ 	MUT: 31
+Der Zauber bedeckt die Hände des Zaubernden mit heißer Lava, die über einen Gegner verteilt wird und sich in diesen einbrennt.
+Der Zauber muss vorbereitet werden und kann dann verwendet werden um einen Nahkampfangriff zu unterstützen. Zum Vorbereiten muss der Zauber mit 30 ZWZ, 6 MP und keiner MAT-Probe gewirkt werden.
+Nun wird der Zauber beim nächsten Nahkampfangriff durch eine MAT-Probe und 7 MP aktiviert. Der Angriff muss wie eine MNAT Angriff Pariert werden. Verfehlt der Angriff kann der Zauber für 3 MP mit einem Aufwand von 6 ZWZ, ohne Übergangszeit, aufrecht gehalten und bei einem direkt darauffolgenden Nahkampfangriff erneut verwendet werden. Der Nahkampfangriff gilt auch in der nächsten Kampfrunde als direkt folgend, wenn zwischendurch keine andere Aktion als, maximal dreifaches, Fortbewegen durchgeführt wurde.
+Trifft der Nahkampfangriff und der Zauber wird erfolgreich aktiviert, so richtet der nahkampfangriff 1,5 MTP zusätzlichen Schaden an. Außerdem erleidet der getroffene in der Folgerunde MTP Punkte weiteren Schaden durch die sich in ihn einbrennende Lava. In der Runde darauf gibt es nochmal MTP/2 Punkte Schaden für das arme Opfer des Zaubers.
+	Dauer: 30/0/6
+	Kosten: 5/7/3
+
+
+
+ 
+Eruption
+Voraussetzungen:
+	Vulkan
+	MG: 24
+	WK: 48
+	IN: 28
+	MUT: 22
+Durch den Zauber kommt ein Lavastoß aus der Erde.
+Die Stelle an der die Lava mit einiger Gewalt aus der Tiefe an die Oberfläche bricht wird kurz vor dem Durchbruch bereits heiß und zeigt leichte Sprünge, sodass die Ausweichen-Probe (AW) um 15 erleichtert ist.
+Wenn die Lava dann in einer Fontäne mit einem Durchmesser von MTP/4 Meter und einer Höhe von MTP/2 Metern in die Höhe schießt erleiden alle die von diesem sengenden Ausbruch getroffen werden 3 MTP Schaden.
+Der Magmastrom bricht nach der ersten Eruption ab und der Lavastoß fällt zu Boden, wo er langsam erkaltet. Tritt jemand in die noch glühende Lava, so erleidet er MTP Punkte Schaden. Die Lava glüht noch für mindestens MTP/2 Kampfrunden.
+Der vom Zaubernden für den Durchbruch des Magmastoßes gewählte stelle darf sich maximal MTP Meter von ihm entfernt befinden und muss natürlich auf dem Erdboden liegen.
+	Dauer: 46
+	Kosten: 21
+
+
+ 
+Eruptionscluster
+Voraussetzungen:
+	Vulkan
+	MG: 44
+	WK: 61
+	IN: 39
+	ERF: 24
+	MUT: 44
+	LV: 5
+Durch den Zauber kommt ein Reihe Lavastöße aus der Erde.
+Die Lava bricht an MTP/4 Stellen mit einiger Gewalt aus der Tiefe an die Oberfläche. Diese Stellen befinden sich unter zufälligen Wesen (vom Anderen Ort) in der Nähe des Zaubernden. Dabei ist die Wahrscheinlichkeit, dass ein verbündetes Wesen getroffen wird halb so groß wie die Wahrscheinlichkeit, dass ein Gegner getroffen wird.
+Die Stellen an denen das Magma aus der Erde stößt werden kurz vor dem Durchbruch bereits heiß und zeigen leichte Sprünge, sodass die Ausweichen-Probe (AW) um 15 erleichtert ist.
+Wenn die Lava dann in einer Fontäne mit einem Durchmesser von MTP/5 Meter und einer Höhe von MTP/2 Metern in die Höhe schießt erleiden alle die von diesem sengenden Ausbruch getroffen werden 2,5 MTP Schaden.
+Der Magmastrom bricht nach der ersten Eruption ab und der Lavastoß fällt zu Boden, wo er langsam erkaltet. Tritt jemand in die noch glühende Lava, so erleidet er MTP Punkte Schaden.
+Die Stellen an denen der Durchbruch des Magmastoßes geschieht dürfen sich maximal MTP Meter vom Zaubernden entfernt befinden und müssen natürlich auf dem Erdboden liegen. Fliegende Wesen können trotzdem Ziel des Zaubers sein solange sie sich, wenn der Zauber gewirkt wird innerhalb der maximal erreichbaren Höhe der Lavafontainen befinden.
+	Dauer: 93
+	Kosten: 43
+ 
+Eruptionscluster II
+Voraussetzungen:
+	Vulkan
+	MG: 52
+	WK: 68
+ 	IN:44
+	ERF: 29
+	MUT: 50
+	LV: 7
+Durch en Zauber kommt ein Reihe Lavastöße aus der Erde.
+Die Lava bricht an MTP/3 Stellen mit einiger Gewalt aus der Tiefe an die Oberfläche. Diese Stellen befinden sich unter zufälligen Wesen vom Anderen Ort in der Nähe des Zaubernden. Dabei ist die Wahrscheinlichkeit, dass ein verbündetes Wesen getroffen wird halb so groß wie die Wahrscheinlichkeit, dass ein Gegner getroffen wird.
+Die Stellen an denen das Magma aus der Erde stößt werden kurz vor dem Durchbruch bereits heiß und zeigt leichte Sprünge, sodass die Ausweichen-Probe (AW) um 15 erleichtert ist.
+Wenn die Lava dann in einer Fontäne mit einem Durchmesser von MTP/5 Metern und einer Höhe von MTP/2 Metern in die Höhe schießt erleiden alle die von diesem sengenden Ausbruch getroffen werden 3 MTP Schaden.
+Der Magmastrom bricht nach der ersten Eruption ab und der Lavastoß fällt zu Boden, wo er langsam erkaltet. Tritt jemand in die noch glühende Lava, so erleidet er MTP Punkte Schaden.
+Die Stellen an denen der Durchbruch des Magmastoßes geschieht dürfen sich maximal MTP Meter vom Zaubernden entfernt befinden und müssen natürlich auf dem Erdboden liegen.
+	Dauer: 90
+	Kosten: 40
+	Vertiefungskosten: 4/5
+ 
+Gesteuertes Eruptionscluster
+Voraussetzungen:
+	Vulkan
+	MG: 56
+	WK: 62
+	IN: 41
+	ERF: 34
+	MUT: 42
+	LV: 5
+Durch en Zauber kommt ein Reihe Lavastöße aus der Erde.
+Die Lava bricht an MTP/4 Stellen mit einiger Gewalt aus der Tiefe an die Oberfläche. Diese Stellen befinden sich unter zufälligen Wesen vom Anderen Ort in der Nähe des Zaubernden. Dabei ist die Wahrscheinlichkeit, dass ein Verbündetes Wesen vom Anderen Ort getroffen wird nur ein Viertel so groß wie die Wahrscheinlichkeit, dass ein Gegnerisches getroffen wird.
+Die Stellen an denen das Magma aus der Erde stößt werden kurz vor dem Durchbruch bereits heiß und zeigt leichte Sprünge, sodass die Ausweichen-Probe (AW) um 15 erleichtert ist.
+Wenn die Lava dann in einer Fontäne mit einem Durchmesser von MTP/4 Meter und einer Höhe von MTP/2 Metern in die Höhe schießt erleiden alle die von diesem sengenden Ausbruch getroffen werden 2 MTP Schaden.
+Der Magmastrom bricht nach der ersten Eruption ab und der Lavastoß fällt zu Boden, wo er langsam erkaltet. Tritt jemand in die noch glühende Lava, so erleidet er MTP Punkte Schaden.
+Die Stellen an denen der Durchbruch des Magmastoßes geschieht dürfen sich maximal MTP Meter vom Zaubernden entfernt befinden und müssen natürlich auf dem Erdboden liegen.
+	Dauer: 102
+	Kosten: 38
+	Vertiefungskosten: 5/6
+ 
+Geteiltes Leid
+Voraussetzungen:
+	Vulkan
+	MG: 37
+	WK: 41
+	IN: 29
+	KO: 22
+	LV: 3
+Ist doppeltes Leid. Der Zauber fügt dem Ziel des Zaubers Schaden zu wenn der Zaubernde Schaden erleidet.
+Der Zauber wird im ersten Schritt vorbereitet, dazu müssen 20 ZWZ und 5 MP aufgewendet werden. Dann wird der Zauber durch Kontakt mit dem Ziel aktiviert. Dies bedarf einer MAT-Probe und 9 MP.
+Nun kann der Zauber für 9 ZWZ und 7 MP aufrecht gehalten werden.
+Wird die Distanz zwischen Zauberndem und Ziel größer als MTP/2 Meter kann kein Schaden mehr übertragen erden auch wenn der Zauber noch aktiv ist.
+Der Zauber fügt dem Ziel des Zaubers 50% allen Schaden zu den der Zaubernde erleidet. Der Schaden den der Zaubernde erleidet reduziert sich dadurch nicht.
+Der so übertragene Schaden kann nicht durch Körperschutz wie Steinhaut oder Lederhaut reduziert werden, kann aber bei demjenigen der den Schaden in Empfang nimmt von einem Schild aufgenommen werden.
+	Dauer: 20/0/9
+	Kosten: 5/9/7
+
+ 
+Geteiltes Leid II
+Voraussetzungen:
+	Vulkan
+	MG: 47
+	WK: 48
+	IN: 34
+	KO: 29
+	LV: 3
+Ist doppeltes Leid. Der Zauber fügt dem Ziel des Zaubers Schaden zu wenn der Zaubernde Schaden erleidet.
+Der Zauber wird im ersten Schritt vorbereitet, dazu müssen 16 ZWZ und 5 MP aufgewendet werden. Dann wird der Zauber durch Kontakt mit dem Ziel aktiviert. Dies bedarf einer MAT-Probe und 6 MP.
+Nun kann der Zauber für 9 ZWZ und 6 MP aufrecht gehalten werden.
+Wird die Distanz zwischen Zauberndem und Ziel größer als MTP Meter kann kein Schaden mehr übertragen erden auch wenn der Zauber noch aktiv ist.
+Der Zauber fügt dem Ziel des Zaubers 50% allen Schaden zu den der Zaubernde erleidet. Der Schaden den der Zaubernde erleidet reduziert sich dadurch um 10%.
+Der so übertragene Schaden kann nicht durch Körperschutz wie Steinhaut oder Lederhaut reduziert werden, kann aber bei demjenigen der den Schaden in Empfang nimmt von einem Schild aufgenommen werden.
+	Dauer: 16/0/9
+	Kosten: 5/6/6
+	Vertiefungskosten: 4/6
+	 
+Glühendes Blut
+Voraussetzungen:
+	Vulkan
+	MG: 52
+	WK: 42
+	MR: 41
+	MUT: 42
+	LV: 3
+Durch den Zauber wird die Substanz des Zaubernden mit glühendem Magma angereichert. Jedes Mal, wenn der Zaubernde nun Schade erhält spritzt heiße Lava aus der erlittenen Wunde heraus und verursacht an allen in der Nähe des Zaubernden Schaden.
+Die Menge des herumspritzenden Magmas und die Reichweite in der die Tropfen fliegen hängt vom erlittenen Schaden ab. Die Tropfen fliegen erlittener Schaden/4 Meter weit in die Richtung aus der der Schaden kam aus dem Zaubernden heraus und richten bei allen in dieser Richtung, mit einem Öffnungswinkel von etwa 30 Grad, erlittener Schaden/4 Punkte Schaden an. Nahkämpfer erleiden sogar ein Drittel des zugefügten Schadens selbst.
+Um den Zauber aufrecht zu erhalten bedarf es eines Aufgebots von 12 ZWZ, ohne Übergangszeit, und 5 MP. Zudem fügt das Magma dem Zaubernden jede Runde in der er den Zauber verwendet 3 Punkte Schaden zu.
+Der Zauber kann maximal für MTP/3 Runden am Stück aufrechterhalten werden. Danach bedarf es einer mindestens ebenso langen Pause, wie der Zauber aufrecht gehalten wurde.
+	Dauer: 26/12
+	Kosten: 9MP 3LP/5MP 3LP
+
+ 
+Grande Vulcão
+Voraussetzungen:
+	Vulkan
+	MG: 32/ 38
+	WK: 43/ 58
+	IN: 42/ 34
+	LV: 3/ 5
+Der Zauber wirft einen Spitzen, etwa MTP Meter hohen Berg auf aus dem flüssiges Gestein quillt.
+Der erste Satz Anforderungen ist notwendig um einen Vulkan zu aktivieren, der zweite um einen zu erschaffen.
+Die Aktivität des Vulkanes ist sehr wechselhaft und wird jedes Mal, wenn der Zaubernde am Zug ist durch einen W6 für die kommende Kampfrunde festgelegt.
+1)	Der Vulkan ist ganz ruhig und entspannt. Er tut eigentlich Garnichts. Wer sich aber unbedingt an ihm wehtun möchte kann sich gerne in seinen Krater stürzen und 3 MTP Punkte Schade erleiden.
+2)	 Der Vulkan ist nur mäßig aktiv. Gemächlich blubbert ein wenig Lava über den Kraterrand uns läuft außen an zwei zufälligen Stellen am Krater hinunter. Wer sich ungeschickter weise in die Lava stellt erleidet 1,5 MTP Punkte Schaden.
+3)	Bisschen mehr Aktion? Ok, dann jetzt fünf Lavaströme.
+4)	Wirklich Aktion? Heut is nicht so mein Tag. Na gut, dann nimm halt den hier. Ein Brocken halb geschmolzenes Gestein trifft einen zufälligen Anwesenden. Gegnerische Anwesende haben eine doppelt so hohe Wahrscheinlichkeit getroffen zu werden. Anwesend heißt innerhalb eines Radius von MTP Metern um den Vulkan. Der Brocken richtet übrigens 3 MTP Punkte Schaden an.
+5)	Boa jetzt komm ich in Schwung! Zwei Brocken und fünf Lavaströme. Party! Anwesend umfasst einen Radius von 2 MTP Metern. Es können übrigens auch mehrere Brocken das gleiche Ziel Treffen. Lavaströme dagegen verteilen sich immer pietätvoll.
+6)	Und, los, ja! Drei Brocken sausen durch die Luft und am gesamten Kraterrand quillt ein heftiger Strom Lava hinunter. SO muss ein echter Vulkan kochen! Anwesende sind innerhalb von 2,5 MTP Metern zu finden.
+Um festzustellen wo das Magma austritt ist es sinnig den Vulkan in zwölf Bereiche aufzuteilen und dann mit einem W12 fest zu legen in welchem der Bereiche das Magma hinunterläuft.
+Der Vulkan bleibt zwar für alle Ewigkeit bestehen, ist jedoch nur für MTP/2 Kampfrunden aktiv. Ein bestehender Vulkan kann mit der halben Dauer und den halben Kosten aktiviert werden. Dann geht die Party von vorne los.
+	Dauer: 132
+	Kosten: 48
+ 
+Hassbrenner
+Voraussetzungen:
+	Vulkan
+	MG: 36
+	WK: 43
+	MUT: 39
+Der Zauber markiert ein Ziel, dass dann leichter vom Zaubernden gefunden werden kann. 
+Denn der Zaubernde kann das Ziel mit 5 ZWZ relativ zu sich selbst Orten. Die Ortung gibt nur die Richtung nicht jedoch die Distanz an.
+Jedes Mal, wenn das Ziel des Zaubers dem Zaubernden Schaden zufügt bekommen beide, der Zaubernde und das Ziel des Zaubers 10% des Schadens zugefügt, mindestens jedoch zwei Punkte Schaden.
+Wer vom Hassbrenner ergriffen wurde erleidet jedes Mal zu Beginn der eigenen Kampfrunde und der Kampfrunde des Zaubernden einen Punkt Schaden.
+Durch den Zauber verdoppelt sich die Wahrscheinlichkeit des Zieles des Zaubers von einer Form des Zaubers Eruptionscluster getroffen zu werden.
+Der Zauber funktioniert auf bis zu 5 MTP Meter.
+Der Zauber wird wie ein Geschoss abgeschickt, muss jedoch nicht gezielt werden, da er durch die Gedanken und die Sicht des Zaubernden auf sein Ziel fokussiert wird. Dort wo das Ziel getroffen wurde bildet sich ein glühend rotes Zeichen aus, ähnlich einem glühenden Brandmal, die Form des Zeichens hängt vom Zaubernden ab und ist bei diesem immer gleich.
+Der Zauber kann auf mehrere Ziele Gleichzeitig angewendet werden.
+Der Zauber endet, wenn er fallengelassen wird oder das Ziel die maximale Reichweite des Zaubers verlässt. Ansonsten kann er für 3 ZWZ, ohne Übergangszeit, und 1 MP pro Kampfrunde beliebig lange aufrecht gehalten werden.
+	Dauer: 9/3
+	Koste: 3/1
+ 
+Lavablasen
+Voraussetzungen:
+	Vulkan
+	MG: 34
+	WK: 32
+	ERF: 19
+Durch den Zauber spuckt der Zaubernde MTP/3 Lavablasen aus. 
+Diese Seifenblasen ähnlichen Kugeln mit einem Durchmesser von bis zu 2*MTP Zentimetern bewegen sich recht langsam auf ihr Ziel zu, wodurch es auf größere Distanz recht einfach ist ihnen auszuweichen. Für alle drei Meter nach den Ersten wird das Ausweichen um 5 erleichtert. 
+Jede dieser Blasen richtet beim Auftreffen auf ein Ziel MTP Punkte Schaden an. Dabei spielt es keine Rolle ob sie ein lebendes Wesen oder ein Objekt treffen. 
+Es ist möglich die Blasen als Falle an einer Fläche zu befestigen. Werden die Blasen in dieser Weise verwendet, bleiben sie für bis zu MTP/4 Stunden bestehen, wenn sie nicht vorher zu platzen gebracht werden. 
+Der durch die Lavablasen angerichtete Schaden gilt als Feuerschaden.
+	Dauer: 31
+	Kosten: 15
+ 
+Lavablasen II
+Voraussetzungen:
+	Vulkan
+	MG: 42
+	WK: 46
+	ERF: 26
+	LV: 3
+Durch den Zauber spuckt der Zaubernde MTP/3+1 Lavablasen aus. 
+Diese Seifenblasen ähnlichen Kugeln mit einem Durchmesser von bis zu 2*MTP Zentimetern bewegen sich recht langsam auf ihr Ziel zu, wodurch es auf größere Distanz recht einfach ist ihnen auszuweichen. Für alle drei Meter nach den Ersten wird das Ausweichen um 5 erleichtert. 
+Jede dieser Blasen richtet beim Auftreffen auf ein Ziel MTP Punkte Schaden an. Dabei spielt es keine Rolle ob sie ein lebendes Wesen oder ein Objekt treffen. 
+Es ist möglich die Blasen als Falle an einer Fläche zu befestigen. Werden die Blasen in dieser Weise verwendet, bleiben sie für bis zu MTP/3 Stunden bestehen, wenn sie nicht vorher zu platzen gebracht werden. 
+Der durch die Lavablasen angerichtete Schaden gilt als Feuerschaden.
+	Dauer: 27
+	Kosten: 14
+	Vertiefungskosten: 2/3
+ 
+Lavabomben
+Voraussetzungen:
+	Vulkan
+	MG: 37
+	WK: 40
+	IN: 26
+	ERF: 25
+Durch den Zauber spuckt der Zaubernde MTP/3 Lavablasen aus. 
+Diese Seifenblasen ähnlichen Kugeln mit einem Durchmesser von bis zu 2*MTP Zentimetern bewegen sich recht langsam auf ihr Ziel zu, wodurch es auf größere Distanz recht einfach ist ihnen auszuweichen. Für alle drei Meter nach den Ersten wird das Ausweichen um 5 erleichtert. 
+Jede dieser Blasen richtet beim Auftreffen auf ein Ziel MTP Punkte Schaden an. Dabei spielt es keine Rolle ob sie ein lebendes Wesen oder ein Objekt treffen. Beim Auftreffen auf ein Ziel zerplatzen die Blasen und versprühen ihren glühenden Inhalt über alle die sich in der Nähe befinden. Wer sich in einem Radius von MTP/6 Metern um eine zerplatzende Lavabombe befindet erhält MTP/3 Punkte Schaden.
+Es ist möglich die Blasen als Falle an einer Fläche zu befestigen. Werden die Blasen in dieser Weise verwendet, bleiben sie für bis zu MTP/4 Stunden bestehen, wenn sie nicht vorher zu platzen gebracht werden. 
+Der durch die Lavablasen angerichtete Schaden gilt als Feuerschaden.
+	Dauer: 44
+	Kosten: 22
+ 
+Lavageschoss
+Voraussetzungen:
+	Vulkan
+	MG: 28
+	WK: 33
+	ERF: 24
+Der Zauber feuert einen etwa faustgroßen Klumpen glühendes Magma ab.
+Das Geschoss erscheint erst 30 ZWZ nach wirken des Zaubers vor dem Zaubernden, auch wenn dieser in der Zeit seine Position verändert, und wird dann von diesem losgeschickt.
+Ein Treffer des Geschosses richtet MTP/2 Punkte Schaden unmittelbar an. Und dann nochmal in der Folgerunde. 
+Und das Beste ist: du kannst nichts dagegen tun! Hast du schon mal versucht dir einen klumpen in deine Substanz eingebranntes Magma von der Haut zu wischen? Gibt ebenfalls MTP/2 Punkte Schaden!
+Das Ziel des Zaubers kann maximal WK Meter weit entfernt sein. 
+Es ist eine Zielen-Probe notwendig.
+	Dauer: 4
+	Kosten: 4
+
+ 
+Lavageschoss II
+Voraussetzungen:
+	Vulkan
+	MG: 32
+	WK: 42
+	ERF: 27
+Der Zauber feuert einen etwa faustgroßen Klumpen glühendes Magma ab.
+Das Geschoss erscheint erst 20 ZWZ nach wirken des Zaubers vor dem Zaubernden, auch wenn dieser in der Zeit seine Position verändert, und wird dann von diesem losgeschickt.
+Ein Treffer des Geschosses richtet MTP Punkte Schaden unmittelbar an. Und dann nochmal MTP/2 in der Folgerunde. 
+Und das Beste ist: du kannst nichts dagegen tun! Hast du schon mal versucht dir einen klumpen in deine Substanz eingebranntes Magma von der Haut zu wischen? Gibt ebenfalls MTP/2 Punkte Schaden!
+Das Ziel des Zaubers kann maximal WK Meter weit entfernt sein. 
+Es ist eine Zielen-Probe notwendig.
+	Dauer: 5
+	Kosten: 5
+	Vertiefungskosten: 3/4 
+
+Lavastrahl
+Voraussetzungen:
+	Vulkan
+	MG: 28
+	WK: 36
+	ERF: 20
+	WAH: 24
+Feuert einen etwa daumendicken Lavastrahl ab, der sich gradlinig fortbewegt bis er an etwas hängen bleibt durch das er sich nicht brennen kann oder bis seine Reichweite erschöpft ist. Der Strahl hat eine Reichweite von bis zu 1,5 MTP Metern. 
+Das Zaubern des Lavastrahls nimmt immer genau eine Runde in Anspruch. Der Schaden den der Lavastrahl verursacht richtet sich nach der Zeit die für seine Erschaffung benutzt wurde und Beträgt (ZWZ/15)*MTP. Der durch den Lavastrahl angerichtete Schaden gilt als Feuerschaden.
+Der Lavastrahl muss nicht gezielt werden.
+	Dauer: Eine Runde
+	Kosten: 17
+ 
+Lavastrahl II
+Voraussetzungen:
+	Vulkan
+	MG: 36
+	WK: 49
+	ERF: 24
+	WAH: 31
+Feuert einen etwa daumendicken Lavastrahl ab, der sich gradlinig fortbewegt bis er an etwas hängen bleibt durch das er sich nicht brennen kann oder bis seine Reichweite erschöpft ist. Der Strahl hat eine Reichweite von bis zu 1,5 MTP Metern. 
+Die auf den Zauber angewendete Dauer kann frei gewählt werden und maximal eine Kampfrunde betragen. Unabhängig davon wie lange der Zauber gewirkt wird müssen immer die vollen Kosten getragen werden. Außer, die Dauer liegt unter 15 ZWZ, dann belaufen sich die Kosten nur auf die Hälfte. Der Schaden den der Lavastrahl verursacht richtet sich nach der Zeit die für seine Erschaffung benutzt wurde und Beträgt (ZWZ/14)*MTP. Der durch den Lavastrahl angerichtete Schaden gilt als Feuerschaden.
+Der Lavastrahl muss nicht gezielt werden.
+	Dauer: Wahl
+	Kosten: 16
+	Vertiefungskosten: 3/4 
+
+Magmataucher
+Voraussetzungen:
+	Vulkan
+	MG: 24
+	MR:42
+	WK: 42
+	ERF: 18
+Der Zauber hüllt den Zaubernden in eine magische Membran die ihn absolut unempfindlich gegen Hitze macht.
+Solange der Zauber Wirkt ist der Zaubernde absolut Resistent gegen Feuer und Vulkanschaden.
+Um den Zauber aufrecht zu halten bedarf es eines rundlichen Aufwandes von 19 ZWZ, ohne Übergangszeit, und 4 MP.
+	Dauer: 26/16
+	Kosten: 7/4
+ 
+Phönix
+Voraussetzungen:
+	Vulkan
+	MG: 59
+	WK: 52
+	ERF: 28
+	MUT: 36
+	LV: 5
+Der Zauber erschafft eine Kugel aus heißem Vulkangestein.
+Nach zwei Kampfrunden bricht die Kugel auf und ein Vogel aus Lava und Flammen bricht aus dem nun hohlen Stein hervor. Dieser fliegt in den Zaubernden hinein und verbindet sich mit ihm. Dadurch wachsen dem Zaubernden Feuerflügel, oder wenn seine Gestalt bereits geflügelt war, werden seine Flügel von Flammen eingehüllt.
+Wenn der Zaubernde eine geeignete Position einnimmt, kann er die Flammenflügel im Nahkampf verwenden. Angriffe mit den Flügeln sind um 10 erschwert, richten dafür aber 3 Punkte mehr Schaden an und reduzieren die Wirkungskraft der Parade (PAW) auf die Hälfte.
+Der Phönix bleibt für MTP/3 Kampfrunden mit dem Zaubernden verbunden. Fallen die Lebenspunkte des Zaubernden in diesem Zeitraum auf oder unter null, sodass er sterben würde verliert er stattdessen 10 MP. An der Stelle an der er sich befand ist nun eine Kugel aus glühendem Stein. Diese bricht nach zwei Kampfrunden auf und gibt den Zaubernden Preis. Seine Lebenspunkte sind zehn Punkte unter dem Stand auf dem sie waren als er sich mit dem Phönix verbunden hat, mindestens jedoch bei 20. Wenn die Zeit des Phönix noch nicht abgelaufen ist bleibt dieser weiterhin mit dem Zaubernden verbunden und kann, wenn es nötig ist, auch eine weitere Wiedergeburt erwirken.
+Durch den Phönix erhält der Zaubernde zudem einen MAT Bonus von MTP/2 beim Wirken von Feuer und Vulkan Zaubern. 
+	Dauer: 74
+	Kosten: 32
+
+ 
+Phönix II
+Voraussetzungen:
+	Vulkan
+	MG: 66
+	WK: 58
+	ERF: 33
+	MUT: 44
+	LV: 7
+Der Zauber erschafft eine Kugel aus heißem Vulkangestein.
+Nach einer Kampfrunden bricht die Kugel auf und ein Vogel aus Lava und Flammen bricht aus dem nun hohlen Stein hervor. Dieser fliegt in den Zaubernden hinein und verbindet sich mit ihm. Dadurch wachsen dem Zaubernden Feuerflügel, oder wenn seine Gestalt bereits geflügelt war, werden seine Flügel von Flammen eingehüllt.
+Wenn der Zaubernde steht kann er die Flammenflügel im Nahkampf verwenden. Angriffe mit den Flügeln sind um 10 erschwert, richten dafür aber 3 Punkte mehr Schaden an und reduzieren die Wirkungskraft der Parade (PAW) auf die Hälfte.
+Der Phönix bleibt für MTP/2 Kampfrunden mit dem Zaubernden verbunden. Fallen die Lebenspunkte des Zaubernden in diesem Zeitraum auf oder unter null, sodass er sterben würde verliert er stattdessen 7 MP. An der Stelle an der er sich befand ist nun eine Kugel aus glühendem Stein. Diese bricht nach einer Kampfrunde auf und gibt den Zaubernden Preis. Seine Lebenspunkte sind zehn Punkte unter dem Stand auf dem sie waren als er sich mit dem Phönix verbunden hat, mindestens jedoch bei 25. Wenn die Zeit des Phönix noch nicht abgelaufen ist, bleibt dieser weiterhin mit dem Zaubernden verbunden und kann, wenn es nötig ist, auch eine weitere Wiedergeburt erwirken.
+Durch den Phönix erhält der Zaubernde zudem einen MAT Bonus von MTP/2 und einen Bonus von 2 auf TP beim Wirken von Feuer und Vulkan Zaubern. 
+	Dauer: 64
+	Kosten: 29
+	Vertiefungskosten: 5/7
+ 
+Platzen
+Voraussetzungen:
+	Vulkan
+	MG: 43
+	WK: 47
+	ERF: 28
+	MUT: 38
+Ein Körperteil des Zaubernden, gerne der Kopf, schwillt rasch an, weil es sich mit heißem Magma füllt und platzt dann auf wobei das Magma weit durch die Gegend spritzt.
+Dabei erleiden alle in einem Radius von MTP/2 Metern um den Zaubernden herum 1,5 MTP Schaden durch die herumspritzende Lava. Der Zaubernde selbst erleidet ebenfalls MTP/2 Punkte Schaden durch die im Verlauf des Zaubers verlorene und verbrannte Substanz.
+Gelingt es dem Zaubernden ein besonders grausiges Schauspiel zu bieten müssen alle die diesem gewahr werden und keine große Erfahrung damit haben eine Willenskraft (WK)-/ oder Klugheits-Probe (KL) bestehen, sonst erleiden sie einen Abzug von MTP/2 auf INI, AU, ZWZ und MNAU in der kommenden Runde.
+Anschließend kann die verlorene Extremität innerhalb von 10 ZWZ mit einem Einsatz von einem Manapunkt (MP) wiederhergestellt werden.
+	Dauer: 46
+	Kosten: 16
+
+ 
+Schlingen und Brennen
+Voraussetzungen:
+	Vulkan
+	MG: 36
+	WK: 52
+	KL: 20
+	ERF: 28
+	LV: 3
+Der Zauber lässt MTP/5, ca. 2 cm. dicker und MTP/2 Meter langer, Lavatentakeln aus dem Körper des Zaubernden hervorbrechen.
+Die Tentakel greifen nach einem Ziel in Reichweite der Tentakel, dass der Zaubernde sehen kann. Der Zaubernde kann das Ziel wenn er möchte festlegen.
+Den greifenden Tentakeln Ausweichen ist innerhalb von MTP/4 Meter mit einem Abzug von 20 belegt. In der restlichen Reichweite der Tentakel mit 10. Werden zwei Opfer anvisiert beträgt der Abzug aufs Ausweichen innerhalb der ersten MTP/4 Meter 10 und in der Restreichweite 5.
+Die Tentakel aus flüssigem, glühendem Stein greifen das Opfer und verbrennen es, wo sie es berühren wodurch das Opfer MTP/2 Schaden pro Tentakel erleidet der ihn greift. Der von Schlingen du Brennen zugefügten Schaden wird nicht durch Hitzeresistenz reduziert.
+Das Opfer des Zaubers wird durch die es greifenden Tentakel weitgehend bewegungsunfähig, was sich in einer AU Reduktion um 5 pro Tentakel äußert. Die AU kann auf diese Weise aber nicht unter 10 sinken. Durch eine erfolgreiche Konstitutionsprobe (KO) kann der Pusteverlust halbiert werden. Scheitert die Probe jedoch werden 5 AU zusätzlich verloren.
+Der Zaubernde kann jederzeit entscheiden das Opfer aus dem Zauber zu entlassen und sich stattdessen ein anderes Opfer zu suchen solange der Zauber aufrecht gehalten wird. Um den Zauber aufrechterhalten bedarf es 7 MP und 20 ZWZ, ohne Übergangszeit, pro Kampfrunde. Sollte der Zaubernde nicht genug ZWZ zum aufrechterhalten des Zaubers haben, kann der Zauber höchstens eine Runde aufrechterhalten werden und die überzogene Zeit muss in der folgenden Runde abgeleistet werden. 
+	Dauer: 53/20
+	Kosten: 16/7
+ 
+Schlingen und Brennen II
+Voraussetzungen:
+	Vulkan
+	MG: 44/59
+	WK: 58/58
+	KL: 20/45
+	ERF: 32/38
+	LV: 5
+Der Zauber lässt MTP/3, ca. 2 cm. dicker und MTP Meter langer, Lavatentakeln aus dem Körper des Zaubernden hervorbrechen.
+Die Tentakel greifen nach einem Ziel in Reichweite der Tentakel, dass der Zaubernde sehen kann. Werden die höheren Anforderungen erfüllt können auf zwei Ziele gewählt werden die je mit der Hälfte der Tentakel angegriffen werden.
+Den greifenden Tentakeln Ausweichen ist innerhalb von MTP/2 Metern mit einem Abzug von 20 belegt. In der restlichen Reichweite der Tentakel mit einem Abzug von 10. Werden zwei Opfer anvisiert beträgt der Abzug aufs Ausweichen innerhalb der ersten MTP/2 Meter 10 und in der Restreichweite 5.
+Die Tentakel aus flüssigem, glühendem Stein greifen das Opfer und verbrennen es, wo sie es berühren wodurch das Opfer MTP/2 Schaden pro Tentakel erleidet der ihn greift. Der von Schlingen du Brennen zugefügten Schaden wird nicht durch Hitzeresistenz reduziert.
+Das Opfer des Zaubers wird durch die es greifenden Tentakel weitgehend bewegungsunfähig, was sich in einer AU Reduktion um 5 pro Tentakel äußert. Die AU kann auf diese Weise aber nicht unter 10 sinken. Durch eine erfolgreiche Konstitutionsprobe (KO) kann der Pusteverlust halbiert werden. Scheitert die Probe jedoch werden 5 AU zusätzlich verloren.
+Der Zaubernde kann jederzeit entscheiden ein Opfer aus dem Zauber zu entlassen und sich stattdessen ein anderes Opfer zu suchen solange der Zauber aufrecht gehalten wird. Um den Zauber aufrechterhalten bedarf es 10 MP und 26 ZWZ, ohne Übergangszeit, pro Kampfrunde. Sollte der Zaubernde nicht genug ZWZ zum aufrechterhalten des Zaubers haben, kann der Zauber höchstens eine Runde aufrechterhalten werden und die überzogene Zeit muss in der folgenden Runde abgeleistet werden. 
+	Dauer: 73/26
+	Kosten: 22/10
+ 
+Schlingen und Brennen III
+Voraussetzungen:
+	Vulkan
+	MG: 54/62
+	WK: 64/69
+	KL: 26/48
+	ERF: 37/41
+	LV: 7
+Der Zauber lässt MTP/3+1, ca. 2 cm. dicker und MTP Meter langer, Lavatentakeln aus dem Körper des Zaubernden hervorbrechen.
+Die Tentakel greifen nach einem Ziel in Reichweite der Tentakel, dass der Zaubernde sehen kann. Werden die höheren Anforderungen erfüllt können auf zwei Ziele gewählt werden die je mit der Hälfte der Tentakel angegriffen werden.
+Den greifenden Tentakeln Ausweichen ist innerhalb von MTP/2 Metern mit einem Abzug von 25 belegt. In der restlichen Reichweite der Tentakel mit einem Abzug von 10. Werden zwei Opfer anvisiert beträgt der Abzug aufs Ausweichen innerhalb der ersten MTP/2 Meter 15 und in der Restreichweite 10.
+Die Tentakel aus flüssigem, glühendem Stein greifen das Opfer und verbrennen es, wo sie es berühren wodurch das Opfer MTP/2+2 Schaden pro Tentakel erleidet der ihn greift. Der von Schlingen du Brennen zugefügten Schaden wird nicht durch Hitzeresistenz reduziert.
+Das Opfer des Zaubers wird durch die es greifenden Tentakel weitgehend bewegungsunfähig, was sich in einer AU Reduktion um 5 pro Tentakel äußert. Die AU kann auf diese Weise aber nicht unter 10 sinken. Durch eine erfolgreiche, um 10 erschwerte Konstitutionsprobe (KO) kann der Pusteverlust halbiert werden. Scheitert die Probe jedoch werden 5 AU zusätzlich verloren.
+Der Zaubernde kann jederzeit entscheiden ein Opfer aus dem Zauber zu entlassen und sich stattdessen ein anderes Opfer zu suchen solange der Zauber aufrecht gehalten wird. Um den Zauber aufrechterhalten bedarf es 9 MP und 22 ZWZ, ohne Übergangszeit, pro Kampfrunde. Sollte der Zaubernde nicht genug ZWZ zum aufrechterhalten des Zaubers haben, kann der Zauber höchstens eine Runde aufrechterhalten werden und die überzogene Zeit muss in der folgenden Runde abgeleistet werden. 
+	Dauer: 68/22
+	Kosten: 20/9
+	Vertiefungskosten: 5/7
+
+ 
+Der Schmerz
+Voraussetzungen:
+	Vulkan
+	MG: 43
+	WK: 34
+	WAH: 24
+Der Zauber erschafft eine dunkelrot leuchtende Sphäre die in der Nähe des Zaubernden Schwebt. Immer wenn der Zaubernde Schaden erleidet wird die Sphäre größer.
+Die Sphäre kann als Geschoss abgefeuert werden und richtet bei einem Treffer Schaden in der Höhe an in der der Zaubernde seit Erschaffung des Zaubers Schaden erlitten hat. Es ist eine Zielen-Probe notwendig um festzustellen ob das Schmerzgeschoss trifft.
+Nachdem die Scherzsphäre erschaffen wurde bleibt sie für bis zu MTP/2 Kampfrunden bestehen und sammelt den Schmerz des Zaubernden.
+Wird die Dauer in der die Sphäre stabil ist überschritten oder fallen die Lebenspunkte auf null sucht sich die Sphäre ein zufälliges, lebendes Ziel das sie angreift. Verbündete Wesen haben die Halbe Wahrscheinlichkeit zum Ziel des Angriffs zu werden wie feindliche. Für den Angriff wird ein Zielen-Wert (ZI) von 70 verwendet.
+	Dauer: 23
+	Kosten: 12
+	Vertiefungskosten: 2/3 
+
+Sengende Spritzer
+Voraussetzungen:
+	Vulkan
+	MG: 18
+	WK: 33
+	GE: 18
+	MUT: 21
+Durch den Zauber strömt ein kurzer schwall Magma durch eine Extremität des Zaubernden, welcher durch eine schnelle Bewegung dieser Extremität als Tropfenschwall verteilt wird.
+Die Tropfen fliegen MTP/3 Meter weit und verteilen sich mit einem Öffnungswinkel von etwa 120°. Wer von den tropfen getroffen wird erleidet MTP/2 Punkte Schaden.
+	Dauer: 24
+	Kosten: 8 
+
+ 
+Sengende Spritzer II
+Voraussetzungen:
+	Vulkan
+	MG: 24
+	WK: 44
+	GE: 25
+	MUT: 29
+Durch den Zauber strömt ein kurzer schwall Magma durch eine Extremität des Zaubernden, welcher durch eine schnelle Bewegung dieser Extremität als Tropfenschwall verteilt wird.
+Die Tropfen fliegen MTP/2 Meter weit und verteilen sich mit einem Öffnungswinkel von etwa 120°. Wer von den tropfen getroffen wird erleidet MTP/2 Punkte Schaden.
+Da der Angriff so großflächig angelegt ist das Ausweichen (AW) um 15 erschwert.
+	Dauer: 18
+	Kosten: 7 
+	Vertiefungskosten: 3/4
+
+ 
+Sphäre aus Schmerz
+Voraussetzungen:
+	Vulkan
+MG: 35
+	WK: 40
+	ERF: 18
+	MUT: 26
+LV: 3
+Durch den Zauber schafft der Zaubernde um sich herum eine dunkelrot leuchtende Kugel in der allen, auch dem Zaubernden, unglaubliche Schmerzen zugefügt werden.
+Die Kugel kann weder von innen noch von außen durchdrungen werden. Sie hat einen Radius von MTP/2 Metern um den Zaubernden und schließt alle ein die sich bei der Aktivierung des Zaubers in diesem Umkreis um den Zaubernden befinden.
+Der Zauber frisst die Gesamten MP des Zaubernden, bis auf fünf, und wandelt sie in Schmerz um der jeden der sich im inneren der Kugel befindet befällt. Dadurch wird jedem Schaden in Höhe der ausgegebenen MP zugefügt. Dadurch können die Lebenspunkte (LP) des Zaubernden jedoch nicht unter fünf sinken. 
+Im inneren der Sphäre sind alle durch den intensiven Scherz gelähmt. Der Schaden wird mit MTP Schadenspunkten pro Runde ausgeteilt, so dass es eine Weile dauern kann bis der Zauber abgeschlossen ist. 
+Anschließend zieht sich die Kugel wieder zusammen, wobei sie keinen Widerstand darstellt und die Insassen an ihrer jetzigen Position einfach zu Boden fallen. 
+Der Zaubernde und alle die sich im Inneren der Kugel befanden sind im Anschluss an den Zauber für eine weitere Runde durch die Schmerzen gelähmt.
+	Dauer: 1 pro 2MP
+	Kosten: Alle MP außer 5
+ 
+Sphäre aus Schmerz II
+Voraussetzungen:
+	Vulkan
+MG:43
+	WK: 56
+	ERF: 24
+	MUT: 34
+	LV: 5
+Durch den Zauber schafft der Zaubernde um sich herum eine dunkelrot leuchtende Kugel in der allen, auch dem Zaubernden, unglaubliche Schmerzen zugefügt werden.
+Die Kugel kann weder von innen noch von außen durchdrungen werden. Sie hat einen Radius von MTP Metern um den Zaubernden und schließt alle ein die sich bei der Aktivierung des Zaubers in diesem Umkreis um den Zaubernden befinden.
+Der Zauber frisst die Gesamten MP des Zaubernden, außer bis zu MTP, und wandelt sie in Schmerz um den jeden der sich im inneren der Kugel befindet befällt. Dadurch wird jedem Schaden in Höhe der ausgegebenen MP zugefügt. Dadurch können die Lebenspunkte (LP) des Zaubernden jedoch nicht unter MTP/2 sinken. Ist der Zaubernde mit einem Phönix verbunden, fällt dieser Schutz weg. Dafür wird die Wiedergeburt ohne Manakosten eingeleitet.
+Im inneren der Sphäre sind alle durch den intensiven Scherz gelähmt. Der Schaden wird mit MTP Schadenspunkten pro Runde ausgeteilt, so dass es eine Weile dauern kann bis der Zauber abgeschlossen ist. 
+Anschließend zieht sich die Kugel wieder zusammen, wobei sie keinen Widerstand darstellt und die Insassen an ihrer jetzigen Position einfach zu Boden fallen. 
+Der Zaubernde und alle die sich im Inneren der Kugel befanden sind im Anschluss an den Zauber für eine weitere Runde durch die Schmerzen gelähmt.
+	Dauer: 1 pro 3MP
+	Kosten: Alle MP
+	Vertiefungskosten: 3/4
+ 
+Verdampfen / Schmelzen
+Voraussetzungen:
+	Vulkan
+	MG: 24
+	ERF: 18
+	MUT: 24
+Der Zauber wirkt auf Kontakt, das Berührte wird mit enormer Hitze konfrontiert und beginnt daraufhin zu schmelzen, beziehungsweise verdampft, je nach Material. 
+Der Zauber kann vorbereitet werden und dann mit einem direkt darauffolgenden Nahkampfangriff verbunden werden. Ein nahkampfangriff gilt auch in der folgenden Kampfrunde als direkt nachfolgend, wenn zwischendurch kein anderer Zauber gewirkt wurde. Dazu muss erst der Zauber gewirkt werden und im nächsten Schritt kann dann der Nahkampfangriff durchgeführt werden. Dieser richtet einen zusätzlichen Schaden von 1,5 MTP an, gegen Frostdschinn sogar 2 MTP. Der Angriff muss wie eine MNAT Angriff pariert werden.
+Trifft der Angriff zerfällt der Zauber nachdem er seine Wirkung getan hat. Verfehlt der Angriff jedoch kann der Zauber für 3MP und 3 ZWZ, ohne Übergangszeit, aufrecht gehalten werden ohne das eine weitere MAT Probe anfällt.
+	Dauer: 14
+	Kosten: 7/3
+
+ 
+Versengender Segen
+Voraussetzungen:
+	Vulkan
+	MG: 36
+	WK: 42
+Durch den Zauber wird die Angriffskraft eines Verbündeten deutlich gesteigert.
+Denn der Zauber hebt TP und MTP des Ziels des Zaubers um MTP/4 an.
+Gleichzeitig erleidet das Ziel des Zaubers jede Kampfrunde in der es den Bonus erhält auch MTP/2, des Verzaubernden, Punkte Schaden. 
+Der Zauber kann auf beliebig viele Ziele gleichzeitig gewirkt werden und beliebig lange aufrecht gehalten werden, dazu ist lediglich ein Einsatz von 6 ZWZ und 2 MP, pro Ziel und Kampfrunde, notwendig.
+Ziel des Zaubers kann jedes Wesen sein, das der Zaubernde beim wirken des Zaubers berührt, auch er selbst.
+	Dauer: 22/ 6
+	Kosten: 6/2
+
+ 
+Versengender Segen II
+Voraussetzungen:
+	Vulkan
+	MG: 46
+	WK: 53
+	LV: 3
+Durch den Zauber wird die Angriffskraft eines Verbündeten deutlich gesteigert.
+Denn der Zauber hebt TP und MTP des Ziels des Zaubers um MTP/3 an.
+Gleichzeitig erleidet das Ziel des Zaubers jede Kampfrunde in der es den Bonus erhält auch MTP/2, des Verzaubernden, Punkte Schaden. 
+Der Zauber kann auf beliebig viele Ziele gleichzeitig gewirkt werden und beliebig lange aufrecht gehalten werden, dazu ist lediglich ein Einsatz von 7 ZWZ und 3 MP, pro Ziel und Kampfrunde, notwendig.
+Ziel des Zaubers kann jedes Wesen sein, das der Zaubernde beim wirken des Zaubers berührt, auch er selbst.
+	Dauer: 18/ 7
+	Kosten: 6/ 3
+	Vertiefungskosten: 4/5
+

@@ -1,0 +1,453 @@
+Heilung
+Heildschinn sind von Natur aus gütige und gebende Wesen, die sich oft mehr um andere denn um sich selbst sorgen und kümmern. Sie werden von vielen Wesen vom Anderen Ort ob ihres nicht selten riskanten Einsatzes für andere hoch geschätzt.
+Die Kunst Heildschinn zu erschaffen wurde von den Chinesischen und den persischen Zauberern unabhängig voneinander entdeckt, und hat teilweise sehr unterschiedliche Ergebnisse hervorgebracht. Benötigt wurden die Heildschinn um Verluste auf dem Schlachtfeld zu minimieren und so, den Aufwand für die Zauberer neue Dschinn zu erschaffen oder die Namen bereits erschaffener Dschinn heraus zu finden möglichst gering zu halten. Jedoch darf man auch nicht von rein eigennützigen Motiven ausgehen da durchaus auch dem einen oder anderen Zauberer an einem seiner Diener gelegen ist.
+Während persische Heildschinn nur ihre Magie verwenden um Andere zu heilen, verwenden Chinesische Heildschinn für die meisten Formen der Heilungsmagie auch einen Teil ihrer eigenen Substanz, sodass sie Zauberkosten in MP und LP haben.
+Wird für einen Zauber nicht zwischen persischen und chinesischen Heilern unterschieden sind die Kosten für beide gleich.
+Heildschinn besitzen den zusätzlichen Fähigkeitswert Heilwirkung (HW). Dieser stellt die Effizienz von Zaubern der Heilungsmagie dar. Er wird berechnet als (2*MG+2*WK+IN+ERF)/22. 
+
+Aura der Heilung
+Voraussetzungen:
+	Heilung
+	MG: 42
+	KL: 28
+	ERF: 36
+Der Zauber erschafft ein Feld um den Zaubernden indem alle konstant geheilt werden.
+Die Aura der Heilung hat eine Ausdehnung von MTP/3 Metern um den Zaubernden. Jeder der sich in diesem Gebiet befindet wird mit HW/5 Lebenspunkten pro Kampfrunde geheilt.
+Um die Aura aufrecht zu halten bedarf es eines konstanten Einsatzes von 4 ZWZ, ohne Übergangszeit, und 2 Manapunkten (MP) pro Kampfrunde.
+	Dauer: 16/4
+	Kosten: 7/2
+ 
+Binden
+Voraussetzungen:
+	Heilung, Schild
+	MG: 20
+	ERF: 20
+	WAH:25
+Der Zauber erschafft eine Reihe magischer Fäden die sich mit hoher Kraft und Geschwindigkeit um ihr Ziel wickeln.
+Das Ziel des Zaubers muss sich innerhalb von MTP/2 Metern zum Zaubernden befinden und der zaubernde muss das Ziel sehen können.
+Den Fäden zu entkommen ist sehr schwierig, da sie ihr Ziel in begrenztem Maße verfolgen. Es erfordert eine um 20 erschwerte Ausweichen (AW) Probe um den Fäden zu entrinnen. 
+Durch eine gelungene Parade kann dafür gesorgt werden, dass sich die Fäden nicht ganz so straff um das Ziel wickeln. In diesem Fall ist es möglich durch eine GE Probe die, 25 AU erfordert, aus dem Zauber zu entkommen.
+Eine Magieparade hat keine Wirkung gegen den Zauber.
+Das von Fäden zusammengeschnürte Oper ist weitgehend bewegungsunfähig. Nahkampfangriffe und Ausweichen sind nicht möglich solange der Binden Zauber wirkt. Paraden sind um 30 erschwert und die PAW sinkt um MTP/2, des Bindenden. 
+Solange der Binden Zauber wirkt ist es meist schwierig sich auf ein Ziel zu konzentrieren und mit Zaubern gezielt anzugreifen. Zudem unterdrückt der Zauber die magische Kraft des eingeschnürten teilweise. Solange Binden wirkt sind alle Zauber (MAT) um 20 erschwert und die Auswirkungen von zaubern (MTP) sind um 3 reduziert. Zielen-Proben sind um 30 erschwert.
+Es ist möglich das Netz zu zerreißen oder mit Zaubern durchzubrennen. Es besitzt eine Stabilität von 3 MTP, das Netz gilt als Schildzauber. Um das Netz zu zerreißen ist eine um 30 erschwerte KK Probe notwendig. Die Probe dauert 30. Der das Netz Zerreißende erleidet dabei MTP/2 Punkte Schaden. Das Netz zu durchbrennen ist möglich indem mit Zaubern ein entsprechender Schaden zugefügt wird.
+Wenn das Netz nicht durch andere Auswirkungen zerstört wird bleibt es für MTP/3 Stunden bestehen.
+	Dauer: 35
+	Kosten: 12
+ 
+Dickhäuter
+Voraussetzungen:
+	Heilung
+	MG: 26
+	ERF: 20
+	KO: 26
+Durch den Zauber wird die oberste Substanzschicht des Zieles etwas verdichtet. Dadurch reduziert sich jeder Schaden den das Ziel während der Wirkungsdauer des Zaubers erleidet um eins.
+Der Zauber kann nur auf Ziele gewirkt werden die der Zaubernde berührt.
+Der Effekt von Dickhäuter ist nicht kumulativ mit Lederhaut. Die verdickte Substanzschicht kann jedoch unter einer Steinheut oder Corpus Crystallinus erzeugt werden und denjenigen dort schützen wo die Schutzschicht zerstört wurde.
+Dickhäuter wirkt für MTP/3 Kampfrunden.
+	Dauer: 12
+	Kosten: 4 
+	
+Erhalten
+Voraussetzungen:
+	Heilung
+	MG: 56
+	WK: 42
+	ERF: 40
+	IN: 46
+	LV: 5
+Erhalten fängt den Geist eines Verstorbenen Wesens vom Anderen Ort ein und nimmt ihn in einem Teil seiner Substanz auf um ihn wieder an den Anderen Ort mit zurück zu nehmen.
+Je schneller der Geist des Verstorbenen durch Erhalten konserviert wird, desto geringer sind die bleibenden Schäden die der Verstorbene erleidet. Denn je länger der Geist sich bereits auf seinem Weg ins Jenseits befindet desto mehr hat er bereits über sein Leben in unseren Sphären und am Anderen Ort vergessen. Außerdem wird es mit fortschreitender Zeit immer schwieriger den Geist des Verstorbenen noch zu Orten und einzusammeln.
+Um den Zauber durchführen zu können muss der Zaubernde sich möglichst nah an der Stelle befinden an der das Ziel des Zaubers verstorben ist. Für jeden Meter Abstand wird die MAT-Probe auf erhalten um 2 erschwert. Da bei Wesen vom Anderen Ort häufig keine oder nur sehr spärliche Reste der sterblichen Substanz verbleiben kann sich die Suche nach der richtigen Stelle als schwierig erweisen. Hat der Zaubernde gesehen wo das Ziel des Zaubers sich seines Körpers entledigt hat kann er durch eine Wahrnehmungsprobe (WAH) die richtige Stelle finden. Ansonsten kann ihm vielleicht einer der Anderen in der Nähe befindlichen oder sogar der Täter helfen.
+Als nächstes muss der Zaubernde den eigentlichen Zauber wirken. Dabei ist es wie bereits erklärt von großer Entschiedenheit, dass zwischen dem Ableben und dem Erhalten eine möglichst geringe Dauer liegt. Für jede Kampfrunde die zwischen dem versterben und dem Ausführen, nicht dem Beginnen, des Zaubers liegt, wird der Zauber um 5 erschwert.
+Gelingt der Zauber wird der bewusstlose Geist des Verstorbenen in einen Teil der Substanz des Zaubernden eingeschlossen um ihn bis zur Rückkehr an den Anderen Ort, wo er sich im großen Strudel erholen kann zu erhalten. Da der Zaubernde diesen Teil seiner Substanz selbst nichtmehr aktiv nutzen kann gilt sie als für ihn verloren, sodass er fünf Punkte Schaden erleidet. Der Geist des Verstorbenen kann in der Substanz des Zaubernden für LP/20 Tage bestehen bleiben. Für jeden Tag darüber hinaus schwindet er weiter wie als wenn zwei weitere Kampfrunden vergangen wäre.
+Der Verstorbene erhält für (WK+KL)/40, des Verstorbenen, Kampfrunden keinen langfristigen Nachteil aus seinem Ableben wenn er in dieser Zeit durch Erhalten konserviert wird und rechtzeitig an den Anderen Ort zurück gebracht wird. Für jede Kampfrunde darüber hinaus verliert er 2% an allen Attributen sowie LP und MP.
+	Dauer: 88
+	Kosten Perser: 28MP 5LP
+	Kosten Chinesen: 14MP 12LP
+
+ 
+Erhalten II
+Voraussetzungen:
+	Heilung
+	MG: 64
+	WK: 52
+	ERF: 48
+	IN: 54
+	LV: 7
+Erhalten fängt den Geist eines Verstorbenen Wesens vom Anderen Ort ein und nimmt ihn in einem Teil seiner Substanz auf um ihn wieder an den Anderen Ort mit zurück zu nehmen.
+Je schneller der Geist des Verstorbenen durch erhalten konserviert wird, desto geringer sind die bleibenden Schäden die der Verstorbene erleidet. Denn je länger der Geist sich bereits auf seinem Weg ins Jenseits befindet desto mehr hat er bereits über sein Leben in unseren Sphären und am Anderen Ort vergessen. Außerdem wird es mit fortschreitender Zeit immer schwieriger den Geist des Verstorbenen noch zu Orten und einzusammeln.
+Um den Zauber durchführen zu können muss der Zaubernde sich möglichst nah an der Stelle befinden an der das Ziel des Zaubers verstorben ist. Für jeden Meter Abstand wird die MAT-Probe auf erhalten um 1 erschwert. Da bei Wesen vom Anderen Ort häufig keine oder nur sehr spärliche Reste der sterblichen Substanz verbleiben kann sich die Suche nach der richtigen Stelle als schwierig erweisen. Hat der Zaubernde gesehen wo das Ziel des Zaubers sich seines Körpers entledigt hat kann er durch eine Wahrnehmungsprobe (WAH) die richtige Stelle finden. Ansonsten kann ihm vielleicht einer der Anderen in der Nähe befindlichen oder sogar der Täter helfen.
+Als nächstes muss der Zaubernde den eigentlichen Zauber wirken. Dabei ist es wie bereits erklärt von großer Entschiedenheit, dass zwischen dem Ableben und dem Erhalten eine möglichst geringe Dauer liegt. Für jede Kampfrunde die zwischen dem versterben und dem Ausführen, nicht dem Beginnen, des Zaubers liegt, wird der Zauber um 5 erschwert.
+Der Zaubernde erhält einen +10 Bonus auf die MAT Probe.
+Gelingt der Zauber wird der bewusstlose Geist des Verstorbenen in einen Teil der Substanz des Zaubernden eingeschlossen um ihn bis zur Rückkehr an den Anderen Ort, wo er sich im großen Strudel erholen kann zu erhalten. Da der Zaubernde diesen Teil seiner Substanz selbst nichtmehr aktiv nutzen kann gilt sie als für ihn verloren, sodass er fünf Punkte Schaden erleidet. Der Geist des Verstorbenen kann in der Substanz des Zaubernden für LP/20 Tage bestehen bleiben. Für jeden Tag darüber hinaus schwindet er weiter wie als wenn zwei weitere Kampfrunden vergangen wäre.
+Der Geist des Zaubernden erhält für (WK+KL)/40 Kampfrunden keinen langfristigen Nachteil aus seinem Ableben wenn er in dieser Zeit durch Erhalten konserviert wird und rechtzeitig an den Anderen Ort zurück gebracht wird. Für jede Kampfrunde darüber hinaus verliert er 2% an allen Attributen sowie LP und MP.
+	Dauer: 78
+	Kosten Perser: 24MP 5LP
+	Kosten Chinesen: 12MP 11LP
+	Vertiefungskosten: 5/7 
+	
+Fäulnis Heilen
+Voraussetzungen:
+	Heilung
+	MG: 40
+	ERF: 30
+Der Zauber zerstört das faulende Gewebe sodass kein weiterer Schaden entsteht und versiegelt die Wundränder. 
+Die Kosten des Zaubers orientieren sich an der Ausbreitung der Fäulnis und beträgt 5MP pro 10 Kubikzentimeter für persische Heiler und (3MP 1LP) /10 Kubikzentimeter für Heiler aus China.
+	Dauer: 4 pro cm³
+	Kosten Perser: 5/ 10 cm³
+	Kosten Chinesen: (3MP 1LP)/10cm³
+ 
+Feldlazarett
+Voraussetzungen:
+	Heilung
+	MG: 32
+	WK: 48
+	MR: 44
+	LV: 3
+Der Zauber erschafft einen sicheren Bereich für Verwundete.
+Dieser wird durch ein halbkugelförmiges Schild mit einem Durchmesser von MTP/4 Metern. Das Schild entsteht entweder unter der Hand des Zaubernden oder um ich herum, je nachdem was der Zaubernde wünscht. Das Schild hat eine unbegrenzte Stabilität wehrt jedoch Zauber von innen und außen ab.
+Niemandem ist der Eintritt in das Feldlazarett verwehrt. Wird im inneren des Lazaretts ein Zauber gewirkt der nicht zur Heilungsmagie gehört bricht das Feldlazarett augenblicklich zusammen.
+Wer sich im inneren des Schutzschildes Befindet regeneriert 2 LP pro Kampfrunde.
+Das Feldlazarett kann vom Zaubernden beliebig lange aufrechterhalten werden, solange er konstant 9 ZWZ, ohne Übergangszeit, und 4 MP als persischer oder 2MP und 1 LP als chinesischer Heiler bezahlt. Entfernt sich der Zaubernde jedoch für mehr als zwei Kampfrunden vom Feldlazarett bricht der Zauber zusammen. Auch in Abwesenheit vom Lazarett, muss der Zaubernde weiterhin, Dauer und Kosten aufbringen.
+	Dauer: 42/9
+	Kosten Perser: 14/4
+	Kosten Chinesen: 6MP 4LP/2MP 1LP
+
+ 
+Feldlazarett II
+Voraussetzungen:
+	Heilung
+	MG: 42
+	WK: 53
+	MR: 44
+	LV: 5
+Der Zauber erschafft einen sicheren Bereich für Verwundete.
+Dieser wird durch ein halbkugelförmiges Schild mit einem Durchmesser von MTP/4 Metern. Das Schild entsteht entweder unter der Hand des Zaubernden oder um ich herum, je nachdem was der Zaubernde wünscht. Das Schild hat eine unbegrenzte Stabilität wehrt jedoch Zauber von innen und außen ab.
+Niemandem ist der Eintritt in das Feldlazarett verwehrt. Wird im inneren des Lazaretts ein Zauber gewirkt der nicht zur Heilungsmagie gehört bricht das Feldlazarett augenblicklich zusammen.
+Wer sich im inneren des Schutzschildes Befindet regeneriert MTP/3 LP pro Kampfrunde.
+Das Feldlazarett kann vom Zaubernden beliebig lange aufrechterhalten werden, solange er konstant 9 ZWZ, ohne Übergangszeit, und 4 MP als persischer oder 2MP und 1 LP als chinesischer Heiler bezahlt. Entfernt sich der Zaubernde jedoch für mehr als zwei Kampfrunden vom Feldlazarett bricht der Zauber zusammen. Auch in Abwesenheit vom Lazarett, muss der Zaubernde weiterhin, Dauer und Kosten aufbringen.
+	Dauer: 42/9
+	Kosten Perser: 14/4
+	Kosten Chinesen: 6MP 4LP/2MP 1LP
+	Vertiefungskosten: 4/5
+
+ 
+Gefrorenes Leben
+Voraussetzungen:
+	Heilung
+	MG: 53
+	WK: 58
+	ERF: 54
+	LV: 5
+Solange der Zauber wirkt können endet das Leben des Zieles nicht.
+Der Zauber kann auf ein beliebiges Ziel innerhalb von MTP/4 Metern um den Zaubernden herum gewirkt werden. Das Ziel des Zaubers erhält weiterhin normal Schaden und verliert Lebenspunkte, stirbt aber nicht. Es kann so ein beliebig hoher, negativer Lebenspunktestand erreicht werden. Sobald der Zauber endet stirbt das Ziel jedoch, wenn es nicht vor Ablauf des Zaubers wieder auf einen positiven Lebenspunktestand gebracht wurde.
+Der Zauber wirkt für MTP/4 Kampfrunden und kann auf beliebig viele Ziele gleichzeitig gewirkt werden.
+	Dauer: 82
+	Kosten: 16
+
+ 
+Gefrorenes Leben II
+Voraussetzungen:
+	Heilung
+	MG: 59
+	WK: 63
+	ERF: 59
+	LV: 7
+Solange der Zauber wirkt können endet das Leben des Zieles nicht.
+Der Zauber kann auf ein beliebiges Ziel innerhalb von MTP/4 Metern um den Zaubernden herum gewirkt werden. Das Ziel des Zaubers erhält weiterhin normal Schaden und verliert Lebenspunkte, jedoch können die Lebenspunkte nicht unter null fallen und das Ziel des Zaubers stirbt nicht. Sobald der Zauber endet stirbt das Ziel jedoch, wenn es nicht vor Ablauf des Zaubers wieder auf einen positiven Lebenspunktestand gebracht wurde.
+Der Zauber wirkt für MTP/4 Kampfrunden und kann auf beliebig viele Ziele gleichzeitig gewirkt werden.
+	Dauer: 76
+	Kosten: 16
+	Vertiefungskosten: 5/7
+
+ 
+Geteiltes Leid
+Voraussetzungen:
+	Heilung
+	MG: 41
+	IN: 36
+	KO: 22
+	LV: 3
+Ist halbes Leid. Durch den Zauber kann der Zaubernde die Hälfte des Schadens den er erleidet auf einen Verbündeten umleiten.
+Der so übertragene Schaden kann nicht durch Körperschutz wie Steinhaut oder Lederhaut reduziert werden, kann aber bei demjenigen der den Schaden in Empfang nimmt von einem Schild aufgenommen werden.
+Dies Funktioniert natürlich nur, solange der Verbündete bereit ist den Schaden auf sich zu nehmen. Lehnt das Ziel der Schadensumleitung den Erhalt des Schadens ab scheitert der Transfer.
+Um die Verbindung zu verwenden muss diese erst einmal eingerichtet werden. Dazu bedarf es eines physischen Kontaktes und es müssen 20 ZWZ und 5 MP aufgewendet werden.
+Nun kann der Zauber für 6 ZWZ und 3 MP aufrecht gehalten werden.
+Wird die Distanz zwischen Zauberndem und Ziel größer als MTP/2 Meter kann kein Schaden mehr übertragen werden auch wenn der Zauber noch aktiv ist.
+	Dauer: 20/6
+	Kosten: 5/3
+
+ 
+Geteiltes Leid II
+Voraussetzungen:
+	Heilung
+	MG: 50
+	IN: 44
+	KO: 29
+	LV: 5
+Ist halbes Leid. Durch den Zauber kann der Zaubernde die Hälfte des Schadens den er erleidet auf einen Verbündeten umleiten. Beide an der Verbindung beteiligten erhalten jeweils nur 40% des ursprünglichen Gesamtschadens.
+Der so übertragene Schaden kann nicht durch Körperschutz wie Steinhaut oder Lederhaut reduziert werden, kann aber bei demjenigen der den Schaden in Empfang nimmt von einem Schild aufgenommen werden.
+Dies Funktioniert natürlich nur, solange der Verbündete bereit ist den Schaden auf sich zu nehmen. Lehnt das Ziel der Schadensumleitung den Erhalt des Schadens ab scheitert der Transfer.
+Um die Verbindung zu verwenden muss diese erst einmal eingerichtet werden. Dazu bedarf es eines physischen Kontaktes und es müssen 16 ZWZ und 4 MP aufgewendet werden.
+Nun kann der Zauber für 5 ZWZ und 3 MP aufrecht gehalten werden.
+Wird die Distanz zwischen Zauberndem und Ziel größer als MTP Meter kann kein Schaden mehr übertragen werden auch wenn der Zauber noch aktiv ist.
+	Dauer: 16/5
+	Kosten: 4/3
+	Vertiefung: 4/6
+ 
+Gruppenheilung
+Voraussetzungen:
+	Heilung
+	MG: 40
+	ERF: 30
+	IN: 30
+Der Zauber heilt eine Gruppe von Wesen.
+Alle auf die der Zauber wirken soll müssen sich in irgendeiner Weise berühren, und alle berührten sind Teil des Zaubers, also auch Gegner die die Chance ergreifen. 
+Es müssen mindesten drei Wesen in der Wirkung des Zaubers betroffen sein damit dieser ausgeführt werden kann. Der Zaubernde ist automatisch auch Ziel des Zaubers. Nur wenn die höheren Anforderungen erfüllt werden kann der Zaubernde entscheiden ob er Ziel des Zaubers sein möchte oder nicht.
+Die Heilwirkung wird gleichmäßig auf alle Ziele des Zaubers aufgeteilt, auch wenn ein Ziel des Zubers nicht seinen gesamten Anteil des Zaubers benötigen würde und ein Teil der Heilwirkung somit verfällt. Der Zauber heilt insgesamt 4 HW Lebenspunkte (LP).
+	Dauer: 36
+	Kosten Perser: 20
+Kosten China: 8MP 5LP
+ 
+Heilfeld
+Voraussetzungen:
+	Heilung
+	MG: 38
+	ERF: 38
+	IN: 46
+	WK:52
+	LV: 3
+Der Zauber erschafft ein Feld um sich herum in dem alle geheilt werden.
+Der Zauber manifestiert sich nach Abschluss des Wirkens als weiß Leuchtender Zauberkreis auf dem Boden. Der Kreis hat einen Radius von MTP/3 Metern und der Zaubernde befindet sich im Zentrum des Kreises. Jeder der sich bis zu MTP Meter über oder unter dem Kreis befindet und mindestens eine ganze Kampfrunde im Wirkungsbereich des Zaubers befindet wird von dem Zauber betroffen.
+Jeder der durch den Zauber betroffen ist wird mit HW/2 pro Kampfrunde geheilt.
+Der Zauber bleibt für bis zu MTP/3 Runden bestehen. In dieser Zeit muss sich der Zaubernde voll auf den Zauber Konzentrieren. Daher fallen alle vor Beginn des Zaubers aufrecht gehaltenen Zauber automatisch in sich zusammen. Während des Zaubers kann sich der Zaubernde weder bewegen noch aktive oder defensive Aktionen ausführen. Wird dem Zaubernde während er den Zauber ausführt großer Schaden zugefügt, muss er eine KO-Probe bestehen, sonst bricht der Zauber zusammen. Großer Schaden ist jeder Schaden der KO/3 des Zaubernden übersteigt.
+Der Zaubernde wird durch den Zauber selbst nicht geheilt.
+	Dauer: 87
+	Kosten Perser: 45
+Kosten Chinesen 19MP 11LP
+ 
+Heilschlag
+Voraussetzungen:
+	Heilung
+	MG: 32
+	ERF: 28
+	IN: 25
+WAH: 22
+Der Zauber sendet ein Geschoss aus das das getroffene Ziel um HW/2 LP heilt.
+Das Geschoss kann maximal 2 MTP Meter überbrücken.
+Es bedarf einer Zielen-Probe (ZI) um festzustellen ob der Heilschlag trifft.
+	Dauer: 8
+	Kosten: 5
+
+Heilschlag II
+Voraussetzungen:
+	Heilung
+	MG: 39
+	ERF: 35
+	IN: 31
+WAH: 28
+Der Zauber sendet ein Geschoss aus das das getroffene Ziel um HW/2 LP heilt.
+Das Geschoss kann maximal 3 MTP Meter überbrücken.
+Es bedarf einer Zielen-Probe (ZI) um festzustellen ob der Heilschlag trifft.
+	Dauer: 7
+	Kosten: 4
+	Vertiefungskosten: 3/4 
+
+Heilung
+Voraussetzungen:
+	Heilung
+	MG: 26
+	ERF: 20
+	IN:20
+Der Zauber heilt ein Wesen vom Anderen Ort. 
+Die Heilung erfolgt bei Kontakt und stellt HW Lebenspunkte beim Ziel des Zaubers wieder her.
+Dauer: 10
+	Kosten Perser: 6
+Kosten Chinesen: 2MP 2LP
+
+ 
+Heilung II
+Voraussetzungen:
+	Heilung
+	MG: 36
+	ERF: 30
+	IN:30
+	LV: 3
+Der Zauber heilt ein Wesen vom Anderen Ort. 
+Die Heilung erfolgt bei Kontakt und stellt 1,5 HW Lebenspunkte beim Ziel des Zaubers wieder her. 
+Dauer: 12
+	Kosten Perser: 8
+Kosten Chinesen: 4MP 2LP
+Vertiefungskosten: ¾
+ 
+
+In starker Substanz wohnt starke Magie
+Voraussetzungen:
+	Heilung
+	MG: 20
+	KL: 26
+	ERF: 14
+Der Zauber erhöht entweder MAT des Ziels um (30-(MAT-AT))/2, MPA um (30-(MPA-PA))/2 und MTP um (10-(MTP-TP))/2.
+Oder AT des Ziels um (30-(AT-MAT))/2, PA um (30-(PA-MPA))/2 und TP um (10-(TP-MTP))/2.
+Der Zauber kann auf jedes Ziel nur einmal gewirkt werden.
+	Dauer: 20
+	Kosten: 6
+ 
+Magieblockade
+Voraussetzungen:
+	Heilung
+	MG: 36
+	ERF: 34
+	WK:47
+	IN:42
+	LV: 3
+Der Zauber hindert den Magiefluss innerhalb des Zieles. 
+Dadurch erhöht sich die Dauer jedes Zaubers, dass dieses während der Wirkungsdauer von Magieblockade wirken möchte auf das Dreifache.
+Der Zauber kann auf eine Distanz von maximal MTP/4 Metern gewirkt werden, wenn kein Hindernis zwischen dem Zaubernden und dem Ziel ist.
+Der Zauber hält entweder an solange der Zaubernde den Zauber aufrechterhält, wozu er die Distanz einhalten muss und jede Kampfrund oder Minute, außerhalb des Kampfes, 2 MP und konstant 16 ZWZ aufbringen muss. Oder der Zauber endet MTP, des Zaubernden -MR/5, des Ziels, Runden/ Minuten nachdem der Zaubernde den Zauber aktiv aufrechterhält. 
+	Dauer: 46/16
+	Kosten: 11/2
+ 
+Magieblockade II
+Voraussetzungen:
+	Heilung
+	MG: 40
+	ERF: 38
+	WK:53
+	IN:47
+	LV: 5
+Der Zauber hindert den Magiefluss innerhalb des Zieles. 
+Dadurch erhöht sich die Dauer jedes Zaubers, dass dieses während der Wirkungsdauer von Magieblockade wirken möchte auf das Vierfache.
+Aufgrund der magischen Natur von Wesen vom Anderen Ort wirkt sich dies auch signifikant auf die physischen Fähigkeiten des Ziels aus, sodass AT, PA, AW und ZI um MTP/2 reduziert werden. TP wird um MTP/3 reduziert.
+Der Zauber kann auf eine Distanz von maximal MTP/3 Metern gewirkt werden, wenn kein Hindernis zwischen dem Zaubernden und dem Ziel ist.
+Der Zauber hält entweder an solange der Zaubernde den Zauber aufrechterhält, wozu er die Distanz einhalten muss und jede Kampfrund oder Minute, außerhalb des Kampfes, 2 MP und konstant 13 ZWZ aufbringen muss. Oder der Zauber endet MTP, des Zaubernden -MR/6, des Ziels, Runden/ Minuten nachdem der Zaubernde den Zauber aktiv aufrechterhält. 
+	Dauer: 40/13
+	Kosten: 12/2
+	Vertiefungskosten: 4/5
+
+ 
+Regeneration anregen
+Voraussetzungen:
+	Heilung
+	MG: 34
+	ERF: 38
+	IN: 41
+	KO: 29
+Durch den Zauber werden die natürlichen Heilungskräfte des Ziels des Zaubers deutlich über ihr normales Maß angeregt.
+Wer von dem Zauber betroffen ist muss für die Dauer der Wirkung des Zaubers 1 MP pro Kampfrunde bezahlen. Nein, du hast keine Wahl. Dafür stellen sich jede Kampfrunde KO/10 Lebenspunkte wieder her.
+Der Zauber kann nur auf eine Distanz von unter MTP/4 Metern aktiviert werden und wirkt für MTP/3 Kampfrunden.
+	Dauer: 7
+	Kosten: 2
+
+ 
+Selbstheilung
+Voraussetzungen:
+	Heilung
+	MG: 37
+	ERF: 30
+	IN: 32
+Der Zauber heilt das Ziel, verwendet dafür jedoch hauptsächlich das Mana des Ziels der Heilung.
+Der Zauber heilt auf Kontakt HW Lebenspunkte. Das Ziel des Zaubers muss 6 MP und 4 ZWZ in der Folgerunde aufwenden damit der Zauber funktioniert.
+	Dauer: 16
+	Kosten: 1
+	Vertiefungskosten: 3/4 
+	
+Skalpell
+Voraussetzungen:
+	Heilung
+	MG46
+KL: 38	
+	WK: 28
+	ERF: 26
+Der Zauber umgibt die Hand des Zaubernden mit einer magischen Schicht die als Skalpell fungiert. Dieses ist notwendig da Wesen vom Anderen Ort Eisen vermeiden und Heildschinn für komplexere Eingriffe, gerade an Wesen von unserer Welt, chirurgische Eingriffe manchmal erforderlich sind. In Notfällen kann der Zauber jedoch auch verwendet werden um damit einen Nahkampfangriff zu verstärken.
+Dazu muss erst der Zauber mit einer Dauer von 8 ZWZ, mit Übergangszeit, mit einem Einsatz von 2 MP vorbereitet werden. Dieser kann dann einen direkt darauffolgenden Nahkampfangriff unterstützen. Erst wenn der Nahkampfangriff durchgeführt wird erfolgt auch die MAT-Probe um zu überprüfen ob der Zauber erfolgreich war. Jetzt fallen weiter Kosten von 3 MP und 2 ZWZ, ohne Übergangszeit. Scheitert der Nahkampfangriff ist der Zauber verloren und muss von vorne begonnen werden. Die kosten für den zweiten Teil des Zaubers fallen nur halb, 2 MP, an. Der Nahkampfangriff muss wie ein MNAT Angriff geblockt werden. Der Nahkampfangriff gilt dann als direkt folgend, wenn zwischendurch kein anderer Zauber oder ein unverstärkter Nahkampfangriff durchgeführt wurde. Defensive Aktionen oder Rundenübergänge spielen hierfür keine Rolle.
+Der Angriff mit Skalpell fügt zusätzlich zum physischen Angriff, MTP Punkte Schaden zu. 
+	Dauer: 8/2
+	Kosten: 2/3
+ 
+Starke Gruppenheilung
+Voraussetzungen:
+	Heilung
+	MG: 42
+	WK: 40
+	ERF: 36
+	IN: 41
+	LV: 3
+Der Zauber heilt eine Gruppe von Wesen.
+Alle auf die der Zauber wirken soll müssen sich in irgendeiner Weise berühren, und alle berührten sind Teil des Zaubers, also auch Gegner die die Chance ergreifen. 
+Es müssen mindesten drei Wesen in der Wirkung des Zaubers betroffen sein damit dieser ausgeführt werden kann. Der Zaubernde ist automatisch auch Ziel des Zaubers. Nur wenn die höheren Anforderungen erfüllt werden kann der Zaubernde entscheiden ob er Ziel des Zaubers sein möchte oder nicht.
+Die Heilwirkung wird gleichmäßig auf alle Ziele des Zaubers aufgeteilt, auch wenn ein Ziel des Zubers nicht seinen gesamten Anteil des Zaubers benötigen würde und ein Teil der Heilwirkung somit verfällt. Der Zauber heilt insgesamt 8 HW Lebenspunkte (LP).
+	Dauer: 68
+	Kosten Perser: 37
+Kosten China: 15MP 9LP
+ 
+Starke Gruppenheilung II
+Voraussetzungen:
+	Heilung
+	MG: 42
+	WK: 40
+	ERF: 36
+	IN: 41
+	LV: 5
+Der Zauber heilt eine Gruppe von Wesen.
+Alle auf die der Zauber wirken soll müssen sich in irgendeiner Weise berühren, und alle berührten sind Teil des Zaubers, also auch Gegner die die Chance ergreifen. 
+Es müssen mindesten drei Wesen in der Wirkung des Zaubers betroffen sein damit dieser ausgeführt werden kann. Der Zaubernde ist automatisch auch Ziel des Zaubers. Nur wenn die höheren Anforderungen erfüllt werden kann der Zaubernde entscheiden ob er Ziel des Zaubers sein möchte oder nicht.
+Die Heilwirkung wird gleichmäßig auf alle Ziele des Zaubers aufgeteilt, auch wenn ein Ziel des Zubers nicht seinen gesamten Anteil des Zaubers benötigen würde und ein Teil der Heilwirkung somit verfällt. Der Zauber heilt insgesamt 10 HW Lebenspunkte (LP).
+	Dauer: 72
+	Kosten Perser: 44
+Kosten China: 18MP 11LP
+Vertiefungskosten: 4/5
+ 
+
+Überreiche Lebenskraft
+Voraussetzungen:
+	Heilung
+	MG: 43
+	WK: 32
+	KL: 42
+	IN: 32
+	LV: 3
+Der Zauber heilt ein Wesen vom Anderen Ort und erhöht gleichzeitig seine maximalen Lebenspunkte temporär.
+Der Zauber erhöht die aktuellen und maximalen Lebenspunkte des Ziels des Zaubers für 3 MTP Minuten um HW.
+Das Ziel des Zaubers darf dafür nicht mehr als MTP/4 Meter vom Zaubernden entfernt sein.
+Wenn der Zauber endet und die Lebenspunkte des Verzauberten dadurch unter null vielen fallen sie stattdessen auf eins und der Betroffenen verliert die Differenz in Manapunkten.
+	Dauer:16
+	Kosten Perser: 8
+	Kosten Chinesen: 3MP und 2 LP 
+
+ 
+Versteinerung Heilen
+Voraussetzungen:
+	Heilung, Erde
+	MG: 25/30/40/50/60
+	WK: 25/30/40/50/60
+	ERF:30/30/40/50/60
+	LV:   0  /0  /3  /5  /7
+Der Zauber heilt den Zustand Versteinerung. 
+Die Schwierigkeit der Heilung ist abhängig wie lange das Ziel schon versteinert ist. Ist der zu Heilende weniger als eine Stunde versteinert wird MG:25 und ERF:30 benötigt um den Zustand der Versteinerung aufheben zu können. Ist der Versteinerte seit bis zu einem Tag versteinert wird MG: 30 und ERF: 30 benötigt. Dauert der Zustand seit bis zu einem Monat an ist die Voraussetzung MG: 40 und ERF: 40. Dauert der Zustand seit bis zu einem Jahr an wird MG: 50 und ERF: 50 benötigt, alles was länger als ein Jahr versteinert ist kann nur mit MG: 60 und ERF: 60 aus der Versteinerung befreit werden. 
+Wenn die Heilung in eine nicht beherrschte Zeitstufe trotzdem durchgeführt werden soll, wird die MAT Probe um 20 pro Zeitstufe erschwert. 
+Der geheilte ist nicht sofort wieder voll einsatzfähig, sondern der Zauber zieht sich langsam zurück. Abhängig davon wie lange das Ziel versteinert war kann dies von wenigen Minuten bis zu einer Woche in Anspruch nehmen.
+	Dauer: 40/55/70/85/100
+	Kosten Perser: 20/30/40/45/50
+	Kosten Chinesen: 8 MP 6 LP/ 14 MP 8 LP/18 MP 11 LP/21 MP 12 LP/24 MP 13 LP
+ 
+Vollständige Magieblockade
+Voraussetzungen:
+	Heilung
+	Magieblockade II
+	MG: 48
+	ERF: 44
+	WK: 58
+	IN: 54
+	LV: 7
+Der Zauber hindert den Magiefluss innerhalb des Zieles. 
+Dadurch ist dieses während der Wirkungsdauer von Magieblockade vollkommen unfähig Zauber zu wirken. Aufgrund der magischen Natur von Wesen vom Anderen Ort wirkt sich dies auch signifikant auf die physischen Fähigkeiten des Ziels aus, sodass AT, PA, AW und ZI um MTP reduziert werden. TP wird um MTP/2 reduziert.
+Der Zauber kann auf eine Distanz von maximal MTP/3 Metern gewirkt werden, wenn kein Hindernis zwischen dem Zaubernden und dem Ziel ist.
+Der Zauber hält entweder an solange der Zaubernde den Zauber aufrechterhält, wozu er die Distanz einhalten muss und jede Kampfrund oder Minute, außerhalb des Kampfes, 3 MP als Persischer oder 1MP und 1LP als chinesischer Heiler und konstant 18 ZWZ aufbringen muss. Oder der Zauber endet MTP, des Zaubernden, -MR/8, des Ziels, Runden/ Minuten nachdem der Zaubernde den Zauber aktiv aufrechterhält. 
+	Dauer: 55/ 18
+	Kosten Perser: 15/3
+	Kosten Chinesen: 7MP 4LP/1MP 1LP
+	Vertiefungskosten: 4/5
+
+

@@ -1,0 +1,307 @@
+Discus
+Voraussetzungen:
+	Kristall
+	MG: 19
+	WK: 36
+	GE: 28
+	WAH: 24
+Der Zauber erschafft eine flache Kristallscheibe mit Scharfem Rand.
+Die Kristallscheibe hat einen Durchmesser von MTP/4 Metern. Sie fügt jedem den sie trifft MTP Punkte Schaden zu.
+Da die Kristallscheibe jedes Mal wenn sie einen Gegner trifft etwas Energie verliert, kann sie maximal WK/ 10 Gegner, abgerundet, verletzen, bevor sie stehen bleibt.
+Nachdem die Scheibe erschaffen wurde wird sie magisch beschleunigt und mit einer Zielen-Probe losgeschickt. Für jeden Punkt den der Geworfene Wert den Zielen-Wert übertrifft verfehlt sie auf 10 Meter um 20 cm. Würde also der Zielen Wert um 5 überboten verfehlt die Scheibe ein 10 Meter entferntes Ziel um einen Meter. Gezielt wird die Mitte der Kristallscheibe.
+Die Kristallscheibe kann aufgehoben und erneut von einem Kristalldschinn verwendet werden. In diesem Fall kostet das ausführen des Zaubers nur 14 ZWZ und 4 MP.
+Hebt jemand anderes die Scheibe auf so kann er sie nur durch Körperkraft antreiben. Es bedarf einer Probe auf (FF+GE)/2 +10 um festzustellen ob die Scheibe erfolgreich losgeschickt wurde. Scheitert die Probe, fällt die Scheibe KK/10 Meter entfernt zu Boden, jemand getroffenes erlitte dabei nur TP/2 Punkte Schaden. Gelingt die Probe jedoch so fliegt die Scheibe los und kann bis zu KK/20 Ziele mit jeweils TP Punkten Schaden verletzen.
+Es ist auch möglich die Kristallscheibe nur zu erschaffen und nicht magisch zu beschleunigen, dies erfordert 40 ZWZ und 16 MP:
+Die Kristallscheibe besitzt MTP Stabilitätspunkte. Jedes Mal wenn die Scheibe ein Ziel trifft verliert sie einen Stabilitätspunkt. Wird der Kristalldiscus ungeschickt abgeworfen verliert er drei Stabilitätspunkte.
+Wird der Kristalldiscus gezielt angegriffen verliert er einen Stabilitätspunkt für je 2 Punkte Schaden die er erleidet.
+	Dauer: 51/14/40
+	Kosten: 18/4/16
+ 
+Discus II
+Voraussetzungen:
+	Kristall
+	MG: 27
+	WK: 46
+	GE: 40
+	WAH: 36
+Der Zauber erschafft eine flache Kristallscheibe mit Scharfem Rand.
+Die Kristallscheibe hat einen Durchmesser von MTP/3 Metern. Sie fügt jedem den sie trifft MTP Punkte Schaden zu.
+Da die Kristallscheibe jedes Mal wenn sie einen Gegner trifft etwas Energie verliert, kann sie maximal WK/ 7 Gegner, abgerundet, verletzen, bevor sie stehen bleibt.
+Nachdem die Scheibe erschaffen wurde wird sie magisch beschleunigt und mit einer Zielenprobe losgeschickt. Für jeden Punkt den der Geworfene Wert den Zielen-Wert übertrifft verfehlt sie auf 10 Meter um 20 cm. Würde also der Zielen Wert um 5 überboten verfehlt die Scheibe ein 10 Meter entferntes Ziel um einen Meter. Gezielt wird die Mitte der Kristallscheibe.
+Die Kristallscheibe kann aufgehoben und erneut von einem Kristalldschinn verwendet werden. In diesem Fall kostet das ausführen des Zaubers nur 14 ZWZ und 4 MP.
+Hebt jemand anderes die scheibe auf so kann er sie nur durch Körperkraft antreiben. Es bedarf einer Probe auf (FF+GE)/2 +10 um festzustellen ob die Scheibe erfolgreich losgeschickt wurde. Scheitert die Probe, fällt die Scheibe KK/9 Meter entfernt zu Boden, jemand getroffenes erlitte dabei nur TP/2 Punkte Schaden. Gelingt die Probe jedoch so fliegt die Scheibe los und kann bis zu KK/15 Ziele mit jeweils TP Punkten Schaden verletzen.
+Es ist auch möglich die Kristallscheibe nur zu erschaffen und nicht magisch zu beschleunigen, dies erfordert 34 ZWZ und 14 MP:
+Die Kristallscheibe besitzt 1,5*MTP Stabilitätspunkte. Jedes mal wenn die Scheibe ein Ziel trifft verliert sie einen Stabilitätspunkt. Wird der Kristalldiscus ungeschickt abgeworfen verliert er drei Stabilitätspunkte.
+Wird der Kristalldiscus gezielt angegriffen verliert er einen Stabilitätspunkt für je 2 Punkte Schaden die er erleidet.
+Ein Wesen das Discus II beherrscht kann einen gefunden Kristalldiscus mit 10 ZWZ und 3 MP beschleunigen. Wurde das gefundene Exemplar jedoch mit Discus erschaffen können damit maximal WK/9 Gegner verletzt werden.
+	Dauer: 41/10/34
+	Kosten: 15/3/14
+ 
+Kristallisieren
+Voraussetzungen:
+	Kristall
+	MG: 23
+WK: 37
+	ERF: 25
+der Zauber verändert die Struktur des Ziels des Zaubers in eine kristallische. Das verzauberte Objekt wird dadurch härter und haltbarer.
+Um den Zauber einzusetzen ist es notwendig das Ziel des Zaubers zu berühren. 
+Der Zauber kann nicht offensiv gegen andere verwandt werden. Wehrt sich jemand gegen die Kristallisierung schlägt sie automatisch fehl. 
+Gegenstände die kristallisiert wurden haben einen Waffenbonus von 1 Punkt Schaden.		Dauer: 16/ 50cm³
+	Kosten: 3 / 50 cm³
+ 
+Schutzwall
+Voraussetzungen:
+	Kristall
+	MG:24
+	WK: 28
+ERF:22
+Der Zauber erschafft eine Kristallwand nahe des Zaubernden. Die Kristallwand ist 3 Meter vom Zaubernden entfernt und deckt einen Teilkreis von etwa 90° ab. Die Wand ist MTP/4 Meter hoch. Sie kann auch außerhalb des Sichtbereichs erschaffen werden. 
+Die Kristallwand besitzt 3 MTP Stabilitätspunkte. 
+Sie kann mit einer Dauer von ‘Verlorene Stabilitätspunkte‘ ZWZ und einem Drittel davon an Manakosten wieder hergestellt werden. Um die Mauer auszubessern ist weder sicht- noch physischer Kontakt notwendig.
+Der Schutzwall kann mehrfach erschaffen werden, es kann jedoch immer nur der neuste Schutzwall wieder repariert werden.
+	Dauer: 22
+	Kosten: 8
+ 
+Stachelfeld
+Voraussetzungen:
+	MG: 28
+	ERF: 24
+	WK: 44
+Der Zauber erschafft in einem runden Gebiet mit einem Durchmesser von MTP/4, dass sich maximal MTP Meter vom Zaubernden entfernt befindet eine Reihe von ca. MTP/15 Meter hohen Kristallstacheln. 
+Die Stacheln spießen jeden der sich in dem Gebiet befindet auf und richten damit einen Schaden von 1W6*0,5MTP an. 
+Um das Gebiet zu verlassen oder einem wachsenden Stachel zu entkommen ist eine Ausweichenprobe notwendig. Die Ausweichenprobe ist für alle die das Gebiet durch ausweichen nicht verlassen können um 20 erschwert. 
+Wird der für die erschwerte Ausweichenprobe notwendige Wert übertroffen eine normale Ausweichenprobe würde aber gelingen, so kann einem Teil des Schadens entronnen werden. Der angerichtete Schaden reduziert sich in diesem Fall auf 1W4*0,5MTP. 
+Da die Stacheln bestehen bleiben, sind Durchbohrte festgesetzt bis sie sich mit einer aktiven Aktion, 18 AU, befreien. Jede Runde die jemand Aufgespießtes aufgespießt beginnt erleidet er 1W6 Schaden.
+	Dauer: 34
+	Kosten: 22
+ 
+Ansturm
+Voraussetzungen:
+	Kristall-Bestie
+	WK: 44
+	ERF: 22
+	KK: 38
+	MUT: 41
+Der Zauber unterstützt einen physischen Angriff der aus einer Bewegung und einem Angriff besteht. Das Ziel des Zaubers wird mit sehr großer Wucht gerammt und entweder weggeschleudert oder niedergeworfen.
+Voraussetzung für den Zauber ist, dass der Zaubernde eine große oder sogar sehr große Gestalt besitzt.
+Die mit dem Zauber verbundene Aktionsfolge besteht aus drei Schritten: Den Zauber wirken, eine Bewegungsaktion, ein physischer Angriff. 
+Der Zauber wird auf die übliche Weise durch einen MAT-Wurf und das Aufbringen von Dauer und Kosten gewirkt. 
+Direkt im Anschluss wird eine Bewegungsaktion die mindestens die halbe Bewegungsreichweite oder 5 Meter Strecke zurücklegt, je nachdem was großer ist wird diese Mindestdistanz angewendet. 
+Direkt im Anschluss an die Bewegungsaktion wird der Angriff durchgeführt. Dazu ist ein um 20 erleichterter AT-Wurf notwendig.
+Können nicht alle Schritte in einer Kampfrunde durchgeführt werden stellen Rundenübergänge und defensive Aktionen kein Hindernis für den Zauber dar, es können jedoch keine anderen aktiven Aktionen durchgeführt werden, sonst bricht der Zauber ab. Es müssen dann trotzdem die vollen Kosten für den Zauber aufgebracht werden. Die einzige Ausnahme stellen Bewegungen dar. Während des Ansturm kann bis zu drei Mal die Bewegungsreichweite genutzt werden. 
+Der Zaubernde kann sich aussuchen ob er das Ziel durch seinen Ansturm niederwerfen oder wegschleudern möchte. 
+Ein niedergeworfenes Ziel erleidet dadurch, dass es niedergetrampelt wird TP/2 Punkte Schaden mehr, außerdem benötigt es 10 AU um sich zu erheben. Solange es liegt ist es ein leichteres Ziel für Angriffe, wie in Kapitel 65 Kampf Beschrieben. 
+Wird das Ziel weggeschleudert, fliegt es TP/2 Meter weit weg. Durch eine Geschick-Probe (GE) kann es verhindern bei Aufprall auf den Boden zu stürzen und TP/2 Punkte zusätzlichen Schaden zu erleiden. Scheitert die GE-Probe geht auch hier das Ziel des Angriffs zu Boden.
+Der Angriff selbst richtet MTP+ 2 TP Punkte Schaden an.
+Das Ziel des Angriffs kann dem Angriff zu wiederstehen versuchen indem es dem Angriff entweder ausweicht oder sich dem Angriff entgegenstemmt, letzteres sei nur wirklich starken Wesen empfohlen. 
+Versucht das Ziel auszuweichen bedarf dies einer um 20 erschwerten Parade (PA). Gelingt die Parade wird dem kompletten Angriff ausgewichen und der Ansturm geht ins Leere. Erreicht die Parade (PA) einen normalen Erfolg, kann aber nicht die Erschwernis bedienen, kann der Parierende wählen wegzufliegen, wenn er niedergetrampelt werden würde.
+Stellt sich das Ziel des Angriffs dem Angriff entgegen muss es eine normale Parade durchführen und kann dadurch den Schaden des Angriffs um PAW reduzieren, durch eine zusätzliche um 20 erschwerte Konstitutionsprobe (KO) kann verhindert werden das es weggeschleudert oder niedergeworfen wird.
+	Dauer: 9
+	Kosten: 6
+
+
+ 
+Aura der Gewalttätigkeit
+Voraussetzungen:
+	Kristall-Bestie
+	WK: 44
+	MUT: 44
+	ERF: 28
+Der Zauber ruft in allen um den Zaubernden herum das Verlangen Blut zu vergießen. Alternativ tut es auch andere organische Substanz.
+Alle um den Zaubernden herum in einem Radius von MTP/3 Metern erhalten +2 TP. Der Zauber betrifft nicht den Zaubernden.
+Um den Zauber aufrecht zu halten muss jede Runde 7 ZWZ, ohne Übergangszeit, und 2 MP aufgebracht werden.
+	Dauer: 22/7
+	Kosten: 7/2
+ 
+Aura der Gewalttätigkeit II
+Voraussetzungen:
+	Kristall-Bestie
+	WK: 53
+	MUT: 50
+	ERF: 34
+Der Zauber ruft in allen um den Zaubernden herum das Verlangen Blut zu vergießen. Alternativ tut es auch andere organische Substanz.
+Alle um den Zaubernden herum in einem Radius von MTP/2 Metern erhalten +3 TP. Der Zauber betrifft den Zaubernden nur mit +2 TP.
+Um den Zauber aufrecht zu halten muss jede Runde 6 ZWZ, ohne Übergangszeit, und 2 MP aufgebracht werden.
+	Dauer: 18/6
+	Kosten: 6/2
+	Vertiefungskosten: 5/7
+ 
+Blutrausch
+Voraussetzungen:
+	Kristall-Bestie
+	WK: 41
+	MUT: 48
+	KK: 36
+	LV: 3
+Der Zaubernde verfällt in einen brutalen Rausch indem ihn das durch ihn angerichtete Massaker antreibt noch mehr Zerstörung anzurichten.
+Für je 10 Punkte Schaden die der Zaubernde Anrichtet steigt seine AT um 1. Für jeden würdigen Feind an dessen Niedergang er beteiligt ist steigt die AT des Zaubernden um 2und der Nahkampfschaden (TP) des Zaubernden um 1. Für je 5 Punkte AT gewinn steigt der Nahkampfschaden (TP) des Zaubernden um 1 an. 
+Der Zauber hält für MTP/3 kampfrunden an. Für jeden würdigen, gefallenen Gegner an dessen Niedergang der Zaubernde beteiligt ist verlängert sich die Wirkung des Zaubers um eine Kampfrunde.
+Nachdem der Zauber endet verfliegt die Wirkung binnen zwei Runden. In der ersten Runde nach Ende des Zaubers besteht also noch die halbe Wirkung des Zaubers.
+Der Zauber kann erst in der dritten Runde nachdem der vorhergehende Blutrausch geendet hat wieder gewirkt werden.
+	Dauer: 34
+	Kosten: 17
+ 
+Corpus Crystallinus
+Voraussetzungen:
+	Kristall-Bestie
+	MG: 22
+	MR: 30
+	ERF: 34
+	KO: 29
+Durch den Zauber wird der Körper, oder ein Teil des Körpers, des Zaubernden von einer Krstallschicht überzogen die ihn schützt. 
+Die Kristallschicht reduziert jeden Schaden der dem Zaubernden im kristallisierten Gebiet zugefügt wird um 1. Die Kristallschicht ist sehr schwer zu zerstören, sodass selbst wiederhöhlte Treffer auf ein Gebiet kaum Schaden an der Kristallschicht hervorrufen.
+Ist mehr als die Hälfte der Körperoberfläche des Zaubernden mit Kristall überzogen so erhöht sich die Dauer für Angriffe, Bewegen und passive Aktionen um 1. 
+Die Kristallschicht bleibt für unbestimmte Zeit bestehen nachdem sie erschaffen wurde. Möchte der Kristallisierte sich verwandeln muss er erst die Kristallschicht ablösen, was Schaden verursacht abhängig von der Größe des mit Kristall überzogenen Gebiets. Oder den Kristall mit einer Geschwindigkeit von 16 ZWZ / m² ablösen. Das Ablösen kostet 1 MP pro m².  
+Der Zauber kann nicht kumulativ  mit der Gabe Klinge/Stachel/Schwert kombiniert werden.
+	Dauer: 32 pro m²
+	Kosten: 4 pro m²
+ 
+Corpus Crystallinus II
+Voraussetzungen:
+	Kristall-Bestie
+	MG: 28
+	MR: 36
+	ERF: 36
+	KO: 36
+Durch den Zauber wird der Körper, oder ein Teil des Körpers, des Zaubernden von einer Krstallschicht überzogen die ihn schützt. 
+Die Kristallschicht reduziert jeden Schaden der dem Zaubernden im kristallisierten Gebiet zugefügt wird um 3. Die Kristallschicht ist sehr schwer zu zerstören, sodass selbst wiederhöhlte Treffer auf ein Gebiet kaum Schaden an der Kristallschicht hervorrufen.
+Kristallisierte Körperteile die Zum Angriff genutzt werden richten 1 Punkt Schaden mehr an. Ist mehr als die Hälfte der Körperoberfläche des Zaubernden mit Kristall überzogen so erhöht sich die Dauer für Angriffe, Bewegen und passive Aktionen um 2. 
+Die Kristallschicht bleibt für unbestimmte Zeit bestehen nachdem sie erschaffen wurde. Möchte der Kristallisierte sich verwandeln muss er erst die Kristallschicht ablösen, was Schaden verursacht abhängig von der Größe des mit Kristall überzogenen Gebiets. Oder den Kristall mit einer Geschwindigkeit von 22 ZWZ / m² ablösen. Das Ablösen kostet 2 MP pro m².  
+Der Zauber kann nicht kumulativ  mit der Gabe Klinge/Stachel/Schwert kombiniert werden.
+	Dauer: 48 pro m²
+	Kosten: 7 pro m²
+ 
+Dröhnendes Donnern
+Voraussetzungen:
+	Kristall-Bestie
+	MG: 28
+	WK: 49
+	ERF: 34
+	MUT: 34
+	LV: 3
+Durch den Zauber wird die Substanz aller in einem Radius von MTP Metern um den Zaubernden herum in Wallung gebracht. Die nächste Aktion aller im Einflussbereich wird mit MTP des Zaubernden/3 mehr TP oder MTP durchgeführt. Der Zaubernde selbst erhält nur den halben Bonus. Wesen mit einem Mut-Wert (MUT) über 50 erhalten einen um eins größeren Bonus, der Zaubernde ist hiervon ausgeschlossen. Der Bonus muss spätestens im Laufe der nächsten Aktion verwendet werden sonst verfällt er.
+Bei wiederholtem wirken des Zaubers wird der höchste erreichte Bonus verwendet.
+Der Zauber ist sehr laut und erzeugt Schwingungen auf allen Ebenen die weithin sichtbar sind. Es besteht also eine sehr große Gefahr mit diesem Zauber, unerwünschte, Aufmerksamkeit auf sich zu lenken.
+	Dauer: 19
+	Kosten: 6 
+Kristallpfeiler
+Voraussetzungen:
+	Kristall-Bestie
+	MG: 32
+	WK: 56
+	KO: 44
+Durch den Zauber erhebt sich ein massiver Kristallpfeiler innerhalb von MTP Metern Radius um den Zaubernden aus dem Boden. Der Pfeiler kann von Kristalldschinn die den Pfeiler anfassen verwendet werden um Zauber daraus zu speisen.
+Der Pfeiler besitzt bei seiner Erschaffung MTP Punkte.
+Jeder dieser Punkte kann verwendet werden um MTP/2 MP zu einem Kristallzauber zu speisen. Das verwenden eines Punktes erhöht die Dauer des Zaubers um 4. Es können mehrere Punkte für einen Zauber verwendet werden, aber nie mehr als MG/10 des Zaubernden.
+Da mit dem Aufbrauchen der Punkte der Kristallpfeiler aufgebraucht wird, wird dieser immer kleiner je mehr von ihm verwendet wurde. Wenn alle Punkte weg sind ist nichts mehr von dem Pfeiler übrig.
+	Dauer: 5*MTP
+	Kosten: 3*MTP
+ 
+Urtümlicher Kampfschrei
+Voraussetzungen:
+	Kristall-Bestie
+	WK: 34
+	MUT: 44
+	KK: 34
+Der Zaubernde lässt ein bestialisches, enorm lautes Gebrüll los das Feinde in der Nähe einschüchtert und befreundete Wesen in der Nähe antreibt.
+Der Zauber wirkt in einem Radius von 3 MTP Metern vor dem Zaubernden und in einem Radius von MTP Metern hinter dem Zaubernden.
+Befreundete Wesen im Einflussbereich des Zaubers deren aktueller MUT-Wert unter 30 liegt erhalten +5 MUT.
+Befreundete Wesen im Einflussbereich des Zaubers deren aktueller MUT-Wert über 30 liegt erhalten +3 AT und +1 TP.
+Befreundete Einheiten mit einem aktuellen MUT-Wert über 45 erhalten sogar +5 AT und +1 TP.
+Feindliche Wesen im Einflussbereich des Zaubers mit einem MUT über 50 dürfen mit einer MUT-Probe versuchen dem Zauber zu wiederstehen. Ist die Probe erfolgreich hat sie keine Dauer, scheitert sie verringert sich die in der nächsten Runde zur Verfügung stehende Zeit um 5 AU.
+Auf feindliche Wesen mit einem aktuellen MUT-Wert von über 40 und solche mit über 50 MUT deren Probe gescheitert ist wirkt der Zauber indem MUT um 10 reduziert wird. Zudem wird AT um 3 und TP um 1 reduziert.
+Auf feindliche Wesen mit einem MUT-Wert bis inclusive 40 wirkt der Zauber indem AT um 5 und TP um 2 reduziert wird.
+Der Effekt des Zaubers gilt bei verbündeten Wesen für MTP/2 Runden.
+Bei gegnerischen Wesen wirkt der Zauber für MTP/2 Runden oder bis eine erfolgreiche MUT-Probe mit dem aktuellen MUT-Wert erzielt wurde. Die Probe darf einmal pro Runde versucht werden und dauert 10 AU.
+Wird der Zauber ein weiteres Mal durch jemand anderes gewirkt werden die modifizierten Mut-Werte (MUT) verwendet. Die Wirkung des Zaubers reduziert sich jedoch dort wo sie sich überschneidet auf die Hälfte. Weitere überschneidende, gleiche Zauber haben ebenfalls 50% Effekt bei erhöhtem Mut-Wert.
+	Dauer: 47
+	Kosten: 18
+ 
+Urtümlicher Kampfschrei II
+Voraussetzungen:
+	Kristall-Bestie
+	WK: 48
+	MUT: 58
+	KK: 44
+	KO: 46
+	LV: 3
+Der Zaubernde lässt ein bestialisches, enorm lautes Gebrüll los das Feinde in der Nähe einschüchtert und befreundete Wesen in der Nähe antreibt.
+Der Zauber wirkt in einem Radius von 3 MTP Metern vor dem Zaubernden und in einem Radius von MTP Metern hinter dem Zaubernden.
+Befreundete Wesen im Einflussbereich des Zaubers deren aktueller MUT-Wert unter 30 liegt erhalten +3 AT und +5 MUT.
+Befreundete Wesen im Einflussbereich des Zaubers deren aktueller MUT-Wert über 30 liegt erhalten +5 AT, +1 TP und +10 MUT.
+Befreundete Einheiten mit einem aktuellen MUT-Wert über 45 erhalten sogar +8 AT,  +2 TP und +10 MUT.
+Feindliche Wesen im Einflussbereich des Zaubers mit einem MUT über 50 dürfen mit einer MUT-Probe versuchen dem Zauber zu wiederstehen. Ist die Probe erfolgreich hat sie keine Dauer, scheitert sie verringert sich die in der nächsten Runde zur Verfügung stehende Zeit um 8 AU.
+Auf feindliche Wesen mit einem aktuellen MUT-Wert von über 40 und solche mit über 50 MUT deren Probe gescheitert ist wirkt der Zauber indem MUT um MTP reduziert wird. Zudem wird AT um 5 und TP um 2 reduziert.
+Auf feindliche Wesen mit einem MUT-Wert bis inclusive 40 wirkt der Zauber indem AT um 8 und TP um 3 reduziert wird.
+Der Effekt des Zaubers gilt bei verbündeten Wesen für MTP/2 Runden.
+Bei feindlichen Wesen wirkt der Zauber für MTP/2 Runden oder bis eine erfolgreiche MUT-Probe mit dem aktuellen MUT-Wert erzielt wurde. Die Probe darf einmal pro Runde versucht werden und dauert 10 AU.
+Wird der Zauber ein weiteres Mal durch jemand anderes gewirkt werden die modifizierten Mut-Werte (MUT) verwendet. Die Wirkung des Zaubers reduziert sich jedoch dort wo sie sich überschneidet auf die Hälfte. Weitere überschneidende, gleiche Zauber haben ebenfalls 50% Effekt bei erhöhtem Mut-Wert.
+	Dauer: 44
+	Kosten: 14
+	Vertiefungskosten: 4/6
+ 
+Stachelfeld II
+Voraussetzungen:
+	Kristall-Bestie
+MG: 32
+	WK: 56
+	ERF: 29
+Der Zauber erschafft in einem runden Gebiet mit einem Durchmesser von MTP/3 Metern, das sich maximal 1,5 MTP Meter vom Zaubernden entfernt befindet eine Reihe von ca. MTP/12 Meter hohen Kristallstacheln. 
+Die Stacheln spießen jeden der sich in dem Gebiet befindet auf und richten damit einen Schaden von 1W8*0,5MTP an. 
+Um das Gebiet zu verlassen oder einem wachsenden Stachel zu entkommen ist eine Ausweichenprobe notwendig. Die Ausweichenprobe ist für alle die das Gebiet durch ausweichen nicht verlassen können um 20 erschwert. 
+Wird der für die erschwerte Ausweichenprobe notwendige Wert übertroffen eine normale Ausweichenprobe würde aber gelingen, so kann einem Teil des Schadens entronnen werden. Der angerichtete Schaden reduziert sich in diesem Fall auf 1W4*0,5MTP. 
+Da die Stacheln bestehen bleiben, sind Durchbohrte festgesetzt bis sie sich mit einer aktiven Aktion, 18 AU, befreien. Jede Runde die jemand Aufgespießtes aufgespießt beginnt erleidet er 1W10 Punkte Schaden.
+Die Kristallstacheln können aufgelöst und von Kristalldschinn für andere Zauber wiederverwendet werden. Die stacheln müssen berührt werden, dann können sie bis zu MTP/4 Mal verwendet werden um die Kosten eines Zaubers UM MTP/3 MP zu senken. Die Dauer des Zaubers erhöht sich bei der Verwendung der externen Quelle jedoch um 3 ZWZ. Es kann für jeden Zauber jeweils nur ein Teil der Kristallstacheln verwendet werden.
+	Dauer: 38
+	Kosten: 24
+ 
+Stampftritt
+Voraussetzungen:
+	Kristall-Bestie
+	ERF: 25
+	WK:35
+	KK:42
+Der Zaubernde versetzt dem Boden durch einen magisch verstärkten Tritt in starke Schwingung. 
+dadurch muss jeder der in einem Radius von MTP Metern um den Zaubernden steht eine Geschicklichkeitsprobe (GE) machen. 
+Wenn der Wurf gelingt hat der Zauber keine Weitern Auswirkungen. 
+Scheitert die Probe jedoch führt dies zum Sturz. Wer stürzt erleidet MTP/2 Schaden und darf seine nächste Aktion nur mit halber INI, AU, ZWZ und MNAU durchführen.
+	Dauer: 22
+	Kosten 12
+ 
+Verschlingen
+Voraussetzungen:
+	Kristall-Bestie; Sand
+	WK: 38
+	KO: 42
+	KK: 38
+	GE: 26
+	MUT: 35
+	LV: 3
+Frist ein anderes Wesen vom Anderen Ort mit Haut und Haar.
+Durch den verschlingen Zauber wird zum einen die Gegenwehr des Opfers reduziert, zum anderen wird dessen Verdauung beschleunigt. Der Zauber kann nur auf Ziele gewirkt werden die sich in Nahkampfdistanz des Zaubernden befinden. 
+Wesen die Ziel des Zaubers sind und weniger als MTP LP oder MP besitzen werden sofort komplett verschlungen unabhängig von ihren sonstigen Fähigkeiten.
+Hat das Ziel noch mehr übrig erleidet es MTP Punkte Abzug auf LP und MP. Seine Gegenwehr im inneren des Zaubernden ist eingeschränkt, da alle Zauber mit doppelten kosten gewirkt werden müssen. Nahkampfangriffe erfordern 50% mehr Zeit.
+Dem verschlungenen werden jede folgende Kampfrunde 2 MTP Manapunkte abgezogen. Sind keine Manapunkte mehr übrig, ist das Ziel dem weitern verschlingen hilflos ausgeliefert.
+Wie bei normalen Fressen erhält der Fressende die Hälfte der Lebens-/ und Manapunkte seines Opfers dazu. Dabei kann der Basiswert des fressenden nicht überschritten werden.
+	Dauer: Eine Kampfrunde
+	Kosten: 4
+ 
+Verschlingen II
+Voraussetzungen:
+	Kristall-Bestie; Sand
+	WK: 54
+	KO: 52
+	KK: 44
+	GE: 32
+	MUT: 48
+	LV: 3
+Frist ein anderes Wesen vom Anderen Ort mit Haut und Haar.
+Durch den verschlingen Zauber wird zum einen die Gegenwehr des Opfers reduziert, zum anderen wird dessen Verdauung beschleunigt. Der Zauber kann nur auf Ziele gewirkt werden die sich in Nahkampfdistanz des Zaubernden befinden. 
+Wesen die Ziel des Zaubers sind und weniger als 1,5 MTP LP oder MP besitzen werden sofort komplett verschlungen unabhängig von ihren sonstigen Fähigkeiten.
+Hat das Ziel noch mehr übrig erleidet es MTP Punkte Abzug auf LP und MP. Seine Gegenwehr im inneren des Zaubernden ist eingeschränkt, da alle Zauber mit doppelten kosten gewirkt werden müssen. Nahkampfangriffe erfordern ebenfalls die doppelte Dauer.
+Dem verschlungenen werden jede folgende Kampfrunde 2 MTP Manapunkte abgezogen. Sind keine Manapunkte mehr übrig, ist das Ziel dem weitern verschlingen hilflos ausgeliefert.
+Wie bei normalen Fressen erhält der Fressende die Hälfte der Lebens-/ und Manapunkte seines Opfers dazu. Dabei kann der Basiswert des fressenden nicht überschritten werden.
+	Dauer: Eine Kampfrunde
+	Kosten: 4
+	Vertiefungskosten: 4/6
+ 

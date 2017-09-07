@@ -22,7 +22,6 @@ Der beschworene Kobold hat folgende Werte:
 	ZI: 25
 	AW: 45
 Zauber: Schlag
-
 	Dauer: 72
 	Kosten: 18
  
@@ -50,7 +49,6 @@ Der beschworene Kobold hat folgende Werte:
 	ZI: 25
 	AW: 45
 Zauber: Schlag
-
 	Dauer: 32
 	Kosten: 8
 
@@ -110,8 +108,8 @@ und MTP/3 auf TP und MTP belegt.
 Der Zaubernde beherrscht den Raum für 2 Kampfrunden.
 	Dauer: 44
 	Kosten: 0
-
 	Vertiefungskosten: 5/7 
+
 Büßerglocke
 Voraussetzungen:
 	Alle / Sioux
@@ -340,7 +338,6 @@ Der Zauber kann eine Distanz von bis zu 50 Metern zurücklegen. Danach zerfällt e
 Die Vertiefung reduziert die ZÜZ zwischen zwei Schlägen auf 3 statt 4.
 	Dauer: 5
 	Kosten: 5
-	
 	Vertiefungskosten: 2/3
  
 Schlag III
@@ -358,8 +355,7 @@ Zauber den Zaubernden nur 2 MP.
 Der Zauber kann eine Distanz von bis zu 50 Metern zurücklegen. Danach zerfällt er.
 Die Vertiefung reduziert die ZÜZ zwischen zwei Schlägen auf 2 statt 3.
 	Dauer: 5
-	Kosten: 5
-	
+	Kosten: 5	
 	Vertiefungskosten: 3/4
  
 Schlagfolge	
@@ -387,8 +383,8 @@ Jeder Schlag dauert unabhängig vom Erfolg der MAT Probe 5 ZWZ.
 Jeder Schlag kann eine Distanz von bis zu 50 Metern zurücklegen. Danach zerfällt er.
 	Dauer: 5*n
 	Kosten: 5*n
-
 	Vertiefungskosten: 2/3 
+
 Schock
 Voraussetzungen:
 	MG: 35
@@ -566,8 +562,3 @@ abgezogen, diese werden nicht erhöht.
 Um den Zauber aufrecht zu halten müssen beide Hälften jede Runde 11 MP aufbringen.
 	Dauer: 85 
 	Kosten: 18 / 11
-
-
-AA
-
-

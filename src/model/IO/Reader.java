@@ -48,7 +48,7 @@ public class Reader {
 	}
 
 	public static ArrayList<Spell> readSpells(String path) {
-		ArrayList<String> strings = readFile("spells\\" + path);
+		ArrayList<String> strings = readFile("assets\\spells\\" + path);
 		ArrayList<Spell> SpellList = new ArrayList<Spell>();
 		int i = 0;
 		if (strings != null) {
@@ -150,7 +150,7 @@ public class Reader {
 	}
 
 	public static void readMaxMinBoni(String path, CultureWithElement cWE) {
-		ArrayList<String> strings = readFile("CWE\\" + path);
+		ArrayList<String> strings = readFile("assets\\CWE\\" + path);
 		if (strings != null) {
 			for (int i = 1; i < 13; i++) {
 				cWE.getMinValues()

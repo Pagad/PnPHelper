@@ -1,0 +1,536 @@
+Geomant
+Geomanten sind in besonders hohem Maße empathisch und dadurch befähigt die magischen Ströme unserer Welt und in anderen Wesen vom Anderen Ort wahrzunehmen. Darüber hinaus sind sie in der Lage sich mit den Ernergiequellen der Erde zu verbinden und deren Energie für sich zu nutzen. Geomanten fühlen sich wie die Erddschinn zur Erde hingezogen, sie nehmen unseren Planeten jedoch anders wahr und nutzen seine Energien anders. Während Erddschinn vor allem die tektonische Struktur wahrnehmen und mit relativ wenig Eigener Kraft manipulieren können, nehmen Geomanten die rohen Energien wahr, stellen sich auf sei ein und zapfen sie an.
+Grundlegend wird zwischen Energielinien (Ley-Lines) und Kraftpunkten, Kreuzungen zweier oder mehrere Ley-Lines, unterschieden. Darüber hinaus wird zwischen schwacher, mittlerer und starker Energie unterschieden. Da Kraftpunkte an den Kreuzungen von Energielinien auftreten sind Kraftpunkte automatisch stärker als Energielinien.
+Ley-Lines und Kraftpunkte sind Bezeichnungen für aus der Erde austretende Energieströme. Dieser Energieaustritt verläuft immer in Normalen-Richtung zur Erde, nicht unbedingt zur Lokalen Erdoberfläche, und reicht bis in die oberen Atmosphären, wo der Energiestrom diffus wird und sich verteilt. Ley-Lines breiten sich üblicherweise entweder ganz gerade aus, oder sie folgen den Tektonischen Strukturen.
+Um aus einer Energiequelle Kraft beziehen zu können muss sich ein Geomant mit dem Zauber Quellverbindung an die Quelle anschließen. Erst wenn der Zauber erfolgreich durchgeführt wurde können die Vorteile der Quelle genutzt werden.
+Bei schwachen Quellen und Kraftpunkten muss der Geomant aufpassen sich nicht zu weit von der Quelle zu entfernen, da sich die Verbindung sonst von ganz alleine aufhebt. Er hat einen Bewegungsbereich von etwa 3-5 Metern um die Quelle herum. An Ley-Lines kann sich der Geomant natürlich entlang bewegen ohne die Verbindung aufzuheben.
+Mittlere Quellen lassen dem Geomanten einen bewegungsspielraum von bis zu 50 Metern in die Verbindung stabil ist. Möchte der Geomant diesen Bereich verlassen, muss er den Zauber Quelltrennung erfolgreich durchführen, andernfalls kann er sich zwar weiter entfernen, er erleidet jedoch erheblichen Schaden, ca. 50% der aktuellen LP, da seine Substanz fest mit der Quelle verbunden ist.
+Starke Ley-Lines lassen einem Geomanten nur etwa 10 Meter Spielraum, da sie den Geomanten sehr fest an sich binden und zu sich ziehen. Der Zauber Quelltrennung löst den Geomanten von der Ley-Line. Andernfalls ist eine erfolgreiche Kraft- und Willenskraftprobe notwendig um sich aus dem Bereich der Quelle zu Lösen. Den Schaden den der Geomant so erhält liegt bei 70% seiner LP.
+Starke Kraftpunkte sind zwar ein Quell enormer macht für einen Geomanten bergen aber auch große Gefahren in sich. Denn Starke Kraftpunkte ziehen den Geomanten so fest zu sich, dass in einem Radius von etwa 10 Metern um die Quelle herum die Quellverbindung ohne Zutun des Geomanten entsteht. Sich dieser automatischen Bindung zu wiederstehen erforderte eine um 25 erschwerte MPA Probe. Ein gebundener Geomanten wird so fest an den Kraftpunkt gezogen, dass er sich kaum aus dem direkten Austrittsbereich der Quelle entfernen kann. Die Verbindung wieder zu lösen erfordert einen Erfolg auf eine um 25 erschwerte Probe auf Quelltrennung und einen Misserfolg auf Intuition. Wird die Probe auf Quelltrennung verpatzt, verschwindet der Geomant unwiederbringlich und wird Teil der Energiequelle.
+Die Vorteile die Geomanten aus Energiequellen ziehen können, hängen von der Größe und Art der Quelle ab. 
+Schwache Ley-Line: Sie sind weit verteilt und in fast überall auffindbar. Auf der Grundfläche eines Hochhauses finden sich ein bis zwei solcher Linien. Ein Geomant kann 10% seiner Manakosten aus einer solchen Quelle Beziehen
+Schwacher Kraftpunkt: Da Schwache Ley-Lines weit verbreitet sind kann man auch an vielen Orten schwache Kraftpunkte finden. Ein Geomant kann 20% seines Manaverbrauchs aus einer solchen Quelle beziehen. Zudem steigen die magischen Talente, MAT, MPA, MTP, MPAW, um 5%.
+Mittlere Ley-Line: Mittlere Linien sind seltener als schwache Linien. Etwa jede 500ste. Ley-Line ist von mittlerer Stärke. Auf einer Ley-Line mittlerer Stärke kann ein Geomant 25% seines Manaverbrauchs beziehen und seine magischen Talente um 5% steigern.
+Mittlerer Kraftpunkt: Mittlere Kraftpunkte kommen zustande wenn mehrere schwache Ley-Lines aufeinander treffen, mindestens vier, eine mittlere Ley-Line mindestens zwei schwache Ley-Lines trifft oder sich zwei mittlere Ley-Lines treffen. Sie sind bereits Zentren von großer Kraft für einen Geomanten. Ein Geomant kann 40% seines Manaverbrauchs aus einem solchen Kraftpunkt beziehen und 10% des erhaltenen Schadens in den Kraftpunkt abgeben. Zudem steigern sich seine magischen Attribute um 10%. 
+Starke Ley-Line: Starke Ley-Lines sind sehr selten. Nur etwa jede 1.000.000ste Ley-Line ist stark. Ein Dschinn der sich einer solchen Kraftquelle bedient kann 50% seines Manaverbrauchs aus der Quelle beziehen. Er kann 20% des Schadens den er erhält in die Quelle abgeben und seine magischen Talente steigen um 15% an.
+Starker Kraftpunkt:  Starke Kraftpunkte sind enorm selten und meist weithin bekannt. Ein besonders berühmtes Beispiel ist Stonehenge. Starke Kraftpunkte ziehen Geister und Wesen vom Anderen Ort, die in unserer Welt wohnhaft sind, an, sodass man sich dort stets vorsichtig verhalten muss und auf Begegnungen unterschiedlichster Art eingestellt sein sollte. Aus einer solchen Kraftquelle kann ein Geomant 75% seines Manaverbrauchs beziehen, er kann 40% alles Schadens den er erhält abgeben und seine magischen Talente steigen zudem um 25% an.
+Das unmittelbare Beziehen von Magie aus einer Quelle in die eigene Substanz stellt für Geomanten eine große Herausforderung und ein nicht zu verachtendes Risiko dar. Denn auch wenn es in ihrer Natur liegt den durch Quellen und Ströme verursachten magischen Fluss so zu lenken, dass sie magische Effekte positiv beeinflussen, können sie die magische Kraft nicht einfach in sich selbst aufsaugen oder in andere leiten. Das direkte, schadlose Einfügen von magischer Energie in das System eines Wesens stellt einen Eingriff dar der die Fähigkeiten von Geomanten übersteigt. Durch das Wirken von Dummyzaubern sind sie jedoch in der Lage, abhängig von ihren Fähigkeiten, Größe und Art der Quelle sowie dem ihnen zur Verfügung stehenden Zeit magische Energie anzusammeln. Der Zauber Manageschenk führt die daraus erwachsenden Anwendungen detailliert aus.
+
+
+ 
+Abfluss
+Voraussetzungen:
+	Geomant
+	MG: 29
+	WK: 34
+	ERF: 26
+Der Zauber lässt ein an die Leine genommenes Ziel durch die Leine Mana an die Quelle an die es angebunden ist verlieren.
+Folglich ist der Zauber nur dann wirksam, wenn das Ziel des Zaubers bereits von dem Zauber An die Leine nehmen betroffen ist.
+Das Ziel des Zaubers verliert jede Kampfrunde Mana in Höhe des Quellfaktors Q. 
+Die Magieparade gegen Abfluss ist um 20 erschwert, da sich der Zauber nicht direkt auf das Ziel, sondern auf die es bindende Kette richtet.
+Der Zauber muss mit einem Aufwand von 3 ZWZ, ohne Übergangszeit, aufrecht gehalten werden.
+	Dauer: 18/ 3
+	Kosten: 2/ 0
+Art der Quelle	Quellfaktor Q
+Linie, Schwach	3
+Quelle, Schwach	5
+Linie, Mittel	8
+Quelle, Mittel	12
+Linie, Stark	17
+Quelle, Stark	23
+
+ 
+Abfluss II
+Voraussetzungen:
+	Geomant
+	MG: 36
+	WK: 40
+	ERF: 31
+	LV: 3
+Der Zauber lässt ein an die Leine genommenes Ziel durch die Leine Mana an die Quelle an die es angebunden ist verlieren.
+Folglich ist der Zauber nur dann wirksam, wenn das Ziel des Zaubers bereits von dem Zauber An die Leine nehmen betroffen ist.
+Das Ziel des Zaubers verliert jede Kampfrunde Mana in Höhe des Quellfaktors Q. Der Zaubernde kann ein Drittel des abfließenden Manas für sich selbst beanspruchen.
+Die Magieparade gegen Abfluss ist um 20 erschwert, da sich der Zauber nicht direkt auf das Ziel, sondern auf die es bindende Kette richtet.
+Der Zauber muss mit einem Aufwand von 5 ZWZ, ohne Übergangszeit, aufrecht gehalten werden.
+	Dauer: 14/ 5
+	Kosten: 2/ 0
+	Vertiefungskosten: 3/4
+Art der Quelle	Quellfaktor Q
+Linie, Schwach	3
+Quelle, Schwach	5
+Linie, Mittel	8
+Quelle, Mittel	12
+Linie, Stark	18
+Quelle, Stark	25
+ 
+An die Leine nehmen
+Voraussetzungen:
+	Geomant
+	Quellverbindung
+	MG: 36
+	WK: 41
+	ERF: 28
+Der Zauber verankert eine magische Kette in der Substanz des Zieles und beschränkt dadurch dessen Bewegung.
+Die Bewegung ist um die Quelle mit der der Zaubernde verbunden ist herum eingeschränkt als wenn dieser mit der Quelle verbunden wäre. Nur das er sich nicht einfach aus der Verbindung lösen kann.
+Die maximale Distanz die ein von An die Leine nehmen betroffenes Wesen zwischen sich und die Quelle bringen kann liegt bei (300-Q+WK_Ziel+KK_Ziel)/MTP_Zaubernder Metern. Q ist hierbei Quellabhängig aus der nachstehenden Tabelle zu entnehmen.
+Die bindende Kette wird wie ein Geschoss abgefeuert. Um ein Ziel mit dem Zauber zu treffen bedarf es einer Zielen-Probe (ZI).
+Ist die Kette dann verankert bleibt die Kette für MTP/2 Kampfrunden bestehen.
+Die Kette kann durch 6*MTP_Zaubernder magischen Schaden zerstört werden. Alternativ kann sich ein Wesen mit einer erfolgreichen Körperkraft-/ (KK) und Konstitutionsprobe (KO) von der Kette Losreißen. Dies fügt demjenigen der sich losreißt 10% seiner aktuellen Lebenspunkte, mindestens jedoch MTP des die Kette erschaffenden, Punkte als Schaden zu. 
+	Dauer: 16
+	Kosten: 5
+Art der Quelle	Quellfaktor Q
+Linie, Schwach	40
+Quelle, Schwach	90
+Linie, Mittel	130
+Quelle, Mittel	180
+Linie, Stark	220
+Quelle, Stark	300
+
+
+ 
+Aura des überquellenden Manas
+Voraussetzungen:
+	Geomant
+	MG:43
+	IN: 48
+	WK: 36
+Der Zauber erschafft um sich eine Aura in deren Wirkungsbereich sich die Wirkungskosten für alle Zauber verringern. Die Manakosten die für den Zauber weniger bezahlt werden müssen werden über den Zaubernden aus einer natürlichen Quelle bezogen. Wie groß der Anteil des für einen Zauber notwendigen Manas ist der aus der Quelle bezogen werden kann, hängt von den Fähigkeiten des Geomanten und der Stärke der Quelle ab. Der Anteil des Manas dass aus der Quelle kommt kann nach der folgenden Formel in Prozent bestimmt werden. Quellmanaanteil[%]=(MTP*MG)/Q. Ist der Quellmanaanteil über 10% so kann mindestens 1 MP pro Zauber aus der Quelle gewonnen werden. Die Quelle steht ALLEN in einem Gebiet von MTP/2 Metern um den Zaubernden herum offen. Um die Aura aufrecht zu erhalten wird jede Runde ein Einsatz von 10 ZWZ und 2 MP benötigt. Der Manaeinsatz kann durch die Quelle nicht reduziert werden.
+Q ist der Quellfaktor. Dieser beträgt ohne Quelle 450, Mit einer schwachen Ley-Line 410, mit einer schwachen Quelle 370, mit einer Mittleren Ley-Line 330, Mit einer Mittleren Quelle 290, mit einer starken Ley-Linie 250 und mit einer Starken Quelle 210. Durch besonders starke Quellen können sogar noch kleinere Quellfaktoren erreicht werden.
+Dauer: 38 / 20
+Kosten: 3 / 4
+ 
+Aura des versiegenden Manas
+Voraussetzungen:
+	Geomant
+	MG: 37
+	WK: 44
+	IN: 32
+Der Zauber erschafft um sich eine Aura in deren Wirkungsbereich sich die Wirkungskosten für alle Zauber erhöhen. 
+Die zusätzlichen Manakosten versiegen einfach im Boden und in der Luft. Wie groß der Anteil des für einen Zauber zusätzlich notwendigen Manas ist hängt von den Fähigkeiten des Geomanten ab. Durch eine natürliche Quelle kann der Manasog noch verstärkt werden. 
+Der Anteil des Manas, das zusätzlich aufgewendet werden muss kann nach folgender Formel in Prozent bestimmt werden. Manaverlust[%]=(MTP*MG)/80+Q. Ist der versiegende Anteil über 10% so muss mindestens 1 MP pro Zauber zusätzlich aufgewendet. 
+Der Effekt betrifft alle, außer den Zaubernden und andere mit einer Quelle verbundene Geomanten, in einem Gebiet mit einem Radius von MTP/2 Metern um den Zaubernden herum. Um die Aura aufrecht zu erhalten wird jede Runde ein Einsatz von 7 ZWZ und 1 MP benötigt. 
+Q ist der Quellfaktor. Dieser beträgt ohne Quelle 0, Mit einer schwachen Ley-Line 1, mit einer schwachen Quelle 2, mit einer Mittleren Ley-Line 3, Mit einer Mittleren Quelle 4, mit einer starken Ley-Linie 5 und mit einer Starken Quelle 6. Durch besonders starke Quellen können sogar noch höhere Quellfaktoren erreicht werden.
+Dauer: 24 / 7
+Kosten: 3 / 1
+ 
+Aura des versiegenden Manas II
+Voraussetzungen:
+	Geomant
+	MG: 46
+	WK: 54
+	IN: 39
+Der Zauber erschafft um sich eine Aura in deren Wirkungsbereich sich die Wirkungskosten für alle Zauber erhöhen. 
+Die zusätzlichen Manakosten versiegen einfach im Boden und in der Luft. Wie groß der Anteil des für einen Zauber zusätzlich notwendigen Manas ist hängt von den Fähigkeiten des Geomanten ab. Durch eine natürliche Quelle kann der Manasog noch verstärkt werden. 
+Der Anteil des Manas, das zusätzlich aufgewendet werden muss kann nach folgender Formel in Prozent bestimmt werden. Manaverlust[%]=(MTP*MG)/60+Q. Ist der versiegende Anteil über 10% so muss mindestens 1 MP pro Zauber zusätzlich aufgewendet. 
+Der Effekt betrifft alle, außer den Zaubernden und andere mit einer Quelle verbundene Geomanten, in einem Gebiet mit einem Radius von MTP/2 Metern um den Zaubernden herum. Um die Aura aufrecht zu erhalten wird jede Runde ein Einsatz von 5 ZWZ und 1 MP benötigt. 
+Q ist der Quellfaktor. Dieser beträgt ohne Quelle 0, Mit einer schwachen Ley-Line 1, mit einer schwachen Quelle 2, mit einer Mittleren Ley-Line 4, Mit einer Mittleren Quelle 5, mit einer starken Ley-Linie 7 und mit einer Starken Quelle 10. Durch besonders starke Quellen können sogar noch höhere Quellfaktoren erreicht werden.
+Dauer: 18/ 5
+Kosten: 3/ 1
+Vertiefungskosten: 3/4
+ 
+Energieeinlauf
+Voraussetzungen:
+	Geomant
+	MG: 38
+	IN: 54
+	ERF: 37
+	MR: 26
+Durch den Zauber kann der Zaubernde seine physische Leistungsfähigkeit magisch verstärken.
+Wie lange und wie weit die physischen Kapazitäten des Zaubernden angehoben werden können hängt stark von der Art und Stärke der Quelle ab, an die der Zaubernde angebunden ist.
+Durch den Zauber werden alle physischen Talente und Attribute um MTP/2 + Q für MTP/6 +Q/3 Kampfrunden angehoben. Eine Ausnahme davon stellen BR, TP und PAW dar die um MTP/6 + Q/3 angehoben werden.
+Überschreitet der so erzeugte Schub die Widerstandskraft der verzauberten Substanz so wird diese durch den Energieeinlauf langsam zerstört. Wenn MTP/2 + Q größer ist als (3KO+2MR)/6 wird dem Zaubernden die Differenz als Schaden zugefügt. Der Zauber kann nicht vorzeitig abgebrochen werden. Ohne der Substanz einen weiteren, heftigen Schock zu verpassen und den Schaden ein weiteres Mal zu erdulden.
+Der Quellfaktor Q beträgt ohne Quelle 0, Mit einer schwachen Ley-Line 2, mit einer schwachen Quelle 4, mit einer Mittleren Ley-Line 7, Mit einer Mittleren Quelle 9, mit einer starken Ley-Linie 12 und mit einer Starken Quelle 15. Durch besonders starke Quellen können sogar noch größere Quellfaktoren erreicht werden.
+Aus den bei dem Zauber Manageschenk beschriebenen Gründen kann der Zauber nur alle MTP/2 Stunden einmal angewendet werden. Dabei dürfen keine Überschneidungen mit den Ruhezeiten von Manageschenk auftreten.
+	Dauer: 44
+	Kosten: 14
+
+ 
+Energieeinlauf II
+Voraussetzungen:
+	Geomant
+	MG: 44
+	IN: 61
+	ERF: 42
+	MR: 31
+	LV: 3
+Durch den Zauber kann der Zaubernde seine physische Leistungsfähigkeit magisch verstärken.
+Wie lange und wie weit die physischen Kapazitäten des Zaubernden angehoben werden können hängt stark von der Art und Stärke der Quelle ab, an die der Zaubernde angebunden ist.
+Durch den Zauber werden alle physischen Talente und Attribute um MTP/2 + Q für MTP/6 +Q/3 Kampfrunden angehoben. Eine Ausnahme davon stellen BR, TP und PAW dar die um MTP/6 + Q/3 angehoben werden.
+Überschreitet der so erzeugte Schub die Widerstandskraft der verzauberten Substanz so wird diese durch den Energieeinlauf langsam zerstört. Wenn MTP/2 + Q größer ist als (3KO+2MR)/6 wird dem Zaubernden die Differenz als Schaden zugefügt. Der Zauber kann nicht vorzeitig abgebrochen werden. Ohne der Substanz einen weiteren Heftigen Schock zu verpassen und den Schaden ein weiteres Mal zu erdulden.
+Der Quellfaktor Q beträgt ohne Quelle 0, Mit einer schwachen Ley-Line 3, mit einer schwachen Quelle 6, mit einer Mittleren Ley-Line 10, Mit einer Mittleren Quelle 14, mit einer starken Ley-Linie 19 und mit einer Starken Quelle 25. Durch besonders starke Quellen können sogar noch größere Quellfaktoren erreicht werden.
+Aus den bei dem Zauber Manageschenk beschriebenen Gründen kann der Zauber nur alle MTP/2 Stunden einmal angewendet werden. Dabei dürfen keine Überschneidungen mit den Ruhezeiten von Manageschenk auftreten.
+	Dauer: 39
+	Kosten: 12
+	Vertiefungskosten: 2/3
+
+ 
+Energieschlag
+Voraussetzungen:
+Geomant
+MG: 30
+ERF: 25
+IN:30
+Eine starke energetische Entladung, die grob in die Richtung los schlägt die der Zaubernde vorgibt, Die Zielen-Probe ist allerdings um 10 erschwert. Der durch die Entladung verursachte Schaden ist abhängig von der Zeit die der Zaubernde dafür einsetzt und abhängig von der Stärke der Quelle mit der er verbunden ist. Der Schaden beträgt Zauberzeit*IN*MTP/Q, wobei Q der Quellenfaktor ist. Dieser beträgt ohne Quelle 600, Mit einer schwachen Ley-Line 530, mit einer schwachen Quelle 460, mit einer Mittleren Ley-Line 390, Mit einer Mittleren Quelle 320, mit einer starken Ley-Linie 250 und mit einer Starken Quelle 180. Durch besonders starke Quellen können sogar noch kleinere Quellfaktoren erreicht werden. Die maximale Distanz die der Energieschlag überqueren kann ist (50.000/Q²+B)*MTP Meter. . Die überbrückbare Distanz ist leichter durch R*MTP in Metern zu bestimmen.
+Dauer: Nach Wahl
+Kosten: Zauberzeit/2
+Quelle	Quellfaktor Q	Reichweite R	Bonusweite B
+Keine	600	0,5	0,4
+Linie, Schwach	530	0,9	0,75
+Quelle, Schwach	460	1,2	1
+Linie, Mittel	390	1,6	1,25
+Quelle, Mittel	320	2,0	1,5
+Linie, Stark	250	2,6	1,75
+Quelle, Stark	180	3,5	2
+
+ 
+Energieschlag II
+Voraussetzungen:
+Geomant
+MG: 44
+ERF: 33
+IN:42
+Eine starke energetische Entladung, die grob in die Richtung los schlägt die der Zaubernde vorgibt, Die Zielen-Probe ist allerdings um 10 erschwert. Der durch die Entladung verursachte Schaden ist abhängig von der Zeit die der Zaubernde dafür einsetzt und abhängig von der Stärke der Quelle mit der er verbunden ist. Der Schaden beträgt Zauberzeit*IN*MTP/Q, wobei Q der Quellenfaktor ist. Dieser beträgt ohne Quelle 510, Mit einer schwachen Ley-Line 450, mit einer schwachen Quelle 390, mit einer Mittleren Ley-Line 330, Mit einer Mittleren Quelle 270, mit einer starken Ley-Linie 210 und mit einer Starken Quelle 150. Durch besonders starke Quellen können sogar noch kleinere Quellfaktoren erreicht werden. Die maximale Distanz die der Energieschlag überqueren kann ist (50.000/Q²+B)*MTP Meter. Die überbrückbare Distanz ist leichter durch R*MTP in Metern zu bestimmen.
+Dauer: Nach Wahl
+Kosten: Zauberzeit/2
+Vertiefungskosten: 4/6
+Quelle	Quellfaktor Q	Reichweite R	Bonusweite B
+Keine	510	0,6	0,4
+Linie, Schwach	450	1,0	0,75
+Quelle, Schwach	390	1,3	1
+Linie, Mittel	330	1,7	1,25
+Quelle, Mittel	270	2,2	1,5
+Linie, Stark	210	2,9	1,75
+Quelle, Stark	150	4,2	2
+
+
+Erfahrungsaustausch
+Voraussetzungen:
+	Geomant
+	MG: 40
+	KL: 35
+	LV: 3
+Durch den Zauber wird ein Teil der Erfahrung des Zaubernden direkt als Fortschritt zugänglich.
+Der Zauber kann auf den Zaubernden oder auf jemand anderen den der Zaubernde berührt gewirkt werden. Das Ziel des Zaubers erhält einen GP, der wie bei einem Stufenaufstieg vergeben werden kann.
+Der Zauber kann auf jedem Level nur genau ein Mal gewirkt werden.
+	Dauer: 99
+	Kosten: 3 MP + 15 EP
+
+
+ 
+Falsche Quelle
+Voraussetzungen:
+	Geomant
+	MG: 48
+	WK: 46
+	IN: 62
+	ERF: 41
+	LV: 3
+Durch den Zauber kann der Zaubernde selbst einen Effekt hervorrufen, der dem einer Quelle sehr ähnlich ist. Auf diese Weise kann der Wirksamkeit einer Quelle um eine Stufe angehoben werden. Ist keine Quelle vorhanden wird der Effekt einer schwachen Ley-Line erzeugt. Der Zauber ist sehr fordernd. Daher wird er vor allem verwendet um einem anderen Geomanten einen besseren Quellzugang zu ermöglichen. Aus dem gleichen Grund kann der Zauber nicht länger als WK/20 Kampfrunden an Stück aufrechtgehalten werden, danach ist eine eben solange Pause notwendig.
+Dauer und Kosten dieses Zaubers werden nicht reduziert.
+	Dauer: 36/36
+	Kosten: 16/8
+ 
+Falsche Quelle II
+Voraussetzungen:
+	Geomant
+	MG: 68
+	WK: 64
+	IN: 70
+	ERF: 49
+	LV: 5
+Durch den Zauber kann der Zaubernde selbst einen Effekt hervorrufen, der dem einer Quelle sehr ähnlich ist. Auf diese Weise kann der Wirksamkeit einer Quelle um eine Stufe angehoben werden. Ist keine Quelle vorhanden wird der Effekt einer schwachen Ley-Line erzeugt. Der Zauber ist sehr fordernd. Daher wird er vor allem verwendet um einem anderen Geomanten einen besseren Quellzugang zu ermöglichen. Aus dem gleichen Grund kann der Zauber nicht länger als WK/15 Kampfrunden an Stück aufrechtgehalten werden, danach ist eine eben solange Pause notwendig.
+Dauer und Kosten dieses Zaubers werden nicht reduziert.
+	Dauer: 32/32
+	Kosten: 12/8 
+
+Kopierter Kraftschub
+Voraussetzungen:
+	Geomant
+	MG: 42
+	KL: 39
+	IN: 41
+Der Zauber kopiert alle magischen Verstärkungen und Schwächungen die auf ein Wesen innerhalb von MTP Metern um den Zaubernden wirken.
+Der Zauber kann unabhängig davon wie lange die Verstärkungen und Schwächungen auf das Wesen das als Vorlage dient wirken für 5 ZWZ und 3 MP beliebig lange aufrecht gehalten werden.
+	Dauer: 16/5
+	Kosten: 7/3
+
+Kopierter Kraftschub II
+Voraussetzungen:
+	Geomant
+	MG: 51
+	KL: 46
+	IN: 48
+	LV: 3
+Der Zauber kopiert alle magischen Verstärkungen und Schwächungen die auf ein Wesen innerhalb von MTP Metern um den Zaubernden wirken.
+Der Zauber kann unabhängig davon wie lange die Verstärkungen und Schwächungen auf das Wesen das als Vorlage dient wirken für 4 ZWZ und 2 MP beliebig lange aufrecht gehalten werden.
+Ziel des Zaubers kann auch ein anderes Wesen sein das der Zaubernde berührt. Solange sich das Wesen innerhalb von MTP Metern um den Zaubernden aufhält kann der Zauber beliebig lange aufrecht gehalten werden.
+Der Zauber kann maximal auf (WK)/20 Ziele gleichzeitig gewirkt werden.
+	Dauer: 14/4
+	Kosten: 6/2
+ 
+Magiefelderschütterung
+Voraussetzungen:
+	MG: 26
+	WK: 43
+	KL: 34
+	IN: 28
+Der Zauber lässt ein Beben durch das magische Feld um den Zaubernden herum gehen.
+In einem Gebiet um den Zaubernden herum mit einem Radius von MTP Metern sind in der folgenden Kampfrunde alle MAT-Proben um MTP erschwert.
+Um Zauber, die während des magischen Bebens rundenübergreifend gewirkt werden fortzusetzen  muss eine zusätzliche, nicht erschwerte, MAT Probe durchgeführt werden, sonst wird der noch unvollständige Zauber abgebrochen.
+Aufrechtgehaltene Zauber werden ebenfalls abgebrochen, wenn keine 10 erleichterte MAT-Probe bestanden wird.
+Dauer: 
+Kosten: 
+
+ 
+Manageschenk
+Voraussetzungen:
+	Geomant
+	MG: 44
+	IN: 44
+Der Zauber ist eigentlich nur ein Scheinzauber. Durch das gezielte Zirkulieren von einer geringen Menge eigener Magie, kann ein an sich wirkungsloser Zauber gewirkt werden, der jedoch zusätzliche magische Energie aus der Quelle mit der der Zaubernde verbunden ist ansammelt. Auf diese Weise kann eine Menge von Magie angesammelt werden die bis zu dem zehnfachen der ursprünglich eingesetzten Manapunkte beträgt. Diese Magiesammlung kann dem Körpersystem eines Wesens das sich der Annahme dieser Energie freiwillig aussetzt, zugeführt werden. Wird die so angesammelte Magie gut von der Substanz des Ziels absorbiert, kann so die Menge das zu Verfügung stehenden Manas signifikant erhöht werden. Kommt es jedoch zu Komplikationen können schwerwiegende Schaden auftreten. Diese beinhalten eine permanent reduzierte Manaaufnahmefähigkeit, reduzierte Manaaktivität, die das Zaubern erschwert und sogar den Tod. 
+Um den Zauber durchzuführen muss als erstes die zu verwendende Magie gesammelt werden. Dies benötigt in den meisten Fällen einige Zeit. Natürlich hängt die benötigte Dauer stark  von der Stärke der Quelle und der zu erzielenden Menge an Mana ab. Die zusätzlich gesammelte Menge an Manapunkten, pro Kampfrunde oder Minute beläuft sich auf den Quellfaktor, Q. Dieser beträgt bei einer schwachen Ley-Line 2, mit einer schwachen Quelle 4, mit einer Mittleren Ley-Line 7, Mit einer Mittleren Quelle 10, mit einer starken Ley-Linie 14 und mit einer Starken Quelle 19.
+Die maximal ansammelbare Menge Mana wird durch die Menge an Initiationsmana, also vom Zaubernden aufgewandtes Mana, und die Fähigkeiten des Zaubernden beschränkt. Sie liegt beim Zehnfachen des Initiationsmanas, es können neun zusätzliche Manapunkte pro investiertem Manapunkt gesammelt werden. Ober bei (2WK+MG+KL+IN)/2. Je nachdem welcher Wert geringer ist. Durch die Gaben, Achte Ebene – Zaubersicht und Neunte Ebene – Zaubersicht kann die sammelbare Menge Mana pro Punkt Initiationsmana je um zwei erhöht werden. Wird der Kontrollwert (2WK+MG+KL+IN)/2 überschritten kann die magische Ansammlung durch eine um die Differenz erschwerte MAT-Probe für eine weitere Zeiteinheit unter Kontrolle gehalten werden. Bei Kleinen Quellen sogar für zwei Zeiteinheiten. Scheitert die Probe verteilt sich das Mana im besten Falle friedlich in der Gegend oder wird von starken Quellen zurückgeholt. Weniger günstige fälle führen zu einer heftigen, magischen Entladung.
+Das gesammelte Mana kann nun einem freiwilligen Wesen einverleibt werden, auch dem Zaubernden selbst. Das Mana wird nun von der Substanz absorbiert. Da es sich jedoch um fremdes Mana handelt kann es leicht zu Komplikationen kommen, wenn die Magie zu schnell hinzugefügt wird, keine Kompatibilität besteht oder die Absorbtionsfähigkeit der Materie überfordert wird. Der dann auftretende Effekt ähnelt den durch Zaubersaat auftretenden Effekten. Die Magie wütet durch die Substanz und zerstört alles in ihrem Weg. Wird das hinzufügen des Manas von einem entsprechend befähigten Heildschinn begleitet wird die Wahrscheinlichkeit das keine Komplikationen auftreten, an.
+Die Absorptionsfähigkeit für rohe Magie ist bei allen Wesen unterschiedlich, sie beläuft sich auf (WK+MR+MP)/4. Bei Geomanten ist diese um den Faktor zwei erhöht. Bei Kristall-Wissenschaftsdschinn um den Faktor 1,5 und bei Todesdschinn und Heildschinn um den Faktor 1,2. Diese Absorptionsfähigkeit stellt die maximale, in 24 Stunden aufnehmbare, Menge roher Magie dar, die die Substanz absorbieren kann ohne Schaden zu nehmen. Bei erfolgreicher Applikation von Mana die die Absorptionsfähigkeit überschreitet wird ein Punkt Schaden für je drei Punkte zusätzlichen Manas zugefügt.
+Die Basismanapunkte des Empfängers können um bis zu 10% durch das Hinzufügen von Mana überschritten werden. Für jeden Prozentpunkt um die das Basismana überschritten ist werden jedoch MAT-Proben um eins erschwert.
+Wird die Magie hinzugefügt bedarf es einer MAT-Probe des Magiehinzufügenden und einer MG-Probe des die Magie empfangenden. Scheitert die MAT-Probe führt der Magiehinzufügende eine MG-Probe durch um ein Maximum an Kontrolle über die Magie zu wahren. Gelingt diese kann die Differenz des Wurfes zum Talentwert an Mana verwendet werden, der Rest zerstiebt. Scheitert auch die MG-Probe wird die Magie einem Angriff zu schnell und zu unkontrolliert in die Substanz des Zieles entlassen. Die Auswirkungen sind die gleichen, als wenn der das Mana-Empfangende seine MG-Probe versaut, es wird also eine MR-Probe notwendig selbst wenn die MG-Probe des das Mana Empfangen gelingt. Scheitert die MG-Probe des die Magie empfangenden führt dieser eine MR-Probe durch. Scheitert eine MG-Probe wird die nachfolgende Tabelle bemüht um die Auswirkungen des Fehlschlages festzustellen. Ist der Zaubernde auch der Empfänger der Magie führt er Proben für beide Seiten durch. Durch die größere Anzahl an Dingen auf die er sich konzentrieren muss steigt die Schwierigkeit aller Würfe um 5 an.
+Ist ein Heildschinn an der Manainfusion beteiligt sind alle Proben um 10 erleichtert. Der gleiche Effekt kann hervorgerufen werden, wenn der Zaubernde die Gabe Manainfusion besitzt. Ein Heildschinn mit dieser Gabe bewirkt sogar einen Bonus von 25 Punkten. 
+Das zuführen des Manas kann mit fast frei wählbarer Geschwindigkeit durchgeführt werden, wenn der Zaubernde mit seiner MAT-Probe Erfolg hat. Liegt die für die Infusion gewählte Dauer unter 1 ZWZ pro 1 MP erhöht sich die Schwierigkeit aller Proben um 10. Sie steigt um weitere 10 an, wenn 1 ZWZ pro 2 MP unterschritten wird, bzw. 1 ZWZ pro 3MP, 1ZWZ pro 4 MP, … .
+Das Zuführen von rohem Mana in die Substanz eines Wesens führt fast unweigerlich zu einer Gegenreaktion, die die Aufnahme weiterer Magie hemmt. Wird die Magie erfolgreich hinzugefügt, kommt es erst mit ein wenig Verzögerung zu dieser Gegenreaktion, was durchaus normal ist. Jedoch wird es durch die nun einsetzende Regeneration für MTP Stunden unmöglich dem Ziel vorsichtig weiteres Mana zuzuführen. Stattdessen wird die gleiche Menge Mana ausgeschüttet um das ankommende Mana auszuspülen. Bei einer erfolgreichen Infusion besteht eine 80%ige Wahrscheinlichkeit, dass die Hemmreaktion auftritt. Bei einem Fehlschlag tritt sie sicher auf. Da Geomanten eine höhere Gewöhnung an den Umgang mit rohem Mana haben ist die Wahrscheinlichkeit für eine Gegenreaktionen bei ihnen nur 60%. Gleiches gilt für Kristall-Wissenschaftsdschinn die eine 70%ige Wahrscheinlichkeit für eine Gegenreaktion haben. Es ist zu beachten, dass auch der Zauber Energieeinlauf eine Gegenreaktion hervorrufen kann.
+ 	Dauer: Wahl / Wahl
+	Kosten: Wahl / 1
+Wurf	Auswirkungen wenn MR Erfolg	Auswirkungen wenn MR Misserfolg
+1W10	Schaden	Rest-absorption	Sonstiges	Schaden	Rest-absorption	Sonstiges
+1	1 Punkt Schaden pro 5 MP	Normal		1 pro 3 MP	Keine	Verlust von 1W10 MP pro 5 zugeführten MP 
+2	1 Punkt Schaden pro 4 MP	Keine	Verlust von 1W10 MP pro 5 MP die hinzugefügt werden sollten	1 Punkt Schaden pro 3 MP, 	Halb	Temporäres verstopft des Manaflusses. Kein Zaubern für 1W6*10 Minuten
+3	1 Punkt Schaden pro 3 MP	Halb		1 Punkt Schaden pro 2 MP	Halb	Verlust von 1 MP in Höhe pro 1 MP zugeführten Manas.
+4	1 Punkt Schaden pro 3 MP	halb	Temporäres verstopft des Manaflusses. Kein Zaubern für 1W6*10 Minuten	1W10 Punkte Schaden für je 10 MP	Ein Drittel	Temporäres verstopft des Manaflusses. Kein Zaubern für 1W6 Stunden
+5	1W10 Punkte Schaden für je 12 MP	Keine	Verlust von MP in Höhe von einem Drittel des zugeführten Manas.	1 Punkt Schaden pro 2 MP	Ein Viertel	Temporäres verstopft des Manaflusses. Kein Zaubern für 2W10 Stunden
+6	1 Punkt Schaden pro 2 MP	Ein Drittel	Temporäres verstopft des Manaflusses. Kein Zaubern für 1W6 Stunden 	1W10 Punkte Schaden für je 8 MP	Ein Fünftel	Permanente Reduktion der BasisMP um 10% der zugeführten MP
+7	1 Punkt Schaden pro 2 MP	Ein Viertel	Temporäres verstopfen des Manaflusses. Kein Zaubern für 2W10 Stunden	1W10 Punkte Schaden für je 7 MP	Ein Sechstel	Temporäres verstopft des Manaflusses. Kein Zaubern für 1W6+2 Tage
+8	1W10 Punkte Schaden für je 9 MP	Ein Viertel	Permanente Reduktion der BasisMP um 10% der zugeführten MP	1W10 Punkte Schaden für je 6 MP	Keine	Permanente Reduktion der BasisMP um 20% der zugeführten MP.
+9	1 Punkt Schaden pro 1 MP	Keine	Temporäres verstopft des Manaflusses. Kein Zaubern für 1W6 Tage	1 Punkt Schaden pro 1 MP	Keine	Permanente Reduktion von MG, MR, IN und WK um 5% des zugeführten Manas.
+10	1W10 Punkte Schaden für je 8 MP	Keine	Permanente Reduktion der BasisMP um 20% der zugeführten MP. 	1W10 Punkte Schaden für je 5 MP	Keine	Permanente Reduktion der BasisMP um 50% der zugeführten MP und der BasisLP um 20% der MP.
+11	1W10 Punkte Schaden für je 6 MP	Keine	Permanente Reduktion von MG, MR, IN und WK um 5% des zugeführten Manas.	1W10 Punkte Schaden für je 3 MP	Keine	Verstopfen des Manaflusses, permanent kein Zaubern
+12	1 Punkt Schaden pro 1 MP	Keine	Permanente Reduktion der BasisMP um 50% der zugeführten MP und der BasisLP um 20% der MP. 	Tod	Keine	Keine
+13	Tod	Keine	Keine	Tod	Keine	Keine
+Wird durch die hinzugefügte Menge Magie die Absorbtionsfähigkeit oder das Ausgangsmana des Empfängers überschritten wird der Wurf je um eine Kategorie erhöht. Gleiches gilt, wenn die Menge vorhandenen Manas des Empfängers unter einem Viertel des Basismanas liegt. 
+Durch einen Patzer erhöht sich die Zielkategorie um zwei Stufen. 
+Scheitern beide MG-Proben erhöht sich die Zielkategorie um zwei Stufen.
+
+ 
+
+Manatransfer
+Voraussetzungen: 
+Geomant
+MG: 40
+ERF: 25
+Der Geomant stellt einen Manafluss zwischen sich und einem weiteren gewillten Ziel her. Dabei kann der Zaubernde entweder von jemandem Mana abnehmen oder von jemandem aufnehmen. Um einen Manafluss herzustellen müssen sich die beiden am Transfer beteiligten berühren, der passiv beteiligte kann während des Transfers weiterhin normal Aktionen ausführen, solange dies den Kontakt nicht trennt. Der Zauber muss einmal erfolgreich gewirkt werden um den Manafluss in Gang zu bringen, dann kann beliebig viel Mana ohne wiederholtes wirken des Zaubers zwischen den Beteiligten bewegt werden. Manatransfer bewegt MTP/2 Mana in 20 Dauer. Pro MTP/2 bewegten Manapunkten muss der Zaubernde 1 MP bezahlen. Haben beide Beteiligten eine MG von über 50 so können MTP MP pro 20 Dauer übertragen werden. Zwischen den Transferabschnitten fällt keine ZÜZ an. 
+Möchte der Geomant zwischen Zwei anderen Wesen vom Anderen Ort Mana übertragen, so müssen alle beteiligten eine erfolgreiche MAT Probe werfen und 10 Dauer aufwenden. Scheitert mindestens ein Teilnehmer des Transfers bei der MAT-Probe, müssen alle neu werfen und erneut 10 Dauer investieren, zusätzlich fällt natürlich die ZÜZ an, da der Zauber neu gewirkt werden muss. Wurde erfolgreich ein Manafluss hergestellt kann nun der Zaubernde für je 3 MP MTP Manapunkte zwischen den Beiden anderen Zielen in 40 Dauer bewegen.
+Durch Manatransfer kann ein Dschinn mehr Mana erhalten als sein normales Maximum. Das normale Maximum (der Startwert) eines Dschinns, kann um WK/2 überladen werden. Ausschlaggebend ist immer der kleinere WK/2 Wert zwischen Zauberndem und Ziel der Überladung.
+Dauer: 20 pro MTP/2 MP oder 20 pro MTP MP oder 40 pro MTP MP
+Kosten: 1 pro Transfereinheit oder 3 pro Transfereinheit
+
+
+ 
+Manatransfer II
+Voraussetzungen: 
+Geomant
+MG: 53
+IN: 46
+ERF: 34
+Der Geomant stellt einen Manafluss zwischen sich und einem weiteren gewillten Ziel her. Dabei kann der Zaubernde entweder von jemandem Mana abnehmen oder von jemandem aufnehmen. Um einen Manafluss herzustellen müssen sich die beiden am Transfer beteiligten berühren, der passiv beteiligte kann während des Transfers weiterhin normal Aktionen ausführen, solange dies den Kontakt nicht trennt. Der Zauber muss einmal erfolgreich gewirkt werden um den Manafluss in Gang zu bringen, dann kann beliebig viel Mana ohne wiederholtes wirken des Zaubers zwischen den Beteiligten bewegt werden. Manatransfer bewegt MTP/2 Mana in 15 Dauer. Pro MTP/2 bewegten Manapunkten muss der Zaubernde 1 MP bezahlen. Haben beide Beteiligten eine MG von über 50 so können MTP MP pro 15 Dauer übertragen werden. Zwischen den Transferabschnitten fällt keine ZÜZ an. 
+Möchte der Geomant zwischen Zwei anderen Wesen vom Anderen Ort Mana übertragen, so müssen alle beteiligten eine erfolgreiche MAT Probe werfen und 10 Dauer aufwenden. Scheitert mindestens ein Teilnehmer des Transfers bei der MAT-Probe, muss dieser neu werfen und erneut 10 Dauer investieren, zusätzlich fällt natürlich die ZÜZ an, da der Zauber neu gewirkt werden muss. Wurde erfolgreich ein Manafluss hergestellt kann nun der Zaubernde für je 2 MP MTP Manapunkte zwischen den Beiden anderen Zielen in 30 Dauer bewegen.
+Durch Manatransfer kann ein Dschinn mehr Mana erhalten als sein normales Maximum. Das normale Maximum (der Startwert) eines Dschinns, kann um WK überladen werden. Ausschlaggebend ist immer der kleinere WK Wert zwischen Zauberndem und Ziel der Überladung.
+Dauer: 15 pro MTP/2 MP oder 15 pro MTP MP oder 30 pro MTP MP
+Kosten: 1 pro Transfereinheit oder 2 pro Transfereinheit
+	Vertiefungskosten: 2/3
+
+
+ 
+Manatransfer III
+Voraussetzungen: 
+Geomant
+MG: 66
+WK: 34
+IN: 54
+ERF: 43
+LV: 3
+Der Geomant stellt einen Manafluss zwischen sich und einem weiteren gewillten Ziel her. Dabei kann der Zaubernde entweder von jemandem Mana abnehmen oder von jemandem aufnehmen. Um einen Manafluss herzustellen müssen sich die beiden am Transfer beteiligten berühren, der passiv beteiligte kann während des Transfers weiterhin normal Aktionen ausführen, solange dies den Kontakt nicht trennt. Der Zauber muss einmal erfolgreich gewirkt werden um den Manafluss in Gang zu bringen, dann kann beliebig viel Mana ohne wiederholtes wirken des Zaubers zwischen den Beteiligten bewegt werden. Manatransfer bewegt MTP Manapunkte in 15 Dauer. Haben beide Beteiligten eine MG von über 50 so können 1,5 MTP MP pro 15 Dauer übertragen werden. Zwischen den Transferabschnitten fällt keine ZÜZ an. 
+Möchte der Geomant zwischen Zwei anderen Wesen vom Anderen Ort Mana übertragen, so müssen alle beteiligten eine erfolgreiche MAT-Probe werfen und 10 Dauer aufwenden. Scheitert mindestens ein Teilnehmer des Transfers bei der MAT-Probe, muss dieser und erneut 10 Dauer investieren, zusätzlich fällt natürlich die ZÜZ an. Gelingt dem Zaubernden die MAT-Probe, kann er die Differenz zwischen seinem Würfelergebnis und seinem MAT-Basiswert verwenden um einem der anderen an dem Zauber beteiligten zu helfen. Dies geschieht indem die Differenz vom Würfelergebnis eines anderen an dem Zauber beteiligten abgezogen wird. Auf diese Weise kann weder ein Kritischer Erfolg erzeugt noch ein Patzer verhindert werden. Wurde erfolgreich ein Manafluss hergestellt kann nun der Zaubernde für je 1 MP MTP Manapunkte zwischen den Beiden anderen Zielen in 30 Dauer bewegen.
+Durch Manatransfer kann ein Dschinn mehr Mana erhalten als sein normales Maximum. Das normale Maximum (der Startwert) eines Dschinns, kann um WK überladen werden. Ausschlaggebend ist immer der kleinere WK Wert zwischen Zauberndem und Ziel der Überladung.
+Dauer: 15 pro MTP MP oder 15 pro 1,5 MTP MP oder 30 pro MTP MP
+Kosten: 0 pro Transfereinheit oder 1 pro Transfereinheit
+	Vertiefungskosten: 4/5
+ 
+Manatransfer IV
+Voraussetzungen: 
+Geomant
+MG: 74
+WK: 39
+IN: 61
+ERF: 47
+LV: 5
+Der Geomant stellt einen Manafluss zwischen sich und einem weiteren gewillten Ziel her. Dabei kann der Zaubernde entweder von jemandem Mana abnehmen oder von jemandem aufnehmen. Um einen Manafluss herzustellen müssen sich die beiden am Transfer beteiligten berühren, der passiv beteiligte kann während des Transfers weiterhin normal Aktionen ausführen, solange dies den Kontakt nicht trennt. Der Zauber muss einmal erfolgreich gewirkt werden um den Manafluss in Gang zu bringen, dann kann beliebig viel Mana ohne wiederholtes wirken des Zaubers zwischen den Beteiligten bewegt werden. Manatransfer bewegt MTP Manapunkte in 10 Dauer. Haben beide Beteiligten eine MG von über 50 so können 1,5 MTP MP pro 10 Dauer übertragen werden. Zwischen den Transferabschnitten fällt keine ZÜZ an. 
+Möchte der Geomant zwischen Zwei anderen Wesen vom Anderen Ort Mana übertragen, so müssen alle beteiligten eine erfolgreiche MAT-Probe werfen und 10 Dauer aufwenden. Scheitert mindestens ein Teilnehmer des Transfers bei der MAT-Probe, muss dieser die Probe erneut durchführen und erneut 10 Dauer investieren. Gelingt dem Zaubernden die MAT-Probe, kann er die Differenz zwischen seinem Würfelergebnis und seinem MAT-Basiswert verwenden um einem oder beiden der Anderen, an dem Zauber beteiligten, zu helfen. Dies geschieht indem die Differenz vom Würfelergebnis eines anderen an dem Zauber beteiligten abgezogen wird. Die Differenz kann dabei beliebig aufgeteilt werden. Auf diese Weise kann weder ein kritischer Erfolg erzeugt noch ein Patzer verhindert werden. Wurde erfolgreich ein Manafluss hergestellt kann nun der Zaubernde MTP Manapunkte zwischen den Beiden anderen Zielen in 25 Dauer bewegen.
+Durch Manatransfer kann ein Dschinn mehr Mana erhalten als sein normales Maximum. Das normale Maximum (der Startwert) eines Dschinns, kann um 1,5 WK überladen werden. Ausschlaggebend ist immer der kleinere WK Wert zwischen Zauberndem und Ziel der Überladung.
+Dauer: 10 pro MTP/2 MP oder 10 pro MTP MP oder 25 pro MTP MP
+Kosten: 0
+Vertiefungskosten: 4/5 
+
+Parasit
+Voraussetzungen:
+	Geomant
+	MG: 52
+	WK: 51
+	IN: 56
+	LV: 3
+Durch den Zauber erhält der Zaubernde immer dann Mana vom Ziel des Zaubers wenn dieses einen Zauber wirkt.
+Der Zaubernde wirkt den Zauber auf ein Ziel das bis zu MTP Meter entfernt ist und das in gerader Linie erreichbar ist. Der Zauber kann bis in eine Distanz von 2 MTP Metern Distanz aufrecht gehalten werden nachdem er erfolgreich gewirkt wurde.
+Solange der Zauber besteht erhält der Zaubernde 10% der Kosten aller Zauber die das Ziel des Zaubers erfolgreich Wirkt. Diese Kosten werden dem Zaubernden doppelt zusätzlich aufgeschlagen. Die Grenze ab der der Zaubernde einen Manapunkt erhält liegt bei 7 MP Kosten. Der Zaubernde hat bereits ab Kosten von 3 einen Zusätzlichen Aufwand von einem MP.
+Der Zauber kann auf ein Ziel belieb lange aufrecht gehalten werden. Dazu ist ein kontinuierlicher Aufwand von 7 ZWZ, ohne Übergangszeit, und 1 MP notwendig.
+	Dauer: 32/7
+	Kosten: 5/1
+
+ 
+Parasit II
+Voraussetzungen:
+	Geomant
+	MG: 61
+	WK: 56
+	IN: 63
+	LV: 5
+Durch den Zauber erhält der Zaubernde immer dann Mana vom Ziel des Zaubers wenn dieses einen Zauber wirkt.
+Der Zaubernde wirkt den Zauber auf ein Ziel das bis zu MTP Meter entfernt ist und das in gerader Linie erreichbar ist. Der Zauber kann bis in eine Distanz von 2,5 MTP Metern Distanz aufrecht gehalten werden nachdem er erfolgreich gewirkt wurde.
+Solange der Zauber besteht erhält der Zaubernde 20% der Kosten aller Zauber die das Ziel des Zaubers erfolgreich Wirkt. Dem Zaubernden werden durch den parasitären Befall 25% der Zauberkosten zusätzlich aufgeschlagen. Die Grenze ab der der Zaubernde einen Manapunkt erhält liegt bei 4 MP Kosten. Der Zaubernde hat bereits ab Kosten von 2 MP einen Zusätzlichen Aufwand von einem MP.
+Der Zauber kann auf bis zu MG/25 Ziele gleichzeitig gewirkt und beliebig lange aufrecht gehalten werden. Dazu ist ein kontinuierlicher Aufwand von 5 ZWZ, ohne Übergangszeit, und 1 MP notwendig.
+	Dauer: 28/5
+	Kosten: 4/1
+	Vertiefungskosten: 4/6 
+	
+Pfeilerentladung
+Voraussetzungen:
+	Geomant
+	Pfeiler der Schwere
+	MG: 54
+	WK: 42
+	IN: 62
+	LV: 3
+Der Zauber Zapft die Energien der Erde an um eine magische Entladung durch die Pfeiler der Schwere zu senden.
+Ein energetischer Schlag ganz ähnlich einer elektrischen Entladung durchführt alle im inneren des durch die Pfeiler eingegrenzten Gebietes.
+Der dadurch verursachte Schaden ist abhängig von der Anzahl der Pfeiler und der magischen Kraft des Zaubernden sowie seines Einflusses auf die Energien der Erde. Der Schaden liegt bei MTP+Anzahl Pfeiler*(2+(IN)/16).
+Geomanten können zwar keine Pfeiler der Schwere erschaffen oder mit ihnen ein Schwerefeld erschaffen, sie können die Pfeiler, wenn sie welche finden, aber als Medium nutzen um die Energien der Erde durch sie als Energieschlag zu manifestieren. Da sie erst ein Gefühl für die Pfeiler bekommen müssen steigt die für den Zauber notwendige Dauer deutlich an. Andererseits können sie durch ihr nicht unerhebliches Gespür für die Energien der Erde besonders mächtige Entladungen bewirken.
+	Dauer: 89
+	Kosten: 19
+ 
+Quellverbindung/-trennung
+Voraussetzungen: 
+Geomant
+MG: 10
+ERF: 15
+Der Dschinn verbindet sich mit einer Natürlichen Energiequelle, also einer Ley-line oder einem Nexuspunkt um aus dieser Energie zu Schöpfen. Der Bereich in dem sich der Dschinn um diese Energiequelle herum Energie aus der Quelle beziehen kann ist unterschiedlich und abhängig von der Stärke der Quelle. Eine schwache Quelle kann nur im unmittelbaren Umfeld der Quelle genutzt werden, da die Energie der Quelle nur gering ist und nicht so weit ausstrahlt. Eine sehr starke Quelle dagegen zieht den Dschinn zu sich, sodass dieser in seiner Bewegungsfreiheit stark eingeschränkt ist, solange er mit der Quelle verbunden ist. Die größte Bewegungsfreiheit genießt ein Dschinn der alleine eine mittelstarke Quelle bezieht. Teilt sich ein Dschinn die Quelle mit einem oder mehreren anderen, so sinkt die übertragene Kraft und die Bewegungsreichweite.
+Dauer: 54 / 35
+Anhaltend: Dauerhaft
+Kosten: 3 / 4
+ 
+Quellbereich erweitern
+Voraussetzungen:
+	Geomant
+	MG: 50
+	WK: 34
+	IN: 44
+	KL: 38
+Zaubernde wirkt wie Repeater und macht daher auch Wesen vom Anderen Ort die weiter von der Quelle entfernt sind den Zugang zu der Quelle mit der der Zaubernde verbunden ist möglich.
+Auf diese Weise kann eine Verbindung mit der Quelle über den Zaubernden erstellt werden, selbst wenn eine Distanz zwischen dem indirekt angebundenen und dem Zaubernden von bis zu MTP-Metern besteht,  
+
+Störfeld
+Voraussetzungen:
+	Geomant
+	MG: 43
+	WK: 36
+IN: 38
+Der Zauber erschafft ein magisches Feld, dass den Fluss der Magie stört. Dadurch wird zwar nicht der Fluss an sich gehemmt, es wird jedoch schwerer die Magie in die gewünscht Form zu bringen.
+MAT-Proben im Einflussbereich des Zaubers werden dadurch erschwert. Für Zaubernde mit einem Magiegeschick (MG) und/oder einer Intuition (IN) unter 40 werden alle MAT-Proben im Störfeld um MTP erschwert. Außerdem wird der Patzerbereich eins größer. Wesen mit einer besseren Kontrolle, also MG und IN über 40, erleiden nur einen Abzug von MTP/2 auf ihre MAT-Proben.
+Das Störfeld hat einen Radius von MTP Metern.
+Das Störfeld kann bis zu MTP/4 Kampfrunden am Stück aufrecht gehalten werden, danach ist eine Pause notwendig die mindestens so lang ist wie das Störfeld vorher gewirkt wurde. Das Störfeld aufrecht zu erhalten bedarf eines Einsatzes von 12 ZWZ, ohne Übergangszeit, und 5 MP: Wird diese Dauer überschritten oder die Pause nicht eingehalten erleidet der Zaubernde einen Abzug von 2 MTP auf alle eigenen MAT-Proben und muss jede Kampfrunde eine MAT-Probe durchführen um den Zauber weiterhin aufrecht zu halten. Nachdem das erzwungene Störfeld aufgehoben wurde erleidet der Zaubernde für die doppelte Anzahl Kampfrunden über die er das Störfeld zwanghaft gewirkt hat einen Abzug auf alle MAT-Proben von MTP. Zusätzlich kann das Störfeld ab der dritten Kampfrunde in der es Zwanghaft aufrechtgehalten wurde, dem Zaubernden permanenten Schaden zufügen.
+	Dauer: 41/ 12
+	Kosten: 13/ 5
+
+ 
+Störfeld II
+Voraussetzungen:
+	Geomant
+	MG: 51
+	WK: 44
+IN: 45
+MR: 32
+LV: 3
+Der Zauber erschafft ein magisches Feld, dass den Fluss der Magie stört. Dadurch wird zwar nicht der Fluss an sich gehemmt, es wird jedoch schwerer die Magie in die gewünscht Form zu bringen.
+MAT-Proben im Einflussbereich des Zaubers werden dadurch erschwert. Für Zaubernde mit einem Magiegeschick (MG) und/oder einer Intuition (IN) unter 40 werden alle MAT-Proben im Störfeld um 1,5 MTP erschwert. Außerdem wird der Patzerbereich zwei größer. Wesen mit einer besseren Kontrolle, also MG und IN über 40, erleiden nur einen Abzug von MTP auf ihre MAT-Proben und ihr Patzerbereich wird eins größer. Ab einem MG und IN von über 55, wird einen Abzug von MTP/2 auf alle MAT-Proben vergeben.
+Das Störfeld hat einen Radius von MTP Metern.
+Das Störfeld kann bis zu MTP/3 Kampfrunden am Stück aufrecht gehalten werden, danach ist eine Pause notwendig die mindestens so lang ist wie das Störfeld vorher gewirkt wurde. Das Störfeld aufrecht zu erhalten bedarf eines Einsatzes von 10 ZWZ, ohne Übergangszeit, und 5 MP: Wird diese Dauer überschritten oder die Pause nicht eingehalten erleidet der Zaubernde einen Abzug von 2 MTP auf alle eigenen MAT-Proben und muss jede Kampfrunde eine MAT-Probe durchführen um den Zauber weiterhin aufrecht zu halten. Nachdem das erzwungene Störfeld aufgehoben wurde erleidet der Zaubernde für die doppelte Anzahl Kampfrunden über die er das Störfeld zwanghaft gewirkt hat einen Abzug auf alle MAT-Proben von MTP. Zusätzlich kann das Störfeld ab der dritten Kampfrunde in der es Zwanghaft aufrechtgehalten wurde, dem Zaubernden permanenten Schaden zufügen.
+	Dauer: 37/ 10
+	Kosten: 11/ 5
+	Vertiefungskosten: 3/4
+
+ 
+Verwandlung III
+Voraussetzungen:
+	Alle
+	MG:35
+	ERF:35
+Der Zauber ändert die äußere Gestalt des Zaubernden.
+Menschen und Wesen vom Anderen Ort sehen die Gestalt die du angenommen hast auf allen, bis auf der letzten, dir zugänglichen, Ebene. Auf der höchsten dir zugänglichen und allen höheren Ebenen ist deine wahre Gestalt weiterhin erkennbar.
+Bei einer normalen Verwandlung ändern sich deine Attribute und Fähigkeiten nicht. Die Gestalt die du wählst bestimmt aber die Möglichkeiten mit deiner Umwelt zu interagieren. Wenn du z.B. die Gestalt eines Vogels annimmst, ist es dir möglich zu fliegen, als Fisch kannst du schwimmen aber keine Gabel benutzen usw...
+Verwandelst du dich in eine deiner Kerngestalten dauert der Zauber 6 ZWZ und kostet dich 1 MP. Zusätzlich erhältst du einem Bonus von +20 auf die MAT Probe. Bei anderen Gestalten kostet der Zauber 2 MP und Dauert 13 ZWZ. Kennst du die Gestalt in die du dich verwandeln möchtest nicht gut oder sogar nur von einem Bild ist die Verwandlung um bis zu 10 erschwert.
+Fehlschläge innerhalb deiner normalen MAT führen zu einer leicht abweichenden Gestalt, wie beispielsweise einem blauen statt einem orangenen Schnabel. Normalerweise fällt dieser Fehler dem Zaubernden nur auf wenn er ihn sehen oder beim Verwenden einer Extremität etwas Anderes spürt als er erwartet.
+	Dauer: 6/ 13
+	Kosten: 1/ 2
+Vertiefungskosten: 2/3
+
+ 
+Zauber Ablösen
+Voraussetzungen:
+	Geomant
+	MG: 58
+	WK: 44
+	KL: 42
+	IN: 56
+	ERF: 39
+	LV: 3
+Durch den Zauber kann das Ziel des Zaubers von einem an es angehefteten Effekt befreit werden. Die Effekte von denen der Zauber das Ziel befreien kann sind die folgenden: An die Leine nehmen, Blut im Wasser, Hassbrenner, Versengender Segen, Einbrennen, Sog der Tiefe, Der letzte Schnitt und Fluch. 
+	Dauer: 22
+	Kosten: 3 
+	
+	
+Zauberhilfe
+Voraussetzungen:
+Geomant
+IN: 40
+MG: 40
+Nach Zauber
+Der Geomant unterstützt mit diesem Zauber den Zauber eines Anderen Dschinns indem er für den Zauber die Attribute des zaubernden um die Hälfte seiner eigenen, abgerundet, erhöht. Die Voraussetzungen dafür sind, dass der Helfende den Zaubernden berührt und die Anforderungen des Zaubers bei dem er helfen möchte erfüllt. Der Helfende muss den Zauber des Zaubernden nicht kennen noch muss er ihn selber wirken können.
+Sind die Anforderungen erfüllt kann Zauberhilfe mit einer einfachen MAT Probe begonnen werden. Die Probe für Zauberhilfe wird dann geworfen, wenn der Zauber begonnen wird, wird jedoch vor der Probe auf den Zauber selbst geworfen, da die Wirkung von Zauberhilfe hier schon zum Tragen kommt. Misslingt die Zauberhilfe-Probe, kann bei dem Zauber nicht mehr geholfen werden.
+Der Zauberhelfende ist unabhängig von seiner INI und ZWZ so lange mit dem Helfen beschäftigt wie der zaubernde beschäftigt ist. Das heißt, dass er in der Runde in der der Zauber begonnen wird so viel ZWZ übrig haben muss wie in der Runde für den Zauber verwendet wird, ist die ZWZ des Zauberhelfenden geringer als das, muss er die ganze Runde aufbringen. Runden die vom Zaubernden nur für den Zauber verwendet werden müssen auch vom Helfenden vollständig dafür verwendet werden. In der Runde in der der Zauber zur Wirkung kommt muss der Helfende so viel ZWZ wie der Zaubernde oder seine ganze Runde aufbringen. Verbleibt dem Helfenden in dieser Runde noch Zeit, kann er sie erst nach beenden des Zaubers verwenden um etwas anderes zu machen.
+Beispiele:
+Bert ist Geomant und möchte Gordon, einem Frostdschinn, helfen damit dieser eine besonders starke Zapfenkanone abfeuern kann um einen Afrit zu durchbohren, der die Beiden ganz schön in Bedrängnis gebracht hat. Da Bert die höhere INI hat, ist er zuerst am Zug. Da Gordon die Ganze Runde, 40 ZWZ, für seinen Zauber verwenden möchte bleibt ihm keine Zeit diese Runde etwas anderes zu tun. Er sagt also nur an, dass er Gordon Zauberhilfe geben möchte. Nun ist Gordon am Zug. Er sagt an an, dass er nun den Zauber Zapfenkanone beginnen möchte. Bert befindet sich direkt bei Bert, da sie zusammen in eine Ecke gedrängt sind und kann daher ohne Probleme helfen. Bert macht nun zuerst seinen Wurf auf MAT. Er würfelt ein 36, der Zauber ist ein Erfolg. Nun muss Gordon seinen Zauber Wirken. Er würfelt auf MAT eine 76. Normalerweise würde, dass bei seiner MAT von 46 einen Fehlschlag bedeuten. Da die Zauberhilfe von Bert aber funktioniert hat, darf er sich bereits der verbesserten Werte bedienen. Mit der daraus resultierenden MAT von 87 gelingt der Zauber. Normalerweise Kann Gordon mit seiner ZWZ von 50 genau 5 Eiszapfen in einer Runde erschaffen und abschießen, durch Berts Hilfe sind es nun 7. Gordon wirft nun auf Zielen. Ohne Bert würde er nur mit 4 Eiszapfen treffen, trifft er mit 6. Er richtet 6 MTP, also 120 Punkte, Schaden an und kann so den bereits stark verwundeten Afriten vernichten.
+Zauberhilfe kostet den Helfenden 1/4 der Kosten die für den Zaubernden anfallen.
+Bert		Gordon		Gordon + Bert
+INI: 	45	INI: 	38	INI:	---
+ZWZ: 	44	ZWZ: 	40	ZWZ:	62
+MAT:	65	MAT	46	MAT:	87
+MTP:	13	MTP	13	MTP:	20
+ZI:	40	ZI:	54	ZI:	74
+MG: 	47	MG 	40	MG:	63
+MK:	44	MK:	51	MK:	73
+MR:	27	MR	44	MR:	57
+KL:	42	KL	39	KL:	60
+MUT:	45	MUT	40	MUT:	62
+IN:	55	IN:    	25	IN:	52
+ERF:	40	ERF: 	22	ERF:	42
+FF:	28	FF:    	28	FF:	42
+GE:	27	GE:   	32	GE:	45
+KK:	44	KK:   	44	KK:	66
+KO:	28	KO:   	41	KO:	55
+Dauer: Solange Zaubernder zaubert
+Kosten: 1/4 Zauberkosten

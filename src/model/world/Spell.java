@@ -5,6 +5,16 @@ import model.util.Conditional;
 
 public class Spell implements Conditional{
 	
+	public static void init() {
+		for(Element e: Element.allElements) {
+			e.loadSpells();
+		}
+		
+	}
+	
+	
+	
+	
 	private String titel;
 	private String precondition;
 	private Condition precondition2 = new Condition();
@@ -24,9 +34,11 @@ public class Spell implements Conditional{
 		this.power = power;
 	}
 	
+	@Override
 	public String toString() {
 		String s = "titel:"+titel +"\n" +"precondition: "+precondition+"\n" +"text: "+text +"\n" +"cost: "+cost+"\n" +"duration: "+duration+"\n" +"power: "+power;
-		return s;
+		
+		return titel;
 	}
 	
 	public String getTitel() {
@@ -67,5 +79,6 @@ public class Spell implements Conditional{
 	public Condition getPrecondition() {
 		return precondition2;
 	}
+
 	
 }

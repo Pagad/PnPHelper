@@ -113,13 +113,16 @@ public class HeroSceneController {
 
 	@FXML
 	private ListView<Domain> allDomains;
+	
+    @FXML
+    private ListView<Spell> spellList;
 
 	private Hero h;
 	private int gp = 500;
 
 	@FXML
 	void initialize() {
-
+		//spellList.getItems();
 		loadStuff();
 
 		h = new Hero();
@@ -210,8 +213,8 @@ public class HeroSceneController {
 		ElementList.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Element>() {
 			@Override
 			public void changed(ObservableValue<? extends Element> observable, Element oldValue, Element newValue) {
+				Element e = ElementList.getSelectionModel().getSelectedItem();
 				if (elementRadio.isSelected()) {
-					Element e = ElementList.getSelectionModel().getSelectedItem();
 					CultureList.getItems().clear();
 						for (Culture c : Culture.allCultures) {
 							if (c.getElements().contains(e)) {
@@ -219,6 +222,10 @@ public class HeroSceneController {
 							}
 						}
 					}
+				spellList.getItems().clear();
+				if(e!=null) {
+					spellList.getItems().addAll(e.getSpells());
+				}
 				updateMinMaxBonusValues();
 				updateGPCount();
 				updateSumValue();

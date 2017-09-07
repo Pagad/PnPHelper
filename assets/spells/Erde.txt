@@ -1,0 +1,557 @@
+
+Aura der Gemächlichkeit
+Voraussetzungen:
+	Erde
+	MG: 22
+	ERF: 17
+Der Zauber verlangsamt alle die sich um den Zaubernden herum befindenden.
+Alle die sich um den Zaubernden herum befinden werden von der Aura betroffen. Dies manifestiert sich indem INI, ZWZ, AU und MNAU um MTP/2 reduziert werden. Die Aura hat eine Reichweite von MTP/3 Metern um den Zaubernden herum. Um den Zauber aufrecht zu erhalten muss jede Runde 5 ZWZ und 2MP investiert werden, es fällt keine ZÜZ an.
+	Dauer: 22/ 5
+	Kosten: 6/ 2
+
+Aura der Gemächlichkeit II
+Voraussetzungen:
+	Erde
+	MG: 38
+	ERF: 26
+	KO: 24
+	LV: 3
+Der Zauber verlangsamt alle die sich um den Zaubernden herum befindenden.
+Alle die sich um den Zaubernden herum befinden werden von der Aura betroffen. Dies manifestiert sich indem INI, ZWZ, AU und MNAU um MTP reduziert werden. Die Aura hat eine Reichweite von MTP/3 Metern um den Zaubernden herum. Um den Zauber aufrecht zu erhalten muss jede Runde 6 ZWZ und 2MP investiert werden, es fällt keine ZÜZ an.
+	Dauer: 26/ 6
+	Kosten: 7/ 2
+	Vertiefungskosten: 4/5
+ 
+Aura der Stabilität e
+Voraussetzungen:
+	Erde
+	MG: 52
+	WK: 44
+	MR: 53
+KL: 44
+IN: 37
+	KO: 61
+	LV: 5
+Der Zauber erzeugt eine Aura um den Zaubernden, die alle die von ihr umschlossen werden stabilisiert.
+Alle in einem Radius von MTP/3 Metern um den Zaubernden erhalten die Effekte der Zauber Stabilisieren Geist und Stabilisieren Physis.
+Der Zauber kann mit einem Aufwand von 16 ZWZ, ohne Übergangszeit, und 4 MP beliebig lange verwendet werden.
+	Dauer: 36/ 16
+	Kosten: 9/ 4
+	Vertiefungskosten: 5/7 
+	
+Beben E
+Voraussetzungen:
+	Erde
+ERF: 25
+	WK:35
+	KK:25
+Der Zaubernde versetzt den Boden in extreme Schwingung, so dass jeder in einem Radius von MTP Metern um den Zaubernden steht eine Geschicklichkeitsprobe (GE) machen muss. 
+Wenn der Wurf gelingt hat der Zauber keine Weitern Auswirkungen. Scheitert die Probe jedoch führt dies zum Sturz. Wer stürzt erleidet MTP/2 Punkte Schaden und darf seine nächste Aktion nur mit halber INI, AU, ZWZ und MNAU durchführen.
+	Dauer: 25
+	Kosten 15
+ 
+Das Gewicht der Himmel E
+Voraussetzungen:
+	Erde
+	MG: 39
+	WK: 39
+	KL: 34
+	LV: 3
+Einige der historischen Völker und Kulturen hatten Angst, dass ihnen der Himmel auf den Kopf fallen könnte. Dieser Zauber lässt mehr oder weniger genau das geschehen. Durch den Zauber wird mit hoher Geschwindigkeit ein starker Druck von oben auf das Ziel ausgeübt.
+Der Zauber wirkt auf ein einzelnes Ziel das sich nicht weiter als 2 MTP Meter vom Zaubernden entfernt befinden darf und nicht weiter als MTP/2 Meter vom Boden entfernt sein darf.
+Allein durch den ersten Schub, wenn der Zauber einsetzt, erleidet das Ziel MTP Punkte Schaden. Danach drückt der Zauber für MTP/4 weitere Runden auf das Ziel. Dieses kann entweder 2 MP und 15 AU, ZWZ und MNAU einsetzen um dem Gewicht zu widerstehen oder MTP Punkte Schaden hinnehmen.
+Fliegende Ziele die sich mehr als 5 Meter über dem Boden befinden haben bereits wenn der Zauber einsetzt die Möglichkeit dem Druck durch den Einsatz von 4 MP zu widerstehen und so den initialen Schaden zu vermeiden. Tun sie das nicht erleiden sie jedoch 3 Punkte Schaden pro Meter Abstand zum Boden extra. Um dem Zauber fliegend zu wiederstehen ist ein Aufwand von 4 MP und 20 AU notwendig. Für Luftdschinn liegt der Aufwand nur bei 3 MP und 15 AU. 
+	Dauer: 41
+	Kosten: 14
+
+
+Das Gewicht der Himmel II e
+Voraussetzungen:
+	Erde
+	MG: 48
+	WK: 47
+	KL: 39	
+	KO: 36
+	LV:5
+Einige der historischen Völker und Kulturen hatten Angst, dass ihnen der Himmel auf den Kopf fallen könnte. Dieser Zauber lässt mehr oder weniger genau das geschehen. Durch den Zauber wird mit hoher Geschwindigkeit ein starker Druck von oben auf das Ziel ausgeübt.
+Der Zauber wirkt auf ein einzelnes Ziel das sich nicht weiter als 2 MTP Meter vom Zaubernden entfernt befinden darf und nicht weiter als MTP Meter vom Boden entfernt sein darf.
+Allein durch den ersten Schub, wenn der Zauber einsetzt, erleidet das Ziel des Zaubers MTP Punkte Schaden. Danach drückt der Zauber für MTP/3 weitere Runden auf das Ziel. Dieses kann je Runde in der der Zauber nun wirkt entweder 2 MP und 20 AU einsetzen um dem Gewicht zu widerstehen oder MTP Punkte Schaden hinnehmen.
+Fliegende Ziele die sich mehr als 5 Meter über dem Boden befinden haben bereits wenn der Zauber einsetzt die Möglichkeit dem Druck durch den Einsatz von 4 MP zu widerstehen und so den initialen Schaden zu vermeiden. Tun sie das nicht erleiden sie jedoch 3 Punkte Schaden pro Meter Abstand zum Boden extra. Um dem Zauber fliegend zu wiederstehen ist ein Aufwand von 5 MP und 25 AU notwendig. Für Luftdschinn liegt der Aufwand nur bei 4 MP und 15 AU. 
+	Dauer: 36
+	Kosten: 13
+	Vertiefungskosten: 4/5
+
+ 
+Du kannst nicht vorbei! 
+Voraussetzungen:
+	Erde
+	MR: 46
+	WK: 36
+	MG: 36
+	LV: 5
+Der Zaubernde versteinert sich temporär selbst um sich zu schützen. Du kannst nicht vorbei! negiert allen Schaden der dem Zaubernden zugefügt wird. Lediglich Rüttler kann den versteinerten verletzen. Dieser fügt dafür gleich anderthalbfachen Schaden zu.
+Du kannst nicht vorbei! kann entweder in der Aktion gewirkt werden und tritt gleich in Kraft oder kann für 10 ZWZ und 1 MP vorbereitet werden und als defensive Aktion in Kraft gesetzt werden. Wird der Zauber als defensive Aktion aktiviert fallen nun die Kosten zusätzlich zu dem schon aufgewendeten Manapunkt an. Wurde Du kannst nicht vorbei! als defensive Aktion vorbereitet, es wird aber eine andere defensive Aktion durchgeführt, ist die erste andere defensive Aktionen um 10 erschwert und löst den vorbereiteten Zauber auf.
+Nachdem Du kannst nicht vorbei! Für eine Kampfrunde verwendet wurde muss eine volle Kampfrunde vergehen bevor der Zauber erneut eingesetzt werden kann. Wird diese Frist nicht eingehalten besteht eine 20% Wahrscheinlichkeit, dass die Versteinerung permanent ist. Bei wiederholter Missachtung der Frist steigt die Wahrscheinlichkeit einer permanenten Versteinerung um je 20% an. Für jede Runde ohne Du kannst nicht vorbei! Sinkt die Wahrscheinlichkeit einer permanenten Versteinerung um 20%. Du kannst nicht vorbei! kann mit einer einzigen MAT-Probe über mehrere Runden gehalten werden, wenn zwischendurch keine weiteren Aktionen durchgeführt werden sollen. Das Risiko einer permanenten Versteinerung wird durch diese Form der Anwendung nicht tangiert. Es fallen jede Runde die vollen Kosten an.
+Dauer: 20/ 10
+Kosten: 14/ 1
+
+
+Du kannst nicht vorbei! II
+Voraussetzungen:
+	Erde
+	MG: 48
+	MR: 54
+	WK: 44
+	KO: 36
+	LV: 7
+Durch die Vertiefung steigt die Kontrolle über den Zauber, was in einem reduzierten Aufwand beim Wirken resultiert. Vor allem aber steigt die Flexibilität wenn der Zauber als defensive Aktion aktiviert werden soll und das Risiko einer permanenten Versteinerung sinkt beim kontinuierlichen Verwenden des Zaubers.
+Du kannst nicht vorbei! kann mit 8 ZWZ und 1 MP vorbereitet werden und als defensive Aktion in Kraft gesetzt werden. Wurde Du kannst nicht vorbei! als defensive Aktion vorbereitet, können andere defensive Aktion durchgeführt werden, die weder erschwert sind noch den vorbereiteten Zauber auflösen, bevor der Zauber, mit einer weiteren defensiven Aktion, aktiviert wird. 
+Wird Du kannst nicht vorbei! Über mehr als eine Kampfrunde verwendet sinkt die Wahrscheinlichkeit einer permanenten Versteinerung um (20-MR/10)%, diese steigt weiterhin mit jeder verstreichenden Kampfrunde um die Grundwahrscheinlichkeit an.
+Dauer: 17/ 8
+Kosten: 11/ 1
+	Vertiefungskosten: 3/4 
+	
+Erdwall E
+Voraussetzungen:
+	Erde
+	MG: 20
+	ERF: 20
+	WK: 25
+Wirft einen Wall auf, der aus dem Material des Untergrundes besteht. Der Wall ist gerade und breitet sich in Blickrichtung des Zaubernden aus. Er beginnt bis zu MTP Meter vom Zaubernden entfernt. Der Erdwall ist höchstens MTP Meter lang und erreicht eine maximale Höhe von WK/20 Metern. Die Seiten des Walls fallen schräg ab, sodass die Breite etwa das doppelte der Höhe beträgt.
+Dauer: 35
+	Kosten: 4
+ 
+Erdrutsch E
+Voraussetzungen:
+	Erde
+	MG: 44
+WK: 44
+	ERF: 36
+LV: 3
+Eine Welle aus Schutt, Schlamm und Unrat, je nach Umgebung, entsteht vor dem Zaubernden und rollt in die vom Zaubernden gewählte Richtung los. Die Schuttwelle begräbt alles was ihm im Weg steht unter sich, reißt es aus und trägt es mit sich fort. 
+Die Welle ist WK/12 Meter hoch und anderthalbmal so breit. Wer von ihr erfasst wird erleidet 2MTP Schaden und muss eine Probe auf (KK+KO+GE)/3 Werfen. Scheitert die Probe wird der Scheiternde mit der Welle fort gerissen und erleidet weitere MTP Schaden. Außerdem ist er für eine Runde aktionsunfähig. Der Erdrutsch legt etwa das 5-Fache seiner Höhe an Strecke zurück, wenn er nicht vorher durch ein großes, massives Hindernis aufgehalten wird.
+	Dauer: 75
+	Kosten: 50
+ 
+Felsenrüstung E
+Voraussetzungen:
+	Erde
+	MG: 33
+	WK:28
+	MR: 24
+	KO: 38	
+Der Zaubernde hüllt sich in eine Rüstung aus Stein. 
+Dieser schützt ihn vor Angriffen indem der Schaden jeden Treffers um 2 reduziert wird. Der Schaden von Rüttler wird nicht reduziert. 
+Die Verteidigung kann kommt nicht zur Geltung wenn wiederholt die gleiche Stelle getroffen wird. Um dies zu erreichen wird die AT oder ZI-Probe jedoch um 20 erschwert. Im Gegenzug zu der starken Verteidigung sinken INI und  AU, nicht aber ZWZ, um 8. 
+Der Zauber kann nicht zusammen mit anderen Schutzmaßnahmen wie beispielsweise Lederhaut, Steinhaut oder Steinpanzer verwendet werden. 
+Es erfordert 7 ZWZ und 3MP den Zauber aufrecht zu halten.
+Dauer: 38/ 7
+Kosten:10/ 3
+ 
+Felshieb E
+Voraussetzungen:
+	Erde
+	WK: 30
+	IN: 32
+	GE: 23
+	KK: 28
+Der durch Erdmagie verstärkte Nahkampfangriff schleudert das Ziel des Angriffs weg.
+Indem eine Steinplatte mit dem Angriff nach vorne bewegt wird kann die Wucht des Angriffs erhöht werden. Um die Platte in Position zu bringen und die wuchtige Bewegung der Platte vorzubereiten ist eine Vorbereitung mit 12 ZWZ und 4 MP notwendig. Trägt der Zaubernde eine Rüstung aus Stein (Felsenrüstung, Steinpanzer) reduziert sich die nötige Vorbereitung auf 7 ZWZ und 2 MP.
+Nach der Vorbereitung wird der Zauber durch eine MAT-Probe parallel zum Angriff (AT) mit 3 MP ausgelöst.
+Der Zauber erhöht den Schaden des Angriffs um MTP/2. Zudem wird das Ziel des Angriffs MTP/2 Meter weit weggeschleudert. Das weggeschleuderte Ziel des Angriffs hat die Möglichkeit für 5 AU, die von der in der nächsten Kampfrunde zu Verfügung stehenden Zeit abgezogen wird, eine Konstitutionsprobe durchzuführen. Scheitert die Probe oder wird sie nicht durchgeführt besteht eine 10%ige Probe, dass eine kurzzeitige Benommenheit jegliche aktive Aktion in der nächsten Kampfrunde unmöglich macht. Defensive Aktionen bleiben möglich werden aber um 20 erschwert.
+	Dauer: 12/ 7/ 0
+	Kosten: 4/ 2/ 3
+
+Felshieb IIE
+Voraussetzungen:
+	Erde
+	WK: 30
+	IN: 32
+	GE: 23
+	KK: 28
+	LV: 3
+Die vertiefte Beschäftigung mit dem Zauber erhöht sich die Wucht mit der die Felsplatte nach vorne geschleudert wird. Damit steigt die Wahrscheinlichkeit, dass das Ziel des Angriffs betäubt wird auf 25%.
+Zudem kann der Zauber effizienter ausgeführt werden. Dadurch reduziert sich die Vorbereitung auf 10 ZWZ und 3 MP bzw. 6 ZWZ und 2 MP bei vorhandener Rüstung.
+	Dauer: 10/ 6/ 0
+	Kosten: 3/ 2/ 3
+	Vertiefungskosten: 3/4
+
+ 
+Gravität e
+Voraussetzungen:
+	Erde
+	WK: 39
+	IN: 38
+	(CH: 28)
+Der Zauber zwingt das Ziel des Zaubers seine Aufmerksamkeit auf den Zaubernden zu richten.
+Wehrt sich das Ziel des Zaubers nicht mit einer Magieparade gegen die Wirkung des Zaubers kann es mindestens seine halbe Kampfrunde kein anderes Ziel als den Zaubernden oder sich selbst als Ziel seiner Aktionen bestimmen und sich auch in keine andere Richtung als auf den Zaubernden zu oder vom Zaubernden weg bewegen. Bereits vorbereitete Techniken und Zauber müssen, wenn sie in der gesamten Kampfrunde eingesetzt werden sollen, auf den Zaubernden gerichtet werden.
+Das Ziel des Zaubers darf nicht weiter als 1,5 MTP Meter vom Zaubernden entfernt sein. Zudem muss der Zaubernde das Ziel des Zaubers direkt ansehen.
+	Dauer: 16
+	Kosten: 4
+
+
+Gravität II e
+Voraussetzungen:
+	Erde
+	WK: 46
+	IN: 44
+	(CH: 32)
+	MUT: 22
+	LV: 3
+Durch die weiterführende Beschäftigung mit dem Zauber steigt die Distanz in dem sich das Ziel um den Zaubernden befinden muss auf 2 MTP Meter. 
+Steigert die Wirkung die der Zauber auf sein Ziel ausübt sodass dieses nun mindestens zwei Drittel seine Runde auf den Zaubernden fokussiert ist.
+Zudem können bis zu MG/20 Ziele gleichzeitig ausgewählt werden.
+	Dauer: 14
+	Kosten: 4
+
+
+Gravität III
+Voraussetzungen:
+	Erde
+	WK: 56
+	IN: 52
+	(CH: 38)
+	MUT: 27
+	LV: 3
+Erhöht die Distanz in dem sich das Ziel um den Zaubernden befinden muss auf 2,5 MTP Meter und die maximale Anzahl an Zielen auf MG/15 Ziele.
+Zudem steigt die Wirkung die der Zauber auf sein Ziel ausübt sodass dieses nun mindestens drei Viertel seine Runde auf den Zaubernden fokussiert ist.
+	Dauer: 12
+	Kosten: 3
+
+	Vertiefungskosten: 3/4
+ 
+
+Gravitätsfeld e
+Voraussetzungen:
+	Erde
+	WK: 61
+	IN: 58
+	ERF: 32
+	(CH: 40)
+	MUT: 32
+	LV: 5
+Der Zauber zwingt alle um den Zaubernden herum ihre Aufmerksamkeit auf den Zaubernden zu richten.
+Wehrt ein  Ziel des Zaubers nicht mit einer Magieparade gegen die Wirkung des Zaubers kann es mindestens seine halbe Kampfrunde kein anderes Ziel als den Zaubernden oder sich selbst als Ziel seiner Aktionen bestimmen und sich auch in keine andere Richtung als auf den Zaubernden zu oder vom Zaubernden weg bewegen. Bereits vorbereitete Techniken und Zauber müssen, wenn sie in der gesamten Kampfrunde eingesetzt werden sollen, auf den Zaubernden gerichtet werden.
+Ziel des Zaubers ist jeder in einem Umkreis von MTP/2 Meter um den Zaubernden.
+	Dauer: 48
+	Kosten: 14
+
+Gravitätsfeld II
+Voraussetzungen:
+	Erde
+Gravität III
+	Gravitätsfeld
+	WK: 66
+	IN: 63
+	ERF: 38
+	(CH: 44)
+	MUT: 36
+	LV: 7
+Die weiterführende Beschäftigung mit dem Zauber erlaubt es dem Zaubernden einen sowohl gezielteren als auch stärkeren Einfluss durch sein Gravitätsfeld zu entfalten. Dadurch kann er ihm gut bekannte Wesen vom Effekt des Feldes ausschließen und zwingt von dem Zauber betroffenen Wesen zwei Drittel der nächsten Kampfrunde ab.
+	Dauer: 46
+	Kosten: 14
+	Vertiefungskosten: 4/6 
+	
+Mauern verschieben E
+Voraussetzungen:
+	Erde
+	IN: 39
+	ERF: 28
+	WK: 35
+Verschiebt einen Teil Gebäudewand von maximal MTP m² in eine Richtung oder öffnet einen Eingang von der Größe einer Tür, an der gewünschten Stelle indem die Umgebende Wand zur Seite geschoben wird. Der Zaubernde darf sich maximal MTP/2 Meter von der Mauer entfernt befinden von der er einen Teil verschieben möchte.
+	Dauer: 60
+	Kosten: 8
+
+
+Mauern verschieben II e
+Voraussetzungen:
+	Erde
+	MG: 38
+	WK: 44
+	IN: 51
+	ERF: 40
+Verschiebt einen Teil Gebäudewand von maximal 2 MTP m² in eine Richtung oder öffnet einen Eingang von der Größe einer Tür, an der gewünschten Stelle indem die Umgebende Wand zur Seite geschoben wird. Der Zaubernde darf sich maximal MTP/2 Meter von der Mauer entfernt befinden von der er einen Teil verschieben möchte.
+	Dauer: 40
+	Kosten: 6
+	Vertiefungskosten: 3/4
+ 
+Pfeiler der Schwere E *
+Voraussetzungen:
+	Erde
+	MG: 40
+	WK: 58
+	IN: 28
+	KO: 44
+	LV: 5
+Der Zauber erschafft eine Anzahl großer Steinerner Pfeiler. In dem von den Pfeilern eingeschlossene Gebiet herrscht eine vielfache Schwerkraft solange die Pfeiler aktiv sind, sodass es anderen Wesen schwer fällt sich zu bewegen oder sogar zu fliegen.
+Die Anzahl der erschaffenen Pfeiler entspricht der Anzahl Ebenen die der Zaubernde beherrscht. Die Pfeiler wachsen in Gleichmäßigen Abständen auf einer Kreisförmigen Grundfläche. So entsteht bei vier Pfeilern beispielsweise eine quadratische Grundfläche. Der Durchmesser des Kreises beträgt 2 MTP Meter. Die Pfeiler sind 2 MTP Meter hoch und haben einen Durchmesser von MTP/6 Metern. Die Stelle an der die Pfeiler erwachsen muss so erwählt werden, dass der Zaubernde einen der Pfeiler von außen mit der Hand, oder etwas Ähnlichem, berühren kann.
+Alle im inneren der Pfeiler, bis zu Höhe der Pfeiler, werden von der erhöhten Erdanziehung zu Boden gedrückt. Um dem Einfluss des Zaubers zu widerstehen muss zu Beginn jeder Kampfrunde eine Probe auf Köperkraft (KK) gemacht werden. Für fliegende Wesen ist die Probe um 10 erschwert. Scheitert die Probe wird derjenige zu Boden gedrückt. Fliegende Wesen erleiden dadurch einen Punkt Schaden pro Meter den sie in die Tiefe stürzen. 
+Auf den Boden gedrückte Wesen haben den doppelten Zeitaufwand für physische Aktionen, Die Bewegungsreichweite ist auf ein Drittel reduziert und Zauber haben 50% mehr Zeitaufwand.
+Zusätzlich fällt eine Konstitutionsprobe für alle im Geiet der Pfeiler an. Wer die Konstitutionsprobe (KO) nicht besteht erleidet 3 Punkte Schaden und Manaverlust. Wird die Probe verpatzt muss die derzeitige Gestalt zugunsten der wahren Gestalt aufgegeben werden. Alle Verwandlungen werden bei misslungener Körperkraft (KK)-/ oder Konstitutionsprobe (KO) um 10 erschwert.
+Die Pfeiler bleiben auch über die Dauer des Zaubers hinaus bestehen und können von einem Erddschinn mit auf ein Viertel verringerten Kosten wieder aktiviert werden. 
+Um die Pfeiler aktiv zu halten bedarf es eines Einsatzes von 19 ZWZ, ohne Übergangszeit, und 7 MP.
+	Dauer: 96/19
+	Kosten: 46/7
+
+
+Pfeiler der Schwere II E *
+Voraussetzungen:
+	Erde
+	MG: 48
+	WK: 66
+	IN: 34
+	KO: 52
+	KK: 44
+	LV: 7
+Der Zauber erschafft eine Anzahl großer Steinerner Pfeiler. In dem von den Pfeilern eingeschlossene Gebiet herrscht eine vielfache Schwerkraft solange die Pfeiler aktiv sind, sodass es anderen Wesen schwer fällt sich zu bewegen oder sogar zu fliegen.
+Die Anzahl der erschaffenen Pfeiler entspricht der Anzahl Ebenen die der Zaubernde beherrscht plus eins. Die Pfeiler wachsen in Gleichmäßigen Abständen auf einer Kreisförmigen Grundfläche. So entsteht bei vier Pfeilern beispielsweise eine quadratische Grundfläche. Der Durchmesser des Kreises beträgt 3 MTP Meter. Die Pfeiler sind 2 MTP Meter hoch und haben einen Durchmesser von MTP/6 Metern. Die Stelle an der die Pfeiler erwachsen muss so erwählt werden, dass der Zaubernde einen der Pfeiler von außen mit der Hand, oder etwas Ähnlichem, berühren kann.
+Alle im inneren der Pfeiler, bis zu Höhe der Pfeiler, werden von der erhöhten Erdanziehung zu Boden gedrückt. Um dem Einfluss des Zaubers zu widerstehen muss zu Beginn jeder Kampfrunde eine Körperkraftprobe (KK) gemacht werden. Für fliegende Wesen ist die Probe um 15 erschwert. Scheitert die Probe wird derjenige zu Boden gedrückt. Fliegende Wesen erleiden dadurch einen Punkt Schaden pro Meter den sie in die Tiefe stürzen. Auf den Boden gedrückte Wesen haben einen doppelten Zeitaufwand für physische Aktionen, Ausweichen ist unmöglich. Die Bewegungsreichweite ist auf ein Viertel reduziert, Zauber haben 50% mehr Zeitaufwand.
+Zusätzlich fällt eine Konstitutionsprobe für alle im Geiet der Pfeiler an. Wer die Konstitutionsprobe (KO) nicht besteht erleidet 4 Punkte Schaden und Manaverlust. Wird die Probe verpatzt muss die derzeitige Gestalt zugunsten der wahren Gestalt aufgegeben werden. Alle Verwandlungen werden pro misslungener Körperkraft (KK)-/ oder Konstitutionsprobe (KO) um 10 erschwert.
+Die Pfeiler bleiben auch über die Dauer des Zaubers hinaus bestehen und können von einem Erddschinn mit auf ein Viertel verringerten Kosten wieder aktiviert werden. 
+Um den Zauber aufrecht zu halten bedarf es eines Einsatzes von 16 ZWZ, ohne Übergangszeit, und 6 MP.
+	Dauer: 86/16
+	Kosten: 38/6
+	Vertiefungskosten: 4/5
+
+ 
+Pfeilerentladung E
+Voraussetzungen:
+	Erde
+	Aktive Pfeiler der Schwere
+	MG: 49
+	WK: 42
+	IN: 42
+	LV: 3
+Der Zauber Zapft die Energien der Erde an um eine magische Entladung durch die Pfeiler der Schwere zu senden.
+Ein energetischer Schlag ganz ähnlich einer elektrischen Entladung durchführt alle im inneren des durch die Pfeiler eingegrenzten Gebietes.
+Der dadurch verursachte Schaden ist abhängig von der Anzahl der Pfeiler und der magischen Kraft des Zaubernden sowie seines Einflusses auf die Energien der Erde. Der Schaden liegt bei MTP+Anzahl Pfeiler*(1+(IN)/20).
+	Dauer: 62
+	Kosten: 30
+
+
+ 
+Stabilisieren Geist e
+Voraussetzungen:
+	Erde
+	MG: 34
+	WK: 29
+IN: 26
+	KL: 28
+Schützt das Ziel des Zaubers vor schädlicher Einflussnahme auf dessen Geist.
+Effekte die die Attribute MG, WK, KL, IN, MR, ERF und MUT beeinträchtigen werden in ihrer Wirkung halbiert.
+Der Zauber kann auf ein Ziel gewirkt werden, dass der Zaubernde sehen kann und das nicht weiter als MTP Meter weit entfernt ist. Der Zaubernde selbst kann auch Ziel des Zaubers sein. Der Zauber kann auf maximal MR/25 Ziele gleichzeitig wirken. Wird der Zauber auf ein neues Ziel gewirkt, wird das Ziel, dass bereits am längsten von dem Zauber betroffen ist aus der Wirkung des Zaubers entlassen.
+Der Zauber wirkt, wenn er nicht vorher aufgelöst wird, für MTP/4 Kampfrunden. 
+	Dauer: 17
+	Kosten: 4
+
+
+Stabilisieren Geist II e
+Voraussetzungen:
+	Erde
+	MG: 45
+	WK: 36
+	MR: 38
+IN: 32
+	KL: 40
+	LV: 3
+Erhöht die maximale Anzahl von Zielen auf MR/15 und die Wirkungsdauer des Zaubers auf MTP/3 Kampfrunden. 
+	Dauer: 14
+	Kosten: 3
+ 
+Stabilisieren Physis E
+Voraussetzungen:
+	Erde
+	MG: 22
+	MR: 39
+	KO: 44
+Das Ziel des Zaubers wird durch eine magische Verbindung am Boden festgehalten und kann nur aus einer Veranlassung von der Stelle bewegt werden.
+Der Zauber kann auf ein Ziel gewirkt werden, dass der Zaubernde sehen kann und das nicht weiter als MTP Meter weit entfernt ist. Der Zaubernde selbst kann auch Ziel des Zaubers sein. Der Zauber kann auf maximal MR/25 Ziele gleichzeitig wirken. Wird der Zauber auf ein neues Ziel gewirkt, wird das Ziel, dass bereits am längsten von dem Zauber betroffen ist aus der Wirkung des Zaubers entlassen.
+Der Zauber wirkt, wenn er nicht vorher aufgelöst wird, für MTP/4 Kampfrunden. 
+	Dauer: 13
+	Kosten: 4
+
+
+Stabilisieren Physis II E
+Voraussetzungen:
+	Erde
+	MG: 29
+	MR: 46
+	KO: 56
+	LV: 3
+Erhöht die maximale Anzahl von Zielen auf MR/15 und die Wirkungsdauer des Zaubers auf MTP/3 Kampfrunden. 
+	Dauer: 11
+	Kosten: 3
+
+
+ 
+Stalaktit / Stalagmit E
+Voraussetzungen:
+	Erde
+	MG: 25
+	ERF: 24
+Aus dem Boden oder der Decke im Umkreis von MTP Metern wächst in einer Runde ein Stalagmit beziehungsweise ein Stalaktit mit einem Durchmesser von MTP/4 und einer Länge von MTP/2. Sollte jemand während des Wachsens, nicht schnell genug von der Stelle an der der Steinzapfen wächst wegkommen, wächst er in den Stalaktit/ Stalagmit ein und erleidet LP/5 Punkte Schaden, dazu sollte der Grundwert genommen werden, wenn der Getroffene noch über die Hälfte seiner LP hat. Wenn es weniger sind, sollte der augenblickliche Wert genommen werden. Um den Zapfen zu entkommen ist es lediglich notwendig sich in seiner nächsten Aktion aus dem Wachstumsbereich des Steinzapfens zu bewegen. Sollte jemand komplett vom Zapfen eingeschlossen werden wird der Doppelte Schaden zugefügt und der Eingeschlossene ist in den meisten Fällen unfähig sich aus eigener Kraft zu befreien. 
+	Dauer: 21
+	Kosten: 7
+ 
+Steinpanzer E
+Voraussetzungen:
+	Erde
+	MG: 33
+	WK:28
+	MR: 26
+	KO: 46
+	LV: 3	
+Der Zaubernde hüllt sich in einen Panzer aus Stein. 
+Dieser schützt ihn vor Angriffen indem der Schaden jeden Treffers um 3 reduziert wird. Der Schaden von substanzlosen Angriffen wie Feuerball oder Klingen des Windes, nicht aber Schlag, wird sogar um 4 reduziert. Der Schaden von Rüttler wird nicht reduziert. 
+Die Verteidigung kann kommt nicht nur eingeschränkt zur Geltung wenn wiederholt die gleiche Stelle getroffen wird. Um dies zu erreichen wird die zum treffen erforderliche AT oder ZI Probe jedoch um 20 erschwert. 
+Im Gegenzug zu der starken Verteidigung sinken INI und  AU, nicht aber ZWZ, um 10 und die Bewegungsreichweite wird halbiert. 
+Der Zauber kann zusätzlich zu anderen Schutzmaßnahmen wie beispielsweise Lederhaut oder Steinhaut verwendet werden.
+Es erfordert 7 ZWZ und 3MP den Zauber aufrecht zu halten.
+Dauer: 48/ 7
+Kosten:16/ 3
+
+
+Steinpanzer II E
+Voraussetzungen:
+	Erde
+	MG: 39
+	WK: 33
+	MR: 32
+	KO: 51
+	LV: 5	
+Durch die vertiefte Beschäftigung mit dem Zauber kann ein gleichzeitig dickerer, also Stabilerer und flexiblerer Panzer erstellt werden.
+Dadurch erhöht sich der Schutz vor Angriffen auf 4 bzw. 5, substanzlose angriffe, reduzierten Schaden während INI und  AU, nur noch um 7 reduziert werden und die Bewegungsreichweite nur noch um ein Drittel reduziert wird. 
+Es erfordert 6 ZWZ und 3MP den Zauber aufrecht zu halten.
+Dauer: 41/ 6
+Kosten:13/ 3
+Vertiefungskosten: 4/6
+ 
+Steinwurf
+Voraussetzungen:
+	Erde
+	MG: 6
+	ERF: 7	
+Erschafft einen gewöhnlichen Stein, der ganz normal geworfen werden kann, bei einem Treffer richtet der doch unangenehm spitze Stein ein Schaden von TP an. Das Werfen gilt als unabhängige Aktion, ab einer MG von 35 und einer WAH von 35 fällt keine Übergangszeit an.
+	Dauer: 3
+	Kosten: 1
+
+ 
+Tektonischer Quetscher E *
+Voraussetzungen:
+	Erde
+	MG: 37
+	WK: 55
+	ERF: 35
+	KK: 25
+	LV: 5
+Riesige Steinplatten mit einer Fläche von bis zu MTP/2 Metern Breite und MTP/3 Metern Höhe erheben sich, mit einem Abstand von etwa 3 Metern voneinander, aus dem Boden und bewegen sich schnell auf einander zu. Alles was dazwischen geraten ist wird gnadenlos Zerdrückt und erleidet 4*MTP Schaden. 
+Um den Wällen zu entkommen wird ein Ausweichenwurf mit einer Erschwernis abhängig von der Position des Ausweichenden benötigt. Befindet sich der Ausweichende etwa in der Mitte wird der Wurf um 30 erschwert, nahe am Rand hingegen nur mit 10. Es liegt im Ermessen des Spielleiters die genaue Erschwernis abhängig von der Position fest zu legen. Um der Quetschwirkung durch eine Verwandlung zu entgehen muss für die Verwandlung eine Erschwernis von 20 in Kauf nehmen, dies kann als defensive Aktion geschehen. Zusätzlich muss derjenige der sich verwandelt natürlich eine geeignete Stelle innerhalb der Steinplatten finden die ihm einen hinreichend großen Hohlraum bietet. Das sollte durch eine eventuell sogar erschwerte ausweichenprobe dargestellt werden.
+Der Zaubernde muss die Stelle an der sich der Tektonische Quetscher erhebt gut sehen können. Der dem Zaubernden am nächsten liegende Rand der Quetsche darf maximal 2MTP Meter vom Zaubernden entfernt sein.
+Nachdem die Steinwälle sich geschlossen haben kippen sie nach außen hin um. Sollte sich ungeschickter Weise jemand unter den fallenden Steinplatten befinden erleidet derjenige 2MTP Schaden. Ausweichen ist bis zu 15 Punkte erschwert.
+	Dauer: 120
+	Kosten: 45
+
+
+Tektonischer Quetscher II E *
+Voraussetzungen:
+	Erde
+	MG: 45
+	WK: 62
+	ERF: 43
+	KK: 33
+	LV: 7
+Riesige Steinplatten mit einer Fläche von bis zu MTP/2 Metern Breite und MTP/2 Metern Höhe erheben sich ähnlich einer Bärenfalle aus dem Boden und bewegen sich schnell auf einander zu. 
+Wesen die sich auf der Platte befinden oder auf dem Weg von den Platten ergriffen werden, werden auf die andere Platte zu mitgerissen. Um den recht schnellen Wällen zu entkommen wird ein Ausweichenwurf mit einer Erschwernis abhängig von der Position des Ausweichenden benötigt. Befindet sich der Ausweichende etwa in der Mitte wird der Wurf um 35 erschwert, nahe am Rand hingegen nur mit 15. Es liegt im Ermessen des Spielleiters die genaue Erschwernis abhängig von der Position fest zu legen. Kleine Gestalten haben es durch die sie auf die Platte pressende Beschleunigung besonders schwer von den Platten zu flüchten.
+Um der Quetschwirkung durch eine Verwandlung zu entgehen muss für die Verwandlung eine Erschwernis von 20 in Kauf nehmen, dies kann als defensive Aktion geschehen. Zusätzlich muss derjenige der sich verwandelt natürlich eine geeignete Stelle innerhalb der Steinplatten finden die ihm einen hinreichend großen Hohlraum bietet. Das sollte durch eine um mindestens 10 erschwerte Ausweichenprobe dargestellt werden.
+Alles was zwischen die Platten geraten ist wird gnadenlos Zerdrückt und erleidet 4*MTP Schaden. 
+Der Zaubernde muss die Stelle an der sich der Tektonische Quetscher erhebt gut sehen können. Der dem Zaubernden am nächsten liegende Rand der Quetsche darf maximal 2MTP Meter vom Zaubernden entfernt sein.
+Nachdem die Steinwälle sich geschlossen haben kippen sie nach außen hin um. Sollte sich ungeschickter Weise jemand unter den fallenden Steinplatten befinden erleidet derjenige 2MTP Schaden. Ausweichen ist bis zu 15 Punkte erschwert.
+	Dauer: 92
+	Kosten: 41
+ 
+
+Tunneln E
+Voraussetzungen:
+	Erde
+	KO:24
+IN: 28
+	WK: 34
+Tunneln erschafft einen stabilen, unterirdischen Tunnel mit einem Durchmesser von MTP/12 Metern und einer Länge von MTP/2 Metern.
+Dauer: 38
+Kosten: 7 
+ 
+Umschließen
+Voraussetzungen:
+	Erde
+	MG: 26
+	IN: 39
+	ERF: 31
+	WAH: 18
+	LV: 3
+Durch den Zauber wird ein verbündetes Wesen von starken Steinplatten umschlossen. Dieses verliert fast seine gesamte Mobilität ist jedoch auch gut vor Angriffen geschützt.
+Das Ziel des Zaubers darf maximal MTP Meter vom Zaubernden entfernt sein und muss sich direkt auf dem Boden befinden. Der Zaubernde selbst kann auch Ziel des Zaubers sein.
+Der Zauber lässt 5 Steinplatten unterschiedlicher Höhe um das Ziel des Zaubers wachsen. Die blütenähnlich angeordneten, teilweise überlappenden, schrägstehenden Platten Beschützen ihren Inhalt aus allen Richtungen außer einer Öffnung die durch die kürzesten Platten gelassen wird. Die Öffnung zu Treffe ist aus einer geeigneten Richtung mit einer Erschwernis von bis zu 10 behaftet.
+Jede der Platten besitzt eine Stabilität von 6 MTP Punkten.
+Die Platten erleiden durch Rüttler doppelten Schaden.
+	Dauer: 38
+	Kosten: 8
+
+
+Umschließen II
+Voraussetzungen:
+	Erde
+	MG: 36
+	IN: 49
+	ERF: 39
+	WAH: 23
+	LV: 3
+Die vertiefte Beschäftigung mit dem Zauber führt zu einer auf 8 MTP Punkte erhöhten Stabilität der Platten. Durch gezielte Strukturierung der Platten kann der durch Rüttler erzielte Schaden auf eineinhalbfachen Schaden reduziert werden.
+	Dauer: 33
+	Kosten: 7
+	Vertiefungskosten: 3/4
+ 
+Versteinern *
+Voraussetzungen:
+	Erde
+	MG: 56
+	ERF: 58
+	WK: 60
+	IN: 47
+	LV: 5
+Versteinern ist ein komplexer Zauber der sein Opfer zu Stein erstarren lässt. 
+Die Versteinerung kann nur durch den Zauber Versteinerung heilen oder bestimmte, seltene magische Rezepturen geheilt werden. 
+Der Zauber kann nur dann wirken wenn (MG+2WK)/3 größer ist als die MR des Ziels. Zusätzlich zu der normalen Zauberprobe ist der Zauber erschwert, indem dem Ziel des Zaubers eine freie Magieparade zusteht. 
+Der Zauber kann vorbereitet und bis zu fünf Kampfrunden kontrolliert werden bis er eingesetzt wird. Solange Versteinern als vorbereiteter Zauber wartet kann kein anderer Zauber gewirkt werden. Der Zauber kann seine Wirkung nur bei Kontakt entfalten.
+	Dauer: 96
+	Kosten: 38
+ 
+Versteinerung Heilen
+Voraussetzungen:
+	Element: Heil, Erde
+MG:	25	30	40	50	60
+KL:	32	36	39	42	44
+IN:	22	26	30	34	39
+ERF:	30	36	42	48	53
+LV:	0	0	3	5	7
+Heilt den Zustand Versteinerung. Die Schwierigkeit der Heilung ist abhängig wie lange das Ziel schon versteinert ist. Ist der zu Heilende weniger als eine Stunde versteinert wird MG:25 und ERF:30 benötigt um den Zustand der Versteinerung aufheben zu können. Ist der Versteinerte seit bis zu einem Tag versteinert wird MG: 30 und ERF: 30 benötigt. Dauert der Zustand seit bis zu einem Monat an ist die Voraussetzung MG: 40 und ERF: 40. Dauert der Zustand seit bis zu einem Jahr an wird MG: 50 und ERF: 50 benötigt, alles was länger als ein Jahr versteinert ist kann nur mit MG: 60 und ERF: 60 aus der Versteinerung befreit werden. Wenn die Heilung in eine nicht beherrschte Zeitstufe trotzdem durchgeführt werden soll, wird die MAT Probe um 20 pro Zeitstufe erschwert. Der geheilte ist nicht sofort wieder voll einsatzfähig, sondern der Zauber zieht sich langsam zurück. Abhängig davon wie lange das Ziel versteinert war kann dies von wenigen Minuten bis zu einer Woche in Anspruch nehmen.
+Dauer:	40	55	70	85	100
+Kosten:	20	30	40	45	50
+
+ 
+Wald der Steine E *
+Voraussetzungen:
+	Erde
+	MG: 44
+	WK: 64
+	IN: 37
+	ERF: 40
+	KK: 34
+	LV: 5
+Durch den Zauber wachsen viele hohe Felssäulen aus dem Boden. Die Felssäulen behindern das Sichtfeld und die Bewegung. Damit stellen sie einen Strategischen Nachteil für Distanzkämpfer dar. Durch das geschickte Platzieren von Fallen, wie es von ein paar anderen Elementen beherrscht wird, und das gezielte umstürzen der Säulen kann sich der Felswald auch für Nahkämpfer in eine Todesfalle verwandeln.
+Durch den Zauber wachsen in einem Gebiet mit einem Durchmesser von 6 MTP Metern etwa 6 MTP Felssäulen mit einem Durchmesser um die MTP/4 Meter und einer Höhe zwischen MTP und 2 MTP Metern. Damit sin etwa 10% der durch den Zauber beeinflussten Fläche mit zufällig verteilten Felssäulen bedeckt.
+Das Umstürzen einer Felssäule erfordert, dass sich der Zaubernde nicht weiter als MTP/3 Meter von der betreffenden Säule entfernt befindet und 8 ZWZ und 2 MP aufwendet. Die Richtung in die die Säule fällt kann frei gewählt werden.
+Wer von einer Felssäule getroffen wird erleidet 3 MTP Punkte Schaden. Dieser kann durch eine freie KO-Probe um MTP reduziert werden.
+	Dauer: 111/ 8
+	Kosten: 59/ 2
+
+

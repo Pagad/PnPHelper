@@ -1,0 +1,923 @@
+Wasser
+Wasserdschinn haben sich, in unserer Welt, im Wasser eingenistet. Die Losgelöstheit die sie dort empfinden kommt ihren Wahrnehmungen vom Anderen Ort am nächsten. Die besondere Eigenschaft die sie mitbringen die dafür notwendig ist sich langfristig im Wasser aufzuhalten, ist das sie fast keinen Feuer-Anteil in sich haben, den sonst fast alle Wesen von Anderen Ort in sich haben.
+Während ihrer Aufenthalte in unseren Gewässern haben sie den Kampf ums Leben zwischen all den vielen verschiedenen Lebewesen besonders intensiv beobachten können. Sie haben aus ihren Beobachtungen nicht nur eine Reihe von Techniken entwickelt um ihr eigenes Leben zu schützen, sondern auch ein Bewusstsein dafür entwickelt wie rücksichtslos das Leben auf unserer Welt ist. Diese Kenntnis wenden sie in Form verschiedener Zauber besonders intensiv nachstellen und für sich selbst nutzen. Ganz intuitiv haben sie sich diesen harten Bedingungen außerdem entgegengestellt indem sie symbiontische Beziehungen mit anderen Wesen eingehen die sie mit ihrer Magie beschwören.
+Wesen die als Symbionten mit den Wasserdschinn leben, schaffen es einen winzig kleinen Teil ihrer Substanz in der Substanz des Wasserdschinns unterzubringen. Dieser Funke und der Mitbezug zur Beschwörung reicht den Wasserdschinn dann um die Wesen zu manifestieren. Diese Technik funktioniert allerdings nur mit sehr kleinen Wesen. Diese passiven Symbionten bestehen meist nur aus Doktorfischen und Substanzhaien.
+Wasserdschinn verrichten ihre Aufgaben im und unter Wasser, sie wurden daher fast ausschließlich dort genutzt wo das Wasser, in großen Mengen vorkam und auch wesentlicher Lebensinhalt war wie beispielsweise bei den Wikingern oder den Atlantern. Ihre Aufgaben bestanden dann häufig entweder darin Schiffe zu beschleunigen und zu sichern oder unter Wasser Tätigkeiten zu verrichten die über Land nicht durchführbar sind. Die atlantischen Magier haben beispielsweise auch unter Wasser stadtgleiche Strukturen errichten lassen in denen einige von ihnen sogar zeitweise lebten. Ohne die Unterstützung von Wasserdschinn wäre ein solches Vorgehen undenkbar.
+An Land jedoch sind Wasserdschinn ein bisschen aufgeschmissen. Für die meisten von ihnen reicht die Luftfeuchtigkeit um keine Nachteile bei physischen Aktionen zu erleiden, sobald sie Zaubern sind sie jedoch von flüssigem Wasser in ausreichender Menge abhängig. Ist dieses nicht vorhanden können sie zwar die notwendige Flüssigkeit aus der Luft entziehen, erleiden aber Nachteile bei der für die Zauber notwendigen Dauer und Kosten. Ist nur wenig Wasser vorhanden erhöhen sich bei großes Zaubern mit Kosten über 12 MP die Dauer und die Kosten um 25%. Muss das gesamte Wasser aus der Luft gewonnen werden erhöhen sich Dauer und Kosten kleiner Zauber um 50%, große Zauber brauchen sogar den Doppelten Einsatz. Wenn die Luft auch noch besonders trocken ist verdoppeln sich auch bei kleinen Zaubern Dauer und Kosten, bei großen Zaubern verdreifachen sie sich sogar.
+Bei trockener Luft und oder großer Hitze leiden Wasserdschinn. Und zwar erleiden sie zwischen 3 und 10 Punkten Schaden pro Stunde.
+
+
+Aquafeld
+Voraussetzungen:
+	Wasser
+	MG: 29
+	KL: 32
+Der Zauber wird an Land gewirkt und erschafft einen wasserähnlichen Bereich.
+Der Kugelförmige Bereich um den Zaubernden herum hat keine Auswirkungen auf die Kosten von Zaubern, und kann kein Wasser ersetzten. Er simuliert lediglich Wasser um lässt so die Zauber, Seepocken, Doktorfisch, Fischhaut und Wasser des Lebens wirken als ob das Feld tatsächlich aus Wasser wäre.
+Das Feld hat einen Radius von 2 MTP Metern um den Zaubernden.
+Das Aquafeld kann von einem Wesen mit mindestens 30 MG und IN durch eine erfolgreiche WK-Probe zerstört werden. Die WK-Probe kann nur einmal pro Kampfrunde durchgeführt werden und erfordert 10 ZWZ. Wurde das Aquafeld zerstört kann es nicht in der Folgerunde wiederhergestellt werden, sondern erst in der darauffolgenden.
+Der Zauber kann für 4 ZWZ, ohne Übergangszeit, und 1 MP beliebig lange aufrecht gehalten werden.
+Der Zauber kann an Land ohne Erschwernis gewirkt werden.
+	Dauer: 18/4
+	Kosten: 3/1
+ 
+Auftrieb
+Voraussetzungen:
+	Wasser
+	MG: 20
+	WK: 21
+	MR: 16
+Der Zauber annulliert den Zauber Sog der tiefe.
+Außerdem wird das Ziel des Zaubers für MTP Minuten immun gegen den Zauber Sog der Tiefe.
+Das Ziel des Zaubers muss sich innerhalb von MTP Metern um den Zaubernden befinden.
+	Dauer: 4
+	Kosten: 1 
+
+Aura der salzigen Luft
+Voraussetzungen:
+	Wasser
+	MG: 32
+	MR: 26
+Durch den Zauber werden alle in einem Radius von MTP/3 Metern um den Zaubernden langsam ausgetrocknet. Dadurch verlieren alle MTP/6 Lebenspunkte pro Kampfrunde. Durch austrocknen verlorene Lebenspunkte können durch die gleiche Anzahl an Manapunkten kompensiert werden. Es müssen also jede Kampfrunde in Summe MTP/6 LP und MP abgegeben werden. Der Zaubernde selbst ist von diesem Effekt nicht betroffen. Auf andere Wasserdschinn wirkt er nur halb.
+Der Zauber kann beliebig lange aufrecht gehalten werden.
+Der Zauber wird durch die Menge des vorhandenen Wassers nicht beeinflusst.
+	Dauer:	 18/4
+	Kosten: 7/2
+
+ 
+Aura der salzigen Luft II
+Voraussetzungen:
+	Wasser
+	MG: 38
+	MR: 32
+	ERF: 29
+Durch den Zauber werden alle in einem Radius von MTP/3 Metern um den Zaubernden langsam ausgetrocknet. Dadurch verlieren alle MTP/5 Lebenspunkte pro Kampfrunde. Durch austrocknen verlorene Lebenspunkte können durch die gleiche Anzahl an Manapunkten kompensiert werden. Es müssen also jede Kampfrunde in Summe MTP/6 LP und MP abgegeben werden. Der Zaubernde selbst ist von diesem Effekt nicht betroffen. Auf andere Wasserdschinn wirkt er nur halb.
+Der Zauber kann beliebig lange aufrecht gehalten werden.
+Der Zauber wird durch die Menge des vorhandenen Wassers nicht beeinflusst.
+	Dauer:	 16/4
+	Kosten: 6/2
+Vertiefungskosten: 2/3 
+
+Ausladender Peitschenhieb
+Voraussetzungen:
+	Wasser
+	MG: 26
+	WK: 22
+	ERF: 29 
+	WAH: 23
+Der Zauber erschafft eine Wasserpeitsche die größer als üblich ist. Diese führt einen ausladenden, geschwungenen Hieb durch der alle auf seiner Bahn verletzt.
+Es wird eine Halbkreisförmige Hiebbewegung von der Wasserpeitsche durchgeführt. Der Mittelpunkt dieses Hiebes liegt bis zu MTP/4 Meter außerhalb der verwendeten Wasserquelle. Der erste der von dem Hieb getroffen wird erleidet MTP Punkte Schaden, alle weiteren erhalten MTP/2 Punkte Schaden.
+	Dauer: 17
+	Kosten: 12
+
+
+Blut im Wasser
+Voraussetzungen:
+Wasser
+	MG: 44
+	WK: 38
+	KL: 38
+	IN: 48
+	ERF: 40
+LV: 3
+Der Zauber schafft eine magische Existenz. Diese lebt parasitär vom Ziel des Zaubers.
+Der Zauber kann jederzeit angeheftet werden, aktiviert sich aber erst, wenn er sich in einem Überlebenskampf-Feld befindet.
+Jedes Mal, wenn das Ziel des Zaubers Schaden erhält nimmt sich die Existenz 10% des zugefügten Schadens für sich selbst. Diese genommenen Lebenspunkte werden dem Ziel zusätzlich abgezogen und dem magischen Wesen doppelt hinzugefügt.
+Besteht kein Überlebenskampf, kann die Existenz trotzdem 10% des zugefügten Schadens für sich selbst nutzen. Diese Punkte werden jedoch nicht als zusätzlicher Schaden zugefügt, noch verdoppelt. Eine Manifestation des Wesens ist ausschließlich in einem Überlebenskampf-Feld möglich.
+Ist der Wirt des Haies an Land kann der Hai nur eineinhalbfach den durch ihn zugefügten Schaden zu seinen Lebenspunkten hinzufügen. Der Hai fliegt dann.
+Bei seiner Erschaffung hat die Existenz einen Lebenspunkt (LP).
+Das magische Wesen kann sich manifestieren sobald es 10 Lebenspunkte (LP) hat. Es nimmt zumeist die Form eines, kleinen, Haies an. Ist das Wesen manifestiert kann es durch Schaden auf bis zu 1 LP reduziert werden. Es verliert seine Gestalt, wenn seine Lebenspunkte unter 5 fallen.
+Manifestiert greift der Hai Wesen in seiner Nähe an, jedoch nie den Zaubernden oder seinen Wirt. Der Hai hat einen Angriff mit 50 AT und 5 TP. Ab 25 Lebenspunkte (LP) steigt der Angriff des Haies auf 60 AT und 8 TP an.
+Wenn der Überlebenskampf endet zieht sich der Hai wieder in einen überdauernden zustand zurück und löst seine manifestierte Form auf. Kommt der Wirt erneut in einen aktiven Überlebenskampf-Zauber wird der Hai wieder aktiv.
+Der Hai löst sich von seinem Wirt, wenn dieser weniger als 10% seiner ursprünglichen Lebenspunkte hat, stirbt oder an den Anderen Ort zurückkehrt. Wenn sich der Hai löst begibt er sich an den Anderen Ort.
+Der Zauber kann auf maximal MTP/2 Meter gewirkt werden.
+Der Zauber ist nicht von der Wasserversorgung abhängig.
+Ist der Zaubernde mit der Gabe Haifischgebiss gesegnet ist der erste Hai den er beschwört nachdem er ein ganzes Vielfaches von 1000 LP an entlassenen Haien gesammelt hat ein Weißer Hai. Weiße Haie entstehen mit 50 LP, sie nehmen 50% des zugefügten Schadens selbst und bekommen diesen doppelt als Lebenspunkte. Sie haben 80 AT und 18 TP. Wenn sie mehr als 150 LP besitzen erhalten sie einen zweiten Angriff. Beide Angriffe werden nun mit 90 AT und 23 TP durchgeführt.
+Dauer: 32	
+Kosten: 8
+
+ 
+Blut im Wasser II
+Voraussetzungen:
+Wasser
+	MG: 56
+	WK: 54
+	KL: 44
+	IN: 58
+	ERF: 46
+LV: 5
+Der Zauber schafft eine magische Existenz. Diese lebt parasitär vom Ziel des Zaubers.
+Der Zauber kann jederzeit angeheftet werden, aktiviert sich aber erst, wenn er sich in einem Überlebenskampf-Feld befindet.
+Jedes Mal, wenn das Ziel des Zaubers Schaden erhält nimmt sich die Existenz 20% des zugefügten Schadens für sich selbst. Er nimmt immer mindestens einen Lebenspunkt. Diese genommenen Lebenspunkte werden dem Ziel zusätzlich abgezogen und dem magischen Wesen doppelt hinzugefügt. 
+Besteht kein Überlebenskampf, kann die Existenz trotzdem 10% des zugefügten Schadens für sich selbst nutzen. Diese Punkte werden jedoch nicht als zusätzlicher Schaden zugefügt, noch verdoppelt. Eine Manifestation des Wesens ist ausschließlich in einem Überlebenskampf-Feld möglich.
+Ist der Wirt des Haies an Land kann der Hai nur eineinhalbfach den durch ihn zugefügten Schaden zu seinen Lebenspunkten hinzufügen. Der Hai fliegt dann.
+Bei seiner Erschaffung hat die Existenz einen Lebenspunkt (LP).
+Das magische Wesen kann sich manifestieren sobald es 10 Lebenspunkte (LP) hat. Es nimmt zumeist die Form eines, kleinen, Haies an. Ist das Wesen manifestiert kann es durch Schaden auf bis zu 1 LP reduziert werden. Es verliert seine Gestalt, wenn seine Lebenspunkte unter 5 fallen.
+Manifestiert greift der Hai Wesen in seiner Nähe an, jedoch nie den Zaubernden oder seinen Wirt. Der Hai hat einen Angriff mit 50 AT und 6 TP. Ab 25 Lebenspunkte (LP) steigt der Angriff des Haies auf 60 AT und 9 TP an. Ab 40 Lebenspunkten hat der Hai 70 AT und 12 TP.
+Wenn der Überlebenskampf endet zieht sich der Hai wieder in einen überdauernden zustand zurück und löst seine manifestierte Form auf. Kommt der Wirt erneut in einen aktiven Überlebenskampf-Zauber wird der Hai wieder aktiv.
+Der Hai löst sich von seinem Wirt, wenn dieser weniger als 5% seiner ursprünglichen Lebenspunkte hat, weniger als 5 Lebenspunkte hat, stirbt oder an den Anderen Ort zurückkehrt. Wenn sich der Hai löst begibt er sich an den Anderen Ort.
+Der Zauber kann auf maximal MTP Meter gewirkt werden. Der Zauber kann auf maximal MTP/2 Meter gewirkt werden.
+Der Zauber ist nicht von der Wasserversorgung abhängig. 
+Ist der Zaubernde mit der Gabe Haifischgebiss gesegnet ist der erste Hai den er beschwört nachdem er ein ganzes Vielfaches von 1000 LP an entlassenen Haien gesammelt hat ein Weißer Hai. Weiße Haie entstehen mit 50 LP, sie nehmen 50% des zugefügten Schadens selbst und bekommen diesen doppelt als Lebenspunkte. Sie haben 80 AT und 22 TP. Wenn sie mehr als 150 LP besitzen erhalten sie einen zweiten Angriff. Beide Angriffe werden nun mit 90 AT und 30 TP durchgeführt.
+Dauer: 29	
+Kosten: 7
+Vertiefungskosten: 4/5
+
+
+Blutige Wogen
+Voraussetzungen:
+	Wasser
+	Gabe: Haiverseuchte Gewässer
+	MG: 44 
+	WK: 43
+	IN: 38
+	MUT: 37
+Der Zauber erschafft eine große Welle die über dem Ziel des Zaubers zusammenschlägt. 
+Der von dem Zauber verursachte Schaden hängt von der Anzahl und Stärkt der durch ihn erschaffenen Haie am Anderen Ort ab. Er beläuft sich auf ∑▒〖(LP_(Entlassene Haie))/100+Anz._(Weiße Haie)  〗.
+Das Ziel der Welle kann maximal 2 MTP Meter vom Zaubernden entfernt sein.
+Befindet sich das Ziel des Zaubers an Land halbiert sich die Wirkung des Zaubers.
+	Dauer: 6
+	Kosten: 4
+
+ 
+Der Tropfen
+Voraussetzungen:
+	Wasser
+	MG: 22
+	WK: 24
+	ERF: 18
+Der Zauber sendet ein Geschoss aus Wasser los.
+Das Geschoss fliegt bis zu 40 Meter weit. Es ist eine Zielen-Probe notwendig um festzustellen ob das Geschoss sein Ziel trifft.
+Ein Treffer richtet MTP Punkte Schaden an plus einen weiteren Punkt Schaden für jeden anderen Tropfen der das Ziel in diesem Kampf bereits vorher getroffen hat. 
+	Dauer: 6
+	Kosten: 4
+
+
+Der Tropfen II
+Voraussetzungen:
+	Wasser
+	MG: 26
+	WK: 27
+	ERF: 23
+Der Zauber sendet ein Geschoss aus Wasser los.
+Das Geschoss fliegt bis zu 40 Meter weit. Es ist eine Zielen-Probe notwendig um festzustellen ob das Geschoss sein Ziel trifft.
+Ein Treffer richtet MTP Punkte Schaden an plus einen weiteren Punkt Schaden für jeden anderen Tropfen der das Ziel in diesem Kampf bereits vorher getroffen hat. Die zwischen zwei Tropfen auftretende ZÜZ beläuft sich nur auf 3 statt 4 ZWZ.
+Die zusätzlichen Kosten für den Zauber bei Wassermangel betragen nur die Hälfte des sonst üblichen. 
+	Dauer: 5
+	Kosten: 4
+	Vertiefungskosten: 4/6
+ 
+Doktorfisch
+Voraussetzungen:
+	Wasser
+	MG: 48
+	KL: 38
+	IN: 44
+	ERF: 32
+	LV: 3
+Der Zauber erschafft einen kleinen weißen Fisch mit einem roten Zeichen auf den Seiten. Der Fisch schwimmt umher und frisst durch Schaden verstreute Substanz. Diese verwendet er um die Teilnehmer des Kampfes zu heilen. Im Austausch für den geheilten Schaden nimmt sich der Doktorfisch einen Teil von der Magie des Geheilten.
+Der Doktorfisch kommt immer gleichzeitig mit dem Zaubernden zum Zug. Er kann maximal MTP Punkte oder 10% allen in der Kampfrunde zerstörter Substanz aufnehmen, je nachdem was der geringere Wert ist.
+Für jeden Punkt Substanz den der Doktorfisch aufsammelt kann er einen Punkt Leben heilen. Geheilt wird immer die Person die den meisten Schaden in dem von ihm erreichbaren Gebiet aufweist, unabhängig davon auf welcher Seite diese Person kämpft. 
+Für jeden wiederhergestellten Lebenspunkt nimmt sich der Doktorfisch einen MP des Geheilten. Die Hälfte der MP behält der Doktorfisch, die andere Hälfte bekommt der Zaubernde. Im Zweifel bekommt der Zaubernde mehr der Fisch kann sich maximal MTP/2 Meter von seiner aktuellen Position weit weg entfernen und sich maximal 2 MTP Meter weit vom Zaubernden entfernen.
+An Land muss der Doktorfisch fliegen, was seine Bewegungsreichweite (BR) halbiert und ihn jede Kampfrunde zwei der erlangten Manapunkte (MP) kostet.
+Doktorfische haben MTP Lebenspunkte. Sie werden von Feldzaubern nicht betroffen, sondern nur von gezielten Angriffen. Werden die Lebenspunkte des Doktorfisches auf null reduziert kehrt er vorzeitig an den Anderen Ort zurück, er kann dann nur ein Drittel des gesammelten Manas (MP) mitnehmen.
+Der Doktorfisch bleibt für MTP/3 Kampfrunden bestehen, dann kehrt er an den Anderen Ort zurück.
+Der Zauber ist nicht von der Wasserversorgung abhängig.
+Ist der Zaubernde mit der Gabe Fischfreund gesegnet ist der erste Doktorfisch den er beschwört nachdem er ein ganzes Vielfaches von 1000 MP an entlassenen Doktorfischen gesammelt hat ein Professorenfisch. Professorenfische können bis zu 50% der freigesetzten Substanz oder 3 MTP Lebenspunkte Substanz auffischen und verwenden. Sie nehmen 1,5 Manapunkte (MP) pro geheiltem Punkt Schaden und geben 2/3 davon an den Zaubernden ab. Sie haben die doppelte Bewegungsreichweite und können sich auch doppelt so weit vom Zaubernden entfernen. Außerdem können sie zwei Kampfrunden länger in unserer Welt überdauern als Doktorfische.
+	Dauer: 26
+	Kosten: 11 
+
+ 
+Doktorfischschwarm
+Voraussetzungen:
+	Wasser
+	MG: 62
+	WK: 44
+	KL: 46
+	IN: 58
+	ERF: 45
+	LV: 5
+Der Zauber erschafft MTP/4 Doktorfische.
+Der Zauber ist nicht von der Wasserversorgung abhängig.
+	Dauer: 65
+	Kosten: 28 
+
+Druckschlag
+Voraussetzungen:
+	Wasser
+	MG: 26
+	WK: 42
+	ERF: 31
+	IN: 36
+Der Zauber kann nur auf Ziele unter Wasser angewendet werden, und nur, wenn sich der Zaubernde in dem gleichen Gewässer befindet und das Ziel in grader Linie erreichen kann.
+Der Zauber zerdrückt das Ziel aus allen Richtungen. Lebenden Zielen wird so die Luft aus den Lungen gequetscht. Der Zauber benötigt keine Zielen-Probe (ZI) und richtet 2 MTP Punkte Schaden an.
+Das Ziel darf sich maximal 2 MTP Meter weit vom Zaubernden entfernt befinden.
+	Dauer: 11
+	Kosten: 8
+
+ 
+Druckschlag II
+Voraussetzungen:
+	Wasser
+	MG: 30
+	WK: 49
+	ERF: 35
+	IN: 44
+Der Zauber kann nur auf Ziele unter Wasser angewendet werden, und nur, wenn sich der Zaubernde in dem gleichen Gewässer befindet und das Ziel in grader Linie erreichen kann.
+Der Zauber zerdrückt das Ziel aus allen Richtungen. Lebenden Zielen wird so die Luft aus den Lungen gequetscht. Der Zauber benötigt keine Zielen-Probe (ZI) und richtet 2,5 MTP Punkte Schaden an.
+Das Ziel darf sich maximal 2,5 MTP Meter weit vom Zaubernden entfernt befinden.
+	Dauer: 11
+	Kosten: 8
+	Vertiefungskosten: 2/3 
+
+Fischhaut
+Voraussetzungen:
+	Wasser
+	MG: 34/ 10
+	ERF: 28/ 12 
+	GE: 36/ 24
+Durch den Zauber bekommt der Zaubernde eine glitsche Haut an der, Dinge leicht abgleiten.
+Dadurch ist es deutlich schwieriger den Zaubernden zu greifen. Außerdem besteht ein 10%ige Chance, das Geschosse an der Fischhaut abgleiten ohne ihren Effekt zu entfalten.
+Die Fischhaut wirkt nicht gegen den Zauber Feuerball.
+Die Fischhaut kann auch auf andere gewirkt werden die sich innerhalb von MTP/3 Metern um den Zaubernden befinden und die geringeren Anforderungen erfüllen. Wer den Zauber erhält ist für 5 AU geblendet da ihm die sich überstülpende Fischhaut die Sicht verdeckt.
+Der Zauber bleibt im Wasser für bis zu MTP Kampfrunden bestehen, an Land für bis zu MTP/3 Kampfrunden, bei großer Hitze trocknet die Fischhaut sogar noch schneller aus.
+Fischhaut ist nicht mit Seepocken vereinbar.
+	Dauer: 18
+	Kosten: 5 
+	
+Flutwelle
+	Wasser
+	MG: 44
+WK: 44
+	ERF: 36
+LV: 3
+Eine Flutwelle entsteht vor dem Zaubernden und rollt in die vom Zaubernden gewählte Richtung los. Die Welle begräbt alles was ihm im Weg steht unter sich, reißt es aus und trägt es mit sich fort. Die Welle ist WK/10 Meter hoch und anderthalbmal so breit. Wer von ihr erfasst wird erleidet 2 MTP Punkte Schaden und muss eine Probe auf (KK+KO+GE)/3 Werfen. Scheitert die Probe wird der Scheiternde mit der Welle fortgerissen und erleidet weitere MTP Punkte Schaden. Außerdem ist er für eine Runde aktionsunfähig.
+Die Welle legt etwa das 5-Fache ihrer Höhe an Strecke zurück, wenn sie nicht vorher durch ein großes, massives Hindernis aufgehalten wird.
+Wird die Welle vom Wasser an Land losgeschickt reduziert sich ihre Größe auf eine Höhe von WK/15 Metern. Die restlichen Proportionen verändern sich entsprechend.
+	Dauer: 65
+	Kosten: 41
+ 
+Gerissene Strömung
+Voraussetzungen:
+	Wasser
+	MG: 53
+	KL: 41
+	IN: 48
+	ERF: 36
+	LV: 3
+Der Zauber Bringt einen Teil der Heilkraft an LP und MP aus dem Überlebenskampf zum Ziel des Zaubers.
+Der Zauber kann in jedem Überlebenskampf-Feld immer nur auf ein Ziel gleichzeitig wirken. Befinden sich mehrere Ziele auf die der Zauber wirkt in einem Feld, behält nur derjenige der den Zauber als letztes erhalten hat den Zauber, bei allen anderen wird er aufgelöst.
+Der Zauber kann auf ein beliebiges Ziel innerhalb von MTP Metern um den Zaubernden gewirkt werden.
+Das Ziel des Zaubernden erhält zusätzlich zu demjenigen der den Bonus für den von ihm zugefügten Schaden erhält ebenfalls ein Drittel des Bonus unabhängig davon wer Schädigender und wer geschädigter ist. Nur wenn er selbst den Bonus erhält gibt es keinen extra Zuschlag.
+Der Zauber wirkt für MTP/6 Kampfrunden.
+Der Zauber kann mit dem erhöhten Aufwand auch an Land in einem Überlebenskampf-Feld gewirkt werden.
+	Dauer: 17
+	Kosten: 5 
+	
+Gezeiten
+Voraussetzungen:
+	Wasser
+	MG: 25
+	WK: 26
+	MUT: 28
+Der Zauber verändert zufällig die Eigenschaften des Zieles. Er kann entweder stärkend oder schwächend wirken.
+Ziel des Zaubers kann auf ein beliebiges Wesen, das sich in einem Radius von MTP Metern um den Zaubernden befindet sein. Jeder kann nur einmal Ziel des Zaubers werden, dies umfasst auch alle Variationen des Zaubers.
+In jeder Kampfrunde wirft das Ziel des Zaubers direkt vor seinem Zug einen sechsseitigen Würfel, je nachdem wie der Würfel fällt, verändern sich die Eigenschaften des Wesens. Betroffen werden sowohl alle Talente als auch alle Attribute. Die nachfolgende Tabelle stellt die aus dem Würfelergebnis resultierenden Veränderungen dar.
+Würfel	1	2	3	4	5	6
+Talente	-3	-1	+/-0	+/-0	+1	+3
+Attribute	-1	+/-0	+/-0	+/-0	+/-0	+1
+Die Modifikationen der Talente und Attribute werden addiert. Sie halten an solange der Zauber aktiv ist.
+Der Zauber wirkt für MTP/3 Kampfrunden. Er kann nicht vorzeitig beendet werden.
+	Dauer: 8
+	Kosten: 3
+Es kann bei der Charaktererschaffung entweder der Zauber Gezeiten Ebbe oder Gezeiten Flut ausgewählt werden. Dieser Zauber wird ohne zusätzliche Vertiefung beherrscht. Die Vertiefung des Zaubers ist einen Generierungspunkt (GP) günstiger als dort angegeben.
+ 
+Gezeiten II
+Voraussetzungen:
+	Wasser
+	MG: 33
+	WK: 28
+	MUT: 32
+Der Zauber verändert zufällig di Eigenschaften des Zieles. Er kann entweder stärkend oder schwächend wirken.
+Ziel des Zaubers kann auf ein beliebiges Wesen, das sich in einem Radius von MTP Metern um den Zaubernden befindet sein. Jeder kann nur ein Mal Ziel des Zaubers werden, dies umfasst auch alle Variationen des Zaubers.
+In jeder Kampfrunde wirft das Ziel des Zaubers direkt vor seinem Zug einen sechsseitigen Würfel, je nachdem wie der Würfel fällt, verändern sich die Eigenschaften des Wesens. Betroffen werden sowohl alle Talente als auch alle Attribute. Die nachfolgende Tabelle stellt die aus dem Würfelergebnis resultierenden Veränderungen dar.
+Würfel	1	2	3	4	5	6
+Talente	-5	-3	-1	+1	+3	+5
+Attribute	-2	-1	+/-0	+/-0	+1	+2
+Die Modifikationen der Talente und Attribute werden addiert. Sie halten an solange der Zauber aktiv ist.
+Der Zauber wirkt für MTP/2 Kampfrunden. Er kann nicht vorzeitig beendet werden.
+	Dauer: 7
+	Kosten: 3
+	Vertiefungskosten: 2/3
+ 
+Gezeiten Ebbe
+Voraussetzungen:
+	Wasser
+	MG: 36
+	WK: 40
+	MUT: 26
+Der Zauber verändert zufällig die Eigenschaften des Zieles. Er kann entweder stärkend oder schwächend wirken, hat aber die Tendenz zu schwächen.
+Ziel des Zaubers kann auf ein beliebiges Wesen, das sich in einem Radius von MTP Metern um den Zaubernden befindet sein. Jeder kann nur ein Mal Ziel des Zaubers werden, dies umfasst auch alle Variationen des Zaubers.
+In jeder Kampfrunde wirft das Ziel des Zaubers direkt vor seinem Zug einen sechsseitigen Würfel, je nachdem wie der Würfel fällt, verändern sich die Eigenschaften des Wesens. Betroffen werden sowohl alle Talente als auch alle Attribute. Die nachfolgende Tabelle stellt die aus dem Würfelergebnis resultierenden Veränderungen dar.
+Würfel	1	2	3	4	5	6
+Talente	-5	-3	-1	+0	+1	+3
+Attribute	-2	-1	-1	+/-0	+1	+1
+Die Modifikationen der Talente und Attribute werden addiert. Sie halten an solange der Zauber aktiv ist.
+Der Zauber wirkt für MTP/2 Kampfrunden. Beherrscht der Zaubernde den Zauber Gezeiten II erhöht sich die Wirkungsdauer des Zaubers um eine weitere Kampfrunde. Er kann nicht vorzeitig beendet werden.
+	Dauer: 12
+	Kosten: 4
+	Vertiefungskosten: 2/3
+ 
+Gezeiten Ebbe II
+Voraussetzungen:
+	Wasser
+	Gezeiten Ebbe
+	MG: 42
+	WK: 46
+	MUT: 25
+Der Zauber verändert zufällig di Eigenschaften des Zieles. Er kann entweder stärkend oder schwächend wirken, hat aber die starke Tendenz zu schwächen.
+Ziel des Zaubers kann auf ein beliebiges Wesen, das sich in einem Radius von MTP Metern um den Zaubernden befindet sein. Jeder kann nur ein Mal Ziel des Zaubers werden, dies umfasst auch alle Variationen des Zaubers.
+In jeder Kampfrunde wirft das Ziel des Zaubers direkt vor seinem Zug einen sechsseitigen Würfel, je nachdem wie der Würfel fällt, verändern sich die Eigenschaften des Wesens. Betroffen werden sowohl alle Talente als auch alle Attribute. Die nachfolgende Tabelle stellt die aus dem Würfelergebnis resultierenden Veränderungen dar.
+Würfel	1	2	3	4	5	6
+Talente	-5	-3	-2	-1	+1	+2
+Attribute	-2	-2	-1	-1	+/-0	+1
+Die Modifikationen der Talente und Attribute werden addiert. Sie halten an solange der Zauber aktiv ist.
+Der Zauber wirkt für MTP/2 Kampfrunden. Beherrscht der Zaubernde den Zauber Gezeiten II erhöht sich die Wirkungsdauer des Zaubers um eine weitere Kampfrunde. Er kann nicht vorzeitig beendet werden.
+	Dauer: 11
+	Kosten: 4
+	Vertiefungskosten: 3/4
+ 
+Gezeiten Flut
+Voraussetzungen:
+	Wasser
+	MG: 36
+	WK: 40
+	MUT: 26
+Der Zauber verändert zufällig di Eigenschaften des Zieles. Er kann entweder stärkend oder schwächend wirken, hat aber die Tendenz zu stärken.
+Ziel des Zaubers kann auf ein beliebiges Wesen, das sich in einem Radius von MTP Metern um den Zaubernden befindet sein. Jeder kann nur ein Mal Ziel des Zaubers werden, dies umfasst auch alle Variationen des Zaubers.
+In jeder Kampfrunde wirft das Ziel des Zaubers direkt vor seinem Zug einen sechsseitigen Würfel, je nachdem wie der Würfel fällt, verändern sich die Eigenschaften des Wesens. Betroffen werden sowohl alle Talente als auch alle Attribute. Die nachfolgende Tabelle stellt die aus dem Würfelergebnis resultierenden Veränderungen dar.
+Würfel	1	2	3	4	5	6
+Talente	-3	-1	+/-0	+1	+3	+5
+Attribute	-2	-1	+/-0	+1	+1	+2
+Die Modifikationen der Talente und Attribute werden addiert. Sie halten an solange der Zauber aktiv ist.
+Der Zauber wirkt für MTP/3 Kampfrunden. Beherrscht der Zaubernde den Zauber Gezeiten II erhöht sich die Wirkungsdauer des Zaubers um eine weitere Kampfrunde. Er kann nicht vorzeitig beendet werden.
+	Dauer: 12
+	Kosten: 4
+	Vertiefungskosten: 2/3
+ 
+Gezeiten Flut II
+Voraussetzungen:
+	Wasser
+	Gezeiten Flut
+	MG: 42
+	WK: 46
+	MUT: 25
+Der Zauber verändert zufällig di Eigenschaften des Zieles. Er kann entweder stärkend oder schwächend wirken, hat aber die starke Tendenz zu stärken.
+Ziel des Zaubers kann auf ein beliebiges Wesen, das sich in einem Radius von MTP Metern um den Zaubernden befindet sein. Jeder kann nur ein Mal Ziel des Zaubers werden, dies umfasst auch alle Variationen des Zaubers.
+In jeder Kampfrunde wirft das Ziel des Zaubers direkt vor seinem Zug einen sechsseitigen Würfel, je nachdem wie der Würfel fällt, verändern sich die Eigenschaften des Wesens. Betroffen werden sowohl alle Talente als auch alle Attribute. Die nachfolgende Tabelle stellt die aus dem Würfelergebnis resultierenden Veränderungen dar.
+Würfel	1	2	3	4	5	6
+Talente	-2	-1	+1	+2	+3	+5
+Attribute	-1	+/-0	+1	+1	+2	+2
+Die Modifikationen der Talente und Attribute werden addiert. Sie halten an solange der Zauber aktiv ist.
+Der Zauber wirkt für MTP/3 Kampfrunden. Beherrscht der Zaubernde den Zauber Gezeiten II erhöht sich die Wirkungsdauer des Zaubers um eine weitere Kampfrunde. Er kann nicht vorzeitig beendet werden.
+	Dauer: 11
+	Kosten: 4
+	Vertiefungskosten: 3/4
+ 
+Gezeiten Springflut
+Voraussetzungen:
+	Wasser
+	Gezeiten Flut
+	MG: 37
+	WK: 44
+	ERF: 32
+	MUT: 34
+	LV: 3
+Der Zauber verändert zufällig di Eigenschaften des Zieles. Er kann entweder stärkend oder schwächend wirken.
+Ziel des Zaubers kann auf ein beliebiges Wesen, das sich in einem Radius von MTP Metern um den Zaubernden befindet sein. Jeder kann nur ein Mal Ziel des Zaubers werden, dies umfasst auch alle Variationen des Zaubers.
+In jeder Kampfrunde wirft das Ziel des Zaubers direkt vor seinem Zug einen sechsseitigen Würfel, je nachdem wie der Würfel fällt, verändern sich die Eigenschaften des Wesens. Betroffen werden sowohl alle Talente als auch alle Attribute. Die nachfolgende Tabelle stellt die aus dem Würfelergebnis resultierenden Veränderungen dar.
+Würfel	1	2	3	4	5	6
+Talente	-10	+/-0	+3	+5	+5	+10
+Attribute	-3	+/-0	+1	+2	+3	+5
+Die Modifikationen der Talente und Attribute werden addiert. Sie halten an solange der Zauber aktiv ist.
+Der Zauber wirkt für MTP/5 Kampfrunden. Er kann nicht vorzeitig beendet werden.
+	Dauer: 18
+	Kosten: 6
+	Vertiefungskosten: 4/5
+ 
+Kugelfisch
+Voraussetzungen:
+	Wasser
+	MG: 27
+	WK: 37
+	CH: 39
+Der Zaubernde bläst sich durch den Zauber auf um Feinde zu vertreiben. 
+Die Wirkung des Zaubers beschränkt sich natürlich nicht nur auf seine physische Gestalt, die für die für eine Kampfrunde deutlich vergrößert ist, sondern bewirkt vor allem das Entstehen einer enorm einschüchternden Aura. Wer sich binnen 1,5 MTP Metern um den Zaubernden befindet muss eine Mutprobe (MUT) machen sonst erleidet er einen Abzug von MTP AU, ZWZ und MNAU für die nächste Kampfrunde und für MTP/4 Kampfrunden einen Abzug von 1,5 MTP auf alle feindlichen Aktionen gegen den Zaubernden. Bei Zaubern kann dies sowohl die MAT als auch die ZI-Probe beeinflussen. Feldzauber die auch den Zaubernden betreffen sind um MTP/2 erschwert.
+	Dauer: 19
+	Kosten: 9
+
+ 
+Luftblase
+Voraussetzungen:
+Element: Luft, Wasser
+	MG: 20
+	WK: 20
+Erschafft eine stabile Luftblase mit einem Durchmesser von MTP/ 6 Metern. Diese kann nur durch Gewalteinwirkung zerstört werden und bietet einen Schutz von Gasen und Flüssigkeiten die nicht allzu aggressiv sind.
+Um den Zauber aufrecht zu halten ist ein Einsatz von 3 ZWZ und 1 MP pro Minute notwendig.
+Dauer: 16 / 3	
+Kosten: 3 /1.
+
+ 
+Regeneration
+Voraussetzungen:
+	Wasser
+	MG: 44
+	KL: 42
+	ERF: 34
+	KO: 24
+	LV: 3
+Regeneration Heilt den Zaubernden um MTP Lebenspunkte (LP) pro Runde. Regeneration wirkt für MTP/4 Runden voll und anschließend für ebenso viele Runden mit halber Wirkung. Der Zauber kann nur auf den Zaubernden selbst gewirkt werden. Eine mehrfache, gleichzeitige Anwendung ist nicht möglich.
+An Land hat der Zauber nur 75% Wirkung.
+	Dauer: 65
+	Kosten: 22
+
+ 
+Salz auf den Lippen
+Voraussetzungen:
+	Wasser
+	MG: 26
+	MR: 24
+	ERF: 16
+Durch den Zauber wird das Ziel des Zaubers langsam ausgetrocknet. 
+Dadurch verliert es MTP/4 Lebenspunkte pro Kampfrunde. Durch austrocknen verlorene Lebenspunkte können durch die gleiche Anzahl an Manapunkten kompensiert werden. Es müssen also jede Kampfrunde in Summe MTP/4 LP und MP abgegeben werden. Der Zaubernde selbst ist von diesem Effekt nicht betroffen. Auf andere Wasserdschinn wirkt er nur halb.
+Das Ziel des Zaubers darf sich maximal 1,5 MTP Meter vom Zaubernden entfernt befinden.
+Der Zauber kann beliebig lange aufrecht gehalten werden.
+Der Zauber ist nicht von der Wasserversorgung abhängig.
+	Dauer:	 13/3
+	Kosten: 4/1
+ 
+Salz auf den Lippen II
+Voraussetzungen:
+	Wasser
+	MG: 38
+	MR: 29
+	ERF: 26
+	WAH: 19
+Durch den Zauber wird das Ziel des Zaubers langsam ausgetrocknet. 
+Dadurch verliert es MTP/3 Lebenspunkte pro Kampfrunde. Durch austrocknen verlorene Lebenspunkte können durch die gleiche Anzahl an Manapunkten kompensiert werden. Es müssen also jede Kampfrunde in Summe MTP/3 LP und MP abgegeben werden. Der Zaubernde selbst ist von diesem Effekt nicht betroffen. Auf andere Wasserdschinn wirkt er nur halb.
+Das Ziel des Zaubers darf sich maximal 2 MTP Meter vom Zaubernden entfernt befinden.
+Der Zauber kann beliebig lange aufrecht gehalten werden.
+Der Zauber ist nicht von der Wasserversorgung abhängig.
+	Dauer:	 11/3
+	Kosten: 3/1
+	Vertiefungskosten: 2/3
+
+ 
+Schiffbruch
+Voraussetzungen:
+	Wasser
+	MG: 27+n*6
+	WK: 24+n*8
+	KL: 23+n*8
+	IN: 29	+n*6
+Der Zauber stört das Wasser um das Ziel des Zaubers herum, sodass dies nicht nur schlechter vorankommt, sondern auch an den für die Bewegung hauptverantwortlichen Körperteilen verletzt und damit langfristig, bis zur Verwandlung, in seiner Bewegung gehindert ist.
+Der Zauber fügt einmalig MTP/2 Punkte Schaden zu und bricht mit diesen beispielsweise die Knochen in den Beinen eines Schwimmers. Was es dem Ziel deutlich schwerer macht sich weiter durch das Wasser zu bewegen.
+Darüber hinaus wird die Strömung um das Ziel herum beeinflusst, sodass diese gegen das Ziel des Zaubers arbeitet. Es kann sogar eine Richtung vorgegeben werden in die die Strömung das Ziel abtreibt. Gegen diese Strömung anzuarbeiten erfordert eine Körperkraftprobe (KK), die unter Umständen durch die Verletzung auch noch erschwert wird.
+Das Ziel des Zaubers darf sich beim Wirken des Zaubers maximal 2 MTP Meter vom Zaubernden entfernt befinden. Der Zauber kann auf bis zu 4 MTP Meter Distanz aufrecht gehalten werden.
+Der Zauber kann beliebig lange aufrecht gehalten werden, dies erfordert einen ründlichen Einsatz von 2 ZWZ, ohne Übergangszeit, und 2 MP.
+Um den Zauber mehrfach zu wirken erhöhen sich das n für die Anforderungen für jedes weitere Wirken um 1. Um den Zauber auf ein zweites Ziel gleichzeitig zu richten müssen die Anforderungen mit n=1 erfüllt werden. Beim ersten Ziel ist n=0, beim dritten n=2, etc… .
+Der Zauber ist nur im Wasser möglich.
+	Dauer: 8/2
+	Kosten: 4/1
+
+
+Seepocken
+Voraussetzungen:
+	Wasser
+	MG: 42
+	KL: 39
+	IN: 44
+	KK: 23
+Der Zauber erschafft eine Menge Seepocken die sich wie ein Panzer auf dem Zaubernden niederlassen. 
+Wenn der Zaubernde oder jemand in der Nähe des Zaubernden Schaden erleidet fangen die Seepocken einen Teil der dadurch verstreuten Substanz und fressen sie. Je mehr die Seepocken fressen, desto größer werden sie und umso mehr Rüstschutz bieten sie dem Zaubernden.
+Die Seepocken fressen 50% der verstreuten Substanz des Zaubernden, 25% der Verstreuten Substanz von Wesen innerhalb von MTP/6 Metern, 20% innerhalb von MTP/5 Metern, 15% innerhalb von MTP/4 Metern, 10% innerhalb von MTP/3 Metern und 5% innerhalb von MTP/2 Metern.
+An Land kommen die Pocken deutlich schlechter an die Substanz, sie können daher nur 25% der vom Zaubernden verstreuten Substanz aufnehmen, 20% innerhalb von MTP/6 Metern, 10% innerhalb von MTP/5 Metern und 5% innerhalb von MTP/4 Metern.
+Die ungenährte Schicht Pocken bietet einen Punkt Rüstschutz, das heißt jeder zugefügte Schaden wird um eins reduziert.
+Für je 20 LP gefressene Substanz steigt der Rüstschutz der Pocken um eins an. Es kann maximal ein Rüstschutz von 3 erreicht werden. Fressen die Pocken darüber hinaus noch 20 LP Substanzkönnen sie sich auf eine weitere Person ausbreiten die der Seepockenrüstungsträger berührt.
+Verwandelt sich der Zaubernde in eine deutlich kleinere Gestalt fällt der Großteil der Pocken ab, der Rüstschutz kann jedoch erhalten werden. Eine Verwandlung in eine deutlich größere Gestallt reduziert den Rüstschutz um eins. Ist die Schicht noch nicht gewachsen benötigt sie mindestens 10 LP Substanz um wieder einen Punkt Rüstschutz gewähren zu können.
+Eine dicke Schicht Pocken behindert den Geschützen in seiner Bewegung. Deshalb reduziert ein Pockenpanzer der zwei Punkte Schutz gewährt die Gewandtheit (GE) um 5 und auch AT und AW um 5. Ein drei Punkte starker Panzer reduziert GE, AT und AW um 10 und PA um 5.
+Die Pocken verschwinden nach MTP/2 Kampfrunden, Minuten außerhalb des Kampfes, in denen sie nichts gefressen haben automatisch.
+Dauer und Kosten des Zaubers steigen an Land nur um die Hälfte des sonst üblichen an.
+	Dauer: 39
+	Kosten: 9 
+	
+Sog der Tiefe
+Voraussetzungen:
+	Wasser
+	MG: 25
+	WK: 18
+	IN: 26
+Der Zauber lässt das Ziel des Zaubers untergehen.
+Der Zauber kann nicht durch eine Magieparade abgewehrt werden. Die einzige Rettung die dir bleibt: Schwimm um dein Leben!
+Jede Kampfrunde während des Zuges des Zieles und des Zaubernden kann das Ziel des Zaubers eine um 20 erschwerte Körperkraftprobe (KK) durchführen. Die Probe zählt als Bewegung und nimmt 10AU in Anspruch. Wird die Probe durchgeführt steigt das Ziel des Zaubers einen Meter für 10 Punkte die sein KK-Wurf den KK-Wert unterbietet. Alternativ sinkt das Ziel des Zaubers einen Meter für alle 10 Punkte die sein Wurf den KK-Wert überbietet. Wird keine Probe durchgeführt sinkt das Ziel des Zaubers MTP-Meter weit nach unten.
+Befindet sich das Ziel ds Zaubers bereits auf dem Grund verharrt es dort, wenn es nicht aufsteigen kann.
+Der Zauber kann auf bis zu MG/20 Ziele gleichzeitig angewendet werden.
+Der Zauber kann beliebig lange aufrecht gehalten werten, dies erfordert einen konstanten Aufwand von 2 ZWZ, ohne Übergangszeit, und einem MP alle fünf Kampfrunden oder, außerhalb des Kampfes, Minuten.
+Der Zauber ist nur im Wasser möglich.
+	Dauer: 7/2
+	Kosten: 2/0,2
+…Und deshalb, mein Lieber, legt man sich nie im Wasser mit einem Wasserdschinn an.   
+
+
+ 
+Sog der Tiefe II
+Voraussetzungen:
+	Wasser
+	MG: 34
+	WK: 34
+	IN: 38
+Der Zauber lässt das Ziel des Zaubers untergehen.
+Der Zauber kann nicht durch eine Magieparade abgewehrt werden. Die einzige Rettung die dir bleibt: Schwimm um dein Leben!
+Jede Kampfrunde während des Zuges des Zieles und des Zaubernden kann das Ziel des Zaubers eine um 2 MTP erschwerte Körperkraftprobe (KK) durchführen. Die Probe zählt als Bewegung und nimmt 10AU in Anspruch. Wird die Probe durchgeführt steigt das Ziel des Zaubers einen Meter für 10 Punkte die sein KK-Wurf den KK-Wert unterbietet. Alternativ sinkt das Ziel des Zaubers einen Meter für alle 10 Punkte die sein Wurf den KK-Wert überbietet. Wird keine Probe durchgeführt sinkt das Ziel des Zaubers MTP-Meter weit nach unten.
+Befindet sich das Ziel des Zaubers bereits auf dem Grund verharrt es dort, wenn es nicht aufsteigen kann.
+Der Zauber kann auf bis zu MG/15 Ziele gleichzeitig angewendet werden.
+Der Zauber kann beliebig lange aufrecht gehalten werten, dies erfordert einen konstanten Aufwand von 1 ZWZ, ohne Übergangszeit, und einem MP alle zehn Kampfrunden oder, außerhalb des Kampfes, Minuten.
+Der Zauber ist nur im Wasser möglich.
+	Dauer: 5/1
+	Kosten: 1/0,1
+	Vertiefungskosten: 3/4
+Und erst recht nicht mit der gerissenen Sorte. Dann tauchst du, wortwörtlich, nie wieder auf!   
+ 
+
+Sprühregen
+Voraussetzungen: 
+Wasser
+	MG: 25
+	ERF: 18
+	WK: 39
+	IN: 41
+Ein Regenschauer fällt für WK/8 Runden und befeuchtet so die Umgebung. Der Zauber kann nur unter freiem Himmel eingesetzt werden. Müssen die für den Regen notwendigen Wollen erst noch aufziehen kann sich das einsetzten des Regens um bis zu drei Kampfrunden verzögern.
+Dieser Verzögerung kann vorgebeugt werden indem die Wolken mit 28 ZWZ und 10 MP bereits vorher gerufen werden. Der Zauber kann dann mit halber Dauer und halben Kosten aktiviert werden.
+Es regnet in einem Radius von 3 MTP Metern um den Zaubernden. Die so entstehende Feuchtigkeit reicht aus damit Wasserdschinn dort ohne Einschränkungen Zaubern können. 
+Befindet sich ein Wasserdschinn bereits im Wasser wird seine Wassermagie durch den Zauber um 10% wirksamer und effizienter. Die Wirkung steigt also um 10% und die Kosten sinken um 10%. 
+Feuerdschinn die sich in dem Regen befinden erhalten jede Runde 2 Punkte Schaden und ihre magische und physische Attacke und Parade sinken um 10. Vulkandschinn erleiden sogar 4 Punkte Schaden und erleiden jedoch Einbußen auf magische und physische Attacke und Parade von 15. Außerdem sind die Zauber Lavablasen und Lavabomben unwirksam, da sie direkt zerstört werden. Generell sinkt sie bei der Verwendung von Feuer und Vulkanmagie verwendete MTP um 3. Auch der Feuerball zählt dazu, wenn ihn ein anderes Wesen einsetzt.
+Die Kosten des Zaubers steigen an Land nicht an.
+	Dauer: 44
+Kosten:16
+ 
+Strömung
+Voraussetzungen:
+	Wasser
+	MG: 26/ 10
+	GE: 32/ 26
+Eine günstige Strömung umgibt das Ziel des Zaubers und macht es ihm deutlich leichter sich im Wasser fortzubewegen.
+Die Bewegungsreichweite des Zieles steigt um 50% solange es im oder unter Wasser ist.
+Der Zauber wirkt für MTP/3 Kampfrunden, Minuten außerhalb des Kampfes.
+Andere innerhalb von MTP/2 Metern um den Zaubernden herum die die geringen Anforderungen erfüllen können ebenfalls Ziel des Zaubers werden.
+Der Zauber ist nur im Wasser möglich.
+	Dauer: 8
+	Koten: 3
+
+
+Tintenfisch
+Voraussetzungen:
+	Wasser
+	MG: 32
+	IN: 36
+	ERF: 32
+	WAH: 16
+Der Zaubernde stößt einen Schwall violette Tinte aus. Diese verteilt sich um den Zaubernden herum im Wasser und verdeckt die Sicht.
+Durch die besonderen, magischen Eigenschaften der Tinte wird die Sicht auf allen Ebenen verdeckt.
+Die Tinte erfüllt ein Areal von etwa MTP Kubikmetern.
+An Land kann sich die Tinte deutlich schlechter verteilen, sie muss daher dünner gemischt werden du kann daher nur auf den ersten fünf Ebenen die Sicht blockieren.
+Die Tinte sinkt binnen etwa zwei Minuten im Wasser oder einer Minute an Land langsam zu Boden wenn sie nicht erneut aufgewirbelt wird.
+	Dauer: 13
+	Kosten: 4
+
+ 
+Treibgut
+Voraussetzungen:
+	Wasser
+	MG: 36
+	KL: 39
+Der Zauber erschafft MTP/4 kleine Holzkisten. Wer eine der Kisten öffnet erhält für MTP/4 Kampfrunden einen MTP/2 Bonus auf ein zufälliges Talent.
+Die Kisten erscheinen in einem Radius von MTP/2 Metern an einer zufälligen Stelle um den Zaubernden. Jeder kann eine der Kisten öffnen und den Bonus erhalten. Das Öffnen nimmt lediglich 5 AU in Anspruch.
+Wird eine Kiste durch Gewalt vernichtet verfliegt der darin enthaltene Bonus.
+Der Zauber ist nicht von der Wasserversorgung abhängig.
+	Dauer: 17
+	Kosten: 4
+
+ 
+Treibgut II
+Voraussetzungen:
+	Wasser
+	MG: 39
+	KL: 46
+Der Zauber erschafft MTP/2 kleine Holzkisten. Wer eine der Kisten öffnet erhält für MTP/4 Kampfrunden einen MTP/2 Bonus auf ein zufälliges Talent.
+Die Kisten erscheinen in einem Radius von MTP/3 Metern an einer zufälligen Stelle um den Zaubernden. Jeder kann eine der Kisten öffnen und den Bonus erhalten. Das Öffnen nimmt lediglich 5 AU in Anspruch.
+Wird eine Kiste durch Gewalt vernichtet verfliegt der darin enthaltene Bonus.
+Der Zauber ist nicht von der Wasserversorgung abhängig.
+	Dauer: 14
+	Kosten: 3
+	Vertiefungskosten: 3/4
+ 
+Überlebenskampf 
+Voraussetzungen:
+	Wasser
+	MG: 54
+	WK: 51
+	IN: 41
+	ERF: 26
+	MUT: 34
+	LV: 3
+Der Zauber verwandelt einen Kampf in ein riesiges, blutiges Bankett bei dem jeder von jedem kostet.
+Immer wenn jemand einem anderen Schaden zufügt erhält er 10% des zugefügten Schadens als LP und MP. Der zugefügte Schaden ist der tatsächlich zugefügte Schaden, nicht die nominelle Zerstörungskraft. Der Bonus wird sowohl bei Nahkampfangriffen als auch bei Treffern mit Objekten oder Magie vergeben.
+Der Zauber wirkt bei allen Zielen in einem Radius von MTP Metern um den Zaubernden herum. Ziele außerhalb dieses Radius können weder den Bonus vergeben noch erhalten.
+Der Zauber kann für bis zu MTP/4 Kampfrunden aufrecht gehalten werden. Um den Zauber aufrecht zu erhalten ist ein ründlicher Einsatz von 10 ZWZ, ohne Übergangszeit, und 7 MP notwendig.
+Mangelndes Wasser erhöht lediglich die bei der Erschaffung des Feldes verwendete Dauer, es hat keinen Einfluss auf den zu aufrechterhalten betriebenen Aufwand.
+	Dauer: 65/ 10
+	Kosten: 22/ 7
+ 
+Überlebenskampf II
+Voraussetzungen:
+	Wasser
+	MG: 62
+	WK: 54
+	IN: 46
+	ERF: 31
+	MUT: 34
+	LV: 5
+Der Zauber verwandelt einen Kampf in ein riesiges, blutiges Bankett bei dem jeder von jedem kostet.
+Immer wenn jemand einem anderen Schaden zufügt erhält er 25% des zugefügten Schadens als LP und MP. Der zugefügte Schaden ist der tatsächlich zugefügte Schaden, nicht die nominelle Zerstörungskraft. Der Bonus wird sowohl bei Nahkampfangriffen als auch bei Treffern mit Objekten oder Magie vergeben.
+Der Zauber wirkt bei allen Zielen in einem Radius von 2 MTP um den Zaubernden herum. Ziele außerhalb dieses Radius können weder den Bonus vergeben noch erhalten.
+Der Zauber kann für bis zu MTP/3 Kampfrunden aufrecht gehalten werden. Um den Zauber aufrecht zu erhalten ist ein ründlicher Einsatz von 8 ZWZ, ohne Übergangszeit, und 7 MP notwendig.
+Mangelndes Wasser erhöht lediglich die bei der Erschaffung des Feldes verwendete Dauer, es hat keinen Einfluss auf den zu aufrechterhalten betriebenen Aufwand.
+	Dauer: 56/ 8
+	Kosten: 18/ 7
+
+ 
+Überlebenskampf III
+Voraussetzungen:
+	Wasser
+	MG: 68
+	WK: 59
+	IN: 54
+	ERF: 39
+	MUT: 40
+	LV: 7
+Der Zauber verwandelt einen Kampf in ein riesiges, blutiges Bankett bei dem jeder von jedem kostet.
+Immer wenn jemand einem anderen Schaden zufügt erhält er 33%, ein Drittel, des zugefügten Schadens als LP und MP. Der zugefügte Schaden ist der tatsächlich zugefügte Schaden, nicht die nominelle Zerstörungskraft. Der Bonus wird sowohl bei Nahkampfangriffen als auch bei Treffern mit Objekten oder Magie vergeben.
+Der Zauber wirkt bei allen Zielen in einem Radius von 2,5 MTP um den Zaubernden herum. Ziele außerhalb dieses Radius können weder den Bonus vergeben noch erhalten.
+Der Zauber kann für bis zu MTP/3+1 Kampfrunden aufrecht gehalten werden. Um den Zauber aufrecht zu erhalten ist ein ründlicher Einsatz von 6 ZWZ, ohne Übergangszeit, und 6 MP notwendig.
+Mangelndes Wasser erhöht lediglich die bei der Erschaffung des Feldes verwendete Dauer, es hat keinen Einfluss auf den zu aufrechterhalten betriebenen Aufwand.
+	Dauer: 52/ 6
+	Kosten: 16/ 6
+	Vertiefungskosten: 5/7
+ 
+Überlebenskünstler
+Voraussetzungen:
+	Wasser
+	MG: 35
+	KL: 24 
+	IN: 38
+Durch den Zauber ist das Ziel des Zaubers besser auf den Überlebenskampf eingestellt.
+Der Zauber kann auf bis zu WK/10 Ziele gleichzeitig gewirkt werden, die sich während des Wirkens bis MTP Meter weit vom Zaubernden entfernt befinden. Der Zauber muss auf jedes Ziel einzeln gewirkt werden.
+Der Zauber kann bis zu MTP/2 Kampfrunden, oder Minuten, vor dem Überlebenskampf gewirkt werden. Er aktiviert sich automatisch sobald das Ziel des Zaubers in ein Überlebenskampf-Feld kommt.
+Durch den Zauber wird der Bonus der durch das Schädigend es Zieles vergeben wird um 25% reduziert.
+Besitzt das Ziel des Zaubers die Gabe Wattwurm, sinken die vom Schädigenden erhaltenen Punkte auf ein Drittel dessen was er sonst erhalten würde.
+Der Zauber wirkt für MTP/4 Kampfrunden.
+Beispiel: Ronny fügt Clemenzius 100 Punkte Schaden in einem Überlebenskampf II Feld zu. Auf Clemenzius wirkt der Zauber Überlebenskünstler.
+Durch den Überlebenskampf II würde Ronny nun 25% des zugefügten Schadens als LP und MP bekommen; also 25 LP und MP; 100/4=25.
+Durch den Zauber Überlebenskünstler reduziert sich dieser erhaltene Bonus um 25%. 25/4=6,25 =>6. 25-6=19. Ronny erhält nun also nur noch 19 statt 25 LP und MP durch den zugefügten Schaden.
+Der Zauber ist nicht von der Wasserversorgung abhängig. 
+	Dauer: 8
+	Kosten: 3
+
+ 
+Überlebenskünstler II
+Voraussetzungen:
+	Wasser
+	MG: 52
+	KL: 44 
+	IN: 54
+	LV: 3
+Durch den Zauber ist das Ziel des Zaubers besser auf den Überlebenskampf eingestellt.
+Der Zauber kann auf bis zu WK/10 Ziele gleichzeitig gewirkt werden, die sich während des Wirkens bis MTP Meter weit vom Zaubernden entfernt befinden. Der Zauber muss auf jedes Ziel einzeln gewirkt werden.
+Der Zauber kann bis zu MTP Kampfrunden, oder Minuten, vor dem Überlebenskampf gewirkt werden. Er aktiviert sich automatisch sobald das Ziel des Zaubers in ein Überlebenskampf-Feld kommt.
+Durch den Zauber wird der Bonus der durch das Schädigend es Zieles vergeben wird um 25% reduziert.
+Besitzt das Ziel des Zaubers die Gabe Wattwurm, sinken die vom Schädigenden erhaltenen Punkte auf ein Drittel dessen was er sonst erhalten würde.
+Der Zauber wirkt für MTP/3 Kampfrunden.
+Der Zauber ist nicht von der Wasserversorgung abhängig. 
+	Dauer: 5
+	Kosten: 2
+	Vertiefungskosten: 3/4
+
+ 
+Überlebenskünstler Muschel
+Voraussetzungen:
+	Wasser
+	MG: 49
+	MR: 33
+	KL: 31 
+	IN: 45
+	KO: 36
+	LV: 3
+Durch den Zauber ist das Ziel des Zaubers besser auf den Überlebenskampf eingestellt.
+Der Zauber kann auf bis zu WK/10 Ziele gleichzeitig gewirkt werden, die sich während des Wirkens bis MTP Meter weit vom Zaubernden entfernt befinden. Der Zauber muss auf jedes Ziel einzeln gewirkt werden.
+Der Zauber kann bis zu MTP/2 Kampfrunden, oder Minuten, vor dem Überlebenskampf gewirkt werden. Er aktiviert sich automatisch sobald das Ziel des Zaubers in ein Überlebenskampf-Feld kommt.
+Durch den Zauber wird der Bonus der durch das Schädigend es Zieles vergeben wird um 50% reduziert. Wie bei dem Überlebenskünstler Zauber ist dieser Bonus relativ zum von Überlebenskampf verliehenen Bonus, nicht absolut.
+Besitzt das Ziel des Zaubers die Gabe Wattwurm, sinken die vom Schädigenden erhaltenen Punkte auf 10% dessen was er sonst erhalten würde.
+Der Zauber wirkt für MTP/3 Kampfrunden.
+Der Zauber ist nicht von der Wasserversorgung abhängig. 
+	Dauer: 8
+	Kosten: 3
+Vertiefungskosten: 3 / 4
+
+ 
+Überlebenskünstler Piranha
+Voraussetzungen:
+	Wasser
+	MG: 39
+	WK: 34
+	KL: 30 
+	IN: 46
+	MUT: 32
+	LV: 3
+Durch den Zauber ist das Ziel des Zaubers besser auf den Überlebenskampf eingestellt.
+Der Zauber kann auf bis zu WK/10 Ziele gleichzeitig gewirkt werden, die sich während des Wirkens bis MTP Meter weit vom Zaubernden entfernt befinden. Der Zauber muss auf jedes Ziel einzeln gewirkt werden.
+Der Zauber kann bis zu MTP/2 Kampfrunden, oder Minuten, vor dem Überlebenskampf gewirkt werden. Er aktiviert sich automatisch sobald das Ziel des Zaubers in ein Überlebenskampf-Feld kommt.
+Durch den Zauber wird der Bonus der durch das Schädigend es Zieles vergeben wird um 25% reduziert und der durch das zufügen von Schaden erhaltene Bonus um 25% erhöht. Wie bei dem Überlebenskünstler Zauber ist dieser Bonus relativ zum von Überlebenskampf verliehenen Bonus, nicht absolut.
+Besitzt das Ziel des Zaubers die Gabe Wattwurm, sinken die vom Schädigenden erhaltenen Punkte auf ein Drittel dessen was er sonst erhalten würde.
+Besitzt das Ziel des Zaubers die Gabe Haifischgebiss steigt der Bonus auf zwei Drittel der Basispunkte an.
+Der Zauber wirkt für MTP/3 Kampfrunden.
+Der Zauber ist nicht von der Wasserversorgung abhängig. 
+	Dauer: 8
+	Kosten: 3
+	Vertiefungskosten: 3/4
+ 
+Vitale Welle
+Voraussetzungen:
+	Wasser
+	Gabe: Fischfreund
+	MG: 44 
+	WK: 43
+	IN: 38
+	MUT: 37
+Der Zauber erschafft eine große Welle die über dem Ziel des Zaubers zusammenschlägt. Dieses erfährt dadurch einen Energieschub.
+Das von dem Zauber verursachte Energieschub hängt von der Anzahl und Stärkt der durch den Zaubernden erschaffenen Doktorfische am Anderen Ort ab. Er hebt AU, ZWZ und MNAU während der nächsten Kampfrunde des Zieles um ∑▒〖(MP_(Entlassene Doktorfische))/100+An〖zahl〗_Professorenfische  〗an.
+Das Ziel der Welle kann maximal MTP Meter vom Zaubernden entfernt sein.
+Befindet sich das Ziel des Zaubers an Land halbiert sich die Wirkung des Zaubers.
+Der Zauber kann jede Kampfrunde nur einmal gewirkt werden.
+	Dauer: 6 
+	Kosten: 4 
+ 
+Wasser des Lebens
+Voraussetzungen:
+	Wasser
+	MG: 46
+	IN: 42
+	ERF: 34
+Der Zauber filtert Substanz aus einem sich auflösenden Aquafeld oder Überlebenskampf-Feld und erschafft aus den Resten neue Substanz. Diese kann genutzt werden um ein neues Wesen zu erschaffen oder um Haie oder Doktorfische zu füttern.
+Der Zauber wird gewirkt, wenn ein Aquafeld oder Überlebenskampf-Feld aufgelöst wird. Der Zauber kann in der Kampfrunde davor oder direkt danach gewirkt werden. Wird er zu einem anderen Zeitpunkt gewählt kann er nur auf die direkte Umgebung des Zaubernden zugreifen und hat daher eine deutlich reduzierte, oder ohne Feld, gar keine, Wirkung.
+Unabhängig davon wieviel Substanz von wem absorbiert wurde wird der gesamte Schaden der innerhalb des Feldes zugefügt wurde zusammengezählt. Ein Vierte davon erhält der Zaubernde nun als reine Ursubstanz.
+Da diese in unserer Welt sehr instabil ist muss sie umgehend verwendet werden. Entweder, indem er sie an den Anderen Ort entlässt, oder indem der Zaubernde ein verbündetes Wesen in die Substanz ruft.
+Entlässt er die Substanz an den Anderen Ort, kann er die Punkte entweder seinem Konto an Lebenspunkten die bei Haien aufgeschlagen wurden oder Manapunkten bei Doktorfischen hinzufügen.
+Ruft er einen seiner Verbündeten in die Substanz muss er einen Ruf entsprechend der Bedingungen des gerufenen Verbündeten durchführen. Das Rufen eines Verbündeten erfordert durch den Zauber Wasser des Lebens - Ruf. 
+Die erhaltene Substanz kann nur für verschiedene Aufgaben verwendet werden, wenn jedes durch das Teilen erhaltene Einzelteil eine Größe von mindestens 15 Punkten hat. So können maximal MG/25 Einzelteile erzeugt werden.
+Mangelt es an Wasser erhöht sich nur die Dauer des Zaubers, nicht seine Kosten.
+	Dauer: 64
+	Kosten: 4
+	Vertiefungskosten: 2/3
+ 
+Wasser des Lebens II
+Voraussetzungen:
+	Wasser
+	MG: 53
+	KL: 41
+	IN: 48
+	ERF: 39
+	LV:3
+Der Zauber filtert Substanz aus einem sich auflösenden Aquafeld oder Überlebenskampf-Feld und erschafft aus den Resten neue Substanz. Diese kann genutzt werden um ein neues Wesen zu erschaffen oder um Haie oder Doktorfische zu füttern.
+Der Zauber wird gewirkt, wenn ein Aquafeld oder Überlebenskampf-Feld aufgelöst wird. Der Zauber kann in der Kampfrunde davor oder direkt danach gewirkt werden. Wird er zu einem anderen Zeitpunkt gewählt kann er nur auf die direkte Umgebung des Zaubernden zugreifen und hat daher eine deutlich reduzierte, oder ohne Feld, gar keine, Wirkung.
+Unabhängig davon wieviel Substanz von wem absorbiert wurde wird der gesamte Schaden der innerhalb des Feldes zugefügt wurde zusammengezählt. Ein Drittel davon erhält der Zaubernde nun als reine Ursubstanz.
+Da diese in unserer Welt sehr instabil ist muss sie umgehend verwendet werden. Entweder, indem er sie an den Anderen Ort entlässt, oder indem der Zaubernde ein verbündetes Wesen in die Substanz ruft.
+Entlässt er die Substanz an den Anderen Ort, kann er die Punkte entweder seinem Konto an Lebenspunkten die bei Haien aufgeschlagen wurden oder Manapunkten bei Doktorfischen hinzufügen.
+Ruft er einen seiner Verbündeten in die Substanz muss er einen Ruf entsprechend der Bedingungen des gerufenen Verbündeten durchführen. Das Rufen eines Verbündeten erfordert durch den Zauber Wasser des Lebens - Ruf. 
+Die erhaltene Substanz kann nur für verschiedene Aufgaben verwendet werden, wenn jedes durch das Teilen erhaltene Einzelteil eine Größe von mindestens 15 Punkten hat. So können maximal MG/25 Einzelteile erzeugt werden.
+Mangelt es an Wasser erhöht sich nur die Dauer des Zaubers, nicht seine Kosten.
+	Dauer: 47
+	Kosten: 3
+	Vertiefungskosten: 4/6
+ 
+Wasser des Lebens - Ruf
+Voraussetzungen:
+	Wasser
+	MG: 56
+	KL: 37
+	IN: 52
+	ERF: 38
+	LV:3
+Der Zauber ruft ein verbündetes Wesen in durch Wasser des Lebens gewonnene Substanz.
+Der Zauber an sich erfordert keine MAT-Probe da er lediglich eine Zusammenstellung rufbarer Wesen darstellt. Die einzelnen Wesen jedoch erfordern eine spezifische in ihrer Beschreibung angegebene Probe.
+Die durch den Zauber gerufenen Wesen sind mehr als nur passive Symbionten. Sie haben ein aktives Bündnis mit dem Zaubernden geschlossen und arbeiten gezielt mit dem Zaubernden zusammen. Die Zauber Doktorfisch oder Blutige Wogen, rufen lediglich passive Symbionten, sie reichen also nicht als Basis um ein entsprechendes Wesen mit diesem Zauber zu rufen.
+Wird ein Wesen häufig beschworen können Assoziationspunkte gewonnen werden. Diese stellen ein Maß für gemeinsam gewonnene Erfahrung und dem Wesen nutzbar gemacht Energie dar. Durch Assoziationspunkte steigen die Möglichkeiten des Wesens langsam an. Die spezifischen Bedingungen für den Erhalt von Assoziationspunkten und die daraus resultierenden Vorteile hängen von dem Wesen ab und werden im Folgenden beschrieben.
+Da das Wesen nur in ‚geliehene‘ Substanz gerufen wird, stirbt es nicht, selbst wenn seine LP in dieser Form auf null fallen, sondern kehrt an den Anderen Ort zurück.
+Ein bekanntes Wesen zu haben stellt einen Vorteil dar, der weder als Vertiefung noch als Gabe zählt aber GP verschlingt. Im Verlauf des Spieles können weitere Bänder geknüpft werden. Dies erfordert jedoch immer das Einverständnis des Wesens und mindestens 2 GP.
+Doktorfisch
+Das Rufen des Doktorfisches erfordert eine Probe auf (KL+IN)/2. 
+Scheitert die Probe geht die Hälfte der Substanz als Manapunkte an die durch Doktorfisch gerufenen Doktorfische am Anderen Ort so als ob die Substanz gezielt zu diesen entlassen würde.
+Gelingt die Probe wird ein bekannter Doktorfisch herbeigerufen. Dieser hat MTP Lebenspunkte und kann Lebenspunkte in Höhe der erhaltenen Substanz bei Zielen nach Wahl des Rufenden ohne Gegenleistung heilen.
+Der Fisch begleitet den Rufenden bis seine Heilkapazitäten oder seine Lebenspunkte erschöpft sind.
+Wird der Doktorfisch herbeigerufen führt dies zum Erhalt eines Assoziationspunktes. Für je 10 Punkte Heilungskapazität mit denen der Fisch entlassen wird, wird ein weiterer Assoziationspunkt vergeben.
+Alle 10 Assoziationspunkte steigt die Heilungskapazität des Fisches um eins. Außerdem gibt es einen Bonus auf die Ruf-Probe von 1 für je 10 Assoziationspunkte
+	Kosten: Je 2
+Haifisch
+Das Rufen des Haifisches erfordert eine Probe auf (WK+IN)/2. 
+Scheitert die Probe geht die Hälfte der Substanz als Lebenspunkte an die durch Blut im Wasser gerufenen Haie am Anderen Ort so als ob die Substanz gezielt zu diesen entlassen würde.
+Gelingt die Probe wird ein bekannter Hai herbeigerufen. Dieser hat Lebenspunkte in Höhe der erhaltenen Substanz.
+Der Hai begleitet den Rufenden als Parasit bis seine Lebenspunkte erschöpft sind. Ohne dass der Hai dem Rufenden Schaden zufügt kann er 10% des Schadens am Rufenden seinen eigenen Lebenspunkten hinzufügen.
+Jede Kampfrunde kann der Hai ein Ziel das nicht weiter als MTP/3 Meter vom Rufenden entfernt ist mit einer AT von 50 angreifen. Ein Treffer des Haies richtet 8 Punkte Schaden an.
+Wird der Hai herbeigerufen führt dies zum Erhalt eines Assoziationspunktes. Für je 20 Lebenspunkte mit denen der Hai entlassen wird, wird ein weiterer Assoziationspunkt vergeben.
+Alle 10 Assoziationspunkte steigt die Trefferwahrscheinlichkeit eines Haiangriffes (AT) um eins, alle 25 Punkte steigt der bei einem Treffer zugefügte Schaden um einen Punkt an. Außerdem gibt es einen Bonus auf die Ruf-Probe von 1 für je 10 Assoziationspunkte.
+	Kosten: Je 2
+Oktopus
+Das Rufen des Oktopusses erfordert eine Probe auf (GE+IN)/2. 
+Scheitert die Probe geht ein Drittel der Substanz verloren, der Rest kann auf beliebige Weise weiterverwendet werden. Wird erneut versucht den Oktopus zu rufen und die Probe scheitert erneut geht wieder ein Drittel der ursprünglichen Substanz verloren.
+Gelingt die Probe wird ein bekannter Oktopus herbeigerufen. Dieser hat Lebenspunkte in Höhe der erhaltenen Substanz.
+Jede Kampfrunde kann der Oktopus nach zwei Ziele die nicht weiter als MTP/2 Meter vom Rufenden entfernt sind mit einer AT von 50 greifen. Gelingt es dem Oktopus sein Ziel zu ergreifen, so verliert dies 8 AU, ZWZ und MNAU für seine nächste Aktion.
+Wird der Oktopus erfolgreich herbeigerufen führt dies zum Erhalt eines Assoziationspunktes. Für je 10 Lebenspunkte mit denen der Oktopus entlassen wird, wird ein weiterer Assoziationspunkt vergeben.
+Alle 10 Assoziationspunkte steigt die Trefferwahrscheinlichkeit das Ziel zu greifen (AT) um eins, alle 50 Punkte erhält der Oktopus einen weiteren Angriff bis zu einem Maximum von acht Angriffen. Außerdem gibt es einen Bonus auf die Ruf-Probe von 1 für je 15 Assoziationspunkte.
+	Kosten: Je 2
+Seepferdchen
+Das Rufen des Seepferdchens erfordert eine Probe auf (WAH+IN)/2. 
+Scheitert die Probe erhält der Rufende ein Drittel der Punkte der Substanz als Manapunkte, die Substanz geht darüber hinaus vollständig verloren.
+Gelingt die Probe wird ein bekanntes Seepferdchen herbeigerufen. Dieses hat Lebenspunkte in Höhe der Hälfte der verwendeten Substanz und Manapunkte in Höhe der Substanz.
+Das Seepferdchen kann jede Kampfrunde ein Wassergeschoss auf ein bis zu 25 Meter entferntes Ziel abschießen. Das Wassergeschoss kostet immer 3 MP und hat eine Erfolgswahrscheinlichkeit von 50%. Die Probe beinhaltet sowohl die MAT als auch die ZI Probe. Trifft das Geschoss richtet es 5 Punkte Schaden an.
+Das Seepferdchen begleitet den Rufenden bis seine Manapunkte oder seine Lebenspunkte erschöpft sind.
+Wird der Doktorfisch herbeigerufen führt dies zum Erhalt eines Assoziationspunktes. Für je 15 Manapunkte mit denen das Seepferdchen entlassen wird, wird ein weiterer Assoziationspunkt vergeben.
+Alle 10 Assoziationspunkte steigen die Manapunkte und die Erfolgswahrscheinlichkeit des Geschosses um eins an. Der mit einem Treffer angerichtete Schaden steigt alle 30 Assoziationspunkte um eins am. Außerdem gibt es einen Bonus auf die Ruf-Probe von 1 für je 15 Assoziationspunkte.
+	Kosten: Je 2
+Stachelrücken
+Der Stachelrücken ist ein platter, flunderartiger Fisch, dessen Rückseite von Dornen besetzt ist.
+Das Rufen des Stachelrückens erfordert eine Probe auf (KO+IN)/2. 
+Scheitert die Probe geht die Substanz verloren, der Rufende erhält jedoch ein Viertel der Substanz als Lebenspunkte dazu. Die so erhaltenen Lebenspunkte dürfen die sonst maximalen Lebenspunkte übersteigen.
+Gelingt die Probe wird ein bekannter Stachelrücken herbeigerufen. Dieser hat Lebenspunkte in Höhe des Doppelten der erhaltenen Substanz.
+Der Fisch begleitet den Rufenden bis seine Lebenspunkte erschöpft sind.
+Wird der Rufende Angegriffen versucht der Stachelrücken einen Teil des Schadens aufzunehmen. Dazu führt der Stachelrücken ein Mal pro Kampfrunde eine Parade gegen 50 durch. Gelingt die Parade wird bis zu der Hälfte des Schadens an den Stachelrücken vergeben. Wehrt der Fisch einen Nahkampfangriff ab erhält der Angreifer zwei Punkte Schaden.
+Wird der Stachelrücken herbeigerufen führt dies zum Erhalt eines Assoziationspunktes. Für je 20 Lebenspunkte mit denen der Fisch entlassen wird, wird ein weiterer Assoziationspunkt vergeben.
+Alle 5 Assoziationspunkte steigen die Lebenspunkte des Fisches um eins. Alle 10 steigt die Parade des Fisches um eins an. Außerdem gibt es einen Bonus auf die Ruf-Probe von 1 für je 10 Assoziationspunkte
+	Kosten: Je 2
+Seestern
+Das Rufen des Seesternes erfordert eine Probe auf (MG+IN)/2. 
+Scheitert die Probe geht die Substanz verloren, der Rufende erhält jedoch trotzdem einen Assoziationspunkt.
+Gelingt die Probe wird ein bekannter Seestern herbeigerufen. Dieser hat MTP Lebenspunkte und kann Manapunkte in Höhe der erhaltenen Substanz bei Zielen nach Wahl des Rufenden in einem Umkreis von MTP3 Metern um den Rufenden wiederherstellen. Der Seestern nimmt 10% des vom Rufenden ausgegebenen Manas in sich auf und kann dieses ebenfalls bei einer beliebigen Person wiederherstellen.
+Der Fisch begleitet den Rufenden bis seine Lebenspunkte erschöpft sind.
+Wird der Seestern herbeigerufen führt dies zum Erhalt eines Assoziationspunktes. Für je 10 wiederherstellbare Manapunkte mit denen der Seestern entlassen wird, wird ein weiterer Assoziationspunkt vergeben.
+Alle 10 Assoziationspunkte steigt die Anzahl der wiederherstellbaren Manapunkte um eins. Außerdem steigt der Anteil des vom Seestern wiederverwerteten Manas alle 20 Assoziationspunkte um eins an. Außerdem gibt es einen Bonus auf die Ruf-Probe von 1 für je 20 Assoziationspunkte.
+	Kosten: Je 2
+Der Zauber ist nicht von der Wasserversorgung abhängig. 
+	Dauer: 64
+	Kosten: 3
+
+ 
+Wasserpeitsche
+Voraussetzungen:
+	Wasser
+	MG: 22
+	ERF: 17
+Lässt einen Schwall Wasser peitschenartig vor dem Zaubernden zuschlagen.
+Das Ziel des Zaubers darf nicht weiter als MTP/2 Meter von einer Stelle mit Wasser oder vom Zaubernden entfernt sein. Es erhält Schaden in Höhe von MTP Punkten. 
+Wird eine Stelle mit Wasser als Medium für den Angriff verwendet darf sich diese wiederum nicht weiter als 2,5 MTP Meter weit vom Zaubernden entfernt befinden.
+Es wird eine um 20 erleichterte Zielen-Probe durchgeführt festzustellen ob der Zauber trifft. Wird eine Wasserstelle als Ausgang für den Zauber verwendet reduziert sich die um bei der Zielen-Probe verwendete Erleichterung auf 10.
+	Dauer: 6
+	Kosten: 4
+ 
+Wasserstrahl
+Voraussetzungen:
+	MG: 26
+WK: 33
+	WAH: 25
+Schickt einen Strahl von Wasser mit großem Druck auf das Ziel des Zaubers.
+Der Stahl richtet 1,5 MTP Punkte Schaden an und wirft das Ziel ZWZ/5 Meter zurück. Außerdem reduziert es AU, ZWZ und MNAU des Ziels um ZWZ %. 
+Der Zauber dauert immer eine ganze Kampfrunde. 
+Es ist keine Zielen-Probe erforderlich.
+Der Zauber hat unter Wasser keine Wirkung.
+	Dauer: Eine Runde
+	Kosten: 10
+
+ 
+Wasserstrudel
+Voraussetzungen:
+	Wasser
+	MG: 49
+	WK: 54
+IN: 36
+ERF: 38
+LV: 5
+Der Zauber erschafft einen großen Strudel im Wasser.
+Wer sich im Wasser befindet wird von dem Strudel mitgerissen. Die führt zu einem Schaden von 2 MTP Punkten und zum weitgehenden Orientierungsverlust. Nur durch eine Wahrnehmungsprobe (WAH) kann die Orientierung während des Zaubers und der direkt anschließenden Runde wiedergewonnen werden.
+Der Strudel hat einen Durchmesser von MTP Metern, zieht aber in einem Gebiet das MTP Meter weiter nach außen reicht schon zu seinem Schlund. Wer angezogen wird bewegt sich jede Kampfrunde MTP/2 Meter auf die Mitte des Strudels zu und hat nur ein Viertel Bewegungsreichweite, wenn er sich gegen den Strudel stemmt.  
+Der Strudel wird durch einmaliges Wirken für MTP/4 Kampfrunden erschaffen. Es bedarf nur eines einmaligen Kostenaufgebotes, es müssen jedoch konstant 22 ZWZ, ohne Übergangszeit, für den Erhalt des Strudels aufgewendet werden.
+Der Zauber ist nur im Wasser möglich.
+	Dauer: 82/ 22
+	Kosten: 46

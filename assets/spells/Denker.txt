@@ -1,0 +1,138 @@
+Blackout
+Denker
+	MG: 42
+	KL: 38
+	ERF: 30
+Der Zauber lässt das Ziel des Zaubers drei seiner Zauber temporär vergessen.
+Der Zauber wirkt für MTP/3 Runden.
+Wird durch Blackout ein vertiefter Zauber vergessen, erstreckt sich das Vergessen auch auf die Grundform des Zaubers.
+Durch Blackout kann das vollenden eines bereits begonnenen Zaubers nicht verhindert werden.
+Der Zauberende muss sich innerhalb von MTP Metern zum Ziel des Zaubers befinden und dies sehen.
+	Dauer: 24
+	Kosten: 8
+ 
+Datenerfassung
+Voraussetzungen:
+	Denker
+	MG: 37
+	KL: 52
+	WAH: 34
+	LV: 3
+Der Zauber lässt den Zaubernden sehr schnell eine große Menge von Daten erfassen.
+Der Zauber wird auf ein Wissensmedium, also ein Buch, eine große Karte oder einen anderen Wissensspeicher den der Zaubernde normalerweise erfassen könnte angewendet. 
+Nun erlangt der Zaubernde binnen weniger Augenblicke das gesamte im Datenträger vorhandene Wissen. erhält für ein paar Minuten das komplette Wissen, welches in diesem Medium steckt, vergisst dieses danach aber wieder.
+Ein Buch muss dazu beispielsweise einfach nur sehr schnell durchgeblättert werden, eine Karte oder eine Zeichnung angesehen werden. 
+	Dauer: 33
+	Kosten: 12
+ 
+Gedächtnisbild
+Voraussetzungen:
+	Denker
+	MG: 38
+	KL: 34
+	ERF: 34
+Erschafft ein Hologramm einer Person, eines Ortes oder eines Gegenstandes den der Denker bereits gesehen hat. 
+Er muss dafür den Gegenstand der Projektion real gesehen haben, also keine Projektion eines anderen Denkers oder ein Bild. 
+Die Projektion befindet sich ca. einen Meter vor dem Denker ca. 1 Meter hoch in der Luft Schwebend.
+Das Bild kann mit einem wirken bis zu einer Minute aufrechterhalten werden. Soll das Bild darüber hinaus bestehen bleiben, müssen die Kostend es Zaubers erneut entrichtet werden.
+	Dauer: 15
+	Kosten: 3
+ 
+Gedankenpalast
+Voraussetzungen:
+	Denker
+	MG: 42
+	KL: 52
+	ERF: 44
+Der Zauber erlaubt es dem Zaubernden sich intensiv mit seinen Erinnerungen zu beschäftigen.
+Spielerisch umgesetzt wird dies indem der Spieler des Zaubernden eine kurze, 2-3 Minuten, Privataudienz beim Spielleiter erhält und Fragen zu dem bereits geschehenen stellen darf. Dabei wird nichts erklärt sondern schlicht der Hergang des bisher geschehenen rekonstruiert. Es dürfen Detailfragen zu gesehenem gestellt werden, joch nicht zu Hintergrundinformationen die der Zaubernde in der Vergangenheit nicht bekommen haben kann.
+	Dauer: 44
+	Kosten 13
+ 
+Geliehenes Wissen
+Voraussetzungen:
+	 Denker
+MG:	40	46
+KL:	59	64
+IN:	48	52
+LV:	3	5
+Mit dem Zauber kann der Zauber temporär auf ein Wissensgebiet zurückgreifen, das er eigentlich nicht beherrscht. Die einzige Einschränkung für das Wissensgebiet liegt darin, dass es von einem anderen Denker beherrscht werden muss.
+Die generell verfügbaren Wissensgebiete können mit den geringeren Anforderungen für einen Zeitraum von KL Minuten zur verfügbar gemacht werden, mit den höheren Anforderungen sogar für KL/10 Stunden. Spezielleren Wissensgebiete oder Fakten können nur mit den höheren Anforderungen und nur für KL/10 Minuten erlangt werden. Nach dem Ablauf des Zaubers verschwindet das Wissen aus dem Bewusstsein des Zaubernden als ob es nie da gewesen wäre.
+Dauer:	105	320
+Kosten:	16	22
+
+Genialer Einfall
+Voraussetzungen:
+	Denker
+MG: 22	
+KL: 32
+ERF: 31
+Durch den Zauber erhält der Zaubernde einen gottgesandten Geistesblitz.
+Der Zaubernde muss angeben, zu welchem Problem er einen hilfreichen Tipp bekommen möchte und bekommt diesen dann vom Spielleiter. Das Problem zu dem der Einfall erfolgt kann sollte recht spezifisch benannt werden z.B. einen hilfreichen Tipp bei einem Rätsel oder ob ein bestimmter Zauber anzuwenden wäre.
+Es kann dabei nur Hilfe bei Problemen gegeben werden bei denen hinreichende Informationen vorliegen. Die Frage welcher Weg in einem Labyrinth zu wählen ist kann durch den Zauber also nur dann beantwortet werden, wenn es bereits eine hinreichende Anzahl von Hinweisen gegeben hat.
+Zusätzlich kann der Zauber nur (KL+ERF)/30 Mal pro Spielsitzung angewandt werden. 
+	Dauer: 86
+	Kosten: 7
+
+Leerer Geist
+Denker
+Mit der Technik leert der Denker seinen Geist, legt alle Verstandesaktivität ab und öffnet sich dem was ihn umgibt. Indem er das tut wird er aufmerksamer und fähiger wahrzunehmen aber unfähig zu handeln.
+Die Wahrnehmung des Denkers weitet sich auf alle Ebenen aus und kann Bewegungen und Veränderungen wie im Zeitraffer verfolgen. Gleichzeitig wird er völlig unfähig seinen Beobachtungen eine Bedeutung zuzuschreiben, sondern nimmt einfach nur wahr.
+Auch die bewusste Kontrolle über seinen Körper und seine Magie endet. Der Körper wird sanft hinabgleiten und dann in einer sitzenden oderliegenden Position verharren. Daher nehmen Denker meist schon bevor sie diese Technik verwenden eine geeignete, bodennahe Haltung an.
+Die Technik wird meist nach wenigen Stunden beendet, es kann jedoch auch vorher ein Wort festgelegt werden auf das der Denker binnen eins-zwei Minuten zu seinem Bewusstsein zurückkehrt.
+	Dauer: 200
+  
+Papierschnitt
+Voraussetzungen:
+	Denker
+	MG: 30
+	ERF: 25
+	5 Wissensgebiete
+Der Zauber fügt einem Ziel einen Papierschnitt zu.
+Um den Zauber durchführen zu können muss sich das Ziel innerhalb eines Radius von MTP Metern um den Zaubernden befinden und der Zaubernde muss das Ziel sehen.
+Der Zauber ist nicht als Angriff erkennbar. Statt dessen ist der Papierschnitt direkt vorhanden. Der Zauber kann daher nicht durch eine Magieparade abgewehrt werden.
+Papierschnitt fügt dem getroffenen MTP/2 Schaden zu. 
+Es wird mit einer Probe auf MG*3/2 geprüft ob der Zauber trifft.
+Nur Denker können versuchen den Zauber durch eine Magieparade abzuwehren.
+	Dauer: 9
+	Kosten: 2
+ 
+Temporäre Datenerfassung
+Voraussetzungen:
+	Denker
+	MG: 23
+	KL: 42
+	WAH: 22
+Der Zauber lässt den Zaubernden sehr schnell eine große Menge von Daten erfassen.
+Der Zauber wird auf ein Wissensmedium, also ein Buch, eine große Karte oder einen anderen Wissensspeicher den der Zaubernde normalerweise erfassen könnte angewendet. Nun erlangt der Zaubernde binnen weniger Augenblicke das gesamte im Datenträger vorhandene Wissen.
+Ein Buch muss dazu beispielsweise einfach nur sehr schnell durchgeblättert werden, eine Karte oder eine Zeichnung angesehen werden. 
+Der Zaubernde erhält, dass so gewonnene Wissen jedoch nur für MTP Minuten und vergisst es danach wieder.
+	Dauer: 13
+	Kosten: 2
+ 
+Wissensinfektion
+Denker
+	MG: 20/44
+	ERF: 30/52
+	KL:30/62
+	LV: 0/3
+Der Zauber hilft dabei schnell Informationen zu einem anderen Wesen vom Anderen Ort weiter zu geben.
+Die Informationen werden durch eine Art von Telepatie für die Körperkontakt notwendig ist weiter gegeben. Der Zauber kann entweder verwendet werden um kleinere Informationen weiterzugeben, in diesem Fall ist der erste Satz an Voraussetzungen zu erfüllen, oder sogar um jemandem ein Wissensgebiet zu vermitteln. Hierfür ist der zweite Satz an Anforderungen notwendig.
+Wird nur eine geringe Menge an Informationen übertragen beläuft sich die Dauer des Zaubers auf 20 und die Kosten auf 3.
+Um einem anderen Wesen vom Anderen Ort ein Wissensgebiet, das der Denker beherrscht, zu lehren, muss der Schüler mindestens eine Klugheit (KL) von 30 besitzen. Für jedes Weitere Wissensgebiet das durch Wissensinfektion vermittelt werden soll steigen die Anforderungen für den Schüler um je 10 KL an.
+Außerdem muss der Lernende die GP-Kosten für das Erlernen des Wissensgebietes zahlen. Es fallen jedoch nur GP Kosten in der Höhe an, in der sie auch ein Denker zahlen müsste.
+	Dauer: 20/200
+	Kosten: 3/30
+ 
+Zauber erkennen
+Voraussetzungen:
+	Denker/Mental
+	KL: 40
+	IN: 34
+	WAH: 32
+	ERF: 38
+Der Zauber ermöglicht es dem Zaubernden den Zauber eines anderen der über mehrere Runden gewirkt wird zu erkennen.
+Um den Zauber durchführen zu können muss der zaubernde den Wirker des zu erkennenden Zaubers sehen können. 
+Gelingt der Zauber wird dem zaubernden mitgeteilt welchen Zauber der Andere wirkt. Außerdem erhält er eine sehr grobe Zusammenfassung des Effekts des Zaubers.
+	Dauer: 8
+	Kosten: 2

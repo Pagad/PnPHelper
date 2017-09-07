@@ -1,0 +1,365 @@
+Mental
+Mentaldschinn sind in ihrer Art etwas Besonderes. Durch ihre Fähigkeiten nehmen sie sich nicht nur am Anderen Ort sondern auch in unserer Welt immer als Teil von etwas wahr, da sie konstant einen Hauch der fernen Gedanken anderer Wahrnehmen. Vielleicht liegt es am Trost dieses fernen Echos von Nähe, dass sie trotz der enormen Belastung, die dieses Echo auf sie ausübt nicht in den Wahnsinn treibt.
+Mentaldschinn sind fühlen sich in einer Gruppe mit anderen Wesen vom Anderen Ort am wohlsten. Sie öffnen sich fremden schnell, was ja auch notwendig ist um die Verbindung zwischen den Gedanken herzustellen. Sind sie alleine und vielleicht sogar von Menschen abgeschnitten fühlen sie sich schnell unwohl. Sie verhalten sich dann auch in Abwesenheit echter Gefahr leicht fahrig und ängstlich.
+Mentaldschinn werden beschworen um die Verbindung zwischen mehreren Wesen vom Anderen herzustellen und zu halten. Diese unsichtbare, beständige Kommunikation ermöglicht viele der Strategien, die vom englischen Vormachtstellung in der Welt ermöglichen.
+Darüber hinaus sind Mentaldschinn in der Lage, ein fernes Echo fremder Gedanken zu vernehmen, und auch in begrenztem Umfang Einfluss auf fremde Geister zu nehmen vor allem, wenn sie telepathisch mit ihnen verbunden sind.
+Die Telepathie der Mentaldschinn kommt normalerweise nur zustande, wenn beide Seiten es wünschen. Und auch dann werden nur bewusste Gedanken vom Anderen wirklich wahrgenommen. Um die Verbindung zu jemandem herzustellen müssen sich der Mentaldschinn und dieser zusätzlich in die Augen sehen. Ist die Verbindung erst einmal hergestellt kann sie auch über große Distanzen, bis zu MTP/2 Kilometer, hinweg aufrecht gehalten werden. Es ist nicht möglich, nicht einmal für andere Mentaldschinn eine solche gedankliche Verbindung abzuhören. 
+Doch ihre Fähigkeiten reichen sogar noch weiter. Mentaldschinn können außer sich selbst bis zu fünf Wesen vom Anderen Ort gedanklich verbinden, sodass sich alle untereinander gedanklich sprechen können. Es ist dem Mentaldschinn möglich nur mit einem der anderen verbundenen zu kommunizieren, und mental verbundene könne nur mit dem Mentaldscinn der die Verbindung herstellt kommunizieren, es ist aber nicht möglich das andere Teilnehmer unter Ausschluss des Restes Kommunizieren.
+Des Weitern sind Mentaldschinn in der Lage Portale zu erschaffen und durch diese Teleportationen durchzuführen.
+Mentaldschinn können immer nur ein Gedankenfeld gleichzeitig aufrechterhalten. Wird ein Zweites erstellt bricht das Erste automatisch zusammen. 
+
+
+Auge des Irrsinns
+Voraussetzungen:
+	Mental
+MG: 35
+	ERF: 46
+	WK: 68
+	LV: 5
+Der Zauber Gaukelt dem Ziel des Zaubers vor, dass es einem gigantischen, eindringlichen Auge gegenübersteht, dass bis in sein allerinnerstes blickt und vor dem die Essenz und alle Vergangenheit offenbart liegt. Dieser Zustand hält für den betroffenen für eine Ewigkeit an, sodass sich die meisten in der Unendlichkeit und Macht des Auges oder in der Schuld der eigenen Vergangenheit verlieren. 
+Die so Misshandelten verlieren für eine begrenzte Dauer von 1W20 Runden den Verstand und handeln rein intuitiv. Das kann natürlich zu ganz unterschiedlichen Ergebnissen führen. Wie genau der Betroffenen reagiert hängt stark vom Charakter des Betroffenen und seinen vergangenen Erlebnissen ab. Die meisten die sich vor dem Auge verlieren werden sich in Embryonalhaltung oder ähnlich defensiv zusammenkauern, andere werden aggressiv und beginnen ziellos um sich zu schlagen wieder andere reden wirr. Je schlimmer die Vergangenheit und ihre Ereignisse an jemandem zehren und je schwächer der Geist des betroffenen ist desto stärker wird der Effekt des Zaubers sein. 
+Der Zauber kann nicht durch eine Magieparade abgewehrt werden. Ein Wurf auf (MR+KL+WK) /5 zeigt ob dem Zauber widerstanden werden kann oder nicht. 
+Bei einem kritischen Treffer wird der Widerstand gegen den Zauber um 5 pro Wert unter sechs erschwert, d.h. Bei einer 5 um 5, bei einer 4 um 10, etc... . Wird der Widerstandswurf verpatzt so ist ein permanenter Schaden wahrscheinlich.
+Mit dem Zauber schickt der Mentaldschinn seine gesamte Kraft auf ein Ziel, er kann folglich in der Zeit keinen anderen Zauber oder Telepathie wirken oder aufrechterhalten.
+Der Zaubernde muss dem Ziel des Zaubers direkt in die Augen sehen um den Zauber nach der Vorbereitung zu aktivieren. Dazu hat er eine Kampfrunde Zeit. Um den vorbereiteten Zauber darüber hinaus zu erhalten ist pro Kampfrunde eine MAT-Probe und 4 MP notwendig.
+	Dauer: 45
+	Kosten: 32
+
+Aura des Sinnesraubes (Bst.)
+ 
+Blinzelsatz
+Voraussetzungen:
+	Mental
+	MG: 34
+	WK: 28
+	WAH: 36
+	IN: 26
+Der Zauber teleportiert den Zaubernden eine Strecke von bis zu 10 MTP Metern weit teleportieren. Das Ziel des Teleportes muss der Zaubernde jedoch in gerader Linie erreichen können ohne gegen Hindernisse zu stoßen.
+	Dauer: 25
+	Kosten: 6
+ 
+Blinzelschritt
+Voraussetzungen:
+	Entweder Element: Mental
+	Oder Kultur: GB
+	Und
+	MG: 28
+	WAH: 32
+	IN: 26
+Der Zauber teleportiert den Zaubernden eine kurze Strecke.
+Der Zauber kann den Zaubernden eine Strecke von MTP Metern weit teleportieren. Das Ziel des Teleportes muss der Zaubernde jedoch in gerader Linie erreichen können ohne gegen Hindernisse zu stoßen.
+Der Zauber kann nur ein Mal pro Kampfrunde verwendet werden.
+	Dauer: 6
+	Kosten: 3
+ 
+Blinzelschritt II
+Voraussetzungen:
+	Mental
+	MG: 38
+	WAH: 39
+	IN: 34
+Der Zauber teleportiert den Zaubernden eine kurze Strecke.
+Der Zauber kann den Zaubernden eine Strecke von MTP Metern weit teleportieren. Das Ziel des Teleportes muss der Zaubernde weder sehen noch muss er es in gerader Linie erreichen können. Würde ihn der Teleport jedoch in ein Hindernis befördern muss er die vollen Kosten Zahlen ohne dass ein Effekt eintritt.
+Der Zauber kann bis zu zwei Mal pro Kampfrunde verwendet werden.
+	Dauer: 6
+	Kosten: 2
+ 
+Blinzelschritt III
+Voraussetzungen:
+	Mental
+	MG: 54
+	WK: 43
+	WAH: 44
+	IN: 44
+	LV: 3
+Der Zauber teleportiert den Zaubernden eine kurze Strecke.
+Der Zauber kann den Zaubernden eine Strecke von MTP Metern weit teleportieren. Das Ziel des Teleportes muss der Zaubernde weder sehen noch muss er es in gerader Linie erreichen können. Würde ihn der Teleport jedoch in ein Hindernis befördern muss er die vollen Kosten Zahlen ohne dass ein Effekt eintritt.
+Der Blinzelschritt kann vorbereitet werden und dann als defensive Aktion verwendet werden. Um den defensiven Einsatz vorzubereiten muss die volle Dauer und ein MP aufgebrachte werden. Es bedarf keiner MAT-Probe. Um nun den Blinzelschritt als defensive Aktion einzusetzen muss eine MAT-Probe durchgeführt werden. Gelingt sie muss der zaubernde 2 MP aufbringen um sich instantan bis zu MTP Meter weit weg zu bringen. Auf diese Weise kann den meisten Zaubern sicher entkommen werden.
+Der Zauber kann nur ein Mal pro Kampfrunde defensiv verwendet werden.
+	Dauer: 5
+	Kosten: 2
+	Vertiefungskosten: 4/5
+
+ 
+Erzwungene Telepatie (Bst)
+
+ 
+Gedankenfeld der Eile
+Voraussetzungen:
+	Mental
+	MG: 41
+	ERF: 31
+	REA: 38
+	IN: 43
+Der Zauber steigert die Geschwindigkeit aller die mit dem Zaubernden telepathisch verbunden sind.
+Diese Geschwindigkeitserhöhung bewirkt eine Steigerung von AU, ZWZ und MNAU um MTP/3.
+Um den Zauber aufrecht zu halten bedarf es eines rundlichen Einsatzes von 18 ZWZ und 4 MP.
+Der Zaubernde ist von dieser Steigerung selbst mit betroffen.
+	Dauer: 44/18
+	Kosten: 11/4
+
+ 
+Gedankenfeld der gesteigerten Vorsicht
+Voraussetzungen:
+	Mental
+	MG: 41
+	KL: 32
+	REA: 34
+	WAH: 34
+	IN: 43
+Der Zauber steigert die Vorsicht aller die mit dem Zaubernden telepathisch verbunden sind.
+Dadurch achten diese mehr auf ihre Umgebung und ihre Stellung zu anderen die in den Kampf verwickelt sind. Dies bewirkt eine Steigerung von PA, MPA und AW um MTP/3 und von PAW und MPAW um zwei.
+Um den Zauber aufrecht zu halten bedarf es eines rundlichen Einsatzes von 18 ZWZ und 4 MP.
+Der Zaubernde ist von dieser Steigerung selbst mit betroffen.
+	Dauer: 42/18
+	Kosten: 11/4
+ 
+Gedankenfeld der gesteigerten Zaubereffizienz
+Voraussetzungen:
+	Mental
+	MG: 47
+	KL: 39
+	IN: 52
+Der Zauber steigert die Effizienz mit der alle die mit dem Zaubernden telepathisch verbunden sind ihr Mana beim Zaubern verwenden.
+Dadurch gelingt es ihnen die Kosten aller Zauber um 10% zu reduzieren.
+Um den Zauber aufrecht zu halten bedarf es eines rundlichen Einsatzes von 18 ZWZ und 4 MP.
+Der Zaubernde ist von dieser Steigerung selbst mit betroffen.
+	Dauer: 42/18
+	Kosten: 11/4
+
+ 
+Gedankenfeld der Konzentration
+Voraussetzungen:
+	Mental
+	MG: 41
+	KL: 39
+	IN: 43
+Der Zauber steigert die Konzentration aller die mit dem Zaubernden telepathisch verbunden sind.
+Diese Konzentrationserhöhung bewirkt eine Steigerung von MAT und MPA um MTP/3 und von MTP und MPAW um eins.
+Um den Zauber aufrecht zu halten bedarf es eines rundlichen Einsatzes von 18 ZWZ und 4 MP.
+Der Zaubernde ist von dieser Steigerung selbst mit betroffen.
+	Dauer: 42/18
+	Kosten: 11/4
+ 
+Gedankenfeld der Präzision
+Voraussetzungen:
+	Mental
+	MG: 41
+	WAH: 42
+	IN: 43
+Der Zauber steigert die Präzision aller die mit dem Zaubernden telepathisch verbunden sind.
+Diese Präzisionssteigerung entsteht, da sie ihr Ziel klarer und fokussierter sehen. Dies bewirkt eine Steigerung von MAT und AT um MTP/5 und von ZI um MTP/2.
+Um den Zauber aufrecht zu halten bedarf es eines rundlichen Einsatzes von 18 ZWZ und 4 MP.
+Der Zaubernde ist von dieser Steigerung selbst mit betroffen.
+	Dauer: 42/18
+	Kosten: 11/4
+ 
+Gedankenfeld des wahren Kriegers
+Voraussetzungen:
+	Mental
+	MG: 41
+	ERF: 35
+	IN: 43
+	MUT: 38
+Der Zauber steigert den Kampfgeist aller die mit dem Zaubernden telepathisch verbunden sind.
+Dies bewirkt, dass sie ihren Körper gezielter und kraftvoller einsetzen. Daraus resultiert eine Steigerung von AT und PA um MTP/3 und von TP und PAW um eins.
+Um den Zauber aufrecht zu halten bedarf es eines rundlichen Einsatzes von 18 ZWZ und 4 MP.
+Der Zaubernde ist von dieser Steigerung selbst mit betroffen.
+	Dauer: 42/18
+	Kosten: 11/4
+ 
+Gedankenunterstützung der unwahrscheinlichen Konzentration
+Voraussetzungen:
+	Mental
+	MG: 54
+	KL: 42
+	WK:46
+	IN: 48
+Der Zauber lässt den Zaubernden einem anderen Wesen vom Anderen Ort mit dem er telepathisch verbunden ist bei einem Zauber helfen.
+Die Gedankenunterstützung lässt den Zaubernden sich und alles um ihn herum vollkommen vergessen. Er nimmt nur noch seine Verbindung zu dem Wesen vom Anderen Ort mit dem er telepathisch verbunden ist und dessen Geist wahr. Diesen stützt er so gut er kann damit sich dieser vollkommen auf eine einzige Aufgabe konzentrieren kann, Zaubern.
+Auch das Ziel des Zaubers vergisst alles um sich herum und konzentriert sich einzig und allein auf den Zauber, den es gerade wirkt. Durch die gemeinsamen Mühen der beiden Zaubernden, halbiert sich die ZWZ des Zaubers, die Kosten des Zaubers sinken auf 2/3 des ursprünglichen Wertes und die Erfolgswahrscheinlichkeit (MAT) des Zaubers steigt um 2 MTP, des helfenden.
+Aufgrund der unwahrscheinlichen Konzentration die mit dem Zauber einhergeht muss der Zaubernde alle anderen telepathischen Verbindungen fallenlassen und auch alle gehaltenen Zauber aufgeben. Das Ziel des Zaubers kann gehaltene Zauber erhalten. Beide sind diese Runde nicht in der Lage eine defensive Aktion durchzuführen.
+	Dauer: 42
+	Kosten: 6
+ 
+Gehirnwäsche
+Voraussetzungen:
+	Mental
+MG: 45
+	ERF: 45
+	MK:55
+LV: 5
+Der Zauber verwirrt den Geist des Zieles so, dass dieser den Zaubernden dessen Freunde für seine Verbündeten und dessen Gegner für die seinen hält. Folglich wird er alles Tun um seinen neuen Freunden zu helfen sich zu verteidigen. 
+Das Ziel des Zaubers hat eine freie Magieparade (MPA), die nicht zu seinen üblichen Aktionen zählt. Misslingt diese so hat er zu Beginn jeder Runde, ab der Zweiten, die Möglichkeit sich durch eine erfolgreiche Magieresistenz-Probe (MR) von dem Zauber zu befreien. 
+Der Zauber endet sofort wenn ein vermeintlicher Freund den Verzauberten angreift.
+	Dauer: 65
+	Kosten: 30
+
+Geisterradar
+Voraussetzungen:
+	Mental
+	MG: 30
+	IN: 32
+	ERF: 26
+Der Zauber lässt den Zaubernden für einen Augenblick die Stärke und Position aller Wesen vom Anderen Ort im Radius von 2 MTP Metern spüren.
+Die Position kann dabei auf etwa einen Meter genau bestimmt werden. Je höher das Magiegeschick (MG) des Zaubernden ist, desto Präziser wird die Position erkannt.
+Die Stärke der Wesen wird nur den Kategorien: Kobold, Foliot, Dschinn, Arfit, Marid, Höheres Wesen angegeben.
+Befinden sich viele Wesen dicht beieinander kann die Menge der vorhandenen Wesen nur überschlagen werden.
+	Dauer: 17
+	Kosten: 4
+ 
+Lügendetektor
+Voraussetzungen: 
+Mental
+	MG:30
+	ERF:44
+	IN:44
+	KL:35
+Erschafft eine Kugel mit einem Durchmesser von etwa 10 cm die auf Augenhöhe des Beschwörers in ein bisschen Distanz zu diesem schwebt. Im Normalzustand ist die Kugel grün, sie verfärbt sich jedoch rot, wenn jemand in der Nähe lügt.
+Um den Zauber aufrecht zu halten ist ein Aufwand von 6 ZWZ, ohne Übergangszeit, und 1 MP pro  Minute notwendig.
+	Dauer: 40
+	Kosten: 1/ 1 Min.
+ 
+Lügendetektor II
+Voraussetzungen: 
+Mental
+	MG:30
+	ERF:44
+	IN:44
+	KL:35
+Erschafft eine Kugel mit einem Durchmesser von etwa 10 cm die auf Augenhöhe des Beschwörers in ein bisschen Distanz zu diesem schwebt. Bei der Erschaffung des Zaubers wird ein Ziel gewählt, auf den der Lügendetektor eingestellt ist. Im Normalzustand ist die Kugel grün, sie verfärbt sich jedoch rot, wenn derjenige auf den der Detektor eingestellt ist lügt.
+Um den Zauber aufrecht zu halten ist ein Aufwand von 6 ZWZ, ohne Übergangszeit, und 1 MP pro  Minute notwendig.
+	Dauer: 40
+	Kosten: 1/ 1 Min.
+	Vertiefungskosten: 1/2
+
+ 
+Optische Illusion (Bst.)
+
+
+Optische Gruppenillusion (Bst.)
+
+ 
+Portale erschaffen
+Voraussetzungen:
+	Mental
+	MG: 45
+	ERF: 35
+Der Zauber erschafft eine magische Marke die der Portaldschinn nutzen kann um sich zu dieser Marke zu teleportieren. Der Teleport zu einer Marke zerstört diese Marke, sodass jede Marke nur einmal genutzt werden kann. 
+Um einen Ausgang zu legen berührt der Zaubernde den Boden, einen Teil der Umgebung, oder ein Objekt und wirkt den Zauber. Der Zauber Manifestiert sich dann als kleiner Runenkreis mit etwa 3 Zentimetern Durchmesser. Dieser kann nur auf der höchsten Ebene, des Zaubernden und nur von Poartaldschinn gesehen werden.
+Es gibt zwei Arten von Portalen, bleibende und temporäre. Zum erschaffen von Portalen stehen dem Zaubernden MTP Portalpunkte zu Verfügung. Sind diese aufgebraucht kann der Mentaldschinn keine weiteren Marker erschaffen.
+Das erschaffen eines bleibenden Portales, das für eine beliebig lange Zeit bestehen bleibt, selbst wenn sich der Schöpfer zwischenzeitlich am Anderen Ort befindet, verbraucht, solange der Ausgang besteht, drei Portalpunkte. Das erschaffen des Ausgangs kostet zudem 8 MP und 72 ZWZ.
+Temporäre Ausgänge können für nur einen Portalpunkt, 5MP und 57 ZWZ erstellt werden. Sie haben jedoch den Nachteil, dass sie sich nach MTP Stunden oder wenn der Zaubernde an den Anderen Ort zurückkehr aufgelöst werden.
+ Wird die Stelle an der ein Portalmarker liegt beschädigt, wird das Portal nur dann zerstört, wenn die Bindung	zwischen Ausgang und Objekt komplett durchtrennt wir. Ein Stuhl könnte zerschlagen werden, eine Wand müsste niedergerissen werden, und Bindungen an den Erdboden sind quasi unzerstörbar. 
+Dauer: 72/57
+	Kosten: 8/5
+Jeder Ausgang kann nur ein einziges Mal, aber mit beliebig vielen Personen auf einmal benutzt werden. Dazu müssen alle Personen die mitgenommen werden sollen den Zaubernden berühren. Der Aufwand den der Teleport darstellt hängt stark von der Anzahl der zu transportierenden Personen ab. Pro Person inklusive des Zaubernden selbst steigen die Kosten um 4 MP an und die Dauer erhöht sich um 12 pro Person. Dazu kommt ein basisaufwand von 4 MP und eine Basisdauer von 64 ZWZ. 
+	Dauer: 64/10 pro Person
+	Kosten: 4/4 pro Person
+ 
+Schmerzfrequenz
+Voraussetzungen:
+	Mental
+	MG: 28
+	WK: 34
+	IN: 32
+	ERF: 31
+Der Zauber greift direkt, das zentrale Nervensystem des Opfers an und verursacht so einen furchtbaren Kopfschmerz. Dieser kann jeden betreffen, den der Zaubernde klar sehen kann. Eine entfernte Silhouette geht nicht. 
+Schmerzfrequenz richtet einen Schaden von MTP/2 an und reduziert die dem Opfer diese Runde zur Verfügung stehende AU, ZWZ und MNAU um MTP.
+Die AU, ZWZ, MNAU Reduktion steigert sich auch bei mehrfachem Einsatz des Zaubers gegen ein Ziel in einer Runde nicht.
+	Dauer: 18
+	Kosten: 7
+ 
+Schmerzfrequenz II
+Voraussetzungen:
+	Mental
+	MG: 28
+	WK: 34
+	IN: 32
+	ERF: 31
+Der Zauber greift direkt, das zentrale Nervensystem des Opfers an und verursacht so einen furchtbaren Kopfschmerz. Dieser kann jeden betreffen, den der Zaubernde klar sehen kann. Eine entfernte Silhouette geht nicht. 
+Schmerzfrequenz richtet einen Schaden von MTP an und reduziert die dem Opfer diese Runde zur Verfügung stehende AU, ZWZ und MNAU um MTP.
+Die AU, ZWZ, MNAU Reduktion steigert sich auch bei mehrfachem Einsatz des Zaubers gegen ein Ziel in einer Runde nicht.
+	Dauer: 15
+	Kosten: 6
+	Vertiefungskosten: 3/4
+ 
+Sinn Rauben
+Voraussetzungen:
+	Mental
+MG: 	32	42	52
+WK:	44	49	54
+IN:	41	45	49
+LV:	0	0	3
+Der Zauber entzieht dem Ziel des Zaubers einen seiner Sinne.
+Das kann entweder das hören, fühlen, schmecken, riechen oder das Sehen auf der ersten Ebene sein. Es ist am einfachsten jemandem den Geruchs-/ oder Geschmackssinn zu entziehen, da diese Sinne allgemein am wenigsten Beachtung finden. Danach kommt das Gehör. Am schwierigsten ist es jemandem die Sicht oder das Gefühl zu entziehen.
+Magische Wesen und Zauberer haben zudem noch einen sechsten, magischen Sinn, auf diesen kann mit dem Zauber jedoch nicht zugegriffen werden sodass auch die Wahrnehmung auf den magischen Ebenen nicht betroffen werden kann.
+Um den Zauber wirken zu können muss der Zaubernde das Ziel sehen können und dieses darf nicht mehr als MTP Meter vom Zaubernden entfernt sein.
+Der Zauber wirkt für MTP/4 Kampfrunden auf das Ziel. Die Auswirkungen des Zaubers hängen stark davon ab welcher der Sinne betroffen wird.
+	Dauer:  36/ 43/ 52
+	Kosten: 9/ 12/ 16
+
+ 
+Sinn übernehmen
+Voraussetzungen:
+	Mental
+MG: 	45	52	60
+WK:	46	52	58
+IN:	41	45	49
+KL:	36	41	48
+LV:	3	3	5
+Durch den Zauber erlangt der Zaubernde die Kontrolle über einen der Sinne des Ziels des Zaubers.
+Von dem Zauber kann entweder das Hören, Fühlen, Schmecken, Riechen oder das Sehen auf der ersten Ebene sein. Es ist am einfachsten Kontrolle über den Geruchs-/ oder Geschmackssinn zu erlangen, da diese Sinne allgemein am wenigsten Beachtung finden. Danach kommt das Gehör. Am schwierigsten ist es Kontrolle über die Sicht oder das Gefühl zu erlangen.
+Magische Wesen und Zauberer haben zudem noch einen sechsten, magischen Sinn, auf diesen kann mit dem Zauber jedoch nicht zugegriffen werden sodass auch die Wahrnehmung auf den magischen Ebenen nicht betroffen werden kann.
+Um den Zauber wirken zu können muss der Zaubernde das Ziel sehen können und dieses darf nicht mehr als MTP Meter vom Zaubernden entfernt sein.
+Der Zauber wirkt für MTP/5 Kampfrunden auf das Ziel. Die Auswirkungen des Zaubers hängen stark davon ab welcher der Sinne betroffen wird.
+	Dauer:  64/ 76/ 90
+	Kosten: 17/ 21/ 26
+ 
+Verwirren
+Voraussetzungen:
+	Mental
+	MG: 30
+	ERF: 28
+	IN: 30
+Verwirren sorgt dafür, dass das Ziel des Zaubers sich nicht mehr gut orientieren oder konzentrieren kann. 
+Die Verwirrung führt dazu, dass alle Würfe des Verwirrten um 20% erschwert werden. 
+Der Zauber kann auf bis zu MTP/2 Meter Abstand gewirkt werden. Der Verzauberte hat in jeder Runde, außer der der Verzauberung, die Möglichkeit sich durch eine Magieresistenz-Probe (MR) die Chance sich von der Wirkung des Zaubers zu befreien.
+Um den Zauber aufrecht zu halten bedarf es eines rundlichen Einsatzes von 7 ZWZ, ohne Übergangszeit, und 2 MP:
+	Dauer: 22/ 7
+	Kosten: 6/ 2
+ 
+Verwirren II
+Voraussetzungen:
+	Mental
+	MG: 46
+	WK: 36
+	ERF: 34
+	IN: 36
+	LV: 3
+Verwirren sorgt dafür, dass das Ziel des Zaubers sich nicht mehr gut orientieren oder konzentrieren kann. 
+Die Verwirrung führt dazu, dass alle Würfe des Verwirrten um 40% erschwert werden. 
+Der Zauber kann auf bis zu MTP Meter Abstand gewirkt werden. Der Verzauberte hat in jeder Runde, außer der der Verzauberung, die Möglichkeit sich durch eine Magieresistenz-Probe (MR) die Chance sich von der Wirkung des Zaubers zu befreien.
+Um den Zauber aufrecht zu halten bedarf es eines rundlichen Einsatzes von 4 ZWZ, ohne Übergangszeit, und 2 MP:
+	Dauer: 22/ 4
+	Kosten: 5/ 2
+	Vertiefungskosten: 4/6
+ 
+
+Vollkommene Illusion (Bst)
+
+Vollkommene Gruppenillusion (Bst.)
+
+Zauber erkennen
+Voraussetzungen:
+	Denker/Mental
+	KL: 40
+	IN: 34
+	WAH: 32
+	ERF: 38
+Der Zauber ermöglicht es dem Zaubernden den Zauber eines anderen der über mehrere Runden gewirkt wird zu erkennen.
+Um den Zauber durchführen zu können muss der Zaubernde den Wirker des zu erkennenden Zaubers sehen können. 
+Gelingt der Zauber wird dem Zaubernden mitgeteilt welchen Zauber der Andere wirkt. Außerdem erhält er eine sehr grobe Zusammenfassung des Effekts des Zaubers.
+	Dauer: 8
+	Kosten: 2
+
