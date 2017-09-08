@@ -95,13 +95,22 @@ public class HeroSceneController {
 
 	@FXML
 	private ListView<Gift> selectedGifts;
+	
+    @FXML
+    private Label giftCostLabel;
 
 	@FXML
 	private ListView<Handicap> selectedHandicap;
-
+	
+    @FXML
+    private Label handicapCostLabel;
+    
 	@FXML
 	private ListView<Domain> selectedDomain;
-
+	
+    @FXML
+    private Label domainCostLabel;
+    
 	@FXML
 	private TextArea infoArea;
 
@@ -119,6 +128,12 @@ public class HeroSceneController {
 
 	private Hero h;
 	private int gp = 500;
+
+	private int domainCost;
+
+	private int giftCost;
+
+	private int handicapCost;
 
 	@FXML
 	void initialize() {
@@ -229,6 +244,16 @@ public class HeroSceneController {
 				updateMinMaxBonusValues();
 				updateGPCount();
 				updateSumValue();
+			}
+		});
+		
+		spellList.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Spell>() {
+			@Override
+			public void changed(ObservableValue<? extends Spell> arg0, Spell arg1, Spell s) {
+				if(s!=null) {
+					System.out.println("Titel: " + s.getTitel()+"\n condition:"+s.getPrecondition()+":\n text:" +s.getText()+"\n cost:"+s.getCost());
+					System.out.println("\n\n\n\n");
+				}
 			}
 		});
 
@@ -345,6 +370,12 @@ public class HeroSceneController {
 		sum += (layerChoiceBox.getValue() - 1) * 10;
 
 		gp = Hero.START_GP - sum;
+		
+		//Gift,Handicap,Domain
+		
+		gp = gp -giftCost -domainCost + handicapCost;
+		
+		// setText
 		gPCount.setText("" + gp);
 		if (gp < 0) {
 			gPCount.setTextFill(Color.RED);
@@ -436,6 +467,12 @@ public class HeroSceneController {
 			selectedDomain.getItems().add(d);
 			allDomains.getItems().remove(d);
 		}
+		domainCost=0;
+		for(Domain d: selectedDomain.getItems()) {
+			domainCost+=d.getCost();
+		}
+		domainCostLabel.setText(""+domainCost);
+		updateGPCount();
 	}
 
 	@FXML
@@ -445,6 +482,12 @@ public class HeroSceneController {
 			selectedGifts.getItems().add(g);
 			allGifts.getItems().remove(g);
 		}
+		giftCost=0;
+		for(Gift g: selectedGifts.getItems()) {
+			giftCost+=g.getCost();
+		}
+		giftCostLabel.setText(""+giftCost);
+		updateGPCount();
 	}
 
 	@FXML
@@ -454,6 +497,12 @@ public class HeroSceneController {
 			selectedHandicap.getItems().add(h);
 			allHandicaps.getItems().remove(h);
 		}
+		handicapCost=0;
+		for(Handicap h: selectedHandicap.getItems()) {
+			handicapCost+=h.getCost();
+		}
+		handicapCostLabel.setText(""+handicapCost);
+		updateGPCount();
 	}
 
 	@FXML
@@ -463,6 +512,12 @@ public class HeroSceneController {
 			allDomains.getItems().add(d);
 			selectedDomain.getItems().remove(d);
 		}
+		domainCost=0;
+		for(Domain d: selectedDomain.getItems()) {
+			domainCost+=d.getCost();
+		}
+		domainCostLabel.setText(""+domainCost);
+		updateGPCount();
 	}
 
 	@FXML
@@ -472,6 +527,12 @@ public class HeroSceneController {
 			allGifts.getItems().add(g);
 			selectedGifts.getItems().remove(g);
 		}
+		giftCost=0;
+		for(Gift g: selectedGifts.getItems()) {
+			giftCost+=g.getCost();
+		}
+		giftCostLabel.setText(""+giftCost);
+		updateGPCount();
 	}
 
 	@FXML
@@ -481,6 +542,12 @@ public class HeroSceneController {
 			allHandicaps.getItems().add(h);
 			selectedHandicap.getItems().remove(h);
 		}
+		handicapCost=0;
+		for(Handicap h: selectedHandicap.getItems()) {
+			handicapCost+=h.getCost();
+		}
+		handicapCostLabel.setText(""+handicapCost);
+		updateGPCount();
 	}
 
 	@FXML

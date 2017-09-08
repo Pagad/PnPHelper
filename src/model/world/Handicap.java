@@ -15,9 +15,9 @@ public class Handicap implements Conditional{
 	private String text;
 	
 
-	public Handicap(String name, String text, String cost) {
+	public Handicap(String name, String text, int cost) {
 		super();
-		this.cost = 0;
+		this.cost = cost;
 		this.name = name;
 		this.text = text;
 	}

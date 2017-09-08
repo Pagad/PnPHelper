@@ -20,6 +20,8 @@ import model.world.Spell;
 
 public class Reader {
 
+	private static final String NUMBSTRING = "1234567890";
+
 	public static ArrayList<String> readFile(String path) {
 		// Open the file
 		FileInputStream fstream;
@@ -72,17 +74,24 @@ public class Reader {
 	}
 
 	private static Spell convertLinesToSpell(ArrayList<String> spell) {
-		String titel = spell.get(0);
+		
+		int i = 0;
+		while(spell.get(i).length()<3 || spell.get(i).equals(" ")) {
+			i++;
+		}
+		String titel = spell.get(i);
+		i++;
 		String precondition = "\n" + spell.get(2) + "\n";
-		int i = 3;
+		i++; i++;
 		while (spell.get(i).contains(":")) {
 			precondition += spell.get(i) + "\n";
 			i++;
 		}
-		precondition = precondition.replace("\t", "");
+		//precondition = precondition.replace("\t", "");
 		String text = "";
-		for (i = i; i < spell.size() - 3; i++) {
+		while( i< spell.size() - 3) {
 			text += spell.get(i) + "\n";
+			i++;
 		}
 
 		String power = null;
@@ -91,6 +100,17 @@ public class Reader {
 
 		Spell s = new Spell(titel, precondition, text, cost, duration, power);
 
+		//sysout
+		
+		if(titel.equals(" ")) {
+			for(String ss: spell) {
+				System.out.println(ss);
+			}
+		}
+		
+		
+		
+		
 		return s;
 	}
 
@@ -138,13 +158,15 @@ public class Reader {
 	public static void readHeroBaseValues(String path) {
 		ArrayList<String> strings = readFile(path);
 		for (String s : strings) {
-			if (s.contains("=")) { // create notBaseValue
-				String[] split = s.split("=");
-				Value v = new Value(split[0], split[1]);
-				Hero.fightValueList.add(v);
-			} else {
-				Value v = new Value(s, s);
-				Hero.baseValueList.add(v);
+			if(!s.equals("")) { //emptyLines arent Values 
+				if (s.contains("=")) { // create notBaseValue
+					String[] split = s.split("=");
+					Value v = new Value(split[0], split[1]);
+					Hero.fightValueList.add(v);
+				} else {
+					Value v = new Value(s, s);
+					Hero.baseValueList.add(v);
+				}
 			}
 		}
 	}
@@ -184,7 +206,7 @@ public class Reader {
 				for (int j = 1; j < gift.size() - 1; j++) {
 					text += gift.get(j) + "\n";
 				}
-				Gift g = new Gift(gift.get(0), text, gift.get(gift.size() - 1));
+				Gift g = new Gift(gift.get(0), text, costStringToInteger(gift.get(gift.size() - 1)));
 				Gift.allGifts.add(g);
 			}
 		}
@@ -206,11 +228,27 @@ public class Reader {
 				for (int j = 1; j < handicap.size() - 1; j++) {
 					text += handicap.get(j) + "\n";
 				}
-				Handicap h = new Handicap(handicap.get(0), text, handicap.get(handicap.size() - 1));
+				Handicap h = new Handicap(handicap.get(0), text, Reader.costStringToInteger(handicap.get(handicap.size() - 1)));
 				Handicap.allHandicaps.add(h);
 			}
 		}
 
+	}
+
+	private static int costStringToInteger(String string) {
+		int i=0;
+		int erg=0;
+		while(i<string.length()) {
+			while(i<string.length() && !NUMBSTRING.contains(string.charAt(i)+"")) {
+				i++;
+			}
+			while(i<string.length() && NUMBSTRING.contains(string.charAt(i)+"")) {
+				erg*=10;
+				erg+=string.charAt(i)-48;
+				i++;
+			}
+		}
+		return erg;
 	}
 
 	public static void readDomains(String path) {
@@ -228,7 +266,7 @@ public class Reader {
 				for (int j = 2; j < domain.size(); j++) {
 					text += domain.get(j) + "\n";
 				}
-				Domain d = new Domain(domain.get(0), text, domain.get(2));
+				Domain d = new Domain(domain.get(0), text, costStringToInteger(domain.get(2)));
 				Domain.allDomains.add(d);
 			}
 		}

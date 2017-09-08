@@ -81,8 +81,7 @@ Fliegende Ziele die sich mehr als 5 Meter über dem Boden befinden haben bereits
 	Kosten: 13
 	Vertiefungskosten: 4/5
 
- 
-Du kannst nicht vorbei! 
+Du kannst nicht vorbei
 Voraussetzungen:
 	Erde
 	MR: 46
