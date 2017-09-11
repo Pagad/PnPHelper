@@ -11,6 +11,9 @@ public class Calculator {
 
 	private static final String NUMBSTRING = "0123456789";
 
+	public static void calc(Hero hero, Value v) {
+		calc(hero,v.getTerm());	
+	}
 	public static int calc(Hero hero, Term term) {
 		// correktTest(t1);
 		//System.out.println(hero.getName()+": "+term.getTerm());
@@ -22,7 +25,7 @@ public class Calculator {
 			s = s.replaceAll(v.getName(), v.getNumber().toString());
 		}
 		// delete Spaces
-
+		s.replaceAll(" ","");
 		//
 
 		int result = calc(s,0);
@@ -170,4 +173,5 @@ public class Calculator {
 	public static double round(double zahl, int stellen) {
 		  return (double) ((int)zahl + (Math.round(Math.pow(10,stellen)*(zahl-(int)zahl)))/(Math.pow(10,stellen)));
 		}
+
 }

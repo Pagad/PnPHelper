@@ -8,7 +8,7 @@ public class EditorSceneController {
 
     @FXML
     void backToMainStage(ActionEvent event) {
-    	Main.primStage.setScene(Main.mainScene);
+    	Main.primStage.setScene(Main.mainMenueScene);
     }
 
 }

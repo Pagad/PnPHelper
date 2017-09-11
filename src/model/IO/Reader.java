@@ -57,7 +57,7 @@ public class Reader {
 
 			while (i < strings.size()) {
 				ArrayList<String> spells = new ArrayList<String>();
-				while (i < strings.size() && !(strings.get(i).equals(" ") || strings.get(i).equals(""))) {
+				while (i < strings.size() && !(strings.get(i).equals(" ") || strings.get(i).equals("") || strings.get(i).equals(" ")) ) {
 					spells.add(strings.get(i));
 					i++;
 				}
@@ -83,7 +83,7 @@ public class Reader {
 		i++;
 		String precondition = "\n" + spell.get(2) + "\n";
 		i++; i++;
-		while (spell.get(i).contains(":")) {
+		while ( spell.size() > i &&spell.get(i).contains(":")) {
 			precondition += spell.get(i) + "\n";
 			i++;
 		}

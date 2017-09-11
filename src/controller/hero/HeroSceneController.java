@@ -95,22 +95,22 @@ public class HeroSceneController {
 
 	@FXML
 	private ListView<Gift> selectedGifts;
-	
-    @FXML
-    private Label giftCostLabel;
+
+	@FXML
+	private Label giftCostLabel;
 
 	@FXML
 	private ListView<Handicap> selectedHandicap;
-	
-    @FXML
-    private Label handicapCostLabel;
-    
+
+	@FXML
+	private Label handicapCostLabel;
+
 	@FXML
 	private ListView<Domain> selectedDomain;
-	
-    @FXML
-    private Label domainCostLabel;
-    
+
+	@FXML
+	private Label domainCostLabel;
+
 	@FXML
 	private TextArea infoArea;
 
@@ -122,48 +122,32 @@ public class HeroSceneController {
 
 	@FXML
 	private ListView<Domain> allDomains;
-	
-    @FXML
-    private ListView<Spell> spellList;
+
+	@FXML
+	private ListView<Spell> spellListElement;
+
+	@FXML
+	private ListView<Spell> spellListAllg;
 
 	private Hero h;
 	private int gp = 500;
 
-	private int domainCost;
+	private int domainCost = 0;
 
-	private int giftCost;
+	private int giftCost = 0;
 
-	private int handicapCost;
+	private int handicapCost = 0;
 
 	@FXML
 	void initialize() {
-		//spellList.getItems();
 		loadStuff();
 
 		h = new Hero();
 		gPCount.setText("" + gp);
 
-		ObservableList<String> culturelist = FXCollections.observableArrayList();
-		for (Culture c : Culture.allCultures) {
-			culturelist.add(c.getName());
+		spellListAllg.getItems().addAll(Element.getElementFromName("Allg").getSpells());
 
-		}
-
-		ObservableList<Integer> layerlist = FXCollections.observableArrayList();
-		for (int i = 1; i < 8; i++) {
-			layerlist.add(i);
-		}
-		layerChoiceBox.setItems(layerlist);
-		layerChoiceBox.getSelectionModel().select(0);
-		layerChoiceBox.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Integer>() {
-
-			@Override
-			public void changed(ObservableValue<? extends Integer> observable, Integer oldValue, Integer newValue) {
-				updateGPCount();
-
-			}
-
-		});
+		layerChoiceBox.getSelectionModel().selectedItemProperty().addListener(y -> updateGPCount());
 
 		for (Value v : Hero.baseValueList) {
 			Label nameLabel = new Label(v.getName());
@@ -177,14 +161,7 @@ public class HeroSceneController {
 			MinColumn.getChildren().add(minLabel);
 
 			TextField valueField = new TextField("10");
-			valueField.textProperty().addListener(new ChangeListener<String>() {
-
-				@Override
-				public void changed(ObservableValue<? extends String> observable, String oldValue, String newValue) {
-					valueChange();
-				}
-
-			});
+			valueField.textProperty().addListener(y ->	valueChange());;
 			ValueColumn.getChildren().add(valueField);
 
 			Label maxLabel = new Label("0");
@@ -231,108 +208,62 @@ public class HeroSceneController {
 				Element e = ElementList.getSelectionModel().getSelectedItem();
 				if (elementRadio.isSelected()) {
 					CultureList.getItems().clear();
-						for (Culture c : Culture.allCultures) {
-							if (c.getElements().contains(e)) {
-								CultureList.getItems().add(c);
-							}
+					for (Culture c : Culture.allCultures) {
+						if (c.getElements().contains(e)) {
+							CultureList.getItems().add(c);
 						}
 					}
-				spellList.getItems().clear();
-				if(e!=null) {
-					spellList.getItems().addAll(e.getSpells());
+				}
+				spellListElement.getItems().clear();
+				if (e != null) {
+					spellListElement.getItems().addAll(e.getSpells());
 				}
 				updateMinMaxBonusValues();
 				updateGPCount();
 				updateSumValue();
 			}
 		});
-		
-		spellList.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Spell>() {
-			@Override
-			public void changed(ObservableValue<? extends Spell> arg0, Spell arg1, Spell s) {
-				if(s!=null) {
-					System.out.println("Titel: " + s.getTitel()+"\n condition:"+s.getPrecondition()+":\n text:" +s.getText()+"\n cost:"+s.getCost());
+
+		spellListElement.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, s) -> {
+					System.out.println("Titel: " + s.getTitel() + "\n condition:" + s.getPrecondition() + ":\n text:"
+							+ s.getText() + "\n cost:" + s.getCost());
 					System.out.println("\n\n\n\n");
 				}
-			}
-		});
+		);
 
-		allGifts.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Gift>() {
-			@Override
-			public void changed(ObservableValue<? extends Gift> arg0, Gift arg1, Gift arg2) {
-				if (arg2 != null)
-					infoArea.setText(arg2.getText());
-			}
+		
+		// set infoArea Lambda expression
+		allGifts.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal.getText()));
 
-		});
+		selectedGifts.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal.getText()));
 
-		selectedGifts.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Gift>() {
-			@Override
-			public void changed(ObservableValue<? extends Gift> arg0, Gift arg1, Gift arg2) {
-				if (arg2 != null)
-					infoArea.setText(arg2.getText());
-			}
+		allHandicaps.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal.getText()));
 
-		});
+		selectedHandicap.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal.getText()));
 
-		allHandicaps.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Handicap>() {
-			@Override
-			public void changed(ObservableValue<? extends Handicap> arg0, Handicap arg1, Handicap arg2) {
-				if (arg2 != null)
-					infoArea.setText(arg2.getText());
-			}
+		allDomains.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal.getText()));
 
-		});
-
-		selectedHandicap.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Handicap>() {
-			@Override
-			public void changed(ObservableValue<? extends Handicap> arg0, Handicap arg1, Handicap arg2) {
-				if (arg2 != null)
-					infoArea.setText(arg2.getText());
-			}
-
-		});
-
-		allDomains.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Domain>() {
-			@Override
-			public void changed(ObservableValue<? extends Domain> arg0, Domain arg1, Domain arg2) {
-				if (arg2 != null)
-					infoArea.setText(arg2.getText());
-			}
-
-		});
-
-		selectedDomain.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<Domain>() {
-			@Override
-			public void changed(ObservableValue<? extends Domain> arg0, Domain arg1, Domain arg2) {
-				if (arg2 != null)
-					infoArea.setText(arg2.getText());
-
-			}
-
-		});
+		selectedDomain.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal.getText()));
 
 		updateGPCount();
 	}
 
 	private void loadStuff() {
 
+		for (int i = 1; i < 8; i++) {
+			layerChoiceBox.getItems().add(i);
+		}
+		layerChoiceBox.getSelectionModel().select(0);
+
 		CultureList.getItems().addAll(Culture.allCultures);
 
 		ElementList.getItems().addAll(Element.allElements);
 
-		for (Gift g : Gift.allGifts) {
-			allGifts.getItems().add(g);
+		allGifts.getItems().addAll(Gift.allGifts);
 
-		}
+		allHandicaps.getItems().addAll(Handicap.allHandicaps);
 
-		for (Handicap h : Handicap.allHandicaps) {
-			allHandicaps.getItems().add(h);
-		}
-
-		for (Domain d : Domain.allDomains) {
-			allDomains.getItems().add(d);
-		}
+		allDomains.getItems().addAll(Domain.allDomains);
 
 	}
 
@@ -367,14 +298,13 @@ public class HeroSceneController {
 			String s = ((TextField) (ValueColumn.getChildren().get(i))).getText();
 			sum += Integer.parseInt(s);
 		}
-		sum += (layerChoiceBox.getValue() - 1) * 10;
-
+		sum += (layerChoiceBox.getSelectionModel().getSelectedItem() - 1) * 10;
 		gp = Hero.START_GP - sum;
-		
-		//Gift,Handicap,Domain
-		
-		gp = gp -giftCost -domainCost + handicapCost;
-		
+
+		// Gift,Handicap,Domain
+
+		gp = gp - giftCost - domainCost + handicapCost;
+
 		// setText
 		gPCount.setText("" + gp);
 		if (gp < 0) {
@@ -396,7 +326,7 @@ public class HeroSceneController {
 	@FXML
 	void elementRadioChoose(ActionEvent event) {
 		ElementList.getItems().addAll(Element.allElements);
-		Culture cs =CultureList.getSelectionModel().getSelectedItem();
+		Culture cs = CultureList.getSelectionModel().getSelectedItem();
 		CultureList.getItems().clear();
 		for (Culture c : Culture.allCultures) {
 			if (c.getElements().contains(ElementList.getSelectionModel().getSelectedItem())) {
@@ -467,11 +397,11 @@ public class HeroSceneController {
 			selectedDomain.getItems().add(d);
 			allDomains.getItems().remove(d);
 		}
-		domainCost=0;
-		for(Domain d: selectedDomain.getItems()) {
-			domainCost+=d.getCost();
+		domainCost = 0;
+		for (Domain d : selectedDomain.getItems()) {
+			domainCost += d.getCost();
 		}
-		domainCostLabel.setText(""+domainCost);
+		domainCostLabel.setText("" + domainCost);
 		updateGPCount();
 	}
 
@@ -482,11 +412,11 @@ public class HeroSceneController {
 			selectedGifts.getItems().add(g);
 			allGifts.getItems().remove(g);
 		}
-		giftCost=0;
-		for(Gift g: selectedGifts.getItems()) {
-			giftCost+=g.getCost();
+		giftCost = 0;
+		for (Gift g : selectedGifts.getItems()) {
+			giftCost += g.getCost();
 		}
-		giftCostLabel.setText(""+giftCost);
+		giftCostLabel.setText("" + giftCost);
 		updateGPCount();
 	}
 
@@ -497,11 +427,11 @@ public class HeroSceneController {
 			selectedHandicap.getItems().add(h);
 			allHandicaps.getItems().remove(h);
 		}
-		handicapCost=0;
-		for(Handicap h: selectedHandicap.getItems()) {
-			handicapCost+=h.getCost();
+		handicapCost = 0;
+		for (Handicap h : selectedHandicap.getItems()) {
+			handicapCost += h.getCost();
 		}
-		handicapCostLabel.setText(""+handicapCost);
+		handicapCostLabel.setText("" + handicapCost);
 		updateGPCount();
 	}
 
@@ -512,11 +442,11 @@ public class HeroSceneController {
 			allDomains.getItems().add(d);
 			selectedDomain.getItems().remove(d);
 		}
-		domainCost=0;
-		for(Domain d: selectedDomain.getItems()) {
-			domainCost+=d.getCost();
+		domainCost = 0;
+		for (Domain d : selectedDomain.getItems()) {
+			domainCost += d.getCost();
 		}
-		domainCostLabel.setText(""+domainCost);
+		domainCostLabel.setText("" + domainCost);
 		updateGPCount();
 	}
 
@@ -527,11 +457,11 @@ public class HeroSceneController {
 			allGifts.getItems().add(g);
 			selectedGifts.getItems().remove(g);
 		}
-		giftCost=0;
-		for(Gift g: selectedGifts.getItems()) {
-			giftCost+=g.getCost();
+		giftCost = 0;
+		for (Gift g : selectedGifts.getItems()) {
+			giftCost += g.getCost();
 		}
-		giftCostLabel.setText(""+giftCost);
+		giftCostLabel.setText("" + giftCost);
 		updateGPCount();
 	}
 
@@ -542,11 +472,11 @@ public class HeroSceneController {
 			allHandicaps.getItems().add(h);
 			selectedHandicap.getItems().remove(h);
 		}
-		handicapCost=0;
-		for(Handicap h: selectedHandicap.getItems()) {
-			handicapCost+=h.getCost();
+		handicapCost = 0;
+		for (Handicap h : selectedHandicap.getItems()) {
+			handicapCost += h.getCost();
 		}
-		handicapCostLabel.setText(""+handicapCost);
+		handicapCostLabel.setText("" + handicapCost);
 		updateGPCount();
 	}
 
@@ -554,15 +484,19 @@ public class HeroSceneController {
 	void startTest(ActionEvent event) {
 		testOutput.setText("teset1");
 		for (Value v : Main.hero.getValues()) {
-			testOutput.setText(testOutput.getText() + "\n" + v.getName() + ": " + v.getNumber() + "=> "
+			testOutput.setText(testOutput.getText() + "\n" + v.getName() + " : " + v.getNumber() + "=> "
 					+ Calculator.calc(Main.hero, v.getTerm()));
 		}
-		Main.hero.calculateValues();
+		/*
+		 * Main.hero.calculateValues(); //Throw erroers? TODO:fix String s=""; for(Value
+		 * v: Hero.fightValueList) { s+=v.getName()+ "==" +v.getTerm().getTerm()+"\n"; }
+		 * testOutput.setText(s);
+		 */
 	}
 
 	@FXML
 	void goToTermScene(ActionEvent event) {
-		Main.primStage.setScene(SpellBookScene.spellBookScene);
+		//Main.primStage.setScene(SpellBookScene.spellBookScene);
 	}
 
 	@FXML
@@ -570,4 +504,8 @@ public class HeroSceneController {
 
 	}
 
+	@FXML
+	void backButtonClicked(ActionEvent event) {
+		Main.primStage.setScene(Main.mainMenueScene);
+	}
 }

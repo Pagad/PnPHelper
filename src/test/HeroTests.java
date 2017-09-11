@@ -3,8 +3,10 @@ package test;
 import org.junit.Assert;
 import org.junit.Test;
 
+import main.Main;
 import model.Hero;
 import model.Value;
+import model.IO.Reader;
 import model.calculator.Calculator;
 import model.calculator.Term;
 
@@ -185,6 +187,32 @@ public class HeroTests {
 		Assert.assertTrue(h1.getValuebyName("AT").getNumber() ==(double)((h1.getValuebyName("KK").getNumber()+h1.getValuebyName("GE").getNumber())/2));
 		
 		
+	}
+	
+	@Test
+	public void addValueTest() {
+		Reader.readHeroBaseValues(Main.HERO_BASE_VALUES_PATH);
+		
+		Hero h1= new Hero("tt");		
+		
+		Value v1 = new Value("MK",20);
+		
+		h1.addValue(v1);
+		int anz = h1.getValues().size();
+		
+		Value v2 = new Value("MK",40);
+		
+		h1.addValue(v2);
+		
+		Assert.assertEquals(anz, h1.getValues().size());
+		for(Value v : h1.getValues()) {
+			System.out.println(v.getName()+ "  " + v.getTerm().getTerm()+ "==" +v.getNumber());
+		}
+		
+		for(Value v : h1.getValues()) {
+			Calculator.calc(h1, v);
+			System.out.println(v.getName()+ "  " + v.getTerm().getTerm()+ "==" +v.getNumber());
+		}
 	}
 
 }

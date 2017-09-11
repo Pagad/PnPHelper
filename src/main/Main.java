@@ -23,7 +23,7 @@ public class Main extends Application{
 
 	public static final String ELEMENTS_PATH = "assets\\Elements.txt";
 	private static final String CULTURES_PATH = "assets\\Cultures.txt";
-	private static final String HERO_BASE_VALUES_PATH = "assets\\HeroBaseValues.txt";
+	public static final String HERO_BASE_VALUES_PATH = "assets\\HeroBaseValues.txt";
 	private static final String GIFTS_PATH = "assets\\Gifts.txt";
 	private static final String HANDICAP_PATH = "assets\\Handicaps.txt";
 	private static final String DOMAINS_PATH ="assets\\Domains.txt";
@@ -31,7 +31,7 @@ public class Main extends Application{
 	
 	public static Stage primStage=null;
 	public static Hero hero;
-	public static Scene mainScene;
+	public static Scene mainMenueScene;
 	
 	
 	public static void main(String[] args) {
@@ -82,8 +82,8 @@ public class Main extends Application{
 		FXMLLoader fXMLLoader = new FXMLLoader((scene.getClass().getResource("mainScene.fxml")));
 		try {
 			Parent mainPane = fXMLLoader.load();
-			mainScene = new Scene(mainPane);
-			primStage.setScene(mainScene);
+			mainMenueScene = new Scene(mainPane);
+			primStage.setScene(mainMenueScene);
 			primStage.setMinHeight(250);
 			primStage.setMinWidth(200);
 			//primStage.setMaxHeight(500);

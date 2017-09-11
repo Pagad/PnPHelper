@@ -37,5 +37,13 @@ public class Value implements Conditional{
 		return term;
 	}
 
+	public void setNumber(int n) {
+		number = n;		
+	}
+
+	public void setTerm(Term term2) {
+		term=term2;
+	}
+
 
 }

@@ -19,6 +19,8 @@ public class Hero {
 	
 	public Hero(String name) {
 		this.name=name;
+		ValueList.addAll(baseValueList);
+		ValueList.addAll(fightValueList);
 	}
 
 	public Hero() {
@@ -26,12 +28,23 @@ public class Hero {
 	}
 
 	public void addValue(Value value) {
-		ValueList.add(value);
+		boolean newValue=true;
+		for(Value v: ValueList) {
+			if(v.getName().equals(value.getName())) {
+				v.setNumber(value.getNumber());
+				v.setTerm(value.getTerm());
+				newValue=false;
+			} 
+		}
+		if(newValue) ValueList.add(value);
 	}
 	
 	public Value getValuebyName(String name) {
 		for(Value v : ValueList) {
-			if(v.getName().equals(name)) return v;
+			if(v.getName().equals(name)) {
+				Calculator.calc(this,v);
+				return v;
+			}
 		}
 		return null;
 	}
@@ -53,5 +66,15 @@ public class Hero {
 
 	public void setName(String name) {
 		this.name = name;
+	}
+	
+	public boolean setValue(String name, int vv) {
+		for(Value v: ValueList) {
+			if(v.getName().equals(name)) {
+				v.setNumber(vv);
+				return true;
+			}
+		}
+		return false;
 	}
 }
