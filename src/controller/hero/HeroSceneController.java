@@ -23,6 +23,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.control.ToggleGroup;
 import javafx.scene.input.InputMethodEvent;
 import javafx.scene.input.MouseEvent;
+import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
@@ -94,6 +95,18 @@ public class HeroSceneController {
 	private TextArea testOutput;
 
 	@FXML
+	private HBox LPMPBox;
+
+	@FXML
+	private VBox MagieBox;
+
+	@FXML
+	private VBox NahkampfBox;
+
+	@FXML
+	private VBox AllgemeineBox;
+
+	@FXML
 	private ListView<Gift> selectedGifts;
 
 	@FXML
@@ -141,9 +154,9 @@ public class HeroSceneController {
 	@FXML
 	void initialize() {
 		loadStuff();
-		
+
 		infoArea.setWrapText(true);
-		
+
 		hero = new Hero();
 		gPCount.setText("" + gp);
 
@@ -163,7 +176,8 @@ public class HeroSceneController {
 			MinColumn.getChildren().add(minLabel);
 
 			TextField valueField = new TextField("10");
-			valueField.textProperty().addListener(y ->	valueChange());;
+			valueField.textProperty().addListener(y -> valueChange());
+			;
 			ValueColumn.getChildren().add(valueField);
 
 			Label maxLabel = new Label("0");
@@ -222,27 +236,31 @@ public class HeroSceneController {
 			}
 		});
 
-		
-		
-
-		
 		// set infoArea Lambda expression
-		
-		spellListElement.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) ->  infoArea.setText(newVal.getText()));
-		
-		spellListAllg.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) ->  infoArea.setText(newVal.getText()));
-		
-		allGifts.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal.getText()));
 
-		selectedGifts.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal==null?"":newVal.getText()));
+		spellListElement.getSelectionModel().selectedItemProperty()
+				.addListener((arg, oldVal, newVal) -> infoArea.setText(newVal == null ? "" : newVal.getText()));
 
-		allHandicaps.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal.getText()));
+		spellListAllg.getSelectionModel().selectedItemProperty()
+				.addListener((arg, oldVal, newVal) -> infoArea.setText(newVal == null ? "" : newVal.getText()));
 
-		selectedHandicap.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal==null?"":newVal.getText()));
+		allGifts.getSelectionModel().selectedItemProperty()
+				.addListener((arg, oldVal, newVal) -> infoArea.setText(newVal == null ? "" : newVal.getText()));
 
-		allDomains.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal.getText()));
+		selectedGifts.getSelectionModel().selectedItemProperty()
+				.addListener((arg, oldVal, newVal) -> infoArea.setText(newVal == null ? "" : newVal.getText()));
 
-		selectedDomain.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal==null?"":newVal.getText()));
+		allHandicaps.getSelectionModel().selectedItemProperty()
+				.addListener((arg, oldVal, newVal) -> infoArea.setText(newVal == null ? "" : newVal.getText()));
+
+		selectedHandicap.getSelectionModel().selectedItemProperty()
+				.addListener((arg, oldVal, newVal) -> infoArea.setText(newVal == null ? "" : newVal.getText()));
+
+		allDomains.getSelectionModel().selectedItemProperty()
+				.addListener((arg, oldVal, newVal) -> infoArea.setText(newVal == null ? "" : newVal.getText()));
+
+		selectedDomain.getSelectionModel().selectedItemProperty()
+				.addListener((arg, oldVal, newVal) -> infoArea.setText(newVal == null ? "" : newVal.getText()));
 
 		updateGPCount();
 	}
@@ -269,20 +287,21 @@ public class HeroSceneController {
 	protected void valueChange() {
 		if (CultureList.getSelectionModel().getSelectedItem() != null
 				&& ElementList.getSelectionModel().getSelectedItem() != null) {
-			hero.setCwE(CultureWithElement.getCultureWithElement(CultureList.getSelectionModel().getSelectedItem(), ElementList.getSelectionModel().getSelectedItem()));
+			hero.setCwE(CultureWithElement.getCultureWithElement(CultureList.getSelectionModel().getSelectedItem(),
+					ElementList.getSelectionModel().getSelectedItem()));
 		}
-		if(hero.getCwE()!=null) {
-			
-			for(int i=0;i< Hero.baseValueList.size();i++) {
-				int numb = Integer.parseInt(((TextField) (ValueColumn.getChildren().get(i+2))).getText());
-				hero.addValue(new Value(Hero.baseValueList.get(i).getName(),numb)); 
-			}	
-			
+		if (hero.getCwE() != null) {
+
+			for (int i = 0; i < Hero.baseValueList.size(); i++) {
+				int numb = Integer.parseInt(((TextField) (ValueColumn.getChildren().get(i + 2))).getText());
+				hero.addValue(new Value(Hero.baseValueList.get(i).getName(), numb));
+			}
+
 			updateMinMaxBonusValues();
 			updateGPCount();
 			updateSumValue();
+			updateFightValues();
 		}
-		
 
 	}
 
@@ -293,7 +312,7 @@ public class HeroSceneController {
 		}
 
 		for (int i = 2; i < NameColumn.getChildren().size(); i++) {
-			Value valuebyName = hero.getValuebyName(Hero.baseValueList.get(i-2).getName());
+			Value valuebyName = hero.getValuebyName(Hero.baseValueList.get(i - 2).getName());
 			Label label = new Label("" + valuebyName.getNumber());
 			label.setFont(new Font(16));
 			label.setTextAlignment(TextAlignment.CENTER);
@@ -357,15 +376,15 @@ public class HeroSceneController {
 			CultureWithElement cWe = CultureWithElement.getCultureWithElement(c, e);
 
 			hero.setCwE(cWe);
-			
+
 			updateSumValue();
-			
+
 			while (MinColumn.getChildren().size() > 2) { // clearLists
 				MinColumn.getChildren().remove(2);
 				MaxColumn.getChildren().remove(2);
 				BonusColumn.getChildren().remove(2);
 			}
-			
+
 			for (int i = 2; i < NameColumn.getChildren().size(); i++) { // setValues
 																		// from
 																		// cWe
@@ -502,11 +521,90 @@ public class HeroSceneController {
 			testOutput.setText(testOutput.getText() + "\n" + v.getName() + " : " + v.getNumber() + "=> "
 					+ Calculator.calc(hero, v.getTerm()));
 		}
+
+		updateFightValues();
+
+	}
+
+	private void updateFightValues() {
+		// clearAll
+		LPMPBox.getChildren().clear();
+
+		while (MagieBox.getChildren().size() > 2) { // clearLists
+			MagieBox.getChildren().remove(2);
+		}
+		while (NahkampfBox.getChildren().size() > 2) { // clearLists
+			NahkampfBox.getChildren().remove(2);
+		}
+		while (AllgemeineBox.getChildren().size() > 2) { // clearLists
+			AllgemeineBox.getChildren().remove(2);
+		}
+
+		// LPMP
+
+		String lpString = hero.getValuebyName("LP").getName() + ": " + hero.getValuebyName("LP").getNumber();
+		Label LPlabel = new Label(lpString);
+		LPlabel.setFont(new Font(14));
+		LPlabel.setTextAlignment(TextAlignment.CENTER);
+		
+		String mpString = hero.getValuebyName("MP").getName() + ": " + hero.getValuebyName("MP").getNumber();
+		Label MPlabel = new Label(mpString);
+		MPlabel.setFont(new Font(14));
+		MPlabel.setTextAlignment(TextAlignment.CENTER);
+
+		LPMPBox.getChildren().add(LPlabel);
+		LPMPBox.getChildren().add(MPlabel);
+
+		// create Lists
+		ArrayList<String> MagieListe = new ArrayList<String>();
+		MagieListe.add("MAT");
+		MagieListe.add("MPA");
+		MagieListe.add("MPAW");
+		MagieListe.add("MTP");
+		MagieListe.add("ZWZ");
+
+		ArrayList<String> NahkampfListe = new ArrayList<String>();
+		NahkampfListe.add("AT");
+		NahkampfListe.add("PA");
+		NahkampfListe.add("PAW");
+		NahkampfListe.add("TP");
+		NahkampfListe.add("AU");
+
+		ArrayList<String> AllgemeinListe = new ArrayList<String>();
+		AllgemeinListe.add("AW");
+		AllgemeinListe.add("ZI");
+		AllgemeinListe.add("INI");
+
+		
+
+		for (String s : MagieListe) {
+			String String = hero.getValuebyName(s).getName() + ": " + hero.getValuebyName(s).getNumber();
+			Label label = new Label(String);
+			label.setFont(new Font(14));
+			label.setTextAlignment(TextAlignment.CENTER);
+			MagieBox.getChildren().add(label);
+		}
+
+		for (String s : NahkampfListe) {
+			String String = hero.getValuebyName(s).getName() + ": " + hero.getValuebyName(s).getNumber();
+			Label label = new Label(String);
+			label.setFont(new Font(14));
+			label.setTextAlignment(TextAlignment.CENTER);
+			NahkampfBox.getChildren().add(label);
+		}
+
+		for (String s : AllgemeinListe) {
+			String String = hero.getValuebyName(s).getName() + ": " + hero.getValuebyName(s).getNumber();
+			Label label = new Label(String);
+			label.setFont(new Font(14));
+			label.setTextAlignment(TextAlignment.CENTER);
+			AllgemeineBox.getChildren().add(label);
+		}
 	}
 
 	@FXML
 	void goToTermScene(ActionEvent event) {
-		//Main.primStage.setScene(SpellBookScene.spellBookScene);
+		// Main.primStage.setScene(SpellBookScene.spellBookScene);
 	}
 
 	@FXML

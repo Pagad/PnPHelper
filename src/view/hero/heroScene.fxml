@@ -240,7 +240,51 @@
                               <Separator prefWidth="200.0" />
                               <HBox prefHeight="303.0" prefWidth="902.0">
                                  <children>
-                                    <VBox prefHeight="301.0" prefWidth="503.0" />
+                                    <VBox prefHeight="301.0" prefWidth="503.0">
+                                       <children>
+                                          <VBox prefHeight="302.0" prefWidth="319.0">
+                                             <children>
+                                                <HBox fx:id="LPMPBox" prefHeight="30.0" prefWidth="319.0" />
+                                                <Separator prefWidth="200.0" />
+                                                <HBox prefHeight="196.0" prefWidth="319.0">
+                                                   <children>
+                                                      <VBox fx:id="MagieBox" prefHeight="100.0" prefWidth="155.0">
+                                                         <children>
+                                                            <Label text="Magisch">
+                                                               <font>
+                                                                  <Font size="16.0" />
+                                                               </font>
+                                                            </Label>
+                                                            <Separator prefWidth="200.0" />
+                                                         </children>
+                                                      </VBox>
+                                                      <Separator orientation="VERTICAL" prefHeight="200.0" />
+                                                      <VBox fx:id="NahkampfBox" prefHeight="100.0" prefWidth="165.0">
+                                                         <children>
+                                                            <Label text="Physisch">
+                                                               <font>
+                                                                  <Font size="16.0" />
+                                                               </font>
+                                                            </Label>
+                                                            <Separator prefWidth="200.0" />
+                                                         </children>
+                                                      </VBox>
+                                                      <Separator orientation="VERTICAL" prefHeight="200.0" />
+                                                      <VBox fx:id="AllgemeineBox" prefHeight="100.0" prefWidth="165.0">
+                                                         <children>
+                                                            <Label contentDisplay="CENTER" text="Allgemein">
+                                                               <font>
+                                                                  <Font size="16.0" />
+                                                               </font>
+                                                            </Label>
+                                                            <Separator prefWidth="200.0" />
+                                                         </children>
+                                                      </VBox>
+                                                   </children>
+                                                </HBox>
+                                             </children>
+                                          </VBox>
+                                       </children></VBox>
                                     <Separator orientation="VERTICAL" prefHeight="301.0" prefWidth="29.0" />
                                     <VBox prefHeight="100.0" prefWidth="761.0">
                                        <children>

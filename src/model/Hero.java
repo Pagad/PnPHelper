@@ -117,7 +117,6 @@ public class Hero {
 	}
 
 	public void setCwE(CultureWithElement cwE) {
-		System.out.println(cwE);
 		CwE = cwE;
 	}
 

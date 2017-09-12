@@ -12,7 +12,7 @@ public class Calculator {
 	private static final String NUMBSTRING = "0123456789";
 
 	public static void calc(Hero hero, Value v) {
-		calc(hero,v.getTerm());	
+		v.setNumber(calc(hero,v.getTerm()));	
 	}
 	public static int calc(Hero hero, Term term) {
 		// correktTest(t1);
