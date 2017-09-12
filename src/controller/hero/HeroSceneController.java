@@ -129,7 +129,7 @@ public class HeroSceneController {
 	@FXML
 	private ListView<Spell> spellListAllg;
 
-	private Hero h;
+	private Hero hero;
 	private int gp = 500;
 
 	private int domainCost = 0;
@@ -144,7 +144,7 @@ public class HeroSceneController {
 		
 		infoArea.setWrapText(true);
 		
-		h = new Hero();
+		hero = new Hero();
 		gPCount.setText("" + gp);
 
 		spellListAllg.getItems().addAll(Element.getElementFromName("Allg").getSpells());
@@ -198,9 +198,7 @@ public class HeroSceneController {
 					Culture c = CultureList.getSelectionModel().getSelectedItem();
 					ElementList.getItems().addAll(c.getElements());
 				}
-				updateMinMaxBonusValues();
-				updateGPCount();
-				updateSumValue();
+				valueChange();
 			}
 		});
 
@@ -220,9 +218,7 @@ public class HeroSceneController {
 				if (e != null) {
 					spellListElement.getItems().addAll(e.getSpells());
 				}
-				updateMinMaxBonusValues();
-				updateGPCount();
-				updateSumValue();
+				valueChange();
 			}
 		});
 
@@ -238,15 +234,15 @@ public class HeroSceneController {
 		
 		allGifts.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal.getText()));
 
-		selectedGifts.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal.getText()));
+		selectedGifts.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal==null?"":newVal.getText()));
 
 		allHandicaps.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal.getText()));
 
-		selectedHandicap.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal.getText()));
+		selectedHandicap.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal==null?"":newVal.getText()));
 
 		allDomains.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal.getText()));
 
-		selectedDomain.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal.getText()));
+		selectedDomain.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal==null?"":newVal.getText()));
 
 		updateGPCount();
 	}
@@ -271,9 +267,22 @@ public class HeroSceneController {
 	}
 
 	protected void valueChange() {
-		updateGPCount();
-		updateSumValue();
-		updateMinMaxBonusValues();
+		if (CultureList.getSelectionModel().getSelectedItem() != null
+				&& ElementList.getSelectionModel().getSelectedItem() != null) {
+			hero.setCwE(CultureWithElement.getCultureWithElement(CultureList.getSelectionModel().getSelectedItem(), ElementList.getSelectionModel().getSelectedItem()));
+		}
+		if(hero.getCwE()!=null) {
+			
+			for(int i=0;i< Hero.baseValueList.size();i++) {
+				int numb = Integer.parseInt(((TextField) (ValueColumn.getChildren().get(i+2))).getText());
+				hero.addValue(new Value(Hero.baseValueList.get(i).getName(),numb)); 
+			}	
+			
+			updateMinMaxBonusValues();
+			updateGPCount();
+			updateSumValue();
+		}
+		
 
 	}
 
@@ -284,9 +293,8 @@ public class HeroSceneController {
 		}
 
 		for (int i = 2; i < NameColumn.getChildren().size(); i++) {
-			int sum = Integer.parseInt(((TextField) (ValueColumn.getChildren().get(i))).getText());
-			sum += Integer.parseInt(((Label) (BonusColumn.getChildren().get(i))).getText());
-			Label label = new Label("" + sum);
+			Value valuebyName = hero.getValuebyName(Hero.baseValueList.get(i-2).getName());
+			Label label = new Label("" + valuebyName.getNumber());
 			label.setFont(new Font(16));
 			label.setTextAlignment(TextAlignment.CENTER);
 			SumColumn.setAlignment(Pos.CENTER);
@@ -348,12 +356,16 @@ public class HeroSceneController {
 
 			CultureWithElement cWe = CultureWithElement.getCultureWithElement(c, e);
 
+			hero.setCwE(cWe);
+			
+			updateSumValue();
+			
 			while (MinColumn.getChildren().size() > 2) { // clearLists
 				MinColumn.getChildren().remove(2);
 				MaxColumn.getChildren().remove(2);
 				BonusColumn.getChildren().remove(2);
 			}
-
+			
 			for (int i = 2; i < NameColumn.getChildren().size(); i++) { // setValues
 																		// from
 																		// cWe
@@ -486,9 +498,9 @@ public class HeroSceneController {
 	@FXML
 	void startTest(ActionEvent event) {
 		testOutput.setText("teset1");
-		for (Value v : Main.hero.getValues()) {
+		for (Value v : hero.getValues()) {
 			testOutput.setText(testOutput.getText() + "\n" + v.getName() + " : " + v.getNumber() + "=> "
-					+ Calculator.calc(Main.hero, v.getTerm()));
+					+ Calculator.calc(hero, v.getTerm()));
 		}
 	}
 

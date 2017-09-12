@@ -40,9 +40,13 @@ public class Hero {
 		if (newValue)
 			ValueList.add(value);
 	}
-
+	/**
+	 * 
+	 * @param name
+	 * @return final Value (name) with Boni from CultureWithElement and static Boni
+	 */
 	public Value getValuebyName(String name) {
-		for (Value v : ValueList) {
+		for (Value v : getValues()) {
 			if (v.getName().equals(name)) {
 				Calculator.calc(this, v);
 				return v;
@@ -113,6 +117,7 @@ public class Hero {
 	}
 
 	public void setCwE(CultureWithElement cwE) {
+		System.out.println(cwE);
 		CwE = cwE;
 	}
 
