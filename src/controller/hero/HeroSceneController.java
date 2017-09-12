@@ -141,7 +141,9 @@ public class HeroSceneController {
 	@FXML
 	void initialize() {
 		loadStuff();
-
+		
+		infoArea.setWrapText(true);
+		
 		h = new Hero();
 		gPCount.setText("" + gp);
 
@@ -224,15 +226,16 @@ public class HeroSceneController {
 			}
 		});
 
-		spellListElement.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, s) -> {
-					System.out.println("Titel: " + s.getTitel() + "\n condition:" + s.getPrecondition() + ":\n text:"
-							+ s.getText() + "\n cost:" + s.getCost());
-					System.out.println("\n\n\n\n");
-				}
-		);
+		
+		
 
 		
 		// set infoArea Lambda expression
+		
+		spellListElement.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) ->  infoArea.setText(newVal.getText()));
+		
+		spellListAllg.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) ->  infoArea.setText(newVal.getText()));
+		
 		allGifts.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal.getText()));
 
 		selectedGifts.getSelectionModel().selectedItemProperty().addListener ( (arg, oldVal, newVal) -> infoArea.setText(newVal.getText()));
@@ -487,11 +490,6 @@ public class HeroSceneController {
 			testOutput.setText(testOutput.getText() + "\n" + v.getName() + " : " + v.getNumber() + "=> "
 					+ Calculator.calc(Main.hero, v.getTerm()));
 		}
-		/*
-		 * Main.hero.calculateValues(); //Throw erroers? TODO:fix String s=""; for(Value
-		 * v: Hero.fightValueList) { s+=v.getName()+ "==" +v.getTerm().getTerm()+"\n"; }
-		 * testOutput.setText(s);
-		 */
 	}
 
 	@FXML
