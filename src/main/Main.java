@@ -12,6 +12,7 @@ import model.Hero;
 import model.Value;
 import model.IO.Reader;
 import model.calculator.Calculator;
+import model.world.Culture;
 import model.world.CultureWithElement;
 import model.world.Spell;
 import view.editor.EditorScene;
@@ -41,13 +42,7 @@ public class Main extends Application{
 		CultureWithElement.init();
 		Spell.init();
 		
-		hero = new Hero();
-		Value v1 = new Value("MG", 20);
-		hero.addValue(v1);
-		Value v2 = new Value("WK", 30);
-		hero.addValue(v2);
-		Value v3 = new Value("KL", 40);
-		hero.addValue(v3);
+		createTestHero();
 		
 		//create all Scenes:
 		new HeroScene();
@@ -58,6 +53,18 @@ public class Main extends Application{
 		// launch MainScene
 		Main.launch(args);
 		
+	}
+
+	private static void createTestHero() {
+		hero = new Hero();
+		Value v1 = new Value("MG", 20);
+		hero.addValue(v1);
+		Value v2 = new Value("WK", 30);
+		hero.addValue(v2);
+		Value v3 = new Value("KL", 40);
+		hero.addValue(v3);
+		
+		hero.setCwE(CultureWithElement.getCultureWithElement(Culture.allCultures.get(0),Culture.allCultures.get(0).getElements().get(0)));
 	}
 	
 	private static void LoadData() {

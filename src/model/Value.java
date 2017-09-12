@@ -45,5 +45,11 @@ public class Value implements Conditional{
 		term=term2;
 	}
 
+	public Value copy() {
+		Value copy = new Value(this.name,this.term);
+		copy.setNumber(this.number);
+		return copy;
+	}
+
 
 }
