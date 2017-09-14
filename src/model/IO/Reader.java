@@ -8,6 +8,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 
 import model.Hero;
+import model.LvLUp;
 import model.Value;
 import model.calculator.Term;
 import model.world.Culture;
@@ -271,5 +272,14 @@ public class Reader {
 			}
 		}
 
+	}
+
+	public static void readEpNeeded(String path) {
+		ArrayList<String> strings = readFile(path);
+		int i = 0;
+		while (i < strings.size()) {
+			LvLUp.EpNeeded.add(Integer.parseInt(strings.get(i)));
+			i++;
+		}
 	}
 }

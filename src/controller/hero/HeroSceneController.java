@@ -21,6 +21,7 @@ import javafx.scene.control.Separator;
 import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
 import javafx.scene.control.ToggleGroup;
+import javafx.scene.control.Tooltip;
 import javafx.scene.input.InputMethodEvent;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.HBox;
@@ -30,6 +31,7 @@ import javafx.scene.text.Font;
 import javafx.scene.text.TextAlignment;
 import main.Main;
 import model.Hero;
+import model.LvLUp;
 import model.Value;
 import model.IO.Reader;
 import model.calculator.Calculator;
@@ -65,6 +67,15 @@ public class HeroSceneController {
 	private Label gPCount;
 
 	@FXML
+	private TextField EpField;
+
+	@FXML
+	private Button lvlUpButton;
+
+	@FXML
+	private Label LvlCount;
+
+	@FXML
 	private VBox baseValueList;
 
 	@FXML
@@ -95,7 +106,10 @@ public class HeroSceneController {
 	private TextArea testOutput;
 
 	@FXML
-	private HBox LPMPBox;
+	private HBox LPBox;
+
+	@FXML
+	private HBox MPBox;
 
 	@FXML
 	private VBox MagieBox;
@@ -155,9 +169,15 @@ public class HeroSceneController {
 	void initialize() {
 		loadStuff();
 
-		infoArea.setWrapText(true);
+		ValueColumn.setMinSize(50, 1);
 
+		infoArea.setWrapText(true); // TODO: clean ep
 		hero = new Hero();
+		hero.addEP(500);
+		lvlUpButton.setDisable(false);
+		LvlCount.setText(hero.getLvL() + "");
+		EpField.setText(hero.getEP() + "");
+
 		gPCount.setText("" + gp);
 
 		spellListAllg.getItems().addAll(Element.getElementFromName("Allg").getSpells());
@@ -168,31 +188,66 @@ public class HeroSceneController {
 			Label nameLabel = new Label(v.getName());
 			nameLabel.setFont(new Font(16));
 			nameLabel.setTextAlignment(TextAlignment.CENTER);
+			NameColumn.setAlignment(Pos.CENTER);
 			NameColumn.getChildren().add(nameLabel);
 
 			Label minLabel = new Label("0");
 			minLabel.setFont(new Font(16));
 			minLabel.setTextAlignment(TextAlignment.CENTER);
+			MinColumn.setAlignment(Pos.CENTER);
 			MinColumn.getChildren().add(minLabel);
 
-			TextField valueField = new TextField("10");
-			valueField.textProperty().addListener(y -> valueChange());
-			;
+			HBox valueField = new HBox();
+			{
+				TextField valueTextField = new TextField("10");
+				valueTextField.textProperty().addListener(y -> valueChange());
+				valueTextField.setMinWidth(20);
+
+				Button minusButton = new Button("-");
+				minusButton.setFont(new Font(10));
+				minusButton.setMaxWidth(10);
+				minusButton.setOnAction(y -> {
+					try {
+						valueTextField.setText(Integer.parseInt((valueTextField.getText())) - 1 + "");
+					} catch (NumberFormatException e) {
+					}
+				});
+
+				valueField.getChildren().add(minusButton);
+
+				valueField.getChildren().add(valueTextField);
+
+				Button plusButton = new Button("+");
+				plusButton.setFont(new Font(10));
+				plusButton.setMaxWidth(10);
+				plusButton.setOnAction(y -> {
+					try {
+						valueTextField.setText(Integer.parseInt((valueTextField.getText())) + 1 + "");
+					} catch (NumberFormatException e) {
+					}
+				});
+				valueField.getChildren().add(plusButton);
+			}
+			ValueColumn.setAlignment(Pos.CENTER);
 			ValueColumn.getChildren().add(valueField);
 
 			Label maxLabel = new Label("0");
 			maxLabel.setFont(new Font(16));
 			maxLabel.setTextAlignment(TextAlignment.CENTER);
+			MaxColumn.setAlignment(Pos.CENTER);
 			MaxColumn.getChildren().add(maxLabel);
 
 			Label bonusLabel = new Label("0");
 			bonusLabel.setFont(new Font(16));
 			bonusLabel.setTextAlignment(TextAlignment.CENTER);
+			BonusColumn.setAlignment(Pos.CENTER);
 			BonusColumn.getChildren().add(bonusLabel);
 		}
 
 		for (int i = 2; i < NameColumn.getChildren().size(); i++) {
-			int sum = Integer.parseInt(((TextField) ValueColumn.getChildren().get(i)).getText());
+			HBox hh = (HBox) (ValueColumn.getChildren().get(i));
+			TextField h = (TextField) (hh.getChildren().get(1));
+			int sum = Integer.parseInt(h.getText());
 			Label sumLabel = new Label("" + sum);
 			sumLabel.setFont(new Font(16));
 			sumLabel.setTextAlignment(TextAlignment.CENTER);
@@ -213,6 +268,7 @@ public class HeroSceneController {
 					ElementList.getItems().addAll(c.getElements());
 				}
 				valueChange();
+				updateMinMaxBonusValues();
 			}
 		});
 
@@ -233,6 +289,7 @@ public class HeroSceneController {
 					spellListElement.getItems().addAll(e.getSpells());
 				}
 				valueChange();
+				updateMinMaxBonusValues();
 			}
 		});
 
@@ -293,11 +350,15 @@ public class HeroSceneController {
 		if (hero.getCwE() != null) {
 
 			for (int i = 0; i < Hero.baseValueList.size(); i++) {
-				int numb = Integer.parseInt(((TextField) (ValueColumn.getChildren().get(i + 2))).getText());
-				hero.addValue(new Value(Hero.baseValueList.get(i).getName(), numb));
-			}
+				HBox hh = (HBox) (ValueColumn.getChildren().get(i + 2));
+				TextField h = (TextField) (hh.getChildren().get(1));
+				try {
+					int numb = Integer.parseInt(h.getText());
+					hero.addValue(new Value(Hero.baseValueList.get(i).getName(), numb));
+				} catch (NumberFormatException e) {
 
-			updateMinMaxBonusValues();
+				}
+			}
 			updateGPCount();
 			updateSumValue();
 			updateFightValues();
@@ -325,8 +386,9 @@ public class HeroSceneController {
 	private void updateGPCount() {
 		int sum = 0;
 		for (int i = 2; i < ValueColumn.getChildren().size(); i++) {
-			String s = ((TextField) (ValueColumn.getChildren().get(i))).getText();
-			sum += Integer.parseInt(s);
+			HBox hh = (HBox) (ValueColumn.getChildren().get(i));
+			TextField h = (TextField) (hh.getChildren().get(1));
+			sum += Integer.parseInt(h.getText());
 		}
 		sum += (layerChoiceBox.getSelectionModel().getSelectedItem() - 1) * 10;
 		gp = Hero.START_GP - sum;
@@ -388,21 +450,30 @@ public class HeroSceneController {
 			for (int i = 2; i < NameColumn.getChildren().size(); i++) { // setValues
 																		// from
 																		// cWe
+				String valueName = ((Label) NameColumn.getChildren().get(i)).getText();
 
-				int value = Integer.parseInt(((TextField) (ValueColumn.getChildren().get(i))).getText());
+				HBox hh = (HBox) (ValueColumn.getChildren().get(i));
+				TextField h = (TextField) (hh.getChildren().get(1));
+				int value = 0;
+				try {
+					value = Integer.parseInt(h.getText());
 
-				int min = cWe.getMinValues().get(i - 2).getNumber();
+				} catch (NumberFormatException g) {
+
+				}
+
+				int min = hero.getMinValueByName(valueName).getNumber();
 				Label minLabel = new Label(min + "");
 				minLabel.setFont(new Font(16));
 				minLabel.setTextAlignment(TextAlignment.RIGHT);
-				MinColumn.setAlignment(Pos.CENTER);
+
 				MinColumn.getChildren().add(minLabel);
 
 				if (value < min) {
 					minLabel.setTextFill(Color.RED);
 				}
 
-				int max = cWe.getMaxValues().get(i - 2).getNumber();
+				int max = hero.getMaxValueByName(valueName).getNumber();
 				Label maxLabel = new Label(max + "");
 				maxLabel.setFont(new Font(16));
 				maxLabel.setTextAlignment(TextAlignment.RIGHT);
@@ -413,7 +484,7 @@ public class HeroSceneController {
 					maxLabel.setTextFill(Color.RED);
 				}
 
-				Label bonusLabel = new Label(cWe.getBonusValues().get(i - 2).getNumber() + "");
+				Label bonusLabel = new Label(cWe.getBonusValueByName(valueName).getNumber() + "");
 				bonusLabel.setFont(new Font(16));
 				bonusLabel.setTextAlignment(TextAlignment.CENTER);
 				BonusColumn.setAlignment(Pos.CENTER);
@@ -528,7 +599,8 @@ public class HeroSceneController {
 
 	private void updateFightValues() {
 		// clearAll
-		LPMPBox.getChildren().clear();
+		LPBox.getChildren().clear();
+		MPBox.getChildren().clear();
 
 		while (MagieBox.getChildren().size() > 2) { // clearLists
 			MagieBox.getChildren().remove(2);
@@ -546,14 +618,18 @@ public class HeroSceneController {
 		Label LPlabel = new Label(lpString);
 		LPlabel.setFont(new Font(14));
 		LPlabel.setTextAlignment(TextAlignment.CENTER);
-		
+		LPlabel.setTooltip(new Tooltip("Element-Bonus: " + hero.getCwE().getBonusValueByName("LP").getNumber()
+				+ "\n LevelUp-Bonus: " + hero.getLvlValuesByName("LP").getNumber()));
+
 		String mpString = hero.getValuebyName("MP").getName() + ": " + hero.getValuebyName("MP").getNumber();
 		Label MPlabel = new Label(mpString);
 		MPlabel.setFont(new Font(14));
 		MPlabel.setTextAlignment(TextAlignment.CENTER);
+		MPlabel.setTooltip(new Tooltip("Element-Bonus: " + hero.getCwE().getBonusValueByName("MP").getNumber()
+				+ "\n LevelUp-Bonus: " + hero.getLvlValuesByName("MP").getNumber()));
 
-		LPMPBox.getChildren().add(LPlabel);
-		LPMPBox.getChildren().add(MPlabel);
+		LPBox.getChildren().add(LPlabel);
+		MPBox.getChildren().add(MPlabel);
 
 		// create Lists
 		ArrayList<String> MagieListe = new ArrayList<String>();
@@ -574,8 +650,6 @@ public class HeroSceneController {
 		AllgemeinListe.add("AW");
 		AllgemeinListe.add("ZI");
 		AllgemeinListe.add("INI");
-
-		
 
 		for (String s : MagieListe) {
 			String String = hero.getValuebyName(s).getName() + ": " + hero.getValuebyName(s).getNumber();
@@ -600,6 +674,19 @@ public class HeroSceneController {
 			label.setTextAlignment(TextAlignment.CENTER);
 			AllgemeineBox.getChildren().add(label);
 		}
+	}
+
+	@FXML
+	void lvlUpClicked(ActionEvent event) {
+		if (hero.lvlUpPossible()) {
+			hero.LvlUP(new ArrayList<Value>());
+			this.ElementList.setDisable(true);
+			this.CultureList.setDisable(true);
+		}
+		LvlCount.setText(hero.getLvL() + "");
+		EpField.setText(hero.getEP() + "");
+		this.updateFightValues();
+		this.updateMinMaxBonusValues();
 	}
 
 	@FXML

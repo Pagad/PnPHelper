@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="314.0" prefWidth="468.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <VBox prefHeight="314.0" prefWidth="468.0">
+         <children>
+            <HBox alignment="CENTER" prefHeight="39.0" prefWidth="468.0">
+               <children>
+                  <Label text="Helden Übersicht">
+                     <font>
+                        <Font size="20.0" />
+                     </font>
+                  </Label>
+               </children>
+            </HBox>
+            <Separator prefWidth="200.0" />
+            <HBox prefHeight="269.0" prefWidth="468.0">
+               <children>
+                  <VBox prefHeight="269.0" prefWidth="228.0">
+                     <children>
+                        <Label text="Label" />
+                        <Separator prefWidth="200.0" />
+                        <ListView prefHeight="215.0" prefWidth="227.0" />
+                     </children>
+                  </VBox>
+                  <VBox prefHeight="269.0" prefWidth="243.0">
+                     <children>
+                        <Button mnemonicParsing="false" />
+                        <HBox prefHeight="228.0" prefWidth="242.0" />
+                        <Button mnemonicParsing="false" text="Helden bearbeiten" />
+                     </children>
+                  </VBox>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>

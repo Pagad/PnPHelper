@@ -5,9 +5,9 @@ import model.util.Conditional;
 
 public class Value implements Conditional{
 
-	String name;
-	Integer number;
-	Term term;
+	private String name;
+	private Integer number;
+	private Term term;
 
 	public Value(String name, int number) {
 		this.name = name;

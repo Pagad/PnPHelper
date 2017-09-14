@@ -28,6 +28,7 @@ public class Main extends Application{
 	private static final String GIFTS_PATH = "assets\\Gifts.txt";
 	private static final String HANDICAP_PATH = "assets\\Handicaps.txt";
 	private static final String DOMAINS_PATH ="assets\\Domains.txt";
+	private static final String EPNEEDED_PATH = "assets\\EpNeeded.txt";
 	
 	
 	public static Stage primStage=null;
@@ -74,6 +75,7 @@ public class Main extends Application{
 		Reader.readGifts(GIFTS_PATH);
 		Reader.readHandicap(HANDICAP_PATH);
 		Reader.readDomains(DOMAINS_PATH);
+		Reader.readEpNeeded(EPNEEDED_PATH);
 	}
 
 	@Override

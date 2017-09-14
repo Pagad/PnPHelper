@@ -11,6 +11,7 @@
 <?import javafx.scene.control.Tab?>
 <?import javafx.scene.control.TabPane?>
 <?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
 <?import javafx.scene.control.ToolBar?>
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.HBox?>
@@ -89,10 +90,27 @@
                                                       </HBox>
                                                    </children>
                                                 </VBox>
-                                                <VBox alignment="CENTER" prefHeight="200.0" prefWidth="100.0">
+                                                <VBox prefHeight="200.0" prefWidth="100.0">
                                                    <children>
-                                                      <Label text="GP:" />
-                                                      <Label fx:id="gPCount" text="500" />
+                                                      <HBox alignment="CENTER" prefHeight="41.0" prefWidth="100.0">
+                                                         <children>
+                                                            <Label text="GP:  " />
+                                                            <Label fx:id="gPCount" text="500" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox alignment="TOP_RIGHT" prefHeight="28.0" prefWidth="100.0">
+                                                         <children>
+                                                            <TextField fx:id="EpField" disable="true" prefHeight="25.0" prefWidth="36.0" />
+                                                            <VBox prefHeight="26.0" prefWidth="21.0" />
+                                                            <Button fx:id="lvlUpButton" disable="true" mnemonicParsing="false" onAction="#lvlUpClicked" text="lvlUP" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox alignment="CENTER" prefHeight="41.0" prefWidth="100.0">
+                                                         <children>
+                                                            <Label text="LvL: " />
+                                                            <Label fx:id="LvlCount" text="0" />
+                                                         </children>
+                                                      </HBox>
                                                    </children>
                                                 </VBox>
                                              </children>
@@ -135,7 +153,7 @@
                                                                         <Separator prefWidth="200.0" />
                                                                      </children>
                                                                   </VBox>
-                                                                  <VBox fx:id="ValueColumn" prefHeight="200.0" prefWidth="100.0">
+                                                                  <VBox fx:id="ValueColumn" minWidth="75.0" prefHeight="184.0" prefWidth="100.0">
                                                                      <children>
                                                                         <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="35.0" prefWidth="50.0" text="Value">
                                                                            <font>
@@ -244,11 +262,15 @@
                                        <children>
                                           <VBox prefHeight="302.0" prefWidth="319.0">
                                              <children>
-                                                <HBox fx:id="LPMPBox" prefHeight="30.0" prefWidth="319.0" />
+                                                <HBox prefHeight="30.0" prefWidth="319.0">
+                                                   <children>
+                                                      <HBox fx:id="LPBox" alignment="CENTER" prefHeight="30.0" prefWidth="176.0" />
+                                                      <HBox fx:id="MPBox" alignment="CENTER" prefHeight="30.0" prefWidth="191.0" />
+                                                   </children></HBox>
                                                 <Separator prefWidth="200.0" />
                                                 <HBox prefHeight="196.0" prefWidth="319.0">
                                                    <children>
-                                                      <VBox fx:id="MagieBox" prefHeight="100.0" prefWidth="155.0">
+                                                      <VBox fx:id="MagieBox" alignment="TOP_CENTER" prefHeight="100.0" prefWidth="155.0">
                                                          <children>
                                                             <Label text="Magisch">
                                                                <font>
@@ -259,7 +281,7 @@
                                                          </children>
                                                       </VBox>
                                                       <Separator orientation="VERTICAL" prefHeight="200.0" />
-                                                      <VBox fx:id="NahkampfBox" prefHeight="100.0" prefWidth="165.0">
+                                                      <VBox fx:id="NahkampfBox" alignment="TOP_CENTER" prefHeight="100.0" prefWidth="165.0">
                                                          <children>
                                                             <Label text="Physisch">
                                                                <font>
@@ -270,7 +292,7 @@
                                                          </children>
                                                       </VBox>
                                                       <Separator orientation="VERTICAL" prefHeight="200.0" />
-                                                      <VBox fx:id="AllgemeineBox" prefHeight="100.0" prefWidth="165.0">
+                                                      <VBox fx:id="AllgemeineBox" alignment="TOP_CENTER" prefHeight="100.0" prefWidth="165.0">
                                                          <children>
                                                             <Label contentDisplay="CENTER" text="Allgemein">
                                                                <font>
