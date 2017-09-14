@@ -21,11 +21,13 @@ public class Hero {
 	private Player myPlayer;
 	private int currentEP = 0;
 	private int allEP = 0;
+	private boolean someWrongValues = false;
 
 	public Hero(String name) {
 		this.name = name;
 		ValueList.addAll(baseValueList);
 		ValueList.addAll(fightValueList);
+		levelUps.add(new LvLUp(new ArrayList<Value>()));
 	}
 
 	public Hero() {
@@ -176,7 +178,7 @@ public class Hero {
 	}
 
 	public int getLvL() {
-		return this.levelUps.size();
+		return this.levelUps.size()-1;
 	}
 
 	public int getEP() {
@@ -189,7 +191,7 @@ public class Hero {
 	}
 
 	public boolean lvlUpPossible() {
-		if (LvLUp.getEpNeeded(this.getLvL()) <= this.currentEP) {
+		if (LvLUp.getEpNeeded(this.getLvL()) <= this.currentEP && !this.someWrongValues) {
 			return true;
 		}
 		return false;
@@ -222,7 +224,15 @@ public class Hero {
 		if (this.getLvL() == 0) {
 			return this.CwE.getMinValueByName(name);
 		} else {
-			return new Value(name, this.getRawValueByName(name).getNumber() + getLvlValuesByName(name).getNumber());
+			Value value = new Value(name,
+					this.getRawValueByName(name).getNumber() + getLvlValuesByName(name).getNumber());
+			LvLUp l = levelUps.get(levelUps.size() - 1);
+			for (Value v : l.getLevelValues()) {
+				if (v.getName().equals(value.getName())) {
+					value.setNumber(value.getNumber()-v.getNumber());
+				}
+			}
+			return value;
 		}
 	}
 
@@ -233,7 +243,41 @@ public class Hero {
 
 			if (this.getLvL() % 3 == 0) {
 				Value value = new Value(name,
-						this.getRawValueByName(name).getNumber() + getLvlValuesByName(name).getNumber() + 5* (1+(int)getLvL()/3));
+						this.getRawValueByName(name).getNumber() + getLvlValuesByName(name).getNumber() + 5);
+				LvLUp l = levelUps.get(levelUps.size() - 1);
+				for (Value v : l.getLevelValues()) {
+					if (v.getName().equals(value.getName())) {
+						value.setNumber(value.getNumber()-v.getNumber());
+					}
+				}
+				LvLUp ll = levelUps.get(levelUps.size() - 2);
+				for (Value v : ll.getLevelValues()) {
+					if (v.getName().equals(value.getName())) {
+						value.setNumber(value.getNumber()-v.getNumber());
+					}
+				}
+				LvLUp lll = levelUps.get(levelUps.size() - 3);
+				for (Value v : lll.getLevelValues()) {
+					if (v.getName().equals(value.getName())) {
+						value.setNumber(value.getNumber()-v.getNumber());
+					}
+				}
+				return value;
+			}
+			if (this.getLvL() % 3 == 1) {
+				Value value = new Value(name,
+						this.getRawValueByName(name).getNumber() + getLvlValuesByName(name).getNumber()+5);
+				LvLUp l = levelUps.get(levelUps.size() - 1);
+				for (Value v : l.getLevelValues()) {
+					if (v.getName().equals(value.getName())) {
+						value.setNumber(value.getNumber()-v.getNumber());
+					}
+				}
+				return value;
+			}
+			if (this.getLvL() % 3 == 2) {
+				Value value = new Value(name,
+						this.getRawValueByName(name).getNumber() + getLvlValuesByName(name).getNumber() + 5);
 				LvLUp l = levelUps.get(levelUps.size() - 1);
 				for (Value v : l.getLevelValues()) {
 					if (v.getName().equals(value.getName())) {
@@ -248,22 +292,15 @@ public class Hero {
 				}
 				return value;
 			}
-			if (this.getLvL() % 3 == 1) {
-				return new Value(name,
-						this.getRawValueByName(name).getNumber() + getLvlValuesByName(name).getNumber() + 5* (1+(int)getLvL()/3));
-			}
-			if (this.getLvL() % 3 == 2) {
-				Value value = new Value(name,
-						this.getRawValueByName(name).getNumber() + getLvlValuesByName(name).getNumber() + 5* (1+(int)getLvL()/3));
-				LvLUp l = levelUps.get(levelUps.size() - 1);
-				for (Value v : l.getLevelValues()) {
-					if (v.getName().equals(value.getName())) {
-						value.setNumber(value.getNumber()-v.getNumber());
-					}
-				}
-				return value;
-			}
 		}
 		return null; // never reached
+	}
+
+	public boolean isSomeWrongValues() {
+		return someWrongValues;
+	}
+
+	public void setSomeWrongValues(boolean someWrongValues) {
+		this.someWrongValues = someWrongValues;
 	}
 }

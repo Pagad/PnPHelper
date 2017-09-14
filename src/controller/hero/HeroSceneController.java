@@ -165,6 +165,8 @@ public class HeroSceneController {
 
 	private int handicapCost = 0;
 
+	private ArrayList<Value> levelUp = new ArrayList<Value>();
+
 	@FXML
 	void initialize() {
 		loadStuff();
@@ -173,7 +175,7 @@ public class HeroSceneController {
 
 		infoArea.setWrapText(true); // TODO: clean ep
 		hero = new Hero();
-		hero.addEP(500);
+		hero.addEP(5000);
 		lvlUpButton.setDisable(false);
 		LvlCount.setText(hero.getLvL() + "");
 		EpField.setText(hero.getEP() + "");
@@ -199,8 +201,20 @@ public class HeroSceneController {
 
 			HBox valueField = new HBox();
 			{
-				TextField valueTextField = new TextField("10");
-				valueTextField.textProperty().addListener(y -> valueChange());
+				int baseStartValue = 10;
+				TextField valueTextField = new TextField(baseStartValue + "");
+				hero.addValue(new Value(v.getName(), baseStartValue));
+
+				valueTextField.textProperty().addListener(y -> {
+					try {
+						if (hero.getLvL() == 0) {
+							int numb = Integer.parseInt(valueTextField.getText());
+							hero.addValue(new Value(v.getName(), numb));
+						}
+					} catch (NumberFormatException e) {
+					}
+					allUpdates();
+				});
 				valueTextField.setMinWidth(20);
 
 				Button minusButton = new Button("-");
@@ -208,7 +222,16 @@ public class HeroSceneController {
 				minusButton.setMaxWidth(10);
 				minusButton.setOnAction(y -> {
 					try {
-						valueTextField.setText(Integer.parseInt((valueTextField.getText())) - 1 + "");
+						if (Integer.parseInt(valueTextField.getText()) > hero.getMinValueByName(v.getName())
+								.getNumber()) {
+							if (hero.getLvL() == 0) {
+								hero.addValue(new Value(v.getName(), Integer.parseInt(valueTextField.getText())));
+							} else { // lvl!=0
+								levelUp.add(new Value(v.getName(), -1));
+							}
+							valueTextField.setText(Integer.parseInt((valueTextField.getText())) - 1 + "");
+							allUpdates();
+						}
 					} catch (NumberFormatException e) {
 					}
 				});
@@ -222,7 +245,13 @@ public class HeroSceneController {
 				plusButton.setMaxWidth(10);
 				plusButton.setOnAction(y -> {
 					try {
+						if (hero.getLvL() == 0) {
+							hero.addValue(new Value(v.getName(), Integer.parseInt(valueTextField.getText())));
+						} else { // lvl!=0
+							levelUp.add(new Value(v.getName(), 1));
+						}
 						valueTextField.setText(Integer.parseInt((valueTextField.getText())) + 1 + "");
+						allUpdates();
 					} catch (NumberFormatException e) {
 					}
 				});
@@ -267,8 +296,7 @@ public class HeroSceneController {
 					Culture c = CultureList.getSelectionModel().getSelectedItem();
 					ElementList.getItems().addAll(c.getElements());
 				}
-				valueChange();
-				updateMinMaxBonusValues();
+				allUpdates();
 			}
 		});
 
@@ -288,8 +316,7 @@ public class HeroSceneController {
 				if (e != null) {
 					spellListElement.getItems().addAll(e.getSpells());
 				}
-				valueChange();
-				updateMinMaxBonusValues();
+				allUpdates();
 			}
 		});
 
@@ -319,7 +346,7 @@ public class HeroSceneController {
 		selectedDomain.getSelectionModel().selectedItemProperty()
 				.addListener((arg, oldVal, newVal) -> infoArea.setText(newVal == null ? "" : newVal.getText()));
 
-		updateGPCount();
+		allUpdates();
 	}
 
 	private void loadStuff() {
@@ -341,24 +368,12 @@ public class HeroSceneController {
 
 	}
 
-	protected void valueChange() {
+	protected void allUpdates() {
 		if (CultureList.getSelectionModel().getSelectedItem() != null
 				&& ElementList.getSelectionModel().getSelectedItem() != null) {
 			hero.setCwE(CultureWithElement.getCultureWithElement(CultureList.getSelectionModel().getSelectedItem(),
 					ElementList.getSelectionModel().getSelectedItem()));
-		}
-		if (hero.getCwE() != null) {
-
-			for (int i = 0; i < Hero.baseValueList.size(); i++) {
-				HBox hh = (HBox) (ValueColumn.getChildren().get(i + 2));
-				TextField h = (TextField) (hh.getChildren().get(1));
-				try {
-					int numb = Integer.parseInt(h.getText());
-					hero.addValue(new Value(Hero.baseValueList.get(i).getName(), numb));
-				} catch (NumberFormatException e) {
-
-				}
-			}
+			updateMinMaxBonusValues();
 			updateGPCount();
 			updateSumValue();
 			updateFightValues();
@@ -388,21 +403,37 @@ public class HeroSceneController {
 		for (int i = 2; i < ValueColumn.getChildren().size(); i++) {
 			HBox hh = (HBox) (ValueColumn.getChildren().get(i));
 			TextField h = (TextField) (hh.getChildren().get(1));
+
 			sum += Integer.parseInt(h.getText());
 		}
 		sum += (layerChoiceBox.getSelectionModel().getSelectedItem() - 1) * 10;
-		gp = Hero.START_GP - sum;
+
+		if (hero.getLvL() == 0) {
+			gp = Hero.START_GP - sum;
+			gp = gp - giftCost - domainCost + handicapCost;
+		} else {
+			int lvlsum = 0;
+			for (Value v : levelUp) {
+				if (!v.getName().equals("LP") && !v.getName().equals("MP"))
+					lvlsum += v.getNumber();
+			}
+			gp = 5 - lvlsum;
+		}
 
 		// Gift,Handicap,Domain
-
-		gp = gp - giftCost - domainCost + handicapCost;
 
 		// setText
 		gPCount.setText("" + gp);
 		if (gp < 0) {
 			gPCount.setTextFill(Color.RED);
+			hero.setSomeWrongValues(true);
+			lvlUpButton.setDisable(true);
 		} else {
 			gPCount.setTextFill(Color.BLACK);
+			if (!hero.isSomeWrongValues()) {
+				hero.setSomeWrongValues(false);
+				lvlUpButton.setDisable(false);
+			}
 		}
 	}
 
@@ -439,7 +470,7 @@ public class HeroSceneController {
 
 			hero.setCwE(cWe);
 
-			updateSumValue();
+			boolean someWrongValues = false;
 
 			while (MinColumn.getChildren().size() > 2) { // clearLists
 				MinColumn.getChildren().remove(2);
@@ -454,6 +485,7 @@ public class HeroSceneController {
 
 				HBox hh = (HBox) (ValueColumn.getChildren().get(i));
 				TextField h = (TextField) (hh.getChildren().get(1));
+
 				int value = 0;
 				try {
 					value = Integer.parseInt(h.getText());
@@ -471,6 +503,7 @@ public class HeroSceneController {
 
 				if (value < min) {
 					minLabel.setTextFill(Color.RED);
+					someWrongValues = true;
 				}
 
 				int max = hero.getMaxValueByName(valueName).getNumber();
@@ -482,6 +515,7 @@ public class HeroSceneController {
 
 				if (value > max) {
 					maxLabel.setTextFill(Color.RED);
+					someWrongValues = true;
 				}
 
 				Label bonusLabel = new Label(cWe.getBonusValueByName(valueName).getNumber() + "");
@@ -491,6 +525,8 @@ public class HeroSceneController {
 				BonusColumn.getChildren().add(bonusLabel);
 
 			}
+			hero.setSomeWrongValues(someWrongValues);
+			lvlUpButton.setDisable(someWrongValues);
 		}
 
 	}
@@ -678,15 +714,25 @@ public class HeroSceneController {
 
 	@FXML
 	void lvlUpClicked(ActionEvent event) {
+		System.out.println(hero.isSomeWrongValues());
 		if (hero.lvlUpPossible()) {
-			hero.LvlUP(new ArrayList<Value>());
+			levelUp = new ArrayList<Value>();
+			hero.LvlUP(levelUp);
 			this.ElementList.setDisable(true);
 			this.CultureList.setDisable(true);
+
+			if (hero.getLvL() == 1) {
+				for (Node n : ValueColumn.getChildren()) {
+					if (n.getClass().equals(HBox.class)) {
+						((HBox) n).getChildren().get(1).setDisable(true);
+					}
+				}
+			}
+
 		}
 		LvlCount.setText(hero.getLvL() + "");
 		EpField.setText(hero.getEP() + "");
-		this.updateFightValues();
-		this.updateMinMaxBonusValues();
+		allUpdates();
 	}
 
 	@FXML

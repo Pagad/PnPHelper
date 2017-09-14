@@ -22,8 +22,23 @@ public class LvLUp {
 	}
 
 
+	public LvLUp() {
+	}
+
+
 	public ArrayList<Value> getLevelValues() {
 		return skilledValues;
+	}
+	
+	public void addValue(Value v) {
+		boolean found = false;
+		for(Value vv :skilledValues) {
+			if(vv.getName().equals(v.getName())) {
+				vv.setNumber(vv.getNumber()+v.getNumber());
+				found=true;
+			}
+		}
+		if(!found) skilledValues.add(v);
 	}
 
 
