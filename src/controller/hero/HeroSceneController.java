@@ -418,6 +418,7 @@ public class HeroSceneController {
 					lvlsum += v.getNumber();
 			}
 			gp = 5 - lvlsum;
+			gp = gp - giftCost - domainCost + handicapCost;
 		}
 
 		// Gift,Handicap,Domain
