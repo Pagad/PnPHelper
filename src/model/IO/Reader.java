@@ -166,6 +166,7 @@ public class Reader {
 					Hero.fightValueList.add(v);
 				} else {
 					Value v = new Value(s, s);
+					v.setNumber(10);
 					Hero.baseValueList.add(v);
 				}
 			}

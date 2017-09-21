@@ -43,13 +43,14 @@ public class Main extends Application{
 		CultureWithElement.init();
 		Spell.init();
 		
-		createTestHero();
+		//createTestHero();
 		
 		//create all Scenes:
 		new HeroScene();
 		new TermScene();
 		new SpellBookScene();
 		new EditorScene();	
+		new HeroOverviewScene();
 		
 		// launch MainScene
 		Main.launch(args);

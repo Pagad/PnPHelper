@@ -32,6 +32,7 @@ import javafx.scene.text.TextAlignment;
 import main.Main;
 import model.Hero;
 import model.LvLUp;
+import model.Player;
 import model.Value;
 import model.IO.Reader;
 import model.calculator.Calculator;
@@ -43,10 +44,20 @@ import model.world.Element;
 import model.world.Gift;
 import model.world.Handicap;
 import model.world.Spell;
+import view.hero.HeroOverviewScene;
 import view.hero.TermScene;
 import view.spells.SpellBookScene;
 
 public class HeroSceneController {
+
+	@FXML
+	private TextField playerName;
+
+	@FXML
+	private TextField heroName;
+
+	@FXML
+	private TextField addEpField;
 
 	@FXML
 	private ChoiceBox<Culture> CultureList;
@@ -169,22 +180,12 @@ public class HeroSceneController {
 
 	@FXML
 	void initialize() {
+		reset();
+
 		loadStuff();
 
-		ValueColumn.setMinSize(50, 1);
-
-		infoArea.setWrapText(true); // TODO: clean ep
-		hero = new Hero();
-		hero.addEP(5000);
 		lvlUpButton.setDisable(false);
-		LvlCount.setText(hero.getLvL() + "");
-		EpField.setText(hero.getEP() + "");
-
 		gPCount.setText("" + gp);
-
-		spellListAllg.getItems().addAll(Element.getElementFromName("Allg").getSpells());
-
-		layerChoiceBox.getSelectionModel().selectedItemProperty().addListener(y -> updateGPCount());
 
 		for (Value v : Hero.baseValueList) {
 			Label nameLabel = new Label(v.getName());
@@ -201,9 +202,7 @@ public class HeroSceneController {
 
 			HBox valueField = new HBox();
 			{
-				int baseStartValue = 10;
-				TextField valueTextField = new TextField(baseStartValue + "");
-				hero.addValue(new Value(v.getName(), baseStartValue));
+				TextField valueTextField = new TextField("0");
 
 				valueTextField.textProperty().addListener(y -> {
 					try {
@@ -215,7 +214,6 @@ public class HeroSceneController {
 					}
 					allUpdates();
 				});
-				valueTextField.setMinWidth(20);
 
 				Button minusButton = new Button("-");
 				minusButton.setFont(new Font(10));
@@ -273,16 +271,6 @@ public class HeroSceneController {
 			BonusColumn.getChildren().add(bonusLabel);
 		}
 
-		for (int i = 2; i < NameColumn.getChildren().size(); i++) {
-			HBox hh = (HBox) (ValueColumn.getChildren().get(i));
-			TextField h = (TextField) (hh.getChildren().get(1));
-			int sum = Integer.parseInt(h.getText());
-			Label sumLabel = new Label("" + sum);
-			sumLabel.setFont(new Font(16));
-			sumLabel.setTextAlignment(TextAlignment.CENTER);
-			SumColumn.getChildren().add(sumLabel);
-		}
-
 		ToggleGroup tg = new ToggleGroup();
 		cultureRadio.setToggleGroup(tg);
 		cultureRadio.setSelected(true);
@@ -294,7 +282,8 @@ public class HeroSceneController {
 				if (cultureRadio.isSelected()) {
 					ElementList.getItems().clear();
 					Culture c = CultureList.getSelectionModel().getSelectedItem();
-					ElementList.getItems().addAll(c.getElements());
+					if (c != null)
+						ElementList.getItems().addAll(c.getElements());
 				}
 				allUpdates();
 			}
@@ -317,6 +306,23 @@ public class HeroSceneController {
 					spellListElement.getItems().addAll(e.getSpells());
 				}
 				allUpdates();
+			}
+		});
+
+		// player and hero name + Layer Lambda expressions
+
+		playerName.textProperty().addListener(y -> {
+			hero.getMyPlayer().setName(playerName.getText());
+		});
+
+		heroName.textProperty().addListener(y -> {
+			hero.setName(heroName.getText());
+		});
+
+		layerChoiceBox.getSelectionModel().selectedItemProperty().addListener((arg, oldVal, newVal) -> {
+			if (newVal != null) {
+				hero.setLayer(newVal.intValue());
+				updateGPCount();
 			}
 		});
 
@@ -346,24 +352,55 @@ public class HeroSceneController {
 		selectedDomain.getSelectionModel().selectedItemProperty()
 				.addListener((arg, oldVal, newVal) -> infoArea.setText(newVal == null ? "" : newVal.getText()));
 
-		allUpdates();
+		// allUpdates();
+	}
+
+	private void reset() {
+
+		spellListAllg.getItems().clear();
+		spellListAllg.getItems().addAll(Element.getElementFromName("Allg").getSpells());
+
+		playerName.setText("");
+		heroName.setText("");
+
+		infoArea.setText("");
+
+		for (int i = 2; i < NameColumn.getChildren().size(); i++) {
+			HBox hh = (HBox) (ValueColumn.getChildren().get(i));
+			TextField h = (TextField) (hh.getChildren().get(1));
+			h.setText("0");
+		}
+
+		/*
+		 * for (int i = 2; i < NameColumn.getChildren().size(); i++) { HBox hh = (HBox)
+		 * (ValueColumn.getChildren().get(i)); TextField h = (TextField)
+		 * (hh.getChildren().get(1)); int sum = Integer.parseInt(h.getText()); Label
+		 * sumLabel = new Label("" + sum); sumLabel.setFont(new Font(16));
+		 * sumLabel.setTextAlignment(TextAlignment.CENTER);
+		 * SumColumn.getChildren().add(sumLabel); }
+		 */
 	}
 
 	private void loadStuff() {
 
+		layerChoiceBox.getItems().clear();
 		for (int i = 1; i < 8; i++) {
 			layerChoiceBox.getItems().add(i);
 		}
-		layerChoiceBox.getSelectionModel().select(0);
 
+		CultureList.getItems().clear();
 		CultureList.getItems().addAll(Culture.allCultures);
 
+		ElementList.getItems().clear();
 		ElementList.getItems().addAll(Element.allElements);
 
+		allGifts.getItems().clear();
 		allGifts.getItems().addAll(Gift.allGifts);
 
+		allHandicaps.getItems().clear();
 		allHandicaps.getItems().addAll(Handicap.allHandicaps);
 
+		allDomains.getItems().clear();
 		allDomains.getItems().addAll(Domain.allDomains);
 
 	}
@@ -377,6 +414,16 @@ public class HeroSceneController {
 			updateGPCount();
 			updateSumValue();
 			updateFightValues();
+		}
+	}
+
+	private void updateBaseValues() {
+		for (int i = 2; i < NameColumn.getChildren().size(); i++) { // setValues from Cwe
+			String valueName = ((Label) NameColumn.getChildren().get(i)).getText();
+			HBox hh = (HBox) (ValueColumn.getChildren().get(i));
+			TextField h = (TextField) (hh.getChildren().get(1));
+			h.setText(hero.getRawValueByName(valueName).getNumber() + "");
+			System.out.println(valueName + "  " + hero.getRawValueByName(valueName).getNumber());
 		}
 
 	}
@@ -406,7 +453,9 @@ public class HeroSceneController {
 
 			sum += Integer.parseInt(h.getText());
 		}
-		sum += (layerChoiceBox.getSelectionModel().getSelectedItem() - 1) * 10;
+		if (layerChoiceBox.getSelectionModel().getSelectedItem() != null) {
+			sum += (layerChoiceBox.getSelectionModel().getSelectedItem() - 1) * 10;
+		}
 
 		if (hero.getLvL() == 0) {
 			gp = Hero.START_GP - sum;
@@ -538,6 +587,7 @@ public class HeroSceneController {
 			Domain d = allDomains.getSelectionModel().getSelectedItem();
 			selectedDomain.getItems().add(d);
 			allDomains.getItems().remove(d);
+			hero.getDomains().add(d);
 		}
 		domainCost = 0;
 		for (Domain d : selectedDomain.getItems()) {
@@ -553,6 +603,7 @@ public class HeroSceneController {
 			Gift g = allGifts.getSelectionModel().getSelectedItem();
 			selectedGifts.getItems().add(g);
 			allGifts.getItems().remove(g);
+			hero.getGifts().add(g);
 		}
 		giftCost = 0;
 		for (Gift g : selectedGifts.getItems()) {
@@ -568,6 +619,7 @@ public class HeroSceneController {
 			Handicap h = allHandicaps.getSelectionModel().getSelectedItem();
 			selectedHandicap.getItems().add(h);
 			allHandicaps.getItems().remove(h);
+			hero.getHandicaps().add(h);
 		}
 		handicapCost = 0;
 		for (Handicap h : selectedHandicap.getItems()) {
@@ -583,6 +635,7 @@ public class HeroSceneController {
 			Domain d = selectedDomain.getSelectionModel().getSelectedItem();
 			allDomains.getItems().add(d);
 			selectedDomain.getItems().remove(d);
+			hero.getDomains().remove(d);
 		}
 		domainCost = 0;
 		for (Domain d : selectedDomain.getItems()) {
@@ -598,6 +651,7 @@ public class HeroSceneController {
 			Gift g = selectedGifts.getSelectionModel().getSelectedItem();
 			allGifts.getItems().add(g);
 			selectedGifts.getItems().remove(g);
+			hero.getGifts().remove(g);
 		}
 		giftCost = 0;
 		for (Gift g : selectedGifts.getItems()) {
@@ -613,6 +667,7 @@ public class HeroSceneController {
 			Handicap h = selectedHandicap.getSelectionModel().getSelectedItem();
 			allHandicaps.getItems().add(h);
 			selectedHandicap.getItems().remove(h);
+			hero.getHandicaps().remove(h);
 		}
 		handicapCost = 0;
 		for (Handicap h : selectedHandicap.getItems()) {
@@ -722,18 +777,38 @@ public class HeroSceneController {
 			this.ElementList.setDisable(true);
 			this.CultureList.setDisable(true);
 
-			if (hero.getLvL() == 1) {
-				for (Node n : ValueColumn.getChildren()) {
-					if (n.getClass().equals(HBox.class)) {
-						((HBox) n).getChildren().get(1).setDisable(true);
-					}
-				}
-			}
-
 		}
 		LvlCount.setText(hero.getLvL() + "");
 		EpField.setText(hero.getEP() + "");
+
+		changePossibilitiesAfterlvlUp();
+
 		allUpdates();
+	}
+
+	private void changePossibilitiesAfterlvlUp() {
+		if (hero.getLvL() > 0) { // Not a new Hero
+			for (Node n : ValueColumn.getChildren()) {
+				if (n.getClass().equals(HBox.class)) {
+					((HBox) n).getChildren().get(1).setDisable(true);
+				}
+			}
+			CultureList.setDisable(true);
+			ElementList.setDisable(true);
+			layerChoiceBox.setDisable(true);
+			playerName.setDisable(true);
+			heroName.setDisable(true);
+			cultureRadio.setVisible(false);
+			elementRadio.setVisible(false);
+		} else { // a new Hero
+			CultureList.setDisable(false);
+			ElementList.setDisable(false);
+			layerChoiceBox.setDisable(false);
+			playerName.setDisable(false);
+			heroName.setDisable(false);
+			cultureRadio.setVisible(true);
+			elementRadio.setVisible(true);
+		}
 	}
 
 	@FXML
@@ -748,6 +823,76 @@ public class HeroSceneController {
 
 	@FXML
 	void backButtonClicked(ActionEvent event) {
-		Main.primStage.setScene(Main.mainMenueScene);
+		HeroOverviewScene.controller.updateHeroList();
+		Main.primStage.setScene(HeroOverviewScene.heroOverviewScene);
+		hero = null;
 	}
+
+	@FXML
+	void addEPClicked(ActionEvent event) { // TODO: better give ep system
+		int addEp = 0;
+		try {
+			addEp = Integer.parseInt(addEpField.getText());
+			addEpField.setText("");
+		} catch (NumberFormatException e) {
+		}
+
+		hero.addEP(addEp);
+		EpField.setText(hero.getEP() + "");
+	}
+
+	@FXML
+	void mainMenueClicked(ActionEvent event) {
+		Main.primStage.setScene(Main.mainMenueScene);
+		hero = null;
+	}
+
+	public void setHero(Hero hero) {
+
+		loadStuff();
+
+		this.hero = hero;
+		this.heroName.setText(hero.getName());
+		this.playerName.setText(hero.getMyPlayer().getName());
+		EpField.setText(hero.getEP() + "");
+		layerChoiceBox.getSelectionModel().select(hero.getLayer());
+		LvlCount.setText(hero.getLvL() + "");
+
+		changePossibilitiesAfterlvlUp();
+
+		ElementList.getSelectionModel().clearSelection();
+		CultureList.getSelectionModel().clearSelection();
+		layerChoiceBox.getSelectionModel().select(hero.getLayer());
+		if (hero.getCwE() != null) {
+			CultureList.getSelectionModel().select(hero.getCwE().getCulture());
+			ElementList.getSelectionModel().select(hero.getCwE().getElement());
+		}
+
+		for (int i = 2; i < NameColumn.getChildren().size(); i++) { // setValues from Hero
+			String valueName = ((Label) NameColumn.getChildren().get(i)).getText();
+			HBox hh = (HBox) (ValueColumn.getChildren().get(i));
+			TextField h = (TextField) (hh.getChildren().get(1));
+			h.setText(hero.getRawValueByName(valueName).getNumber() + "");
+			System.out.println(valueName + "  " + hero.getRawValueByName(valueName).getNumber());
+		}
+
+		setGiftHandicapDomain();
+		updateGPCount();
+	}
+
+	private void setGiftHandicapDomain() {
+
+		this.selectedGifts.getItems().clear();
+		selectedGifts.getItems().addAll(hero.getGifts());
+		allGifts.getItems().removeAll(hero.getGifts());
+
+		this.selectedHandicap.getItems().clear();
+		selectedHandicap.getItems().addAll(hero.getHandicaps());
+		allHandicaps.getItems().removeAll(hero.getHandicaps());
+
+		this.selectedDomain.getItems().clear();
+		selectedDomain.getItems().addAll(hero.getDomains());
+		allDomains.getItems().removeAll(hero.getDomains());
+	}
+
 }

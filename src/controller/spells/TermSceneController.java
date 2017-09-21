@@ -1,4 +1,4 @@
-package controller.hero;
+package controller.spells;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;

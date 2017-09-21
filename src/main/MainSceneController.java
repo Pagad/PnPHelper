@@ -3,6 +3,7 @@ package main;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import view.editor.EditorScene;
+import view.hero.HeroOverviewScene;
 import view.hero.HeroScene;
 import view.hero.TermScene;
 import view.spells.SpellBookScene;
@@ -26,7 +27,7 @@ public class MainSceneController {
 
     @FXML
     void doStart(ActionEvent event) {
-    	Main.primStage.setScene(HeroScene.heroScene);
+    	Main.primStage.setScene(HeroOverviewScene.heroOverviewScene);
     }
 
 }

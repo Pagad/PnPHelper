@@ -6,6 +6,9 @@ import main.Main;
 import model.calculator.Calculator;
 import model.calculator.Term;
 import model.world.CultureWithElement;
+import model.world.Domain;
+import model.world.Gift;
+import model.world.Handicap;
 
 public class Hero {
 
@@ -22,12 +25,26 @@ public class Hero {
 	private int currentEP = 0;
 	private int allEP = 0;
 	private boolean someWrongValues = false;
+	private int layer;
+	private ArrayList<Gift> giftList = new ArrayList<Gift>();
+	private ArrayList<Handicap> handicapList = new ArrayList<Handicap>();
+	private ArrayList<Domain> domainList = new ArrayList<Domain>();
 
 	public Hero(String name) {
 		this.name = name;
-		ValueList.addAll(baseValueList);
-		ValueList.addAll(fightValueList);
+		
+		for(Value v : baseValueList) {
+			ValueList.add(v.copy());
+		}
+		
+		for(Value v : fightValueList) {
+			ValueList.add(v.copy());
+		}
+
 		levelUps.add(new LvLUp(new ArrayList<Value>()));
+		myPlayer = new Player("dummyPlayerName");
+		myPlayer.addHero(this);
+		layer=1;
 	}
 
 	public Hero() {
@@ -43,8 +60,9 @@ public class Hero {
 				newValue = false;
 			}
 		}
-		if (newValue)
+		if (newValue) {
 			ValueList.add(value);
+		}
 	}
 
 	/**
@@ -55,27 +73,8 @@ public class Hero {
 	public Value getValuebyName(String name) {
 		for (Value v : getValues()) {
 			if (v.getName().equals(name)) {
-				Calculator.calc(this, v);
-				Value finalvalue = new Value(v.getName(), v.getNumber());
-				for (Value vv : CwE.getBonusValues()) {
-					if (finalvalue.getName().equals(vv.getName())) {
-						finalvalue.setNumber(finalvalue.getNumber() + vv.getNumber());
-					}
-				}
-				for (Value vv : staticBonusValues) {
-					if (finalvalue.getName().equals(vv.getName())) {
-						finalvalue.setNumber(finalvalue.getNumber() + vv.getNumber());
-					}
-				}
-				for (LvLUp l : levelUps) {
-					for (Value vv : l.getLevelValues()) {
-						if (finalvalue.getName().equals(vv.getName())) {
-							finalvalue.setNumber(finalvalue.getNumber() + vv.getNumber());
-						}
-					}
-				}
-
-				return finalvalue;
+				v.setNumber(Calculator.calc(this, v.getTerm()));
+				return v;
 			}
 		}
 		return null;
@@ -120,7 +119,7 @@ public class Hero {
 		return ValueList;
 	}
 
-	private Value getRawValueByName(String name) {
+	public Value getRawValueByName(String name) {
 		for (Value v : ValueList) {
 			if (v.getName().equals(name)) {
 				return v;
@@ -302,5 +301,33 @@ public class Hero {
 
 	public void setSomeWrongValues(boolean someWrongValues) {
 		this.someWrongValues = someWrongValues;
+	}
+	
+	@Override
+	public String toString() {
+		return this.name+ " (" + myPlayer.getName() +") " +this.allEP;
+	}
+
+	public Integer getLayer() {
+		return layer;
+	}
+	
+	public void setLayer(int l) {
+		layer = l; 
+	}
+
+	public ArrayList<Gift> getGifts() {
+		return giftList;
+		
+	}
+
+	public ArrayList<Handicap> getHandicaps() {
+		return handicapList;
+		
+	}
+
+	public ArrayList<Domain> getDomains() {
+		return domainList;
+		
 	}
 }

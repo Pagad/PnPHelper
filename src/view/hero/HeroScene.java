@@ -12,6 +12,7 @@ import javafx.stage.Stage;
 public class HeroScene{
 
 	public static Scene heroScene;
+	public static HeroSceneController controller;
 
 
 	public HeroScene(){	
@@ -20,6 +21,7 @@ public class HeroScene{
 		try {
 			heroPane = fXMLLoader.load();
 			heroScene = new Scene(heroPane);
+			controller = fXMLLoader.getController();
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

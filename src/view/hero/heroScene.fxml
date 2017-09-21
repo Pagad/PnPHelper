@@ -20,29 +20,29 @@
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="845.0" prefWidth="992.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.hero.HeroSceneController">
    <children>
-      <ScrollPane layoutX="2.0" prefHeight="826.0" prefWidth="957.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+      <ScrollPane layoutX="2.0" prefHeight="851.0" prefWidth="992.0" AnchorPane.bottomAnchor="-6.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
          <content>
-            <VBox prefHeight="834.0" prefWidth="977.0">
+            <VBox prefHeight="834.0" prefWidth="986.0">
                <children>
-                  <ToolBar prefHeight="61.0" prefWidth="977.0">
+                  <ToolBar prefHeight="35.0" prefWidth="988.0">
                     <items>
-                      <Button mnemonicParsing="false" onAction="#backButtonClicked" prefHeight="5.0" prefWidth="47.0" text="Menü" />
-                        <Button mnemonicParsing="false" onAction="#goToTermScene" prefHeight="25.0" prefWidth="44.0" text="Term" />
-                        <Button fx:id="startButton" mnemonicParsing="false" onAction="#startValues" prefHeight="25.0" prefWidth="44.0" text="start">
+                        <Button mnemonicParsing="false" onAction="#mainMenueClicked" prefHeight="25.0" prefWidth="86.0" text="Hauptmenü" />
+                      <Button mnemonicParsing="false" onAction="#backButtonClicked" prefHeight="25.0" prefWidth="99.0" text="Heldenauswahl" />
+                        <Button disable="true" mnemonicParsing="false" onAction="#startValues" prefHeight="25.0" prefWidth="44.0" text="start">
                            <opaqueInsets>
                               <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
                            </opaqueInsets>
                         </Button>
-                        <Button fx:id="tButton" mnemonicParsing="false" onAction="#startTest" prefHeight="25.0" prefWidth="38.0" text="test">
+                        <Button disable="true" mnemonicParsing="false" onAction="#startTest" prefHeight="25.0" prefWidth="38.0" text="test">
                            <opaqueInsets>
                               <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
                            </opaqueInsets>
                         </Button>
                     </items>
                   </ToolBar>
-                  <HBox prefHeight="826.0" prefWidth="977.0">
+                  <HBox prefHeight="799.0" prefWidth="982.0">
                      <children>
-                        <VBox prefHeight="827.0" prefWidth="50.0" />
+                        <VBox maxWidth="-Infinity" minWidth="-Infinity" prefHeight="827.0" prefWidth="30.0" />
                         <VBox prefHeight="828.0" prefWidth="915.0">
                            <children>
                               <HBox alignment="CENTER" prefHeight="30.0" prefWidth="902.0">
@@ -59,9 +59,24 @@
                                  <children>
                                     <VBox alignment="TOP_CENTER" prefHeight="828.0" prefWidth="630.0" spacing="10.0">
                                        <children>
-                                          <HBox alignment="TOP_CENTER" prefHeight="100.0" prefWidth="200.0" spacing="10.0">
+                                          <HBox prefHeight="100.0" prefWidth="200.0" spacing="10.0">
                                              <children>
-                                                <TextArea fx:id="testOutput" prefHeight="103.0" prefWidth="297.0" />
+                                                <VBox prefHeight="109.0" prefWidth="167.0">
+                                                   <children>
+                                                      <VBox prefHeight="69.0" prefWidth="167.0">
+                                                         <children>
+                                                            <Label text="SpielerName: " />
+                                                            <TextField fx:id="playerName" maxWidth="-Infinity" prefHeight="25.0" prefWidth="100.0" />
+                                                         </children>
+                                                      </VBox>
+                                                      <VBox prefHeight="51.0" prefWidth="167.0">
+                                                         <children>
+                                                            <Label text="Heldenname: " />
+                                                            <TextField fx:id="heroName" maxWidth="-Infinity" prefHeight="25.0" prefWidth="100.0" />
+                                                         </children>
+                                                      </VBox>
+                                                   </children>
+                                                </VBox>
                                                 <VBox alignment="TOP_CENTER" prefHeight="92.0" prefWidth="133.0">
                                                    <children>
                                                       <Label alignment="CENTER" text="Kultur" />
@@ -90,6 +105,7 @@
                                                       </HBox>
                                                    </children>
                                                 </VBox>
+                                                <Separator orientation="VERTICAL" prefHeight="200.0" />
                                                 <VBox prefHeight="200.0" prefWidth="100.0">
                                                    <children>
                                                       <HBox alignment="CENTER" prefHeight="41.0" prefWidth="100.0">
@@ -111,6 +127,12 @@
                                                             <Label fx:id="LvlCount" text="0" />
                                                          </children>
                                                       </HBox>
+                                                   </children>
+                                                </VBox>
+                                                <VBox prefHeight="200.0" prefWidth="100.0">
+                                                   <children>
+                                                      <TextField fx:id="addEpField" />
+                                                      <Button mnemonicParsing="false" onAction="#addEPClicked" text="Add EP" />
                                                    </children>
                                                 </VBox>
                                              </children>
@@ -153,7 +175,7 @@
                                                                         <Separator prefWidth="200.0" />
                                                                      </children>
                                                                   </VBox>
-                                                                  <VBox fx:id="ValueColumn" minWidth="75.0" prefHeight="184.0" prefWidth="100.0">
+                                                                  <VBox fx:id="ValueColumn" maxWidth="-Infinity" minWidth="-Infinity" prefHeight="184.0" prefWidth="70.0">
                                                                      <children>
                                                                         <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="35.0" prefWidth="50.0" text="Value">
                                                                            <font>
@@ -165,7 +187,7 @@
                                                                   </VBox>
                                                                   <VBox fx:id="BonusColumn" prefHeight="200.0" prefWidth="100.0">
                                                                      <children>
-                                                                        <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="35.0" prefWidth="50.0" text="Bonus">
+                                                                        <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="35.0" prefWidth="50.0" text="Boni">
                                                                            <font>
                                                                               <Font name="System Bold" size="16.0" />
                                                                            </font>
@@ -203,9 +225,11 @@
                                                                </children>
                                                             </HBox>
                                                             <Separator prefWidth="200.0" />
-                                                            <VBox prefHeight="251.0" prefWidth="276.0">
+                                                            <VBox prefHeight="279.0" prefWidth="276.0">
                                                                <children>
-                                                                  <TextArea fx:id="infoArea" editable="false" maxWidth="1.7976931348623157E308" prefHeight="245.0" prefWidth="276.0" />
+                                                                  <TextArea fx:id="infoArea" editable="false" maxWidth="1.7976931348623157E308" prefHeight="163.0" prefWidth="276.0" wrapText="true" />
+                                                                  <Separator prefHeight="20.0" prefWidth="276.0" />
+                                                                  <TextArea fx:id="testOutput" prefHeight="103.0" prefWidth="297.0" />
                                                                </children>
                                                             </VBox>
                                                          </children>
@@ -379,7 +403,7 @@
                               </HBox>
                            </children>
                         </VBox>
-                        <VBox prefHeight="827.0" prefWidth="50.0" />
+                        <VBox maxWidth="-Infinity" minWidth="-Infinity" prefHeight="827.0" prefWidth="30.0" />
                      </children>
                   </HBox>
                </children>

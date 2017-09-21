@@ -21,10 +21,4 @@ public class TermScene {
 			e.printStackTrace();
 		}
 	}
-
-	public static void init() {
-		// TODO Auto-generated method stub
-		
-	}
-
 }
