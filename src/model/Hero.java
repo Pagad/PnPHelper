@@ -330,4 +330,8 @@ public class Hero {
 		return domainList;
 		
 	}
+
+	public ArrayList<LvLUp> getLvLUps() {
+		return this.levelUps;
+	}
 }

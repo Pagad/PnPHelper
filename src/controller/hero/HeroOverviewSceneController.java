@@ -6,6 +6,7 @@ import javafx.scene.control.ListView;
 import main.Main;
 import model.Hero;
 import model.Player;
+import model.IO.Writer;
 import view.hero.HeroScene;
 
 public class HeroOverviewSceneController {
@@ -41,5 +42,11 @@ public class HeroOverviewSceneController {
 	void goToMainMenue(ActionEvent event) {
 		Main.primStage.setScene(Main.mainMenueScene);
 	}
+	
+    @FXML
+    void saveSelectedHero(ActionEvent event) {
+			Writer.writeHeros();
+    }
+
 
 }

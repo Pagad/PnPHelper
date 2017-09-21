@@ -43,6 +43,7 @@
                                     <Label text="Label" />
                                     <Separator prefWidth="200.0" />
                                     <ListView fx:id="HeroList" prefHeight="168.0" prefWidth="189.0" />
+                                    <Button mnemonicParsing="false" onAction="#saveSelectedHero" text="Save Hero (testbutton)" />
                                  </children>
                               </VBox>
                               <Separator orientation="VERTICAL" prefHeight="217.0" prefWidth="31.0" />

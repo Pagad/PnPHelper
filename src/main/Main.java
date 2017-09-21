@@ -11,6 +11,7 @@ import javafx.stage.Stage;
 import model.Hero;
 import model.Value;
 import model.IO.Reader;
+import model.IO.Writer;
 import model.calculator.Calculator;
 import model.world.Culture;
 import model.world.CultureWithElement;
@@ -42,7 +43,7 @@ public class Main extends Application{
 		LoadData();
 		CultureWithElement.init();
 		Spell.init();
-		
+		Writer.init();
 		//createTestHero();
 		
 		//create all Scenes:
