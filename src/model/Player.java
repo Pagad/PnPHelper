@@ -11,8 +11,7 @@ public class Player {
 	private ArrayList<Hero> heros = new ArrayList<Hero>();
 	
 	public Player(String name, ArrayList<Hero> heros) {
-		super();
-		this.setName(name);
+		this(name);
 		this.setHeros(heros);
 	}
 
@@ -20,6 +19,10 @@ public class Player {
 		super();
 		this.setName(name);
 		PlayerList.add(this);
+	}
+
+	public Player() {
+		this("dummyPlayer");
 	}
 
 	public String getName() {
@@ -41,6 +44,19 @@ public class Player {
 	public void addHero(Hero hero) {
 		heros.add(hero);	
 	}
+
+	public static Player getPlayerbyName(String currentValue) {
+		for(Player p: PlayerList) {
+			if(p.getName().equals(currentValue)) {
+				return p;
+			}
+		}
+		return null;
+	}
 	
-	
+	@Override
+	public String toString() {
+		return name;
+		
+	}
 }

@@ -3,13 +3,21 @@ package model.IO;
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
+import org.xml.sax.InputSource;
+import org.xml.sax.SAXException;
+import org.xml.sax.XMLReader;
+import org.xml.sax.helpers.XMLReaderFactory;
+
 import model.Hero;
 import model.LvLUp;
 import model.Value;
+import model.IO.contentHandler.HeroContentHandler;
+import model.IO.contentHandler.PlayerContentHandler;
 import model.calculator.Term;
 import model.world.Culture;
 import model.world.CultureWithElement;
@@ -282,5 +290,48 @@ public class Reader {
 			LvLUp.EpNeeded.add(Integer.parseInt(strings.get(i)));
 			i++;
 		}
+	}
+
+	public static void XMLreadPlayer(String playerPath) {
+		 try {
+			// XMLReader erzeugen
+			  XMLReader xmlReader = XMLReaderFactory.createXMLReader();
+			  
+			  // Pfad zur XML Datei
+			  FileReader reader = new FileReader(playerPath);
+			  InputSource inputSource = new InputSource(reader);
+
+			  // PersonenContentHandler wird übergeben
+			  xmlReader.setContentHandler(new PlayerContentHandler());
+
+			  // Parsen wird gestartet
+			  xmlReader.parse(inputSource);
+		} catch (SAXException | IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+	public static void XMLreadHero(String heroPath) {
+		System.out.println(heroPath);
+		
+		 try {
+				// XMLReader erzeugen
+				  XMLReader xmlReader = XMLReaderFactory.createXMLReader();
+				  
+				  // Pfad zur XML Datei
+				  FileReader reader = new FileReader(heroPath);
+				  InputSource inputSource = new InputSource(reader);
+
+				  // PersonenContentHandler wird übergeben
+				  xmlReader.setContentHandler(new PlayerContentHandler());
+
+				  // Parsen wird gestartet
+				  xmlReader.parse(inputSource);
+			} catch (SAXException | IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		
 	}
 }

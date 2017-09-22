@@ -14,6 +14,7 @@ import javafx.scene.Node;
 import javafx.scene.control.Button;
 import javafx.scene.control.CheckBox;
 import javafx.scene.control.ChoiceBox;
+import javafx.scene.control.ComboBox;
 import javafx.scene.control.Label;
 import javafx.scene.control.ListView;
 import javafx.scene.control.RadioButton;
@@ -50,8 +51,8 @@ import view.spells.SpellBookScene;
 
 public class HeroSceneController {
 
-	@FXML
-	private TextField playerName;
+    @FXML
+    private ComboBox<Player> playerName;
 
 	@FXML
 	private TextField heroName;
@@ -184,6 +185,8 @@ public class HeroSceneController {
 
 		loadStuff();
 
+		playerName.getItems().addAll(Player.PlayerList);
+		
 		lvlUpButton.setDisable(false);
 		gPCount.setText("" + gp);
 
@@ -311,8 +314,8 @@ public class HeroSceneController {
 
 		// player and hero name + Layer Lambda expressions
 
-		playerName.textProperty().addListener(y -> {
-			hero.getMyPlayer().setName(playerName.getText());
+		playerName.getSelectionModel().selectedItemProperty().addListener((arg, oldVal, newVal) -> {
+			hero.setMyPlayer(newVal);			
 		});
 
 		heroName.textProperty().addListener(y -> {
@@ -360,7 +363,7 @@ public class HeroSceneController {
 		spellListAllg.getItems().clear();
 		spellListAllg.getItems().addAll(Element.getElementFromName("Allg").getSpells());
 
-		playerName.setText("");
+		playerName.getSelectionModel().clearSelection();
 		heroName.setText("");
 
 		infoArea.setText("");
@@ -853,7 +856,11 @@ public class HeroSceneController {
 
 		this.hero = hero;
 		this.heroName.setText(hero.getName());
-		this.playerName.setText(hero.getMyPlayer().getName());
+		if(hero.getMyPlayer()==null) {
+			this.playerName.getSelectionModel().select(Player.getPlayerbyName("dummyPlayer"));
+		} else {
+			this.playerName.getSelectionModel().select(hero.getMyPlayer());
+		}
 		EpField.setText(hero.getEP() + "");
 		layerChoiceBox.getSelectionModel().select(hero.getLayer());
 		LvlCount.setText(hero.getLvL() + "");

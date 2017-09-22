@@ -42,8 +42,13 @@ public class Hero {
 		}
 
 		levelUps.add(new LvLUp(new ArrayList<Value>()));
-		myPlayer = new Player("dummyPlayerName");
-		myPlayer.addHero(this);
+		if(Player.getPlayerbyName("dummyPlayer")==null) {
+			myPlayer = new Player("dummyPlayer");
+			myPlayer.addHero(this);
+		} else {
+			myPlayer = Player.getPlayerbyName("dummyPlayer");
+			myPlayer.addHero(this);
+		}
 		layer=1;
 	}
 

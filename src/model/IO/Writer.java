@@ -18,6 +18,7 @@ import javax.xml.stream.XMLStreamWriter;
 
 import org.xml.sax.SAXException;
 
+import main.Main;
 import model.Hero;
 import model.LvLUp;
 import model.Player;
@@ -28,36 +29,39 @@ import model.world.Handicap;
 
 public class Writer {
 
-	private static final String HEROFILEPATH = "assets//write//player.xml";
-
 	public static void init() {
-		PrintWriter writer;
-		try {
-			writer = new PrintWriter(HEROFILEPATH, "UTF-8");
-			writer.close();
-		} catch (FileNotFoundException | UnsupportedEncodingException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
 	}
 
 	public static void writeHeros() {
 		OutputStream outStream;
 		try {
-			outStream = new FileOutputStream(new File(HEROFILEPATH));
+			outStream = new FileOutputStream(new File(Main.PLAYER_PATH));
 			XMLStreamWriter playerOut = XMLOutputFactory.newInstance()
 					.createXMLStreamWriter(new OutputStreamWriter(outStream, "utf-8"));
 
 			playerOut.writeStartDocument();
+			playerOut.writeStartElement("players");
 			for (Player p : Player.PlayerList) {
-				playerOut.writeStartElement(p.getName());
+				System.out.println(Player.PlayerList.size());
+				playerOut.writeStartElement("player");
+				write(playerOut, "name", p.getName());
+				playerOut.writeStartElement("heros");
 				for (Hero h : p.getHeros()) {
-					playerOut.writeStartElement(h.getName());
+					playerOut.writeStartElement("hero");
+					write(playerOut,"name",h.getName());
 					String path = "assets\\heros\\" + p.getName() + "." + h.getName() + ".xml";
 					write(playerOut, "path", path);
-					PrintWriter writer = new PrintWriter(path, "UTF-8");
-					writer.close();
-					OutputStream outputStream = new FileOutputStream(new File(path));
+					OutputStream outputStream;
+					try {
+						File file = new File(path);
+						outputStream = new FileOutputStream(file);
+
+					} catch (FileNotFoundException e) {
+						PrintWriter writer = new PrintWriter(path, "UTF-8");
+						writer.close();
+						File file = new File(path);
+						outputStream = new FileOutputStream(file);
+					}
 					XMLStreamWriter out = XMLOutputFactory.newInstance()
 							.createXMLStreamWriter(new OutputStreamWriter(outputStream, "utf-8"));
 					writeHero(out, h);
@@ -65,8 +69,10 @@ public class Writer {
 					playerOut.writeEndElement();
 				}
 				playerOut.writeEndElement();
+				playerOut.writeEndElement();
 			}
-
+			playerOut.writeEndElement();
+			playerOut.writeEndDocument();
 			playerOut.close();
 		} catch (FileNotFoundException | UnsupportedEncodingException | XMLStreamException
 				| FactoryConfigurationError e1) {
@@ -82,38 +88,54 @@ public class Writer {
 			out.writeStartDocument();
 			write(out, "name", hero.getName());
 			write(out, "player", hero.getMyPlayer().getName());
-			write(out, "culture", hero.getCwE().getCulture().getName());
-			write(out, "element", hero.getCwE().getElement().getName());
+			if(hero.getCwE()!=null) {
+				write(out, "culture", hero.getCwE().getCulture().getName());
+				write(out, "element", hero.getCwE().getElement().getName());
+			}
 			write(out, "layer", hero.getLayer());
 			write(out, "ep", hero.getEP());
 			out.writeStartElement("baseValues");
 			for (Value v : Hero.baseValueList) {
-				write(out, v.getName(), hero.getRawValueByName(v.getName()).getNumber());
+				out.writeStartElement("value");
+				write(out, "name", v.getName());
+				write(out, "number", hero.getRawValueByName(v.getName()).getNumber());
+				out.writeEndElement();
 			}
 			out.writeEndElement();
 			out.writeStartElement("level");
 			for (LvLUp l : hero.getLvLUps()) {
+				out.writeStartElement("lvlUp");
 				for (Value v : l.getLevelValues()) {
-					write(out, v.getName(), v.getNumber());
+					out.writeStartElement("value");
+					write(out, "name", v.getName());
+					write(out, "number", hero.getRawValueByName(v.getName()).getNumber());
+					out.writeEndElement();
 				}
+				out.writeEndElement();
 			}
 			out.writeEndElement();
 
 			out.writeStartElement("gifts");
 			for (Gift g : hero.getGifts()) {
-				write(out, g.getName(), g.getName());
+				out.writeStartElement("gift");
+				write(out, "name", g.getName());
+				out.writeEndElement();
 			}
 			out.writeEndElement();
 
 			out.writeStartElement("handicaps");
 			for (Handicap h : hero.getHandicaps()) {
-				write(out, h.getName(), h.getName());
+				out.writeStartElement("handicap");
+				write(out, "name", h.getName());
+				out.writeEndElement();
 			}
 			out.writeEndElement();
 
 			out.writeStartElement("domains");
 			for (Domain d : hero.getDomains()) {
-				write(out, d.getName(), d.getName());
+				out.writeStartElement("domain");
+				write(out, "name", d.getName());
+				out.writeEndElement();
 			}
 			out.writeEndElement();
 			out.writeEndDocument();
